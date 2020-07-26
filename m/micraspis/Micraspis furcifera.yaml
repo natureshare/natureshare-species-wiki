@@ -1,0 +1,12 @@
+created_by: russell
+updated_by: chrisl
+classification:
+  - name: Coccinellidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - insect
+id:
+  ns: 53cfb616e35eb148a7000014

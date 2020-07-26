@@ -1,0 +1,39 @@
+updated_by: chrisl
+common_names:
+  - Twining Fringe-lily
+classification:
+  - name: anthericaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+features:
+  - description: fringed-petals
+    feature: flower
+  - description: mauve
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: late-winter-spring
+    feature: flowering-time
+  - description: climber-twiner
+    feature: habit
+  - description: leafless
+    feature: leaf
+  - description: reduced
+    feature: leaf
+  - description: '3'
+    feature: number-of-petals
+  - description: '6'
+    feature: number-of-petals
+  - description: '3'
+    feature: petals
+  - description: '3'
+    feature: sepals
+id:
+  ns: 53b398ebe35eb12984037bee
+  vba: '503399'

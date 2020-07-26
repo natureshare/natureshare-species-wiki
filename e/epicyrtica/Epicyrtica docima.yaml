@@ -1,0 +1,20 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Erebidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Calpinae
+    rank: Subfamily
+  - name: Noctuoidea
+    rank: Superfamily
+  - name: Ophiderini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 5c9860903abbd698c4000039

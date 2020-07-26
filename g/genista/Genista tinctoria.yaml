@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - Dyer's Broom
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - flora
+  - pea
+  - plant
+  - weed
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398e8e35eb12984036d3a

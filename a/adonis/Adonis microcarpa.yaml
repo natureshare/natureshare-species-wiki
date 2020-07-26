@@ -1,0 +1,38 @@
+updated_by: chrisl
+common_names:
+  - Pheasant's Eye
+classification:
+  - name: ranunculaceae
+    rank: family
+categories:
+  - annual
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: terminal
+    feature: flower-arrangement
+  - description: red
+    feature: flower-colour
+  - description: bisexual
+    feature: flowers
+  - description: erect-herb
+    feature: habit
+  - description: to-50cm
+    feature: height
+  - description: to-6cm
+    feature: leaf-length
+  - description: obovate
+    feature: leaf-shape
+  - description: bipinnate-tripinnate
+    feature: leaf-type
+  - description: to-4cm
+    feature: leaf-width
+  - description: 5-10
+    feature: number-of-petals
+  - description: 5-10
+    feature: petals
+id:
+  ns: 53b398e5e35eb12984036279
+  vba: '500134'

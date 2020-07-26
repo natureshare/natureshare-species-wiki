@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Broom Bitter-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - provisional-name
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398e7e35eb1298403696f
+  vba: '500995'

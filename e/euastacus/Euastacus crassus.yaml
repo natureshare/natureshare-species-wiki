@@ -1,0 +1,16 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Alpine Spiny Cray
+classification:
+  - name: Parastacidae
+    rank: family
+  - name: Decapoda
+    rank: order
+categories:
+  - animal
+  - crayfish
+  - fauna
+  - rare-threatened
+id:
+  ns: 5547265aed2a89adc2000246

@@ -1,0 +1,29 @@
+updated_by: chrisl
+common_names:
+  - Common Bluetail
+classification:
+  - name: Insecta
+    rank: class
+  - name: Coenagrionidae
+    rank: family
+  - name: Odonata
+    rank: order
+  - name: Zygoptera
+    rank: suborder
+categories:
+  - damselfly
+  - dragonfly-and-damselfly
+  - insect
+features:
+  - description: black
+    feature: body
+  - description: blue
+    feature: body
+  - description: gold
+    feature: body
+  - description: 2-blue-postoccipital-spots
+    feature: head
+  - description: blue
+    feature: male
+id:
+  ns: 53b398ebe35eb12984037e60

@@ -1,0 +1,22 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Strepsiceros macropetana
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Tortricidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Olethreutinae
+    rank: Subfamily
+  - name: Tortricoidea
+    rank: Superfamily
+  - name: Eucosmini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 5d71acbbcad3eb91f30000ee

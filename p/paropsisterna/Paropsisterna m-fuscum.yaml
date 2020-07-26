@@ -1,0 +1,14 @@
+created_by: chrisl
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Chrysomelidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - insect
+id:
+  ns: 54ff5e0bed2a8974d300014b

@@ -1,0 +1,28 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: OECOPHORIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: OECOPHORINAE
+    rank: subfamily
+  - name: GELECHIOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: upturned
+    feature: palp
+  - description: brown
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037ec9

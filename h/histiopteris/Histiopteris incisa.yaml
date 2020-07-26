@@ -1,0 +1,28 @@
+updated_by: chrisl
+common_names:
+  - Bat's Wing Fern
+classification:
+  - name: dennstaedtiaceae
+    rank: family
+categories:
+  - ferns-and-allies
+  - flora
+  - plant
+features:
+  - description: 2-to-3-pinnate
+    feature: frond
+  - description: pale-green
+    feature: frond
+  - description: soft
+    feature: frond
+  - description: no-trunk
+    feature: habit
+  - description: robust-upright
+    feature: habit
+  - description: to-200cm-tall
+    feature: habit
+  - description: paired
+    feature: pinnae
+id:
+  ns: 53b398e8e35eb12984036ee5
+  vba: '501691'

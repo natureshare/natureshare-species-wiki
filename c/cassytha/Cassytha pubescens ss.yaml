@@ -1,0 +1,45 @@
+updated_by: chrisl
+common_names:
+  - Downy Dodder-laurel
+classification:
+  - name: lauraceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - parasite
+  - plant
+features:
+  - description: congested
+    feature: flowering-stems
+  - description: less-than-26mm-long
+    feature: flowering-stems
+  - description: summer-mid-autumn
+    feature: flowering-time
+  - description: drupe
+    feature: fruit
+  - description: greenish-white
+    feature: fruit
+  - description: not-ribbed
+    feature: fruit
+  - description: white-pubescent
+    feature: fruit
+  - description: climber-twiner
+    feature: habit
+  - description: parasitic
+    feature: habit
+  - description: hairy
+    feature: leaf
+  - description: minute
+    feature: leaf
+  - description: '3'
+    feature: number-of-petals
+  - description: '3'
+    feature: petals
+  - description: '9'
+    feature: stamens
+  - description: hairy
+    feature: stem
+id:
+  ns: 53b398e6e35eb12984036725
+  vba: '500674'

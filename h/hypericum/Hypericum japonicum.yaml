@@ -1,0 +1,37 @@
+updated_by: chrisl
+common_names:
+  - Matted St John's Wort
+classification:
+  - name: clusiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - herb
+  - plant
+features:
+  - description: regular
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: mid-spring-early-autumn
+    feature: flowering-time
+  - description: groundcover
+    feature: habit
+  - description: spreading
+    feature: habit
+  - description: oval
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: tiny
+    feature: leaf
+  - description: wavy-edge
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: prostrate
+    feature: stem
+id:
+  ns: 53b398e8e35eb12984036f41
+  vba: '501743'

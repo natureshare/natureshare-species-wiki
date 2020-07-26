@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: insecta
+    rank: class
+  - name: Curculionidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - weevil
+id:
+  ns: 59df30e4ed2a892d40004c0f

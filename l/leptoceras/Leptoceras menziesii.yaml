@@ -1,0 +1,37 @@
+updated_by: chrisl
+common_names:
+  - Hare Orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: dark-red
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: white
+    feature: flower
+  - description: late-winter-spring
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: basal-single
+    feature: leaf
+  - description: bright-green
+    feature: leaf
+  - description: hairy
+    feature: leaf
+  - description: long-oval
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+  - description: to-9cm
+    feature: leaf
+id:
+  ns: 53b398e8e35eb129840370d5
+  vba: '500540'

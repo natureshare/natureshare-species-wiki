@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Pleciidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+  - insect
+  - provisional-name
+id:
+  ns: 582fc839ed2a89748000458b

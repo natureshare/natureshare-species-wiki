@@ -1,0 +1,50 @@
+updated_by: chrisl
+common_names:
+  - Variable Sword-sedge
+classification:
+  - name: cyperaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+  - provisional-name
+  - sedge
+features:
+  - description: brown
+    feature: flower
+  - description: brown
+    feature: flower
+  - description: cluster
+    feature: flower
+  - description: cream
+    feature: flower
+  - description: spring-early-autumn
+    feature: flowering-time
+  - description: brown
+    feature: fruit
+  - description: nut
+    feature: fruit
+  - description: oval
+    feature: fruit
+  - description: wrinkled
+    feature: fruit
+  - description: sedge
+    feature: habit
+  - description: tufted
+    feature: habit
+  - description: basal
+    feature: leaf
+  - description: hard-ribs
+    feature: leaf
+  - description: sharp-margin
+    feature: leaf
+  - description: strappy
+    feature: leaf
+  - description: sword-like-in-cross-section
+    feature: leaf
+  - description: leaf-like
+    feature: stem
+id:
+  ns: 53b398e8e35eb129840370b2
+  vba: '501923'

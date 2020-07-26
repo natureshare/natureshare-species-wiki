@@ -1,0 +1,31 @@
+updated_by: chrisl
+common_names:
+  - Slaty Helmet-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: maroon
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: red
+    feature: flower
+  - description: speckled
+    feature: flower
+  - description: white
+    feature: flower
+  - description: white-throat
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e7e35eb1298403687a
+  vba: '500837'

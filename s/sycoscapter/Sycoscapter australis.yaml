@@ -1,0 +1,13 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Agaonidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - wasp
+id:
+  ns: 590c6921ed2a893d8c0021a6

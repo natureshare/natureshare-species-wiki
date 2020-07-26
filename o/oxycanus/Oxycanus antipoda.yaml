@@ -1,0 +1,26 @@
+updated_by: koolah
+common_names:
+  - Late Oxycanus
+classification:
+  - name: Hepialinae
+    rank: Subfamily
+  - name: Insecta
+    rank: class
+  - name: HEPIALIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: HEPIALOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: grey
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f22

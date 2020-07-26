@@ -1,0 +1,25 @@
+updated_by: chrisl
+common_names:
+  - Plain-lip Spider-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: orchid
+    feature: flower
+  - description: red
+    feature: flower
+  - description: purple
+    feature: flower-colour
+  - description: herb
+    feature: habit
+  - description: no-comb
+    feature: labellum
+id:
+  ns: 53b398e6e35eb129840365f1
+  vba: '500528'

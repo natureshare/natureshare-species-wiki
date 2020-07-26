@@ -1,0 +1,12 @@
+updated_by: chrisl
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Boletaceae
+    rank: family
+  - name: Boletales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 53b398f3e35eb1298403a458

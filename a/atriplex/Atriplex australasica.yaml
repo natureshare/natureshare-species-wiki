@@ -1,0 +1,26 @@
+updated_by: chrisl
+common_names:
+  - Native Orache
+classification:
+  - name: chenopodiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: salt-lake-or-coastal
+    feature: distribution
+  - description: spike-like
+    feature: flower
+  - description: shrub
+    feature: habit
+  - description: to-1m
+    feature: height
+  - description: 5-10cm
+    feature: leaf-length
+  - description: annual
+    feature: plant
+id:
+  ns: 53b398e6e35eb12984036404
+  vba: '503621'

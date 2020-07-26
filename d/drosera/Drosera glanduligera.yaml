@@ -1,0 +1,37 @@
+updated_by: chrisl
+common_names:
+  - Scarlet Sundew
+classification:
+  - name: droseraceae
+    rank: family
+categories:
+  - carnivorous
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: orange-fade-to-pink
+    feature: flower
+  - description: terminal-cluster
+    feature: flower
+  - description: late-winter-mid-spring
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: basal-rosette
+    feature: leaf
+  - description: cupped
+    feature: leaf
+  - description: elliptic
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-1.5cm
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e7e35eb12984036a72
+  vba: '501104'

@@ -1,0 +1,39 @@
+updated_by: chrisl
+common_names:
+  - Coast Tea-tree
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - native-and-weedy-stands-in-vic
+  - plant
+features:
+  - description: coastal
+    feature: distribution
+  - description: white
+    feature: flower-colour
+  - description: hairy-beneath-as-sepals-remain
+    feature: fruit
+  - description: tardily-deciduous
+    feature: fruit
+  - description: shrub
+    feature: habit
+  - description: tree
+    feature: habit
+  - description: to-5m
+    feature: height
+  - description: 15-30mm
+    feature: leaf-length
+  - description: 5-10mm
+    feature: leaf-width
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+  - description: hairy
+    feature: sepal
+id:
+  ns: 53b398e8e35eb129840370f4
+  vba: '501957'

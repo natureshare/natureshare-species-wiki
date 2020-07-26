@@ -1,0 +1,17 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Showy Groundsel
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: yellow
+    feature: flower
+id:
+  ns: 543e70dbe35eb184d5000326

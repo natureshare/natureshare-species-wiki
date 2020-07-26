@@ -1,0 +1,33 @@
+updated_by: chrisl
+common_names:
+  - West-coast Swamp-gum
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: loose-and-flaky
+    feature: bark
+  - description: rough-on-lower-trunk
+    feature: bark
+  - description: groups-of-7
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+  - description: 6-16m
+    feature: height
+  - description: green
+    feature: leaf-colour
+  - description: glossy
+    feature: leaf-surface
+  - description: 2-35cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036bdf
+  vba: '505178'

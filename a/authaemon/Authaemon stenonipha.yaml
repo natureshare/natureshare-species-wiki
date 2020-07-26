@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Pale-bordered Cape-moth
+classification:
+  - name: Insecta
+    rank: class
+categories:
+  - insect
+  - moth
+features:
+  - description: black
+    feature: spots
+  - description: brown
+    feature: wing
+  - description: spots
+    feature: wing
+  - description: two-coloured
+    feature: wing
+id:
+  ns: 53b398ece35eb12984038032

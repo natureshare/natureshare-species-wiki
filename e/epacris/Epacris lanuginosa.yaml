@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Woolly-style Heath
+classification:
+  - name: epacridaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: minutely-hairy
+    feature: ovary
+  - description: hairy-on-central-3rd-at-least
+    feature: style
+id:
+  ns: 53b398e7e35eb12984036aeb
+  vba: '501166'

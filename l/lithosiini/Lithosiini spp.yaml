@@ -1,0 +1,19 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Erebidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Arctiinae
+    rank: Subfamily
+  - name: Noctuoidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+  - provisional-name
+id:
+  ns: 5d19f228c347d51a980001c3

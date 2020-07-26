@@ -1,0 +1,75 @@
+updated_by: chrisl
+common_names:
+  - River Red-gum
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - tree
+features:
+  - description: dull
+    feature: adult-leaf
+  - description: linear-or-linear-lanceolate
+    feature: adult-leaf
+  - description: to-25cm
+    feature: adult-leaf
+  - description: generally-smooth
+    feature: bark
+  - description: pale-grey-bluish-sometimes-pink
+    feature: bark
+  - description: peels-off-in-strips-late-summer-to-autumn
+    feature: bark
+  - description: rough-on-lower-trunk
+    feature: bark
+  - description: smooth-throughout
+    feature: bark
+  - description: 7-to-11
+    feature: buds
+  - description: abruptly-pointed-cap
+    feature: buds
+  - description: groups-of-7-11
+    feature: buds
+  - description: stalked
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: white
+    feature: flower
+  - description: late-spring-early-autumn
+    feature: flowering-time
+  - description: 4-strongly-projecting-valves
+    feature: fruit
+  - description: hard
+    feature: fruit
+  - description: small
+    feature: fruit
+  - description: large-open-spreading-tree
+    feature: habit
+  - description: tree
+    feature: habit
+  - description: 12-40m
+    feature: height
+  - description: bluish-green
+    feature: juvenile-leaf
+  - description: wide-lanceolate
+    feature: juvenile-leaf
+  - description: alternate
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: blue-green
+    feature: leaf-colour
+  - description: green
+    feature: leaf-colour
+  - description: dull
+    feature: leaf-surface
+  - description: glossy
+    feature: leaf-surface
+  - description: 1-2cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036b91
+  vba: '501258'

@@ -1,0 +1,22 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Anestia trissodesma
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Larentiinae
+    rank: Subfamily
+  - name: Geometroidea
+    rank: Superfamily
+  - name: Hydriomenini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 5d3d8b93c347d558990001fa

@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - Antlion
+classification:
+  - name: Insecta
+    rank: class
+  - name: Myrmeleontidae
+    rank: family
+  - name: Neuroptera
+    rank: order
+categories:
+  - insect
+  - lacewing
+  - provisional-name
+id:
+  ns: 53b398ece35eb12984038122

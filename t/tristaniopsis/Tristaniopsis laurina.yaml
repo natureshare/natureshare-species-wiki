@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Kanooka
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398ebe35eb12984037c84
+  vba: '503458'

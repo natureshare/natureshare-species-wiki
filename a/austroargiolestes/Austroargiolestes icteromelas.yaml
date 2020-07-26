@@ -1,0 +1,30 @@
+updated_by: chrisl
+common_names:
+  - Australian Flatwing
+  - Common Flatwing
+classification:
+  - name: Insecta
+    rank: class
+  - name: Megapodagrionidae
+    rank: family
+  - name: Odonata
+    rank: order
+  - name: Zygoptera
+    rank: suborder
+categories:
+  - damselfly
+  - dragonfly-and-damselfly
+  - insect
+features:
+  - description: black
+    feature: body
+  - description: blue
+    feature: body
+  - description: cream
+    feature: body
+  - description: blue
+    feature: legs
+  - description: spread-out
+    feature: wings-held
+id:
+  ns: 53b398ebe35eb12984037e50

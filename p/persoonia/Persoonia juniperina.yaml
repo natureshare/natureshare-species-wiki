@@ -1,0 +1,42 @@
+updated_by: chrisl
+common_names:
+  - Prickly Geebung
+classification:
+  - name: proteaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: bright-yellow
+    feature: flower
+  - description: single
+    feature: flower
+  - description: tubular
+    feature: flower
+  - description: summer-early-autumn
+    feature: flowering-time
+  - description: drupe
+    feature: fruit
+  - description: fleshy
+    feature: fruit
+  - description: green
+    feature: fruit
+  - description: shrub
+    feature: habit
+  - description: crowded-on-stem
+    feature: leaf
+  - description: fine
+    feature: leaf
+  - description: light-green
+    feature: leaf
+  - description: sharp-tip
+    feature: leaf
+  - description: to-2.5cm
+    feature: leaf
+  - description: '4'
+    feature: number-of-petals
+id:
+  ns: 53b398e9e35eb129840374c6
+  vba: '502463'

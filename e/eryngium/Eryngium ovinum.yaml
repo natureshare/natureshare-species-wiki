@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Blue Devil
+classification:
+  - name: apiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: branching
+    feature: habit
+  - description: low-shrub
+    feature: habit
+  - description: to-60cm
+    feature: height
+id:
+  ns: 53b398e7e35eb12984036b5c
+  vba: '501239'

@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Anthribidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+  - name: Curculionoidea
+    rank: superfamily
+categories:
+  - beetle
+id:
+  ns: 592bf6c5ed2a8993d100068d

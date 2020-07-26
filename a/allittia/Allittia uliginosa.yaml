@@ -1,0 +1,31 @@
+updated_by: chrisl
+common_names:
+  - Small Swamp-daisy
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: bluish
+    feature: flower
+  - description: white
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: tufted-herb
+    feature: habit
+  - description: swampy-areas
+    feature: habitat
+  - description: entire
+    feature: leaf-margin
+  - description: oblanceolate
+    feature: leaf-shape
+  - description: to-14mm
+    feature: leaf-width
+id:
+  ns: 53b398e5e35eb129840362bd
+  vba: '500481'

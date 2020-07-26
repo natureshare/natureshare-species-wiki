@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Shining Gum
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036bd8
+  vba: '501302'

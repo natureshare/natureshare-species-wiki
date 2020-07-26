@@ -1,0 +1,21 @@
+updated_by: reilly
+common_names:
+  - Emperor Gum Moth
+  - Gum Emperor-moth
+  - 'Saturniid Gum Moth '
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Saturniidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Saturniinae
+    rank: Subfamily
+  - name: Bombycoidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398ebe35eb12984037e34

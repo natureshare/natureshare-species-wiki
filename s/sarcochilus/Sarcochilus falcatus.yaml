@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Orange-blossom Orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - ffg
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: orchid
+    feature: flower
+  - description: epiphyte
+    feature: habit
+id:
+  ns: 53b398eae35eb12984037941
+  vba: '503010'

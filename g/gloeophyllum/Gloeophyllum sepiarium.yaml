@@ -1,0 +1,16 @@
+updated_by: koolah
+synonyms:
+  - Agaricus sepiarius
+  - Daedalea sepiaria
+  - Lenzites sepiaria
+classification:
+  - name: Agaricomycetes
+    rank: Class
+  - name: Gloeophyllaceae
+    rank: Family
+  - name: Gloeophyllales
+    rank: Order
+categories:
+  - fungi
+id:
+  ns: 53b398f3e35eb1298403a0aa

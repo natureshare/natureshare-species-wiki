@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Silver Tea-tree
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e8e35eb129840370f7
+  vba: '501960'

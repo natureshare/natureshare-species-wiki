@@ -1,0 +1,40 @@
+updated_by: chrisl
+common_names:
+  - Moss Sunray
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - herb
+  - plant
+features:
+  - description: white-hyaline
+    feature: bract
+  - description: cream-green
+    feature: flower
+  - description: cup-shaped
+    feature: flower
+  - description: tiny
+    feature: flower
+  - description: late-winter-mid-spring
+    feature: flowering-time
+  - description: dwarf-herb
+    feature: habit
+  - description: cylindrical
+    feature: leaf
+  - description: narrow
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: tapered-tip
+    feature: leaf
+  - description: to-0.5cm
+    feature: leaf
+  - description: mucronate
+    feature: leaf-tip
+id:
+  ns: 53b398e8e35eb12984036f0b
+  vba: '501643'

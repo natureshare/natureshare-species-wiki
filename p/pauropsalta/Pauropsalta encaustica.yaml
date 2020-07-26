@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - Black Squeaker
+classification:
+  - name: Insecta
+    rank: class
+  - name: Cicadidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - cicada
+  - hopper
+  - insect
+id:
+  ns: 53b398efe35eb12984039061

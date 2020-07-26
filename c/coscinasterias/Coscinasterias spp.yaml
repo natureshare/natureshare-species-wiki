@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Asteroidea
+    rank: class
+  - name: Asteriidae
+    rank: family
+  - name: Forcipulatida
+    rank: order
+  - name: Echinodermata
+    rank: phylum
+categories:
+  - provisional-name
+  - starfish-sea-star
+id:
+  ns: 5479c1a2e35eb1548300017b

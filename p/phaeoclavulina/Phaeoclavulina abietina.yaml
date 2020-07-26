@@ -1,0 +1,18 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Clavaria abietina
+  - Ramaria abietina
+classification:
+  - name: Agaricomycetes
+    rank: Class
+  - name: Gomphaceae
+    rank: Family
+  - name: Gomphales
+    rank: Order
+  - name: Phallomycetidae
+    rank: subclass
+categories:
+  - fungi
+id:
+  ns: 5b7b6d87ed2a89a7f1006aee

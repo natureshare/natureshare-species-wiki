@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Pink Mulla-mulla
+  - Yellow Tails
+synonyms:
+  - Ptilotus exaltatus var. exaltatus
+  - Ptilotus nobilis var. nobilis
+classification:
+  - name: amaranthaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: oblanceolate-to-obovate
+    feature: leaf
+  - description: 10-40mm
+    feature: leaf-width
+id:
+  ns: 53b398eae35eb1298403779b
+  vba: '504864'

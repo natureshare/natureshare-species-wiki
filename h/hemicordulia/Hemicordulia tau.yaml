@@ -1,0 +1,31 @@
+updated_by: chrisl
+common_names:
+  - Tau Emerald
+classification:
+  - name: Insecta
+    rank: class
+  - name: Corduliidae
+    rank: family
+  - name: Odonata
+    rank: order
+  - name: Anisoptera
+    rank: suborder
+categories:
+  - dragonfly-and-damselfly
+  - dragonfly-proper
+  - insect
+features:
+  - description: black
+    feature: body
+  - description: blue
+    feature: body
+  - description: metallic-blue
+    feature: body
+  - description: yellow
+    feature: body
+  - description: brown
+    feature: pterostigma
+  - description: yellow
+    feature: pterostigma
+id:
+  ns: 53b398ebe35eb12984037e94

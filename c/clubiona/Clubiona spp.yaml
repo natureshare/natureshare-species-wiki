@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Clubionidae
+    rank: family
+  - name: Araneae
+    rank: order
+categories:
+  - provisional-name
+  - spider
+id:
+  ns: 547d34eae35eb10092000005

@@ -1,0 +1,18 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Oecophoridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Wingia-group
+    rank: Supertribe
+  - name: Oecophorinae
+    rank: subfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5a813e3ced2a89def70021a0

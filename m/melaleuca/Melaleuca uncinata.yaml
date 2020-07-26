@@ -1,0 +1,28 @@
+updated_by: chrisl
+common_names:
+  - Broombush
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: white
+    feature: flower-colour
+  - description: large-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-3m
+    feature: height
+  - description: 15-50mm
+    feature: leaf-length
+  - description: 1mm
+    feature: leaf-width
+id:
+  ns: 53b398e9e35eb1298403725a
+  vba: '502155'

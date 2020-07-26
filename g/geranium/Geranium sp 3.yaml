@@ -1,0 +1,27 @@
+updated_by: chrisl
+common_names:
+  - Pale-flower Crane's-bill
+classification:
+  - name: geraniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: long-hairs-right-angled-to-stem
+    feature: basal-leaf-stalks
+  - description: pale-pink-or-white
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: white
+    feature: flower
+  - description: hairy-hirsute-obviously-so
+    feature: leaf
+  - description: obtuse
+    feature: petal
+id:
+  ns: 53b398e8e35eb12984036d5a
+  vba: '505344'

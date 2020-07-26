@@ -1,0 +1,30 @@
+updated_by: koolah
+common_names:
+  - Variable Halone
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Erebidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Arctiinae
+    rank: Subfamily
+  - name: Noctuoidea
+    rank: Superfamily
+  - name: Lithosiini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+features:
+  - description: brown
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f34

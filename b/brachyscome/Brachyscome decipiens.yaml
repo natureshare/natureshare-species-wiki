@@ -1,0 +1,33 @@
+updated_by: chrisl
+common_names:
+  - Field Daisy
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: daisy
+    feature: flower
+  - description: white-blue
+    feature: flower
+  - description: late-winter-early-autumn
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: basal-rosettef
+    feature: leaf
+  - description: broad-linear
+    feature: leaf
+  - description: flat-tuft
+    feature: leaf
+  - description: to-16cm
+    feature: leaf
+  - description: unstalked
+    feature: leaf
+id:
+  ns: 53b398e6e35eb1298403655d
+  vba: '500455'

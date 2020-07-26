@@ -1,0 +1,36 @@
+updated_by: chrisl
+common_names:
+  - Wimmera Scentbark
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: rough-to-smaller-branches
+    feature: bark
+  - description: groups-of-7
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+  - description: 5-15m
+    feature: height
+  - description: blue-green
+    feature: leaf-colour
+  - description: green
+    feature: leaf-colour
+  - description: dull
+    feature: leaf-surface
+  - description: glossy
+    feature: leaf-surface
+  - description: 1-2cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036bf7
+  vba: '505174'

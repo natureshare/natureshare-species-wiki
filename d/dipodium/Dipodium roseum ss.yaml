@@ -1,0 +1,39 @@
+updated_by: chrisl
+common_names:
+  - Rosy Hyacinth-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: orchid
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: rigid-spike
+    feature: flower
+  - description: summer-mid-autumn
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: pink-stripes
+    feature: labellum
+  - description: pink
+    feature: labellum-hair
+  - description: leafless
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+  - description: pink-with-pinker-spots
+    feature: petals
+id:
+  ns: 53b398e7e35eb12984036a1f
+  vba: '504889'

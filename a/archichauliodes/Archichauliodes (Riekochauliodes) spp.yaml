@@ -1,0 +1,14 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Corydalidae
+    rank: family
+  - name: Megaloptera
+    rank: order
+categories:
+  - dobsonfly
+  - insect
+  - provisional-name
+id:
+  ns: 53b398f1e35eb129840397e7

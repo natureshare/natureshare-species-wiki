@@ -1,0 +1,26 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: Geometridae
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: Larentiinae
+    rank: subfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: day-flying
+    feature: flight-time
+  - description: brown
+    feature: wing
+  - description: orange
+    feature: wing
+  - description: yellow
+    feature: wing
+id:
+  ns: 53b398ece35eb12984038156

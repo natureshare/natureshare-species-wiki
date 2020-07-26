@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Slender Swainson-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - ffg
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398ebe35eb12984037b25
+  vba: '503315'

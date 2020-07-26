@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Fragrant Leek-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - endemic
+  - epbc
+  - ffg
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398eae35eb129840376e4
+  vba: '504567'

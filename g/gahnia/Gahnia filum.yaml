@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Chaffy Saw-sedge
+classification:
+  - name: cyperaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+  - sedge
+features:
+  - description: 60-110cm
+    feature: culm-height
+  - description: straw-to-dark-brown
+    feature: fruit
+  - description: 20-35cm
+    feature: inflorescence
+id:
+  ns: 53b398e8e35eb12984036cea
+  vba: '501389'

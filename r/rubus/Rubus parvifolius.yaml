@@ -1,0 +1,39 @@
+updated_by: chrisl
+common_names:
+  - Native Raspberry
+  - Small-leaf Bramble
+classification:
+  - name: rosaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: deep-pink
+    feature: flower
+  - description: small
+    feature: flower
+  - description: mid-spring-summer
+    feature: flowering-time
+  - description: berry
+    feature: fruit
+  - description: red
+    feature: fruit
+  - description: scrambler
+    feature: habit
+  - description: small-shrub
+    feature: habit
+  - description: 3-5-ovate-leaflets
+    feature: leaf
+  - description: bright-gree
+    feature: leaf
+  - description: lobed-pinnule
+    feature: leaf
+  - description: silvery-underneath
+    feature: leaf
+  - description: to-6cm
+    feature: leaflet
+id:
+  ns: 53b398eae35eb129840378d6
+  vba: '502956'

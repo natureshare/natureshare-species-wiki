@@ -1,0 +1,24 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: PYRALIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: SCHOENOBIINAE
+    rank: subfamily
+  - name: PYRALOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: brown
+    feature: wing
+  - description: one-coloured
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f6c

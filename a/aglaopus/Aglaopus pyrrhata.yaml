@@ -1,0 +1,26 @@
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Thyrididae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Striglininae
+    rank: Subfamily
+  - name: Thyridoidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: brown
+    feature: line
+  - description: brown
+    feature: wing
+  - description: lined
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f74

@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Scaly-foot Wallaby-grass
+synonyms:
+  - Joycea lepidopoda
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - endemic
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398e8e35eb12984036fc8
+  vba: '503779'

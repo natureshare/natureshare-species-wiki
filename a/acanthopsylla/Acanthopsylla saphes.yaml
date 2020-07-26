@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Pygiopsyllidae
+    rank: family
+  - name: Siphonaptera
+    rank: order
+categories:
+  - flea
+  - insect
+id:
+  ns: 53b398f1e35eb12984039aed

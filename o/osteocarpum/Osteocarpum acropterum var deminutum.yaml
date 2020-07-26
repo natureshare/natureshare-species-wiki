@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - Babbagia
+classification:
+  - name: chenopodiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: sub-globular
+    feature: fruit
+id:
+  ns: 53b398e9e35eb12984037405
+  vba: '500349'

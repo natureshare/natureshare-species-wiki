@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Ivy-leaf Duckweed
+classification:
+  - name: lemnaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+  - rare-threatened
+features:
+  - description: 2-8mm-long
+    feature: plant
+  - description: leaf-makes-up-entire-plant
+    feature: plant
+  - description: narrowly-ovate-to-oblong
+    feature: plant
+  - description: suspended-below-water-surface
+    feature: plant
+id:
+  ns: 53b398e8e35eb12984037087
+  vba: '501894'

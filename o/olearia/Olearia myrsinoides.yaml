@@ -1,0 +1,47 @@
+updated_by: chrisl
+common_names:
+  - Silky Daisy-bush
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: clustered
+    feature: flower
+  - description: daisy
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: white
+    feature: flower
+  - description: yellow-centre
+    feature: flower
+  - description: mid-spring-early-autumn
+    feature: flowering-time
+  - description: low-shrub
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: dark-green
+    feature: leaf
+  - description: oval
+    feature: leaf
+  - description: serrated-margin
+    feature: leaf
+  - description: silvery-underneath
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-2cm
+    feature: leaf
+  - description: '3'
+    feature: number-of-petals
+  - description: '3'
+    feature: petals
+id:
+  ns: 53b398e9e35eb1298403739c
+  vba: '502316'

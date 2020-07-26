@@ -1,0 +1,20 @@
+created_by: russell
+updated_by: koolah
+synonyms:
+  - Pataeta conspicienda
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Euteliidae
+    rank: Family
+  - name: Euteliinae
+    rank: Subfamily
+  - name: Noctuoidea
+    rank: Superfamily
+  - name: lepidoptera
+    rank: order
+categories:
+  - insect
+  - moth
+id:
+  ns: 54e09123ed2a89ef270000db

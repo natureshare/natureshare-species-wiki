@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Aphid
+classification:
+  - name: Insecta
+    rank: class
+  - name: Hemiptera
+    rank: order
+  - name: Sternorrhyncha
+    rank: suborder
+  - name: Aphidoidea
+    rank: superfamily
+categories:
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb129840380d2

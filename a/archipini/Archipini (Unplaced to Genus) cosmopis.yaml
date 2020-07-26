@@ -1,0 +1,33 @@
+updated_by: koolah
+synonyms:
+  - Dichelia cosmopis
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Tortricidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Tortricinae
+    rank: Subfamily
+  - name: Tortricoidea
+    rank: Superfamily
+  - name: Archipini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+  - provisional-name
+features:
+  - description: black
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f7a

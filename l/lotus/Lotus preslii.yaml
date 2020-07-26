@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Bird's-foot Trefoil
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - weed
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398e9e35eb129840371b8
+  vba: '505103'

@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Common Morel
+classification:
+  - name: Pezizomycetes
+    rank: class
+  - name: Morchellaceae
+    rank: family
+  - name: helvellaceae
+    rank: family
+  - name: Pezizales
+    rank: order
+categories:
+  - fungi
+  - rare-threatened
+id:
+  ns: 53b398e9e35eb129840372e4
+  vba: '507606'

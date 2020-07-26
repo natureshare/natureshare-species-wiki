@@ -1,0 +1,36 @@
+updated_by: chrisl
+common_names:
+  - Satin-green Forester
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: ZYGAENIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: PROCRIDINAE
+    rank: subfamily
+  - name: ZYGAENOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: day-flying
+    feature: flight-time
+  - description: blue
+    feature: wing
+  - description: green
+    feature: wing
+  - description: metallic
+    feature: wing
+  - description: one-coloured
+    feature: wing
+  - description: shiny
+    feature: wing
+  - description: two-coloured
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f84

@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Pyralidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+categories:
+  - insect
+  - moth
+  - provisional-name
+id:
+  ns: 541d4199e35eb1df01000057

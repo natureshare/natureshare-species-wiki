@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Copper Beard-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: bearded
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: purple
+    feature: flower-colour
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e6e35eb12984036673
+  vba: '500585'

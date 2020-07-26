@@ -1,0 +1,63 @@
+updated_by: chrisl
+common_names:
+  - Rough Bush-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: clustered
+    feature: flower
+  - description: orange-yellow
+    feature: flower
+  - description: pea
+    feature: flower
+  - description: orange-yellow
+    feature: flower-colour
+  - description: red
+    feature: flower-colour
+  - description: spring
+    feature: flowering-time
+  - description: hairy
+    feature: fruit
+  - description: pod
+    feature: fruit
+  - description: prostrate
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: dark-green
+    feature: leaf
+  - description: notched-at-end
+    feature: leaf
+  - description: paler-underneath
+    feature: leaf
+  - description: rough
+    feature: leaf
+  - description: small
+    feature: leaf
+  - description: to-1.5cm
+    feature: leaf
+  - description: wedge-shaped
+    feature: leaf
+  - description: opposite
+    feature: leaf-arrangement
+  - description: 6-26mm
+    feature: leaf-length
+  - description: greater-than-5mm
+    feature: leaf-length
+  - description: less-than-30mm
+    feature: leaf-length
+  - description: 6-26mm
+    feature: leaf-width
+  - description: greater-than-5mm
+    feature: leaf-width
+  - description: less-than-30mm
+    feature: leaf-width
+id:
+  ns: 53b398eae35eb129840377df
+  vba: '502871'

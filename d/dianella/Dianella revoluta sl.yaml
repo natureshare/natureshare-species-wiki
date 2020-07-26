@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Black-anther Flax-lily
+classification:
+  - name: hemerocallidaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+  - provisional-name
+features:
+  - description: blue
+    feature: flower
+  - description: blue
+    feature: fruit
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398e7e35eb129840369b7
+  vba: '501029'

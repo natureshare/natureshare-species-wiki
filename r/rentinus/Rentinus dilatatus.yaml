@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Lanternfly
+classification:
+  - name: Insecta
+    rank: class
+  - name: Fulgoridae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - true-bug
+id:
+  ns: 59280212ed2a893e6b002be6

@@ -1,0 +1,15 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Arachnida
+    rank: Class
+  - name: Araneidae
+    rank: Family
+  - name: Araneomorphae
+    rank: Infraorder
+  - name: Araneae
+    rank: Order
+categories:
+  - spider
+id:
+  ns: 5d47a951c347d56c430002a7

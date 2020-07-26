@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Cicada
+classification:
+  - name: Insecta
+    rank: class
+  - name: Cicadidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+  - name: Auchenorrhyncha
+    rank: suborder
+categories:
+  - cicada
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb129840380d5

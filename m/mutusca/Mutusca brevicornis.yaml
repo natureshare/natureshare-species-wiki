@@ -1,0 +1,19 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Alydidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - insect
+  - true-bug
+features:
+  - description: 4-segments
+    feature: antennae
+  - description: swollen-throughout-length
+    feature: first-antennal-segment
+id:
+  ns: 584a8f8ced2a897480007caf

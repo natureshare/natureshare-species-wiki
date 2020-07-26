@@ -1,0 +1,40 @@
+updated_by: chrisl
+common_names:
+  - Southern Grey
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: GEOMETRIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: GEOMETRINAE
+    rank: subfamily
+  - name: GEOMETROIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: black
+    feature: line
+  - description: black
+    feature: wing
+  - description: brown
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: lined
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: black
+    feature: wing-underside
+  - description: red
+    feature: wing-underside
+  - description: white
+    feature: wing-underside
+id:
+  ns: 53b398ebe35eb12984037eed

@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Dense Crassula
+classification:
+  - name: crassulaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: little-or-no-branching
+    feature: habit
+  - description: upright-erect
+    feature: habit
+  - description: crowded-on-stem
+    feature: leaf
+id:
+  ns: 53b398e7e35eb129840368ac
+  vba: '504384'

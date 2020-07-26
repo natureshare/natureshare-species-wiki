@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Orange Threadtail
+classification:
+  - name: Insecta
+    rank: class
+  - name: Platycnemididae
+    rank: family
+  - name: Odonata
+    rank: order
+  - name: Disparoneurinae
+    rank: subfamily
+  - name: Zygoptera
+    rank: suborder
+categories:
+  - damselfly
+  - dragonfly-and-damselfly
+  - insect
+id:
+  ns: 53b398ebe35eb12984037e58

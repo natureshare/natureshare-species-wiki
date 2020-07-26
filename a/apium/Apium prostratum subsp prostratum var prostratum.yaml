@@ -1,0 +1,24 @@
+updated_by: chrisl
+common_names:
+  - Sea Celery
+classification:
+  - name: apiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: groundcover
+    feature: habit
+  - description: to-60mm
+    feature: leaflet-length
+  - description: 6-15
+    feature: leaflet-length-to-width
+  - description: linear
+    feature: leaflet-segment
+  - description: biennial-perrenial
+    feature: plant
+id:
+  ns: 53b398e6e35eb1298403636e
+  vba: '504237'

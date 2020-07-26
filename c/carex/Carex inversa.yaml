@@ -1,0 +1,41 @@
+updated_by: chrisl
+common_names:
+  - Knob Sedge
+classification:
+  - name: cyperaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+  - sedge
+features:
+  - description: female-flower-above-male-flower-in-all-spikes
+    feature: flower
+  - description: green
+    feature: flower
+  - description: spike
+    feature: flower
+  - description: spring-mid-autumn
+    feature: flowering-time
+  - description: brown-yellow
+    feature: fruit
+  - description: hard
+    feature: fruit
+  - description: nut
+    feature: fruit
+  - description: spreading-tuft
+    feature: habit
+  - description: basal
+    feature: leaf
+  - description: bright-green
+    feature: leaf
+  - description: grasslike
+    feature: leaf
+  - description: medium-length
+    feature: leaf
+  - description: unstalked
+    feature: leaf
+id:
+  ns: 53b398e6e35eb129840366f2
+  vba: '500642'

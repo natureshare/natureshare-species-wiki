@@ -1,0 +1,26 @@
+updated_by: chrisl
+common_names:
+  - Pale-fruit Ballart
+classification:
+  - name: santalaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: short-clusters
+    feature: flower
+  - description: pale-purple
+    feature: fruit
+  - description: white
+    feature: fruit
+  - description: shrub
+    feature: habit
+  - description: to-4m
+    feature: height
+  - description: leafless
+    feature: leaf
+id:
+  ns: 53b398e7e35eb12984036c61
+  vba: '501353'

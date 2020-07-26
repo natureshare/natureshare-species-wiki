@@ -1,0 +1,17 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Egyptian Beetle
+classification:
+  - name: Insecta
+    rank: class
+  - name: Tenebrionidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - fauna-introduced
+  - insect
+id:
+  ns: 541a4af6e35eb1d53d00000e

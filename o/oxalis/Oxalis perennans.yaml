@@ -1,0 +1,40 @@
+updated_by: chrisl
+common_names:
+  - Grassland Wood-sorrel
+classification:
+  - name: oxalidaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: petalled
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: most-of-year
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: divided
+    feature: leaf
+  - description: to-1.5cm
+    feature: leaf
+  - description: trifoliolate
+    feature: leaf
+  - description: wedge-shaped
+    feature: leaflet
+  - description: '3'
+    feature: leaflets
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+  - description: more-than-7x-longer-than-wide
+    feature: seedpod
+  - description: antrorse
+    feature: stem-hair
+id:
+  ns: 53b398e9e35eb1298403741b
+  vba: '502386'

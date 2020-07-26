@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Rockmaster
+classification:
+  - name: Insecta
+    rank: class
+  - name: Diphlebiidae
+    rank: family
+  - name: Odonata
+    rank: order
+  - name: Zygoptera
+    rank: suborder
+categories:
+  - damselfly
+  - dragonfly-and-damselfly
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ebe35eb12984037e54

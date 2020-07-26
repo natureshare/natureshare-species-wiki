@@ -1,0 +1,15 @@
+updated_by: chrisl
+common_names:
+  - Red-back Spider
+  - Redback Spider
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Theridiidae
+    rank: family
+  - name: Araneae
+    rank: order
+categories:
+  - spider
+id:
+  ns: 53b398f2e35eb12984039d08

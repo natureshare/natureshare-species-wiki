@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Eucalyptus Weevil
+classification:
+  - name: Insecta
+    rank: class
+  - name: Curculionidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - insect
+  - weevil
+id:
+  ns: 55178cfaed2a899004000097

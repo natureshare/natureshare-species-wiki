@@ -1,0 +1,17 @@
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Hepialidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Hepialinae
+    rank: Subfamily
+  - name: Hepialoidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f0e35eb129840394e8

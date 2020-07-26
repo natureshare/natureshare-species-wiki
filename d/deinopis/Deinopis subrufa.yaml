@@ -1,0 +1,17 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Common Netcasting Spider
+synonyms:
+  - Deinopis bicornis
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Deinopidae
+    rank: family
+  - name: Araneae
+    rank: order
+categories:
+  - spider
+id:
+  ns: 56623918ed2a89b5f5000126

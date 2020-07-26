@@ -1,0 +1,19 @@
+created_by: chrisl
+updated_by: chrisl
+synonyms:
+  - Lactarius clarkeae
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Russulaceae
+    rank: family
+  - name: Fungi
+    rank: kingdom
+  - name: Russulales
+    rank: order
+  - name: Basidiomycota
+    rank: phylum
+categories:
+  - fungi
+id:
+  ns: 575e87daed2a89e6680012a1

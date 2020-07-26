@@ -1,0 +1,33 @@
+updated_by: chrisl
+common_names:
+  - White Everlasting
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: brown
+    feature: bract
+  - description: purple
+    feature: bract
+  - description: white
+    feature: bract
+  - description: hairy
+    feature: bracts
+  - description: petalled
+    feature: flower
+  - description: white
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: many
+    feature: number-of-petals
+  - description: many
+    feature: petals
+id:
+  ns: 53b398e7e35eb129840367d7
+  vba: '501608'

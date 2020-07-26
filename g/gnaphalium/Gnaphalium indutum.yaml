@@ -1,0 +1,34 @@
+updated_by: chrisl
+common_names:
+  - Tiny Cudweed
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - herb
+  - plant
+features:
+  - description: clustered
+    feature: flower
+  - description: cream-brown
+    feature: flower
+  - description: spring-early-summer
+    feature: flowering-time
+  - description: tiny-herb
+    feature: habit
+  - description: grey
+    feature: leaf
+  - description: narrow
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-1cm
+    feature: leaf
+  - description: woolly
+    feature: leaf
+id:
+  ns: 53b398e8e35eb12984036d8e
+  vba: '501464'

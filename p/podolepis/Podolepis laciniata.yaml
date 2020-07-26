@@ -1,0 +1,26 @@
+updated_by: chrisl
+common_names:
+  - High-plain Podolepis
+synonyms:
+  - Podolepis sp. aff. robusta (N.E. Alps)
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: yellow
+    feature: flower
+  - description: hairy
+    feature: leaf
+  - description: 2-5mm
+    feature: ligule-apex-lobe-length
+  - description: 14-20mm
+    feature: ligule-length
+id:
+  ns: 53b398e9e35eb1298403760d
+  vba: '505305'

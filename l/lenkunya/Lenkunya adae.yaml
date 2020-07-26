@@ -1,0 +1,13 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Turbellaria
+    rank: class
+  - name: Geoplanidae
+    rank: family
+  - name: Seriata
+    rank: order
+categories:
+  - flatworm
+id:
+  ns: 54f656a0ed2a89b7cf000049

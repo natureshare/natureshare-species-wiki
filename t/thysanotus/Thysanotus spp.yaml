@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Fringe Lily
+classification:
+  - name: anthericaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+  - provisional-name
+features:
+  - description: '3'
+    feature: number-of-petals
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398ebe35eb12984037bef
+  vba: '509145'

@@ -1,0 +1,20 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Lichenaula melanosema
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Oecophoridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Xyloryctinae
+    rank: Subfamily
+  - name: Gelechioidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5d69d028cad3eb2024000062

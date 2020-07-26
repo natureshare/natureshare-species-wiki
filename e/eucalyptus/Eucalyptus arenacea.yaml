@@ -1,0 +1,34 @@
+updated_by: chrisl
+common_names:
+  - Desert Stringybark
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: rough-throughout
+    feature: bark
+  - description: stringy
+    feature: bark
+  - description: groups-of-7-15
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: mallee
+    feature: habit
+  - description: tree
+    feature: habit
+  - description: 3-9m
+    feature: height
+  - description: green
+    feature: leaf-colour
+  - description: glossy
+    feature: leaf-surface
+  - description: 22-35cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036b80
+  vba: '503714'

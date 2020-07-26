@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Midge
+classification:
+  - name: Insecta
+    rank: class
+  - name: Chironomidae
+    rank: family
+  - name: Diptera
+    rank: order
+  - name: Nematocera
+    rank: suborder
+categories:
+  - fly
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb129840380bc

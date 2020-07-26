@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Slender Bindweed
+classification:
+  - name: convolvulaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: entire
+    feature: central-leaflet
+  - description: pink
+    feature: flower
+  - description: divided-and-linear
+    feature: lobes-at-base-of-lower-leaf
+id:
+  ns: 53b398e7e35eb12984036828
+  vba: '505549'

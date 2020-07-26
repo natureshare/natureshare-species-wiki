@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: insecta
+    rank: class
+  - name: Eriococcidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - gall
+  - scale-insect
+id:
+  ns: 5a505120ed2a89d22b00003b

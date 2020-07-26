@@ -1,0 +1,28 @@
+updated_by: chrisl
+common_names:
+  - Weak Daisy
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: green-purple
+    feature: branch
+  - description: white
+    feature: flower
+  - description: to-25cm
+    feature: height
+  - description: divided
+    feature: leaf
+  - description: entire-linear-or-pinnatisect
+    feature: leaf
+  - description: 5-20mm
+    feature: leaf-length
+id:
+  ns: 53b398e6e35eb1298403655c
+  vba: '500454'

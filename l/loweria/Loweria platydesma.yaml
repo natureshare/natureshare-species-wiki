@@ -1,0 +1,22 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Broken-banded Cape-moth
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Ennominae
+    rank: Subfamily
+  - name: Geometroidea
+    rank: Superfamily
+  - name: Nacophorini
+    rank: tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 5ae42137ed2a899466008870

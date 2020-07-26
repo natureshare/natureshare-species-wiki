@@ -1,0 +1,33 @@
+updated_by: chrisl
+common_names:
+  - Supple Spear-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+features:
+  - description: dense-spike
+    feature: flower
+  - description: grass
+    feature: flower
+  - description: to-1.2m-long
+    feature: flowering-stems
+  - description: spring-early-summer
+    feature: flowering-time
+  - description: grass
+    feature: habit
+  - description: glabrous-or-nearly-glabrous
+    feature: leaf
+  - description: inrolled
+    feature: leaf
+  - description: to-30cm
+    feature: leaf
+  - description: pubescent
+    feature: nodes
+id:
+  ns: 53b398e6e35eb1298403645a
+  vba: '503279'

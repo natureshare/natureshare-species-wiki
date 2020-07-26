@@ -1,0 +1,14 @@
+updated_by: chrisl
+common_names:
+  - Coral Spot
+classification:
+  - name: Sordariomycetes
+    rank: class
+  - name: Nectriaceae
+    rank: family
+  - name: Hypocreales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 53b398f4e35eb1298403a6de

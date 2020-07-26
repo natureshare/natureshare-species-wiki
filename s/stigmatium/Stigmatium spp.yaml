@@ -1,0 +1,13 @@
+created_by: chrisl
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Cleridae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+id:
+  ns: 56722feced2a89d6d600019d

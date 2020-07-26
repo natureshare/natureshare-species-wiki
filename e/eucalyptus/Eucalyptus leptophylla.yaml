@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Slender-leaf Mallee
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: mallee
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036bc3
+  vba: '501277'

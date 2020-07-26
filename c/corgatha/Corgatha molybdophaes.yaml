@@ -1,0 +1,15 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Noctuidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Acontiinae
+    rank: subfamily
+categories:
+  - moth
+id:
+  ns: 5869a07eed2a89748000c348

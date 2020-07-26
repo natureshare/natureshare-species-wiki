@@ -1,0 +1,25 @@
+updated_by: chrisl
+common_names:
+  - Small Chocolate-lily
+classification:
+  - name: anthericaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+features:
+  - description: 2-or-more-per-axil
+    feature: flower
+  - description: not-nodding
+    feature: flower
+  - description: purple-mauve
+    feature: flower
+  - description: '3'
+    feature: number-of-petals
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398e6e35eb129840363a9
+  vba: '504248'

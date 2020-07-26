@@ -1,0 +1,15 @@
+created_by: russell
+updated_by: chrisl
+classification:
+  - name: asphodelaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - plant
+  - provisional-name
+features:
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 544082a6e35eb132b00003c5

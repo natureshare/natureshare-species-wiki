@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Alpine Bootlace Bush
+classification:
+  - name: thymelaeaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: leathery
+    feature: leaf
+  - description: 3-18mm
+    feature: leaf-length
+id:
+  ns: 53b398e9e35eb12984037549
+  vba: '504828'

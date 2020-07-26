@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Dandenong Burrowing Crayfish
+classification:
+  - name: Malacostraca
+    rank: class
+  - name: Parastacidae
+    rank: family
+  - name: Decapoda
+    rank: order
+categories:
+  - crayfish
+  - crustacean
+  - ffg
+  - rare-threatened
+id:
+  ns: 53b398f2e35eb12984039e8b

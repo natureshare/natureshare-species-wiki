@@ -1,0 +1,16 @@
+created_by: chrisl
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Attelabidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+  - name: Attelabinae
+    rank: subfamily
+categories:
+  - beetle
+  - insect
+id:
+  ns: 56dff1f0ed2a8972fb0003a2

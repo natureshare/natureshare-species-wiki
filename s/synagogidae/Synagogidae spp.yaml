@@ -1,0 +1,20 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Barnacle family
+classification:
+  - name: Maxillopoda
+    rank: class
+  - name: Synagogidae
+    rank: family
+  - name: Laurida
+    rank: order
+  - name: Arthropoda
+    rank: phylum
+  - name: Crustacea
+    rank: subphylum
+categories:
+  - arthropod
+  - crustacean
+id:
+  ns: 5abe0e57ed2a896baf008a05

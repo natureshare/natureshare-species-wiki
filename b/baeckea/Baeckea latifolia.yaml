@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Subalpine Baeckea
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e6e35eb1298403648e
+  vba: '504267'

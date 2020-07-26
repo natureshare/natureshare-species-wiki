@@ -1,0 +1,18 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Lecithoceridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Lecithocerinae
+    rank: Subfamily
+  - name: Gelechioidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5d757677cad3ebb2a1000140

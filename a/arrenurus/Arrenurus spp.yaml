@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Arrenuridae
+    rank: family
+  - name: Trombidiformes
+    rank: order
+categories:
+  - mite
+  - provisional-name
+id:
+  ns: 54cf50eced2a899aeb0004ce

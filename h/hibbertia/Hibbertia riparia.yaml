@@ -1,0 +1,38 @@
+updated_by: chrisl
+common_names:
+  - Erect Guinea-flower
+classification:
+  - name: dilleniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: sessile
+    feature: flower
+  - description: spring-early-summer
+    feature: flowering-time
+  - description: shrub
+    feature: habit
+  - description: to-120cm
+    feature: height
+  - description: narrow
+    feature: leaf
+  - description: to-1cm
+    feature: leaf
+  - description: variably-hairy
+    feature: leaf
+  - description: alternate
+    feature: leaf-arrangement
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+  - description: covered-with-short-hairs
+    feature: sepal
+  - description: 6-15
+    feature: stamens
+id:
+  ns: 53b398e8e35eb12984036ec8
+  vba: '501675'

@@ -1,0 +1,33 @@
+updated_by: chrisl
+common_names:
+  - Blue Stars
+classification:
+  - name: anthericaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+features:
+  - description: blue
+    feature: flower
+  - description: open-terminal-cluster
+    feature: flower
+  - description: late-winter-spring
+    feature: flowering-time
+  - description: basal
+    feature: leaf
+  - description: grasslike
+    feature: leaf
+  - description: prostrate
+    feature: leaf
+  - description: to-15cm
+    feature: leaf
+  - description: '3'
+    feature: number-of-petals
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398e6e35eb1298403677a
+  vba: '500726'

@@ -1,0 +1,17 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: Geometridae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+categories:
+  - insect
+  - moth
+  - provisional-name
+id:
+  ns: 54f6d6d3ed2a89097e000124

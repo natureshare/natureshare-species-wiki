@@ -1,0 +1,37 @@
+updated_by: chrisl
+common_names:
+  - Large Tongue-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: green-yellow
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: red-brown
+    feature: flower
+  - description: spike
+    feature: flower
+  - description: late-spring-mid-autumn
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: 2-or-3
+    feature: leaf
+  - description: lanceolate
+    feature: leaf
+  - description: leathery
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-15cm-stiffly-erect
+    feature: leaf
+id:
+  ns: 53b398e7e35eb129840368e5
+  vba: '500884'

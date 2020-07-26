@@ -1,0 +1,38 @@
+updated_by: chrisl
+common_names:
+  - Snowy Arctiid
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: ARCTIIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: LITHOSIINAE
+    rank: subfamily
+  - name: NOCTUOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: black
+    feature: spots
+  - description: black
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: one-coloured
+    feature: wing
+  - description: spots
+    feature: wing
+  - description: white
+    feature: wing
+  - description: yellow
+    feature: wing
+  - description: chequered
+    feature: wing-fringe
+id:
+  ns: 53b398ebe35eb12984037f3a

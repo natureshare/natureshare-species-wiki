@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Scavenger Fly
+classification:
+  - name: Insecta
+    rank: class
+  - name: Scatopsidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+id:
+  ns: 592b7f36ed2a8993d10004fd

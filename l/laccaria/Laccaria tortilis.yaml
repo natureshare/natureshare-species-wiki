@@ -1,0 +1,14 @@
+updated_by: chrisl
+common_names:
+  - Twisted Deceiver
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Hydnangiaceae
+    rank: family
+  - name: Agaricales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 53b398f4e35eb1298403a5f4

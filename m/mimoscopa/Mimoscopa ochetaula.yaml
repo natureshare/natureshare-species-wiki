@@ -1,0 +1,18 @@
+created_by: chrisl
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: Tineidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: MYRMECOZELINAE
+    rank: subfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 56dfebd9ed2a8972fb000376

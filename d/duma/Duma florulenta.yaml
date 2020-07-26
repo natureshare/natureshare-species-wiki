@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Tangled Lignum
+synonyms:
+  - Muehlenbeckia cunninghamii
+  - Muehlenbeckia florulenta
+classification:
+  - name: polygonaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: almost-leafless
+    feature: leaf
+  - description: leafless
+    feature: leaf
+id:
+  ns: 53b398e9e35eb129840372ed
+  vba: '502227'

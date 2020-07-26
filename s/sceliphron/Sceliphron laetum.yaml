@@ -1,0 +1,15 @@
+updated_by: david_francis
+common_names:
+  - Common Mud-dauber Wasp
+classification:
+  - name: Insecta
+    rank: class
+  - name: Sphecidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - insect
+  - wasp
+id:
+  ns: 53b398f2e35eb12984039e5b

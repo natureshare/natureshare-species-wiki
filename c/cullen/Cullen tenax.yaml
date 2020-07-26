@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Tough Scurf-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - ffg
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+  - description: some-5-7-foliolate
+    feature: leaf
+  - description: 5-7
+    feature: leaflets
+id:
+  ns: 53b398e7e35eb129840368f1
+  vba: '502776'

@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: insecta
+    rank: class
+  - name: Therevidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+  - insect
+  - stiletto-fly
+id:
+  ns: 5832ed00ed2a897480004b35

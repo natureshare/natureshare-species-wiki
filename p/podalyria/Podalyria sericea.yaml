@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Silky Podalyria
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - weed
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398e9e35eb129840375ff
+  vba: '503950'

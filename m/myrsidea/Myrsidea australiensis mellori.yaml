@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Menoponidae
+    rank: family
+  - name: Phthiraptera
+    rank: order
+categories:
+  - insect
+  - louse
+id:
+  ns: 53b398f1e35eb129840398f6

@@ -1,0 +1,19 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Orange-gilled Hypholoma
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Strophariaceae
+    rank: family
+  - name: Fungi
+    rank: kingdom
+  - name: Agaricales
+    rank: order
+  - name: Basidiomycota
+    rank: phylum
+categories:
+  - fungi
+id:
+  ns: 5b331f40ed2a89a993001afc

@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Shining Pennywort
+classification:
+  - name: apiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: 2-5mm-diameter
+    feature: flowerhead
+  - description: 10-12
+    feature: flowers
+  - description: lobed
+    feature: leaf
+  - description: glabrous-glabrescent
+    feature: plant
+id:
+  ns: 53b398e8e35eb12984036f27
+  vba: '501728'

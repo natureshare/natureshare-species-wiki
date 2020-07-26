@@ -1,0 +1,26 @@
+updated_by: koolah
+common_names:
+  - Elusive White-spot
+classification:
+  - name: Insecta
+    rank: class
+  - name: lasiocampidae
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: lasiocampinae
+    rank: subfamily
+  - name: bombycoidea
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: brown
+    feature: wing
+  - description: spot-white
+    feature: wing
+  - description: spots-brown
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037df6

@@ -1,0 +1,50 @@
+updated_by: chrisl
+common_names:
+  - Cherry Ballart
+classification:
+  - name: santalaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - parasite
+  - plant
+  - tree
+features:
+  - description: cluster
+    feature: flower
+  - description: cream
+    feature: flower
+  - description: elongated-spike
+    feature: flower
+  - description: green
+    feature: flower
+  - description: inconspicuous
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: spring-autumn
+    feature: flowering-time
+  - description: fleshy
+    feature: fruit
+  - description: orange
+    feature: fruit
+  - description: red
+    feature: fruit
+  - description: yellow
+    feature: fruit
+  - description: large-shrub
+    feature: habit
+  - description: parasitic
+    feature: habit
+  - description: tree
+    feature: habit
+  - description: to-10m
+    feature: height
+  - description: scales-on-branchlets
+    feature: leaf
+  - description: yellow-green-to-dark-green
+    feature: leaf
+id:
+  ns: 53b398e7e35eb12984036c5d
+  vba: '501350'

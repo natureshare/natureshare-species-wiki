@@ -1,0 +1,19 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Broad-leaved Peppermint x Snow Gum hybrid
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+id:
+  ns: 54a35d39e35eb121f1000035
+  vba: '507118'

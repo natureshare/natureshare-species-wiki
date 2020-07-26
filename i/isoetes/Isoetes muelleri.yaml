@@ -1,0 +1,24 @@
+updated_by: chrisl
+common_names:
+  - Rock Quillwort
+classification:
+  - name: isoetaceae
+    rank: family
+categories:
+  - ferns-and-allies
+  - flora
+  - plant
+features:
+  - description: 5-30cm
+    feature: leaf-length
+  - description: spherical-and-hemispherical
+    feature: megaspores
+  - description: submerged-in-water-usually
+    feature: plant
+  - description: grey-white
+    feature: sporangia
+  - description: not-shiny
+    feature: sporangia
+id:
+  ns: 53b398e8e35eb12984036f86
+  vba: '501767'

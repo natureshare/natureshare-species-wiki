@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Wattle Tick Scale
+classification:
+  - name: Insecta
+    rank: class
+  - name: Coccidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - scale-insect
+id:
+  ns: 5b974730ed2a89cce30037c0

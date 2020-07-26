@@ -1,0 +1,31 @@
+updated_by: chrisl
+common_names:
+  - Yellow Onion-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: dense-spike
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: yellow-green
+    feature: flower
+  - description: spring
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: linear-hollow
+    feature: leaf
+  - description: single
+    feature: leaf
+  - description: to-9cm
+    feature: leaf
+id:
+  ns: 53b398e9e35eb129840372a1
+  vba: '502185'

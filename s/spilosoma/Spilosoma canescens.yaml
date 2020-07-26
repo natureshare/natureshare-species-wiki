@@ -1,0 +1,22 @@
+updated_by: koolah
+common_names:
+  - Dark-spotted Tiger Moth
+  - Light Ermine Moth
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Erebidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Arctiinae
+    rank: Subfamily
+  - name: Noctuoidea
+    rank: Superfamily
+  - name: Arctiini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f2e35eb12984039e20

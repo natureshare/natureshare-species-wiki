@@ -1,0 +1,14 @@
+updated_by: chrisl
+common_names:
+  - Common Fieldcap
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Strophariaceae
+    rank: family
+  - name: Agaricales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 53b398f3e35eb1298403a261

@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Common Fringe-lily
+classification:
+  - name: anthericaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+  - rare-threatened
+features:
+  - description: deflexed-and-almost-parallel-to-petals
+    feature: anthers
+  - description: '3'
+    feature: number-of-petals
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398ebe35eb12984037bf1
+  vba: '504997'

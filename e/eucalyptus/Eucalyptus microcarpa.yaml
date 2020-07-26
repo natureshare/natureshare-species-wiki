@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - Grey Box
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: rough-to-smaller-branches
+    feature: bark
+  - description: groups-of-7
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+  - description: 10-25m
+    feature: height
+  - description: green
+    feature: leaf-colour
+  - description: dull
+    feature: leaf-surface
+  - description: glossy
+    feature: leaf-surface
+  - description: 12-25cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036bd2
+  vba: '501298'

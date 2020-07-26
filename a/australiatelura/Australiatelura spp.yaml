@@ -1,0 +1,14 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Nicoletiidae
+    rank: family
+  - name: Thysanura
+    rank: order
+categories:
+  - insect
+  - provisional-name
+  - silverfish
+id:
+  ns: 53b398f1e35eb12984039b94

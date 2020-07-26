@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Hairy Stylewort
+classification:
+  - name: stylidiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: almost-colourless
+    feature: labellum
+  - description: reddish
+    feature: leaf
+  - description: reddish
+    feature: stem
+  - description: entire
+    feature: stigma
+id:
+  ns: 53b398e8e35eb12984037137
+  vba: '501997'

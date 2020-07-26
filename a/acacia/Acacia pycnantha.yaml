@@ -1,0 +1,37 @@
+updated_by: chrisl
+common_names:
+  - Golden Wattle
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - wattle
+features:
+  - description: globular-cluster
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+  - description: late-winter-spring
+    feature: flowering-time
+  - description: large-shrub
+    feature: habit
+  - description: small-tree
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: entire
+    feature: leaf
+  - description: oval
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-20cm
+    feature: leaf-length
+id:
+  ns: 53b398e5e35eb129840361f9
+  vba: '500078'

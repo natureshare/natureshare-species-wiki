@@ -1,0 +1,44 @@
+updated_by: chrisl
+common_names:
+  - Rare White-spot Skipper
+  - Yellow Ochre
+classification:
+  - name: Insecta
+    rank: class
+  - name: Hesperiidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Trapezitinae
+    rank: subfamily
+  - name: Hesperioidea
+    rank: superfamily
+categories:
+  - butterfly
+  - ffg
+  - insect
+  - rare-threatened
+  - skippers-darts-and-allies
+features:
+  - description: lomandra-filiformis-coriacea
+    feature: food-plant
+  - description: white
+    feature: spot
+  - description: '1'
+    feature: spots
+  - description: 1-underside
+    feature: spots
+  - description: brown
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: three-coloured
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: white
+    feature: wing
+  - description: yellow
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037fb1

@@ -1,0 +1,13 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Pteromalidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - gall
+  - insect
+  - wasp
+id:
+  ns: 54213c27e35eb17d1900005a

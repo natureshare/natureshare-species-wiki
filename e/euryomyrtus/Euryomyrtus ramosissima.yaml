@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Rosy Baeckea
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - provisional-name
+features:
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e7e35eb12984036c50
+  vba: '500356'

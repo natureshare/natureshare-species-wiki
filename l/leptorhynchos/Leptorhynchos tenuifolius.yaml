@@ -1,0 +1,48 @@
+updated_by: chrisl
+common_names:
+  - Wiry Buttons
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: button-like
+    feature: flower
+  - description: button-like
+    feature: flower
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: spring-mid-summer
+    feature: flowering-time
+  - description: spring-mid-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: margin-hairy
+    feature: involucral-bracts
+  - description: dark-green
+    feature: leaf
+  - description: dark-green
+    feature: leaf
+  - description: glabrous-upper-surface
+    feature: leaf
+  - description: very-narrow
+    feature: leaf
+  - description: very-narrow
+    feature: leaf
+  - description: woolly-white-underneath
+    feature: leaf
+  - description: woolly-white-underneath
+    feature: leaf
+  - description: 1mm
+    feature: leaf-width
+id:
+  ns: 53b398e8e35eb129840370e8
+  vba: '501947'

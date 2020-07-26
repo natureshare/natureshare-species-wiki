@@ -1,0 +1,13 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: insecta
+    rank: class
+  - name: Chrysomelidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - leaf-beetle
+id:
+  ns: 5b822fabed2a89a7f1008751

@@ -1,0 +1,17 @@
+created_by: chrisl
+updated_by: chrisl
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Mycenaceae
+    rank: family
+  - name: Fungi
+    rank: kingdom
+  - name: Agaricales
+    rank: order
+  - name: Basidiomycota
+    rank: phylum
+categories:
+  - fungi
+id:
+  ns: 5b34d7f3ed2a89a9930022d7

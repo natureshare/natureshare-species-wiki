@@ -1,0 +1,20 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Black Nerite
+  - Black Sea-snail
+synonyms:
+  - Nerita atramentosa
+classification:
+  - name: Neritidae
+    rank: Family
+  - name: Gastropoda
+    rank: class
+  - name: Neritopsina
+    rank: order
+  - name: Mollusca
+    rank: phylum
+categories:
+  - sea-snail
+id:
+  ns: 5b0cd030ed2a89fa0600581d

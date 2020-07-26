@@ -1,0 +1,30 @@
+updated_by: chrisl
+common_names:
+  - Water Woodruff
+classification:
+  - name: rubiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: 3-5-flowered
+    feature: flower
+  - description: white
+    feature: flower
+  - description: 2-lobed
+    feature: fruit
+  - description: prostrate
+    feature: habit
+  - description: glabrous-or-nearly-glabrous
+    feature: leaf-surface
+  - description: 4-whorled
+    feature: leaves
+  - description: glabrous
+    feature: stem
+  - description: to-30cm
+    feature: stem-length
+id:
+  ns: 53b398e6e35eb129840363c3
+  vba: '500285'

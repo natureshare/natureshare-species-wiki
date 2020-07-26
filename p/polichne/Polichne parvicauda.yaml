@@ -1,0 +1,18 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Tettigoniidae
+    rank: Family
+  - name: Orthoptera
+    rank: Order
+  - name: Phanaeropterinae
+    rank: Subfamily
+  - name: Tettigonioidea
+    rank: Superfamily
+categories:
+  - insect
+  - katydid
+id:
+  ns: 5cef7b8376a8947f4c00000a

@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Hairy Curtain Crust
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Stereaceae
+    rank: family
+  - name: Russulales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 54eafc9aed2a8987b7000663

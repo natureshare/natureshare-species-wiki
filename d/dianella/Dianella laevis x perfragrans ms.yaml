@@ -1,0 +1,18 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Smooth x Arching Flax-lily hybrid
+classification:
+  - name: hemerocallidaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+features:
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 54a3a13be35eb1764f00005b
+  vba: '507581'

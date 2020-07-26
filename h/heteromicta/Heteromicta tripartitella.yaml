@@ -1,0 +1,16 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Pyralidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Galleriinae
+    rank: subfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5a5187b1ed2a89d22b00049c

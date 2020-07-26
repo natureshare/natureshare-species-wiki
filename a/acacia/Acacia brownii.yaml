@@ -1,0 +1,31 @@
+updated_by: chrisl
+common_names:
+  - Heath Wattle
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - wattle
+features:
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+  - description: low-shrub
+    feature: habit
+  - description: rounded
+    feature: habit
+  - description: to-1m
+    feature: habit
+  - description: prickly
+    feature: leaf
+  - description: sharp-point
+    feature: leaf-tip
+id:
+  ns: 53b398e5e35eb1298403619b
+  vba: '500018'

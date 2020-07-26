@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Needle-leaf Prickly Moses
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - wattle
+features:
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+id:
+  ns: 53b398e5e35eb1298403621c
+  vba: '505880'

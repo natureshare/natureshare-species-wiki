@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Eulophidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - insect
+  - provisional-name
+  - wasp
+id:
+  ns: 590e9ccaed2a893d8c0025e8

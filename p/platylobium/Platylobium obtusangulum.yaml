@@ -1,0 +1,61 @@
+updated_by: chrisl
+common_names:
+  - Common Flat-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: pea
+    feature: flower
+  - description: yellow-and-red
+    feature: flower
+  - description: orange
+    feature: flower-colour
+  - description: spring-early-summer
+    feature: flowering-time
+  - description: broad-and-flat
+    feature: fruit
+  - description: hairy
+    feature: fruit
+  - description: pod
+    feature: fruit
+  - description: stalked
+    feature: fruit
+  - description: medium-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-15m
+    feature: height
+  - description: 1-to-3-sharp-points
+    feature: leaf
+  - description: arrow-shaped
+    feature: leaf
+  - description: dark-green
+    feature: leaf
+  - description: paired
+    feature: leaf
+  - description: to-3cm
+    feature: leaf
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 7-15mm
+    feature: leaf-length
+  - description: greater-than-5mm
+    feature: leaf-length
+  - description: less-than-20mm
+    feature: leaf-length
+  - description: triangular
+    feature: leaf-shape
+  - description: 1-2mm
+    feature: leaf-width
+  - description: up-to-2mm
+    feature: leaf-width
+id:
+  ns: 53b398e9e35eb129840375b0
+  vba: '502569'

@@ -1,0 +1,20 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Ennominae
+    rank: Subfamily
+  - name: Geometroidea
+    rank: Superfamily
+  - name: Boarmiini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 5c0c2eb41779a4700500027c

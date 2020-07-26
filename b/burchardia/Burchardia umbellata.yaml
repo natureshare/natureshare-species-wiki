@@ -1,0 +1,45 @@
+updated_by: chrisl
+common_names:
+  - Milkmaids
+classification:
+  - name: colchicaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+features:
+  - description: 2-10-clustered-terminally
+    feature: flower
+  - description: honey-scented
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: white
+    feature: flower
+  - description: spring
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: basal
+    feature: leaf
+  - description: grass-like
+    feature: leaf
+  - description: pale-green
+    feature: leaf
+  - description: to-20cm
+    feature: leaf
+  - description: unstalked
+    feature: leaf
+  - description: '6'
+    feature: number-of-petals
+  - description: '6'
+    feature: petals
+  - description: 1-or-2
+    feature: stem-leaves
+id:
+  ns: 53b398e6e35eb129840365c5
+  vba: '500512'

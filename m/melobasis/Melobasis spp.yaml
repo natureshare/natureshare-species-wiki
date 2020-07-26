@@ -1,0 +1,13 @@
+created_by: chrisl
+updated_by: chrisl
+classification:
+  - name: Buprestidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - insect
+  - provisional-name
+id:
+  ns: 54f439c6ed2a8945a100040b

@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Shade Peppercress
+classification:
+  - name: brassicaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: minute-hairs-on-upper-surface
+    feature: flower-stalk
+  - description: glabrous
+    feature: stem
+id:
+  ns: 53b398e8e35eb1298403709c
+  vba: '501910'

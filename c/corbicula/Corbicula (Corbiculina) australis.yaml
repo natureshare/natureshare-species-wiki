@@ -1,0 +1,17 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Freshwater Clam
+classification:
+  - name: bivalvia
+    rank: class
+  - name: Corbiculidae
+    rank: family
+  - name: Veneroida
+    rank: order
+categories:
+  - animal
+  - clam
+  - fauna
+id:
+  ns: 5546b940ed2a891575000357

@@ -1,0 +1,14 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Notonemouridae
+    rank: family
+  - name: Plecoptera
+    rank: order
+categories:
+  - insect
+  - provisional-name
+  - stonefly
+id:
+  ns: 53b398f1e35eb12984039a3b

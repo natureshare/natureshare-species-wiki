@@ -1,0 +1,43 @@
+updated_by: chrisl
+common_names:
+  - Common Early Nancy
+classification:
+  - name: colchicaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+features:
+  - description: 1-11-flowers
+    feature: flower
+  - description: honey-scented
+    feature: flower
+  - description: purple-band-near-centre-of-flower
+    feature: flower
+  - description: starlike
+    feature: flower
+  - description: white
+    feature: flower
+  - description: mid-winter-early-spring
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: lily
+    feature: habit
+  - description: fleshy
+    feature: leaf
+  - description: narrow
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+  - description: to-10cm
+    feature: leaf
+  - description: red-purple-anthers
+    feature: male-flower
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398ebe35eb12984037d7e
+  vba: '504082'

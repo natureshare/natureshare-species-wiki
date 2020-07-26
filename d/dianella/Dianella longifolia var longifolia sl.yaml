@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Pale Flax-lily
+classification:
+  - name: hemerocallidaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+  - provisional-name
+features:
+  - description: blue
+    feature: flower
+  - description: pale-purple
+    feature: flower
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398e7e35eb129840369b5
+  vba: '504420'

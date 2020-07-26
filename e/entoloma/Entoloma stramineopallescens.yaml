@@ -1,0 +1,15 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Agaricomycetes
+    rank: Class
+  - name: Entolomataceae
+    rank: Family
+  - name: Agaricales
+    rank: Order
+  - name: Agaricomycetidae
+    rank: subclass
+categories:
+  - fungi
+id:
+  ns: 5b7b660bed2a89a7f1006abb

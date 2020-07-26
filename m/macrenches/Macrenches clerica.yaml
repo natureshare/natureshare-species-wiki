@@ -1,0 +1,28 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: GELECHIIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: GELECHIINAE
+    rank: subfamily
+  - name: GELECHIOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: brown
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037eae

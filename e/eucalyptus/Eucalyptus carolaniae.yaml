@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Mount Martha Bundy
+synonyms:
+  - Eucalyptus aff. cypellocarpa (Mornington Peninsula)
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036b68
+  vba: '505535'

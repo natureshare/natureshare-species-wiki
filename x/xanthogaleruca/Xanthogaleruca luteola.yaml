@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Elm-leaf Beetle
+classification:
+  - name: Insecta
+    rank: class
+  - name: Chrysomelidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - noxious-pest
+id:
+  ns: 583d53e1ed2a897480005ea0

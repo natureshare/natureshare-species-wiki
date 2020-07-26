@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Mantid Lacewing
+classification:
+  - name: Neuroptera
+    rank: Order
+  - name: Insecta
+    rank: class
+  - name: Mantispidae
+    rank: family
+categories:
+  - mantis-lacewing
+id:
+  ns: 5a9a6ad3ed2a896baf000406

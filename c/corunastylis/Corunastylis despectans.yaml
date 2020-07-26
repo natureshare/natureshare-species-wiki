@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Sharp Midge-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: green-with-maroon-tip
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: purple
+    feature: flower-colour
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036869
+  vba: '502705'

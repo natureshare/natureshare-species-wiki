@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Blue Dampiera
+classification:
+  - name: goodeniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: blue
+    feature: flower
+  - description: small-shrub
+    feature: habit
+  - description: alternate
+    feature: leaves
+  - description: '5'
+    feature: number-of-petals
+id:
+  ns: 53b398e7e35eb1298403695c
+  vba: '500958'

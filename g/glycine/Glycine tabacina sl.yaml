@@ -1,0 +1,54 @@
+updated_by: chrisl
+common_names:
+  - Variable Glycine
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - provisional-name
+features:
+  - description: pea
+    feature: flower
+  - description: mauve
+    feature: flower-colour
+  - description: shrub
+    feature: habit
+  - description: to-25m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 40-100mm
+    feature: leaf-length
+  - description: greater-than-40mm
+    feature: leaf-length
+  - description: less-than-100mm
+    feature: leaf-length
+  - description: pinnate
+    feature: leaf-type
+  - description: greater-than-10mm
+    feature: leafet-length
+  - description: 10-40mm
+    feature: leaflet-length
+  - description: less-than-40mm
+    feature: leaflet-length
+  - description: 5-9mm
+    feature: leaflet-width
+  - description: greater-than-5mm
+    feature: leaflet-width
+  - description: less-than-10mm
+    feature: leaflet-width
+  - description: 11-to-25
+    feature: leaflets
+  - description: 25-45mm
+    feature: seedpod-length
+  - description: greater-than-25mm
+    feature: seedpod-length
+  - description: less-than-50mm
+    feature: seedpod-length
+id:
+  ns: 53b398e8e35eb12984036d88
+  vba: '501457'

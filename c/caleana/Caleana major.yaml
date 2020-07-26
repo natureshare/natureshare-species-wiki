@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Large Duck-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: dark-green
+    feature: flower
+  - description: maroon
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e6e35eb12984036643
+  vba: '500557'

@@ -1,0 +1,35 @@
+updated_by: chrisl
+common_names:
+  - Slender Bottle-daisy
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: daisy
+    feature: flower
+  - description: mauve
+    feature: flower
+  - description: white
+    feature: flower
+  - description: mid-spring-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: basal-rosette
+    feature: leaf
+  - description: dark-green
+    feature: leaf
+  - description: spoon-shaped
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-5.5cm
+    feature: leaf
+id:
+  ns: 53b398e8e35eb1298403703c
+  vba: '501861'

@@ -1,0 +1,22 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Williamson's Hybrid Wattle
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - wattle
+features:
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+id:
+  ns: 54e20979ed2a89ef27000290
+  vba: '505368'

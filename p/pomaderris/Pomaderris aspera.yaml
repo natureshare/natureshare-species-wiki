@@ -1,0 +1,44 @@
+updated_by: chrisl
+common_names:
+  - Hazel Pomaderris
+classification:
+  - name: rhamnaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: brown
+    feature: flower
+  - description: cluster
+    feature: flower
+  - description: cream
+    feature: flower
+  - description: terminal-spike
+    feature: flower
+  - description: yellow-green
+    feature: flower
+  - description: mid-late-spring
+    feature: flowering-time
+  - description: small-tree
+    feature: habit
+  - description: tree
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: dark-green-above
+    feature: leaf
+  - description: deep-veins
+    feature: leaf
+  - description: hairy-underneath
+    feature: leaf
+  - description: lanceolate
+    feature: leaf
+  - description: paler-underneath
+    feature: leaf
+  - description: stalked
+    feature: leaf
+id:
+  ns: 53b398eae35eb12984037647
+  vba: '502650'

@@ -1,0 +1,43 @@
+updated_by: chrisl
+common_names:
+  - Blanket Leaf
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: daisy
+    feature: flower
+  - description: loose-cluster
+    feature: flower
+  - description: woolly
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: mid-spring-mid-summer
+    feature: flowering-time
+  - description: tree-to-7m
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: dark-green
+    feature: leaf
+  - description: long-oval
+    feature: leaf
+  - description: soft
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-25cm
+    feature: leaf
+  - description: white
+    feature: leaf-underside
+  - description: woolly
+    feature: leaf-underside
+id:
+  ns: 53b398e6e35eb129840364d6
+  vba: '500382'

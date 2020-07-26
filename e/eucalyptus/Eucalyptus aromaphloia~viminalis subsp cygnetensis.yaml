@@ -1,0 +1,20 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Scentbark/Rough-bark Manna-gum
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - provisional-name
+features:
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+id:
+  ns: 54a36c84e35eb121f1000071
+  vba: '507121'

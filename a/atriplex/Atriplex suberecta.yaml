@@ -1,0 +1,29 @@
+updated_by: chrisl
+common_names:
+  - Sprawling Saltbush
+classification:
+  - name: chenopodiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - native-and-weedy-stands-in-vic
+  - plant
+features:
+  - description: low-shrub
+    feature: habit
+  - description: spreading
+    feature: habit
+  - description: to-50cm
+    feature: height
+  - description: margin-toothed
+    feature: leaf
+  - description: ovate-roundish
+    feature: leaf
+  - description: 1-3cm
+    feature: leaf-length
+  - description: less-than-2
+    feature: leaflet-length-to-width
+id:
+  ns: 53b398e6e35eb1298403641f
+  vba: '500335'

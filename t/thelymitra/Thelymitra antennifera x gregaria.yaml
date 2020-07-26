@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Rabbit Ears x Basalt Sun-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - endemic
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398ebe35eb12984037b9d

@@ -1,0 +1,24 @@
+updated_by: chrisl
+common_names:
+  - Stately Helmet-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: maroon
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: red
+    feature: flower
+  - description: white-throat
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036875

@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Lygaeidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+  - name: Heteroptera
+    rank: suborder
+categories:
+  - true-bug
+id:
+  ns: 59d5f624ed2a89af0600009b

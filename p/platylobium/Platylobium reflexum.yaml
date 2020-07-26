@@ -1,0 +1,22 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Victorian Flat-pea
+synonyms:
+  - Platylobium formosum p.p.
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 5472eb26e35eb1eb21000082
+  vba: '528675'

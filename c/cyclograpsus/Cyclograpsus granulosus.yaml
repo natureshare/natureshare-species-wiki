@@ -1,0 +1,16 @@
+created_by: reilly
+updated_by: david_francis
+common_names:
+  - Purple mottled shore crab
+  - smooth shore crab
+classification:
+  - name: Malacostraca
+    rank: class
+  - name: Varunidae
+    rank: family
+  - name: Decapoda
+    rank: order
+categories:
+  - crab
+id:
+  ns: 552bab0ced2a8961ed00011a

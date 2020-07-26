@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Bluebeard x Wax-lip Orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398ebe35eb12984037d86

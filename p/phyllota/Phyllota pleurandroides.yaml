@@ -1,0 +1,39 @@
+updated_by: chrisl
+common_names:
+  - Heathy Phyllota
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: pea
+    feature: flower
+  - description: orange
+    feature: flower-colour
+  - description: medium-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: coastal
+    feature: habitat
+  - description: 1-2m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 8-12mm
+    feature: leaf-length
+  - description: greater-than-5mm
+    feature: leaf-length
+  - description: less-than-20mm
+    feature: leaf-length
+  - description: 1-15mm
+    feature: leaf-width
+  - description: up-to-2mm
+    feature: leaf-width
+id:
+  ns: 53b398e9e35eb1298403752b
+  vba: '502504'

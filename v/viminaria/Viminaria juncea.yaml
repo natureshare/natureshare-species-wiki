@@ -1,0 +1,31 @@
+updated_by: chrisl
+common_names:
+  - Golden Spray
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: pendulous
+    feature: branches
+  - description: pea
+    feature: flower
+  - description: spike
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: mid-spring-summer
+    feature: flowering-time
+  - description: drooping
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: absent
+    feature: leaf
+id:
+  ns: 53b398ebe35eb12984037d06
+  vba: '503523'

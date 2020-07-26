@@ -1,0 +1,34 @@
+updated_by: chrisl
+common_names:
+  - Honey-pots
+classification:
+  - name: epacridaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cream
+    feature: flower
+  - description: green
+    feature: flower
+  - description: translucent-tube
+    feature: flower
+  - description: tubular
+    feature: flower
+  - description: late-autumn-early-spring
+    feature: flowering-time
+  - description: groundcover
+    feature: habit
+  - description: low-shrub
+    feature: habit
+  - description: prickly
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e5e35eb12984036267
+  vba: '500123'

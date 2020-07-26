@@ -1,0 +1,14 @@
+updated_by: chrisl
+common_names:
+  - Fox
+  - Red Fox
+classification:
+  - name: canidae
+    rank: family
+categories:
+  - animal
+  - fauna
+  - fauna-introduced
+  - mammal
+id:
+  ns: 53b398e5e35eb1298403607c

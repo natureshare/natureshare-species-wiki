@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Salt-lake Tussock-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - endemic
+  - epbc
+  - ffg
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - rare-threatened
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398e9e35eb129840375f0
+  vba: '503891'

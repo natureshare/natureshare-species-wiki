@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Long-leaf Bitter-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398e7e35eb1298403697e
+  vba: '501001'

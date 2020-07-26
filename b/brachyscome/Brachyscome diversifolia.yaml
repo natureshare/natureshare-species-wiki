@@ -1,0 +1,40 @@
+updated_by: chrisl
+common_names:
+  - Tall Daisy
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+  - provisional-name
+features:
+  - description: deeply-lobed
+    feature: basal-leaf
+  - description: petalled
+    feature: flower
+  - description: to-4cm-diameter
+    feature: flower
+  - description: white
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: to-50cm
+    feature: height
+  - description: divided
+    feature: leaf
+  - description: lobed
+    feature: leaf
+  - description: spathulate-in-outline
+    feature: leaf
+  - description: 2-12cm
+    feature: leaf-length
+  - description: many
+    feature: number-of-petals
+  - description: many
+    feature: petals
+id:
+  ns: 53b398e6e35eb1298403655f
+  vba: '500456'

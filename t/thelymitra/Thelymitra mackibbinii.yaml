@@ -1,0 +1,25 @@
+updated_by: chrisl
+common_names:
+  - Brilliant Sun-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - endemic
+  - epbc
+  - ffg
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398ebe35eb12984037bbc
+  vba: '503376'

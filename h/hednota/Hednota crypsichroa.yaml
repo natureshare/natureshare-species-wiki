@@ -1,0 +1,18 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Crambidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Crambinae
+    rank: Subfamily
+  - name: Pyraloidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5c6e46fb3abbd6e33f0000c1

@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Tangled Burgan
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e8e35eb1298403701f
+  vba: '507066'

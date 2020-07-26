@@ -1,0 +1,20 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Italian Rye-grass x Wimmera Rye-grass hybrid
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 549699a8e35eb18972000017
+  vba: '507268'

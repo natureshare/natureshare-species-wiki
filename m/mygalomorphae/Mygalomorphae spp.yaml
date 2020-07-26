@@ -1,0 +1,16 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Primitive Spider
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Mygalomorphae
+    rank: infraorder
+  - name: Araneae
+    rank: order
+categories:
+  - provisional-name
+  - spider
+id:
+  ns: 54e9e784ed2a8987b70005f6

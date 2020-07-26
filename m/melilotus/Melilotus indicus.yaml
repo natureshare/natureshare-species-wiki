@@ -1,0 +1,50 @@
+updated_by: chrisl
+common_names:
+  - Sweet Melilot
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - weed
+features:
+  - description: pea
+    feature: flower
+  - description: large-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-3m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 8-35mm
+    feature: leaf-length
+  - description: greater-than-5mm
+    feature: leaf-length
+  - description: less-than-50mm
+    feature: leaf-length
+  - description: spiny
+    feature: leaf-tip
+  - description: 15mm
+    feature: leaf-width
+  - description: up-to-2mm
+    feature: leaf-width
+  - description: 10-20mm
+    feature: seedpod-length
+  - description: greater-than-10mm
+    feature: seedpod-length
+  - description: less-than-20mm
+    feature: seedpod-length
+  - description: 6mm
+    feature: seedpod-width
+  - description: up-to-6mm
+    feature: seedpod-width
+  - description: 2-to-6
+    feature: seeds
+id:
+  ns: 53b398e9e35eb12984037269
+  vba: '502161'

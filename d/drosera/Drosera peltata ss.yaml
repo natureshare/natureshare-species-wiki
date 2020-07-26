@@ -1,0 +1,45 @@
+updated_by: chrisl
+common_names:
+  - Pale Sundew
+synonyms:
+  - Drosera peltata subsp. peltata
+classification:
+  - name: droseraceae
+    rank: family
+categories:
+  - carnivorous
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: petalled
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: white
+    feature: flower
+  - description: late-winter-early-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: basal-rosette
+    feature: leaf
+  - description: cupped
+    feature: leaf
+  - description: oval
+    feature: leaf
+  - description: pale-green
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: sticky
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+  - description: hairy
+    feature: sepal
+id:
+  ns: 53b398e7e35eb12984036a77
+  vba: '528434'

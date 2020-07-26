@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Pteromalidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - insect
+  - provisional-name
+  - wasp
+id:
+  ns: 54cf49aeed2a8980b700048a

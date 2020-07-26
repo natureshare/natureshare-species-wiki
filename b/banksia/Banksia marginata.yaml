@@ -1,0 +1,44 @@
+updated_by: chrisl
+common_names:
+  - Silver Banksia
+classification:
+  - name: proteaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: hairy
+    feature: flower
+  - description: rigid-spike
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: late-summer-early-winter
+    feature: flowering-time
+  - description: cone
+    feature: fruit
+  - description: grey
+    feature: fruit
+  - description: woody
+    feature: fruit
+  - description: small-tree
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: dark-green
+    feature: leaf
+  - description: long-oval
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: stiff
+    feature: leaf
+  - description: to-10cm
+    feature: leaf
+  - description: silver
+    feature: leaf-underside
+id:
+  ns: 53b398e6e35eb129840364a0
+  vba: '500363'

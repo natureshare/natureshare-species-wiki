@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Lichinomycetes
+    rank: class
+  - name: Lichinaceae
+    rank: family
+  - name: Lichinales
+    rank: order
+categories:
+  - fungi
+  - lichen
+id:
+  ns: 53b398f4e35eb1298403a884

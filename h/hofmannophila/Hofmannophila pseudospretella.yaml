@@ -1,0 +1,20 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Brown House Moth
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: Oecophoridae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+categories:
+  - moth
+features:
+  - description: brown
+    feature: wing
+id:
+  ns: 566fa834ed2a89a3ca000015

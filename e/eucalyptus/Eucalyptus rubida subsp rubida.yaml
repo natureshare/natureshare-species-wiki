@@ -1,0 +1,19 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Candlebark
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+id:
+  ns: 5510c91eed2a8994a900081f
+  vba: '504496'

@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Large-bract Hovea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398e8e35eb12984036efc
+  vba: '503768'

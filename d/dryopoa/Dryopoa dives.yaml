@@ -1,0 +1,46 @@
+updated_by: chrisl
+common_names:
+  - Giant Mountain-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - provisional-name
+features:
+  - description: grass
+    feature: flower
+  - description: loose-spike
+    feature: flower
+  - description: straw-coloured
+    feature: flower
+  - description: 1.5-4.5m-high
+    feature: flower-stalk
+  - description: cane-like
+    feature: flower-stalk
+  - description: to-2.5cm-thick
+    feature: flower-stalk
+  - description: mid-spring-early-autumn
+    feature: flowering-time
+  - description: grass
+    feature: habit
+  - description: large-open-tussock
+    feature: habit
+  - description: arching
+    feature: leaf
+  - description: bright-green
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+  - description: to-1.5m-long
+    feature: leaf
+  - description: tufted
+    feature: leaf
+id:
+  ns: 53b398e7e35eb12984036a7e
+  vba: '501112'

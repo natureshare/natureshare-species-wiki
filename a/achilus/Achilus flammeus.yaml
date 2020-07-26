@@ -1,0 +1,17 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Red Fingernail Bug
+  - Red Fungus Bug
+classification:
+  - name: Insecta
+    rank: class
+  - name: Achilidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - insect
+  - true-bug
+id:
+  ns: 54992d53e35eb16375000047

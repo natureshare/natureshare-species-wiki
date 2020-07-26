@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Delphacid Planthoppers
+classification:
+  - name: Insecta
+    rank: class
+  - name: Delphacidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - insect
+  - provisional-name
+id:
+  ns: 54bce36ded2a89d37e0000c8

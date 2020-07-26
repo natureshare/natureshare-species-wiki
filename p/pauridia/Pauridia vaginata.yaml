@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - Yellow Star
+synonyms:
+  - Hypoxis vaginata
+classification:
+  - name: hypoxidaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+  - provisional-name
+features:
+  - description: petalled
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: '6'
+    feature: number-of-petals
+  - description: '6'
+    feature: petals
+  - description: glabrous
+    feature: plant
+  - description: '1'
+    feature: stem-leaves
+id:
+  ns: 53b398e8e35eb12984036f6c
+  vba: '503778'

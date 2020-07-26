@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Kondinin Blackbutt
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: cluster
+    feature: flower
+  - description: mallee
+    feature: habit
+  - description: tree
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036bc0
+  vba: '507024'

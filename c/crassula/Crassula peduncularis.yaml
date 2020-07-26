@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Purple Crassula
+classification:
+  - name: crassulaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: waters-edge
+    feature: distribution
+  - description: widely-spaced-on-stem
+    feature: leaf
+id:
+  ns: 53b398e7e35eb129840368b5
+  vba: '500865'

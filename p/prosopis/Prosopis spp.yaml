@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Mesquite
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - provisional-name
+  - wattle
+  - weed
+features:
+  - description: cluster
+    feature: flower
+id:
+  ns: 53b398eae35eb129840376ed
+  vba: '508933'

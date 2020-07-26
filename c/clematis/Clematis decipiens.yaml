@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Slender Clematis
+classification:
+  - name: ranunculaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: bisexual
+    feature: flowers
+  - description: climber
+    feature: habit
+  - description: opposite
+    feature: leaf-arrangement
+id:
+  ns: 53b398e7e35eb129840367f7
+  vba: '507387'

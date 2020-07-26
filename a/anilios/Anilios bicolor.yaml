@@ -1,0 +1,21 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Dark-spined Blind Snake
+synonyms:
+  - Ramphotyphlops bicolor
+classification:
+  - name: Reptilia
+    rank: class
+  - name: typhlopidae
+    rank: family
+  - name: Squamata
+    rank: order
+categories:
+  - animal
+  - fauna
+  - rare-threatened
+  - reptile
+  - snake
+id:
+  ns: 582ad678ed2a897480003db4

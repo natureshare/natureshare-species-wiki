@@ -1,0 +1,20 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Rose Anthelid
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Anthelidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Anthelinae
+    rank: subfamily
+  - name: Bombycoidea
+    rank: superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5aceee29ed2a8994660035ae

@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Texas Needle-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - weed
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398e9e35eb12984037336
+  vba: '503997'

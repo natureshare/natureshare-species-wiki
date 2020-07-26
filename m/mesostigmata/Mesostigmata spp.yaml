@@ -1,0 +1,12 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Mesostigmata
+    rank: suborder
+categories:
+  - mite
+  - provisional-name
+id:
+  ns: 54794598e35eb11d690000bf

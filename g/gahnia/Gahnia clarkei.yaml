@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Tall Saw-sedge
+classification:
+  - name: cyperaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+  - sedge
+features:
+  - description: 1-5m-rarely-to-10m
+    feature: culm-height
+  - description: orange-red
+    feature: fruit
+  - description: 50-125cm
+    feature: inflorescence
+id:
+  ns: 53b398e8e35eb12984036ce8
+  vba: '501387'

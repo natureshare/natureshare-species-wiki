@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Spear Thistle Seed Fly
+classification:
+  - name: Insecta
+    rank: class
+  - name: Tephritidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+  - insect
+id:
+  ns: 54781e3ce35eb13c31000011

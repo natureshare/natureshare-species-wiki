@@ -1,0 +1,25 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Spikey Xylaria
+classification:
+  - name: Xylariaceae
+    rank: Family
+  - name: Sordariomycetes
+    rank: class
+  - name: Fungi
+    rank: kingdom
+  - name: Xylariales
+    rank: order
+  - name: Ascomycota
+    rank: phylum
+categories:
+  - fungi
+  - provisional-name
+features:
+  - description: thin-spike
+    feature: fruit-body
+  - description: white
+    feature: tip-colour
+id:
+  ns: 5a960ce4ed2a89ad32001894

@@ -1,0 +1,42 @@
+updated_by: chrisl
+common_names:
+  - Nodding Saltbush
+classification:
+  - name: chenopodiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: cream
+    feature: flower
+  - description: green
+    feature: flower
+  - description: inconspicuous
+    feature: flower
+  - description: berry
+    feature: fruit
+  - description: fleshy
+    feature: fruit
+  - description: red
+    feature: fruit
+  - description: groundcover
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: grey-green
+    feature: leaf
+  - description: lanceolate
+    feature: leaf
+  - description: lobed
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-3cm
+    feature: leaf
+id:
+  ns: 53b398e7e35eb12984036aa4
+  vba: '501133'

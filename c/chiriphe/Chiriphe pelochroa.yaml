@@ -1,0 +1,21 @@
+updated_by: koolah
+synonyms:
+  - Damias pelochroa
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Lepidoptera
+    rank: Order
+  - name: Lithosiinae
+    rank: Tribe
+  - name: Erebidae
+    rank: family
+  - name: Arctiinae
+    rank: subfamily
+  - name: Noctuoidea
+    rank: superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f2e35eb12984039de6

@@ -1,0 +1,36 @@
+updated_by: chrisl
+common_names:
+  - Common Rice-flower
+classification:
+  - name: thymelaeaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: tubular
+    feature: flower
+  - description: white
+    feature: flower
+  - description: spring-mid-summer
+    feature: flowering-time
+  - description: low-shrub
+    feature: habit
+  - description: elliptic
+    feature: leaf
+  - description: to-1.5cm
+    feature: leaf
+  - description: '4'
+    feature: number-of-petals
+  - description: '4'
+    feature: petals
+  - description: hairy
+    feature: stem
+id:
+  ns: 53b398e9e35eb12984037556
+  vba: '502523'

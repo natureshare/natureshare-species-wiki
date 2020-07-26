@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - Naked Crane's-bill
+classification:
+  - name: geraniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: petalled
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: divided
+    feature: leaf
+  - description: lobed
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+  - description: glabrous-glabrescent
+    feature: plant
+  - description: glabrous
+    feature: stem
+id:
+  ns: 53b398e8e35eb12984036d5b
+  vba: '505346'

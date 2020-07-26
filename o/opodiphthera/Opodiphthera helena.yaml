@@ -1,0 +1,36 @@
+updated_by: koolah
+common_names:
+  - Helena Gum Moth
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Saturniidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Saturniinae
+    rank: Subfamily
+  - name: Bombycoidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: purple
+    feature: line
+  - description: white
+    feature: line
+  - description: brown
+    feature: wing
+  - description: eye-spots
+    feature: wing
+  - description: lined
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: purple
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037e35

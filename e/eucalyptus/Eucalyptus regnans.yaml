@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - Mountain Ash
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: ribbony
+    feature: bark
+  - description: rough-on-lower-trunk
+    feature: bark
+  - description: groups-of-9-15
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+  - description: 40-100m
+    feature: height
+  - description: green
+    feature: leaf-colour
+  - description: glossy
+    feature: leaf-surface
+  - description: 15-3cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036bf4
+  vba: '501314'

@@ -1,0 +1,48 @@
+updated_by: chrisl
+common_names:
+  - Large Kangaroo Apple
+classification:
+  - name: solanaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: bluish
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: shallowly-lobed
+    feature: flower
+  - description: spring-early-autumn
+    feature: flowering-time
+  - description: egg-shaped
+    feature: fruit
+  - description: fleshy
+    feature: fruit
+  - description: green
+    feature: fruit
+  - description: orange
+    feature: fruit
+  - description: yellow
+    feature: fruit
+  - description: shrub
+    feature: habit
+  - description: divided
+    feature: leaf
+  - description: lobed
+    feature: leaf
+  - description: to-10cm
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+  - description: 2-to-2-and-a-half-mm
+    feature: seed
+id:
+  ns: 53b398eae35eb12984037a6b
+  vba: '503179'

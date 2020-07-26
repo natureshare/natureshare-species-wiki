@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Smooth Centrolepis
+classification:
+  - name: centrolepidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+features:
+  - description: glabrous
+    feature: bract
+  - description: longest-2-7mm-in-total
+    feature: bract
+  - description: one-or-both-not-long-extended
+    feature: bract
+  - description: glabrous
+    feature: leaf
+id:
+  ns: 53b398e6e35eb1298403675d
+  vba: '500714'

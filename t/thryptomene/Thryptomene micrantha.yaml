@@ -1,0 +1,25 @@
+updated_by: chrisl
+common_names:
+  - Ribbed Thryptomene
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: cluster
+    feature: flower
+  - description: '10'
+    feature: number-of-petals
+  - description: '5'
+    feature: number-of-petals
+  - description: '10'
+    feature: petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398ebe35eb12984037bdf
+  vba: '503396'

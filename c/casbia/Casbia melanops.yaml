@@ -1,0 +1,22 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Pomaderris Moth
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Geometroidea
+    rank: Superfamily
+  - name: Caberini
+    rank: Tribe
+  - name: Ennominae
+    rank: subfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 586860a3ed2a89748000c065

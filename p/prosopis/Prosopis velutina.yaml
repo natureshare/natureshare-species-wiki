@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Velvet Mesquite
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - wattle
+  - weed
+features:
+  - description: cluster
+    feature: flower
+id:
+  ns: 53b398eae35eb129840376ee
+  vba: '502736'

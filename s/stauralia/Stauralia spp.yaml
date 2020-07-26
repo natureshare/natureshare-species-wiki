@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: insecta
+    rank: class
+  - name: Acanthosomatidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - insect
+  - true-bug
+id:
+  ns: 5acc38c7ed2a89ca2300007c

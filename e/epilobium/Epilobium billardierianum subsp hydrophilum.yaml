@@ -1,0 +1,26 @@
+updated_by: chrisl
+common_names:
+  - Robust Willow-herb
+classification:
+  - name: onagraceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: pink
+    feature: flower
+  - description: pink-or-white
+    feature: flower
+  - description: white
+    feature: flower
+  - description: 8-24-teeth-on-margin
+    feature: leaf
+  - description: 5-15mm
+    feature: leaf-width
+  - description: opposite-at-least-on-lower-stem
+    feature: leaves
+id:
+  ns: 53b398e7e35eb12984036afc
+  vba: '504446'

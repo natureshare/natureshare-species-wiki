@@ -1,0 +1,20 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Brown Gardensnail
+  - Common Garden Snail
+synonyms:
+  - Helix aspersa
+classification:
+  - name: Gastropoda
+    rank: class
+  - name: Helicidae
+    rank: family
+  - name: Stylommatophora
+    rank: order
+  - name: Mollusca
+    rank: phylum
+categories:
+  - snail
+id:
+  ns: 54b10e2ced2a89627200004f

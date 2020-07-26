@@ -1,0 +1,22 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Phalaena (Tortrix) pomonella
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Tortricidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Olethreutinae
+    rank: Subfamily
+  - name: Tortricoidea
+    rank: Superfamily
+  - name: Grapholitini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 5d74fc9ecad3eb4c55000169

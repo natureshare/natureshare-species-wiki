@@ -1,0 +1,13 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Soft-Winged Flower Beetles
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Melyridae
+    rank: family
+  - name: Coleoptera
+    rank: order
+id:
+  ns: 585a464aed2a89748000a3ed

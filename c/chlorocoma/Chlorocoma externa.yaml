@@ -1,0 +1,28 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+categories:
+  - insect
+  - moth
+features:
+  - description: white
+    feature: line
+  - description: black
+    feature: wing
+  - description: green
+    feature: wing
+  - description: lined
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: pink
+    feature: wing
+  - description: white
+    feature: wing
+  - description: chequered
+    feature: wing-fringe
+  - description: pink
+    feature: wing-fringe
+id:
+  ns: 53b398ece35eb1298403802f

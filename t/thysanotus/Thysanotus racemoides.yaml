@@ -1,0 +1,19 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Rush Fringe-lily
+classification:
+  - name: anthericaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+features:
+  - description: '3'
+    feature: number-of-petals
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 54c0ad57ed2a89fdd90000d1

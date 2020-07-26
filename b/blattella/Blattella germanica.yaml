@@ -1,0 +1,16 @@
+updated_by: david_francis
+common_names:
+  - German Cockroach
+classification:
+  - name: Insecta
+    rank: class
+  - name: Ectobiidae
+    rank: family
+  - name: Blattodea
+    rank: order
+categories:
+  - cockroach
+  - fauna-introduced
+  - insect
+id:
+  ns: 53b398f2e35eb12984039f51

@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Sordariomycetes
+    rank: class
+  - name: Cordycipitaceae
+    rank: family
+  - name: Hypocreales
+    rank: order
+categories:
+  - fungi
+  - fungimap
+id:
+  ns: 53b398f3e35eb1298403a4d3

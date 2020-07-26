@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Tenebrionidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - darkling-beetle
+  - provisional-name
+id:
+  ns: 5a0ab990ed2a8962be000b29

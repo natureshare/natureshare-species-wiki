@@ -1,0 +1,36 @@
+updated_by: chrisl
+common_names:
+  - Alpine Marsh-marigold
+synonyms:
+  - Caltha introloba
+classification:
+  - name: ranunculaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - herb
+  - plant
+  - rare-threatened
+features:
+  - description: pink
+    feature: flower-colour
+  - description: white
+    feature: flower-colour
+  - description: bisexual
+    feature: flowers
+  - description: solitary
+    feature: flowers
+  - description: alpine
+    feature: habitat
+  - description: rosetted
+    feature: leaf-attachment
+  - description: to-4cm
+    feature: leaf-length
+  - description: ovate-to-lanceolate
+    feature: leaf-shape
+  - description: to-1.8cm
+    feature: leaf-width
+id:
+  ns: 53b398eae35eb1298403772a
+  vba: '500601'

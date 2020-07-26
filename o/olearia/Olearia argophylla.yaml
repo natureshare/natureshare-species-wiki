@@ -1,0 +1,47 @@
+updated_by: chrisl
+common_names:
+  - Musk Daisy-bush
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: clustered
+    feature: flower
+  - description: daisy
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: white
+    feature: flower
+  - description: spring-early-autumn
+    feature: flowering-time
+  - description: large-shrub
+    feature: habit
+  - description: small-tree
+    feature: habit
+  - description: dark-green
+    feature: leaf
+  - description: elliptic
+    feature: leaf
+  - description: margin-toothed
+    feature: leaf
+  - description: musky-smell
+    feature: leaf
+  - description: serrated
+    feature: leaf
+  - description: silvery-underneath
+    feature: leaf
+  - description: to-15cm
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e9e35eb12984037387
+  vba: '502299'

@@ -1,0 +1,23 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Hydriomena leucophanes
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Larentiinae
+    rank: Subfamily
+  - name: Geometroidea
+    rank: Superfamily
+  - name: Hydriomenini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+  - provisional-name
+id:
+  ns: 5d452013c347d55c5e0002a9

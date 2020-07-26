@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Lemon-scented Gum
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: cluster
+    feature: flower
+id:
+  ns: 53b398e7e35eb12984036881
+  vba: '505544'

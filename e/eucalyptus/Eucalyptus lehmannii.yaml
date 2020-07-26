@@ -1,0 +1,20 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Bushy Yate
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: cluster
+    feature: flower
+  - description: mallee
+    feature: habit
+id:
+  ns: 54a35706e35eb1534900000e
+  vba: '507127'

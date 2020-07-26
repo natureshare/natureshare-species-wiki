@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - Rounded Noon-flower
+classification:
+  - name: aizoaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: almost-round-in-cross-section
+    feature: leaf
+id:
+  ns: 53b398e7e35eb12984036a28
+  vba: '501073'

@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - Ivy Goodenia
+classification:
+  - name: goodeniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: greenish-pubescent-to-glabrescent
+    feature: leaf-underside
+id:
+  ns: 53b398e8e35eb12984036db7
+  vba: '504543'

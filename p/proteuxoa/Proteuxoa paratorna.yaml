@@ -1,0 +1,27 @@
+classification:
+  - name: Insecta
+    rank: class
+  - name: NOCTUIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: ACRONICTINAE/AMPHIPYRINAE
+    rank: subfamily
+  - name: NOCTUOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: black
+    feature: spots
+  - description: grey
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: spots
+    feature: wing
+  - description: two-coloured
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f48

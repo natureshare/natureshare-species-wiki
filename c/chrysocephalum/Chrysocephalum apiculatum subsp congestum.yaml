@@ -1,0 +1,19 @@
+updated_by: david_francis
+common_names:
+  - Plains Everlasting
+synonyms:
+  - Chrysocephalum sp. 1
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: linear-to-narrow-lanceolate
+    feature: leaf
+id:
+  ns: 53b398e7e35eb129840367d9
+  vba: '504400'

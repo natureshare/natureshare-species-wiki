@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: insecta
+    rank: class
+  - name: Bombyliidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+  - provisional-name
+id:
+  ns: 5a927b68ed2a89ad32000a25

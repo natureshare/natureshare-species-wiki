@@ -1,0 +1,18 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Small Twisted-moth
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: Geometridae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+categories:
+  - insect
+  - moth
+id:
+  ns: 54f6d96bed2a89097e00012b

@@ -1,0 +1,13 @@
+updated_by: chrisl
+common_names:
+  - Fungi
+classification:
+  - name: Eukaryota
+    rank: domain
+  - name: Fungi
+    rank: kingdom
+categories:
+  - fungi
+  - provisional-name
+id:
+  ns: 53b398f2e35eb12984039d3e

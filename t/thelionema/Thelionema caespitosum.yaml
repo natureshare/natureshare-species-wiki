@@ -1,0 +1,37 @@
+updated_by: chrisl
+common_names:
+  - Tufted Lily
+classification:
+  - name: hemerocallidaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+features:
+  - description: blue
+    feature: flower
+  - description: star-shaped
+    feature: flower
+  - description: white
+    feature: flower
+  - description: spring-mid-summer
+    feature: flowering-time
+  - description: tuft
+    feature: habit
+  - description: basal-tuft
+    feature: leaf
+  - description: blue-green-pale-green
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: to-30cm
+    feature: leaf
+  - description: '6'
+    feature: number-of-petals
+  - description: wiry-branched
+    feature: stem
+id:
+  ns: 53b398ebe35eb12984037b94
+  vba: '503308'

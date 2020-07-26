@@ -1,0 +1,25 @@
+updated_by: chrisl
+common_names:
+  - Small Mosquito-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: maroon
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: purple
+    feature: flower-colour
+  - description: herb
+    feature: habit
+  - description: purple-underneath
+    feature: leaf
+id:
+  ns: 53b398e5e35eb1298403624f
+  vba: '504439'

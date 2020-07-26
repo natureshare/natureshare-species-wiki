@@ -1,0 +1,19 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Pale Leek-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - provisional-name
+features:
+  - description: orchid
+    feature: flower
+id:
+  ns: 547194f4e35eb12d37000007
+  vba: '502718'

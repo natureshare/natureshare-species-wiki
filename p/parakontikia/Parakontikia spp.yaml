@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Turbellaria
+    rank: class
+  - name: Geoplanidae
+    rank: family
+  - name: Seriata
+    rank: order
+  - name: Platyhelminthes
+    rank: phylum
+categories:
+  - flatworm
+  - provisional-name
+id:
+  ns: 5891829bed2a89d10f0020d1

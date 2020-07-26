@@ -1,0 +1,33 @@
+updated_by: chrisl
+common_names:
+  - Shiny Tea-tree
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - native-and-weedy-stands-in-vic
+  - plant
+  - rare-threatened
+features:
+  - description: white
+    feature: flower-colour
+  - description: large-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-3m
+    feature: height
+  - description: 10-25mm
+    feature: leaf-length
+  - description: 3-8mm
+    feature: leaf-width
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e8e35eb129840370ff
+  vba: '501963'

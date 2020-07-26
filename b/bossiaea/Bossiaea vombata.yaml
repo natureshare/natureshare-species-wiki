@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Wombat Bossiaea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398e6e35eb1298403653d
+  vba: '505970'

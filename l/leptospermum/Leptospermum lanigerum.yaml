@@ -1,0 +1,36 @@
+updated_by: chrisl
+common_names:
+  - Woolly Tea-tree
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: white
+    feature: flower-colour
+  - description: hairy-beneath-as-sepals-remain
+    feature: friut
+  - description: persists-on-plant
+    feature: fruit
+  - description: shrub
+    feature: habit
+  - description: tree
+    feature: habit
+  - description: to-4m
+    feature: height
+  - description: 4-20mm
+    feature: leaf-length
+  - description: 15-4mm
+    feature: leaf-width
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+  - description: hairy
+    feature: sepal
+id:
+  ns: 53b398e8e35eb129840370f5
+  vba: '501958'

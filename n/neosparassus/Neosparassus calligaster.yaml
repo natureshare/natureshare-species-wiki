@@ -1,0 +1,19 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Beautiful Badge Huntsman
+synonyms:
+  - Heteropoda calligaster
+classification:
+  - name: Arachnida
+    rank: Class
+  - name: Sparassidae
+    rank: Family
+  - name: Araneomorphae
+    rank: Infraorder
+  - name: Araneae
+    rank: Order
+categories:
+  - spider
+id:
+  ns: 5d687eb3cad3eb202400004b

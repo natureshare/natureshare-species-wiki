@@ -1,0 +1,15 @@
+created_by: chrisl
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Triozidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - insect
+  - provisional-name
+  - true-bug
+id:
+  ns: 5635ec6ced2a89e56e0002b5

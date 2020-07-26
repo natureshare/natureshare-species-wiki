@@ -1,0 +1,13 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Miturgidae
+    rank: family
+  - name: Araneae
+    rank: order
+categories:
+  - spider
+id:
+  ns: 54e57b84ed2a89ef270003e9

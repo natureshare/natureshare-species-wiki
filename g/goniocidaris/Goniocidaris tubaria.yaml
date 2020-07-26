@@ -1,0 +1,18 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Thorny Sea Urchin
+classification:
+  - name: Echinoidea
+    rank: class
+  - name: Cidaridae
+    rank: family
+  - name: Cidaroida
+    rank: order
+  - name: Echinodermata
+    rank: phylum
+categories:
+  - echinoderm
+  - sea-urchin
+id:
+  ns: 5af51561ed2a89fa06000275

@@ -1,0 +1,12 @@
+updated_by: chrisl
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Araneidae
+    rank: family
+  - name: Araneae
+    rank: order
+categories:
+  - spider
+id:
+  ns: 53b398f3e35eb1298403a391

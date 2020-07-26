@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Slender Bee-fly
+classification:
+  - name: Insecta
+    rank: class
+  - name: Bombyliidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+  - snipe-fly
+id:
+  ns: 58931c36ed2a89d10f0024ef

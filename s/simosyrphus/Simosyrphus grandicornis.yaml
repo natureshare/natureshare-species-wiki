@@ -1,0 +1,17 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Common Hover-fly
+classification:
+  - name: Insecta
+    rank: class
+  - name: Syrphidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+  - hover-fly
+  - insect
+id:
+  ns: 54e1e28ded2a8987b7000239

@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Orange-spotted Ladybird
+classification:
+  - name: Coccinellidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - insect
+id:
+  ns: 540c00f7e35eb12a35000005

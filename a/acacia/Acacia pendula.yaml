@@ -1,0 +1,24 @@
+updated_by: chrisl
+common_names:
+  - Weeping Myall
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - ffg
+  - flora
+  - native-and-weedy-stands-in-vic
+  - plant
+  - rare-threatened
+  - wattle
+features:
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+id:
+  ns: 53b398e5e35eb129840361f1
+  vba: '500073'

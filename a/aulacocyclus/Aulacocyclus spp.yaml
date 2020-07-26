@@ -1,0 +1,14 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Passalidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ede35eb1298403889c

@@ -1,0 +1,14 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Tingidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - insect
+  - provisional-name
+  - true-bug
+id:
+  ns: 53b398f0e35eb1298403927c

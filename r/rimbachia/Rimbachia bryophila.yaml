@@ -1,0 +1,17 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Fayodiaceae
+    rank: family
+  - name: Fungi
+    rank: kingdom
+  - name: Agaricales
+    rank: order
+  - name: Basidiomycota
+    rank: phylum
+categories:
+  - fungi
+id:
+  ns: 5a533fb7ed2a89d22b000b7b

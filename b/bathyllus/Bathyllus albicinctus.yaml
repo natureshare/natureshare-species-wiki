@@ -1,0 +1,13 @@
+created_by: chrisl
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Cercopidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - true-bug
+id:
+  ns: 566fa7aeed2a89d6d6000079

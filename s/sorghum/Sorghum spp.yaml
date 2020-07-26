@@ -1,0 +1,19 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Sorghum
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - plant
+  - provisional-name
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 546aad10e35eb1cbf600001c

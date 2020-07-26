@@ -1,0 +1,23 @@
+updated_by: koolah
+common_names:
+  - Orange Cup Moth
+  - Orange Cup-moth
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Limacodidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Zygaenoidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: brown
+    feature: wing
+  - description: orange
+    feature: wing
+id:
+  ns: 53b398f2e35eb12984039d4c

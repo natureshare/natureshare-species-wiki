@@ -1,0 +1,25 @@
+updated_by: chrisl
+common_names:
+  - Small Vanilla-lily
+classification:
+  - name: anthericaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+features:
+  - description: 1-per-axil
+    feature: flower
+  - description: nodding
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: '3'
+    feature: number-of-petals
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398e6e35eb129840363a6
+  vba: '500270'

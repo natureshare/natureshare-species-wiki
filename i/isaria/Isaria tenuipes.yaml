@@ -1,0 +1,17 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Sordariomycetes
+    rank: class
+  - name: Cordycipitaceae
+    rank: family
+  - name: Fungi
+    rank: kingdom
+  - name: Hypocreales
+    rank: order
+  - name: Ascomycota
+    rank: phylum
+categories:
+  - fungi
+id:
+  ns: 5b83fc21ed2a89a7f1008fa1

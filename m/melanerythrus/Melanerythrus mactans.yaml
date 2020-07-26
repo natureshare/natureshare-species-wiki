@@ -1,0 +1,15 @@
+updated_by: david_francis
+common_names:
+  - Red-banded Seed-eating Bug
+classification:
+  - name: Insecta
+    rank: class
+  - name: Lygaeidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - insect
+  - true-bug
+id:
+  ns: 53b398efe35eb12984039140

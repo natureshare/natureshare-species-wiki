@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Stony Bush-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - ffg
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398eae35eb129840377c9
+  vba: '503929'

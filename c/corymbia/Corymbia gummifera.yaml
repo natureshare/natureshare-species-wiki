@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Red Bloodwood
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: cluster
+    feature: flower
+id:
+  ns: 53b398e7e35eb12984036882
+  vba: '501288'

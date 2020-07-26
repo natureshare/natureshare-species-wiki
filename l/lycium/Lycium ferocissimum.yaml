@@ -1,0 +1,35 @@
+updated_by: chrisl
+common_names:
+  - African Box-thorn
+classification:
+  - name: solanaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: spine-tipped
+    feature: branchlets
+  - description: white
+    feature: flower
+  - description: white-pale-lavender
+    feature: flower
+  - description: 1-per-axil
+    feature: flower-arrangement
+  - description: berry
+    feature: fruit
+  - description: orange-red
+    feature: fruit
+  - description: large-shrub
+    feature: habit
+  - description: obovate
+    feature: leaf-shape
+  - description: clustered
+    feature: leaves
+  - description: slightly-fleshy
+    feature: leaves
+id:
+  ns: 53b398e9e35eb129840371d5
+  vba: '502078'

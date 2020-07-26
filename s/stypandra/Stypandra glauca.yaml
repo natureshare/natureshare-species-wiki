@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Nodding Blue-lily
+classification:
+  - name: hemerocallidaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+features:
+  - description: purple
+    feature: flower
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398ebe35eb12984037b19
+  vba: '503309'

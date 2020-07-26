@@ -1,0 +1,13 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: insecta
+    rank: class
+  - name: Braconidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - wasp
+id:
+  ns: 588c1021ed2a89d10f00128d

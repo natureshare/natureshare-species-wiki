@@ -1,0 +1,35 @@
+updated_by: chrisl
+common_names:
+  - Black Wattle
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - wattle
+features:
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+  - description: spring-early-summer
+    feature: flowering-time
+  - description: tree
+    feature: habit
+  - description: bipinnate
+    feature: leaf
+  - description: divided
+    feature: leaf
+  - description: glands
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: hard
+    feature: seedpod
+id:
+  ns: 53b398e5e35eb129840361dd
+  vba: '500056'

@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - New Zealand Christmas Tree
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: cluster
+    feature: flower
+id:
+  ns: 53b398e9e35eb12984037284
+  vba: '507533'

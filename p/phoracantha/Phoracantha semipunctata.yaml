@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Common Eucalypt Longhorn Beetle
+classification:
+  - name: insecta
+    rank: class
+  - name: Cerambycidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+id:
+  ns: 5c3869973abbd6f8640000bf

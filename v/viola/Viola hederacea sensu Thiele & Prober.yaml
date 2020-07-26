@@ -1,0 +1,28 @@
+updated_by: chrisl
+common_names:
+  - Ivy-leaf Violet
+classification:
+  - name: violaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: petalled
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: white
+    feature: flower
+  - description: groundcover
+    feature: habit
+  - description: herb
+    feature: habit
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398ebe35eb12984037d14
+  vba: '505794'

@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Small-leaf Swainson-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398ebe35eb12984037b2a
+  vba: '503320'

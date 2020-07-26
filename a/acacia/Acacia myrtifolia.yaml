@@ -1,0 +1,39 @@
+updated_by: chrisl
+common_names:
+  - Myrtle Wattle
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - wattle
+features:
+  - description: globular-cluster
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+  - description: winter-early-spring
+    feature: flowering-time
+  - description: shrub
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: entire
+    feature: leaf
+  - description: oval
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-6cm
+    feature: leaf-length
+  - description: bronze
+    feature: leaf-new
+  - description: hard
+    feature: seedpod
+id:
+  ns: 53b398e5e35eb129840361e6
+  vba: '500063'

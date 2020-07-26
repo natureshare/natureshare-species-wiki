@@ -1,0 +1,19 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Leaf Case Moth
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: Psychidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+categories:
+  - case-moth
+  - insect
+  - moth
+id:
+  ns: 54e13588ed2a8987b7000176

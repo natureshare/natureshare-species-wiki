@@ -1,0 +1,71 @@
+updated_by: chrisl
+common_names:
+  - Yellow Box
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - tree
+features:
+  - description: light-green-to-greyish-blue
+    feature: adult-leaf
+  - description: linear
+    feature: adult-leaf
+  - description: to-14cm
+    feature: adult-leaf
+  - description: loose-and-flaky
+    feature: bark
+  - description: red-brown-dark-up-trunk-and-part-of-branches
+    feature: bark
+  - description: rough-fibrous
+    feature: bark
+  - description: rough-on-trunk
+    feature: bark
+  - description: smooth-paler-higher
+    feature: bark
+  - description: 3-7
+    feature: buds
+  - description: club-shaped
+    feature: buds
+  - description: club-shaped
+    feature: buds
+  - description: groups-of-7
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: scented
+    feature: flower
+  - description: white-cream
+    feature: flower
+  - description: spring-summer
+    feature: flowering-time
+  - description: hard
+    feature: fruit
+  - description: hemispherical
+    feature: fruit
+  - description: tree
+    feature: habit
+  - description: 8-30m
+    feature: height
+  - description: grey-green
+    feature: juvenile-leaf
+  - description: ovate
+    feature: juvenile-leaf
+  - description: alternate
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: blue-green
+    feature: leaf-colour
+  - description: grey-green
+    feature: leaf-colour
+  - description: dull
+    feature: leaf-surface
+  - description: 09-26cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036bd1
+  vba: '501297'

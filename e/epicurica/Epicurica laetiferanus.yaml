@@ -1,0 +1,28 @@
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Oecophoridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Oecophorinae
+    rank: Subfamily
+  - name: Gelechioidea
+    rank: Superfamily
+  - name: Wingia-group
+    rank: Supertribe
+categories:
+  - insect
+  - moth
+features:
+  - description: cream
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: yellow-orange
+    feature: wing
+  - description: yellow
+    feature: wing-fringe
+id:
+  ns: 53b398f0e35eb12984039607

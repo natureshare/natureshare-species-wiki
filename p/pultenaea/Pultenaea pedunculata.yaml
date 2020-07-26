@@ -1,0 +1,57 @@
+updated_by: chrisl
+common_names:
+  - Matted Bush-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: angular-terete
+    feature: branches
+  - description: pea
+    feature: flower
+  - description: orange
+    feature: flower-colour
+  - description: pea
+    feature: flower-shape-type
+  - description: medium-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-2m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 150-200mm
+    feature: leaf-length
+  - description: greater-than-150mm
+    feature: leaf-length
+  - description: less-than-200mm
+    feature: leaf-length
+  - description: 4-30mm
+    feature: leaf-width
+  - description: greater-than-4mm
+    feature: leaf-width
+  - description: less-than-30mm
+    feature: leaf-width
+  - description: yellow-orange-gold
+    feature: main-flower-colour
+  - description: 6-10mm
+    feature: seedpod-length
+  - description: greater-than-5mm
+    feature: seedpod-length
+  - description: less-than-10mm
+    feature: seedpod-length
+  - description: 4-7mm
+    feature: seedpod-width
+  - description: greater-than-4mm
+    feature: seedpod-width
+  - description: up-to-7mm
+    feature: seedpod-width
+id:
+  ns: 53b398eae35eb129840377d6
+  vba: '502864'

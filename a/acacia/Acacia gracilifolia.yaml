@@ -1,0 +1,23 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Graceful Wattle
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - wattle
+  - weed
+features:
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+id:
+  ns: 54e212a8ed2a8987b700028f
+  vba: '507522'

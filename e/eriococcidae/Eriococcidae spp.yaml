@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Eriococcid Scale
+classification:
+  - name: Insecta
+    rank: class
+  - name: Eriococcidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - provisional-name
+  - scale-insect
+id:
+  ns: 5465d491e35eb16f28000016

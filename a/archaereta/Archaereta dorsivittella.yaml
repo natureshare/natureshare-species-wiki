@@ -1,0 +1,24 @@
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Oecophoridae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+categories:
+  - insect
+  - moth
+features:
+  - description: brown
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ece35eb12984038038

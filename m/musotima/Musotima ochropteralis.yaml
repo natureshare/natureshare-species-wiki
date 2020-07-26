@@ -1,0 +1,15 @@
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Crambidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Musotiminae
+    rank: subfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f2e35eb12984039e77

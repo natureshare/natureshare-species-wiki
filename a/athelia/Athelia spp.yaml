@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - Athelia Lichen
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Atheliaceae
+    rank: family
+  - name: Atheliales
+    rank: order
+categories:
+  - fungi
+  - lichen
+  - provisional-name
+id:
+  ns: 53b398f2e35eb12984039ff3

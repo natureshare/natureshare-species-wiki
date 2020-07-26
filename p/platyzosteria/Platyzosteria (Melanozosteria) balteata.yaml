@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Blattidae
+    rank: family
+  - name: Blattodea
+    rank: order
+categories:
+  - cockroach
+  - insect
+id:
+  ns: 53b398ece35eb129840381a9

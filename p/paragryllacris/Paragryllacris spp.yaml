@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: insecta
+    rank: class
+  - name: Gryllacrididae
+    rank: family
+  - name: Orthoptera
+    rank: order
+categories:
+  - grasshopper
+  - provisional-name
+id:
+  ns: 5899b770ed2a89d10f003460

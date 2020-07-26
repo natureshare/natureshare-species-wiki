@@ -1,0 +1,15 @@
+updated_by: chrisl
+common_names:
+  - Yellow Stainer
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Agaricaceae
+    rank: family
+  - name: Agaricales
+    rank: order
+categories:
+  - fungi
+  - fungimap
+id:
+  ns: 53b398f3e35eb1298403a25e

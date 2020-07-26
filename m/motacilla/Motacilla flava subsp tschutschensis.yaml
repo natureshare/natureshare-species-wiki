@@ -1,0 +1,20 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Eastern Yellow Wagtail
+synonyms:
+  - Motacilla tschutschensis
+classification:
+  - name: aves
+    rank: class
+  - name: motacillidae
+    rank: family
+  - name: passeriformes
+    rank: order
+  - name: Budytes
+    rank: subgenus
+categories:
+  - bird
+  - vagrant-victoria
+id:
+  ns: 5c2360303abbd6cd3e000277

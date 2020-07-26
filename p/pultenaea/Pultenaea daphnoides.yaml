@@ -1,0 +1,41 @@
+updated_by: chrisl
+common_names:
+  - Large-leaf Bush-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: pea
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: orange
+    feature: flower-colour
+  - description: large-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-35m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 5-25mm
+    feature: leaf-length
+  - description: greater-than-5mm
+    feature: leaf-length
+  - description: less-than-30mm
+    feature: leaf-length
+  - description: spiny
+    feature: leaf-tip
+  - description: 1-3mm
+    feature: leaf-width
+  - description: up-to-3mm
+    feature: leaf-width
+id:
+  ns: 53b398eae35eb129840377bb
+  vba: '502844'

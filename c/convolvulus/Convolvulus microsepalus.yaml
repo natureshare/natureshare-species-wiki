@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - Small-flower Bindweed
+classification:
+  - name: convolvulaceae
+    rank: family
+categories:
+  - extinct-vic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: glabrous-or-nearly-glabrous
+    feature: sepal
+id:
+  ns: 53b398e7e35eb1298403682e

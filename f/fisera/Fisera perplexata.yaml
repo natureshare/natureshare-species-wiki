@@ -1,0 +1,32 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: GEOMETRIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: ENNOMINAE
+    rank: subfamily
+  - name: GEOMETROIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: grey
+    feature: spots
+  - description: brown
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: one-coloured
+    feature: wing
+  - description: spots
+    feature: wing
+  - description: two-coloured
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f06

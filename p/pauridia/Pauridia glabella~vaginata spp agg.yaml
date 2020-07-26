@@ -1,0 +1,23 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Tiny/Yellow Star species aggregate
+synonyms:
+  - Hypoxis glabella/vaginata spp. agg.
+classification:
+  - name: hypoxidaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+  - provisional-name
+features:
+  - description: yellow
+    feature: flower
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 54a11bb5e35eb1e79c0000ca
+  vba: '501754'

@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Geranium Plume Moth
+classification:
+  - name: Insecta
+    rank: class
+  - name: Pterophoridae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+categories:
+  - moth
+id:
+  ns: 590c58b3ed2a893d8c002165

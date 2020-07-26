@@ -1,0 +1,15 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Strawberry
+classification:
+  - name: rosaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+id:
+  ns: 5471a24be35eb1eb2100000d
+  vba: '505825'

@@ -1,0 +1,33 @@
+updated_by: chrisl
+common_names:
+  - Tall Potato-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: brown
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: tubular
+    feature: flower
+  - description: white
+    feature: flower
+  - description: fully-erect-when-in-bud
+    feature: flowering-stems
+  - description: 8-75
+    feature: flowers
+  - description: more-than-24-on-some-plants
+    feature: flowers
+  - description: herb
+    feature: habit
+  - description: 25cm-to-100cm
+    feature: height
+id:
+  ns: 53b398e8e35eb12984036d0d
+  vba: '503750'

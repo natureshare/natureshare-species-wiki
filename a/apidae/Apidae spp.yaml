@@ -1,0 +1,18 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Apidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+  - name: Apocrita
+    rank: suborder
+  - name: Apoidea
+    rank: superfamily
+categories:
+  - bee
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb12984038113

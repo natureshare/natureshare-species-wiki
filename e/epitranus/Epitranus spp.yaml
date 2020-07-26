@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Chalcididae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - provisional-name
+  - wasp
+id:
+  ns: 5917f91eed2a893e6b000749

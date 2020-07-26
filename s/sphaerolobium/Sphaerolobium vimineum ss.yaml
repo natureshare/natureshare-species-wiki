@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Leafless Globe-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398eae35eb12984037ab6
+  vba: '504978'

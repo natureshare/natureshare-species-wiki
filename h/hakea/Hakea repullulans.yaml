@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Western Furze Hakea
+classification:
+  - name: proteaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: anglesea-and-west
+    feature: distribution
+  - description: 3-12mm
+    feature: leaf-width
+id:
+  ns: 53b398e8e35eb12984036e3f
+  vba: '503764'

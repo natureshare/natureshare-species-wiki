@@ -1,0 +1,15 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Pygmy Perch
+classification:
+  - name: Percichthyidae
+    rank: family
+  - name: Perciformes
+    rank: order
+categories:
+  - animal
+  - fauna
+  - fish
+id:
+  ns: 55471208ed2a89dfbc000356

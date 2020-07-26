@@ -1,0 +1,15 @@
+updated_by: chrisl
+common_names:
+  - Dragonfly
+  - Dragonfly or Damselfly
+classification:
+  - name: Insecta
+    rank: class
+  - name: Odonata
+    rank: order
+categories:
+  - dragonfly-and-damselfly
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ebe35eb12984037f85

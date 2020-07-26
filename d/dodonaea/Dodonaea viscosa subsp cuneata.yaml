@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Wedge-leaf Hop-bush
+classification:
+  - name: sapindaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: at-least-some-wedge-shaped
+    feature: leaf
+  - description: 15-25mm-rarely-8-38mm
+    feature: leaf-length
+  - description: less-than-3-and-a-half
+    feature: leaf-length-to-width-ratio
+  - description: 4-9mm-rarely-to-12mm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036a63
+  vba: '501089'

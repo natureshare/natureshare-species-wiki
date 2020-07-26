@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Victorian Buttercup
+classification:
+  - name: ranunculaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: bisexual
+    feature: flowers
+  - description: appressed
+    feature: petiole-hairs
+  - description: '5'
+    feature: sepals
+id:
+  ns: 53b398eae35eb1298403783a
+  vba: '503961'

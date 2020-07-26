@@ -1,0 +1,26 @@
+updated_by: chrisl
+common_names:
+  - Mauve-tuft Sun-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: mauve-blue
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: blue
+    feature: flower-colour
+  - description: herb
+    feature: habit
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398ebe35eb12984037bbd
+  vba: '503374'

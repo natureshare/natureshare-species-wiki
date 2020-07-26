@@ -1,0 +1,24 @@
+updated_by: chrisl
+common_names:
+  - Metallic Sun-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - epbc
+  - ffg
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398ebe35eb12984037bab
+  vba: '503367'

@@ -1,0 +1,38 @@
+updated_by: chrisl
+common_names:
+  - Wattle Mat-rush
+classification:
+  - name: xanthorrhoeaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+features:
+  - description: like-tiny-wattle-buds
+    feature: female-flower
+  - description: yellow
+    feature: female-flower
+  - description: spike
+    feature: flower
+  - description: mid-late-spring
+    feature: flowering-time
+  - description: tuft
+    feature: habit
+  - description: bluish-green
+    feature: leaf
+  - description: channelled
+    feature: leaf
+  - description: margins-inrolled
+    feature: leaf
+  - description: tip-minutely-1-3-pointed
+    feature: leaf
+  - description: 13-47cm-rarely-down-to-8cm
+    feature: leaf-length
+  - description: half-to-one-and-a-half-mm
+    feature: leaf-width
+  - description: purple-and-yellow
+    feature: male-flower
+id:
+  ns: 53b398e9e35eb12984037194
+  vba: '504710'

@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Deddick Blue-box
+synonyms:
+  - Eucalyptus aff. baueriana (Deddick)
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+id:
+  ns: 53b398f2e35eb12984039ea6
+  vba: '528438'

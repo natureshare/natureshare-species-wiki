@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Tongue Orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - provisional-name
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e7e35eb129840368e4
+  vba: '508275'

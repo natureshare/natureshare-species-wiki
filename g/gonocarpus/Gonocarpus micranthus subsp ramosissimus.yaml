@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Branching Raspwort
+classification:
+  - name: haloragaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: 3-4th-order-branching
+    feature: inflorescence
+  - description: circular-or-nearly-so
+    feature: leaf
+  - description: upright-not-prostrate
+    feature: plant
+id:
+  ns: 53b398e8e35eb12984036da6
+  vba: '504885'

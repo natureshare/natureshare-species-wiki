@@ -1,0 +1,17 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Freshwater Catfish
+classification:
+  - name: Plotosidae
+    rank: family
+  - name: Siluriformes
+    rank: order
+categories:
+  - animal
+  - fauna
+  - ffg
+  - fish
+  - rare-threatened
+id:
+  ns: 55471f4fed2a89dfbc0003a9

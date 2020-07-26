@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Sweet Fenugreek
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: cluster
+    feature: flower
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398ebe35eb12984037c77
+  vba: '503452'

@@ -1,0 +1,25 @@
+updated_by: chrisl
+common_names:
+  - Tall Greenhood
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: hooded
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: leaves-on-stem
+    feature: leaf
+  - description: leaves
+    feature: stem
+id:
+  ns: 53b398eae35eb1298403775b
+  vba: '504131'

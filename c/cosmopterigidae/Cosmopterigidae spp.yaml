@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: insecta
+    rank: class
+  - name: Cosmopterigidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: GELECHIOIDEA
+    rank: superfamily
+categories:
+  - moth
+  - provisional-name
+id:
+  ns: 592672a2ed2a89292f000006

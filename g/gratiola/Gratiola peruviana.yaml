@@ -1,0 +1,39 @@
+updated_by: chrisl
+common_names:
+  - Austral Brooklime
+classification:
+  - name: veronicaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - herb
+  - plant
+features:
+  - description: pink
+    feature: flower
+  - description: tubular
+    feature: flower
+  - description: white
+    feature: flower
+  - description: mid-spring-mid-autumn
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: ovate
+    feature: leaf
+  - description: paired
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+  - description: to-4.5cm
+    feature: leaf
+  - description: 6-27mm
+    feature: leaf-width
+  - description: usually-1-7mm-rarely-to-12mm
+    feature: pedicel
+  - description: '4'
+    feature: petals
+id:
+  ns: 53b398e8e35eb12984036dd4
+  vba: '501524'

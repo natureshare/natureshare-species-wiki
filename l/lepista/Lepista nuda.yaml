@@ -1,0 +1,17 @@
+updated_by: david_francis
+common_names:
+  - Wood Blewit
+synonyms:
+  - Clitocybe nuda
+  - Tricholoma nudum
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Tricholomataceae
+    rank: family
+  - name: Agaricales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 53b398f4e35eb1298403a632

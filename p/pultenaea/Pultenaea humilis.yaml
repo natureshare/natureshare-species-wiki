@@ -1,0 +1,47 @@
+updated_by: chrisl
+common_names:
+  - Dwarf Bush-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: pea
+    feature: flower
+  - description: blue-mauve
+    feature: flower-colour
+  - description: white
+    feature: flower-colour
+  - description: procumbent
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-1m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 10-110mm
+    feature: leaf-length
+  - description: greater-than-10mm
+    feature: leaf-length
+  - description: less-than-110mm
+    feature: leaf-length
+  - description: 2-16mm
+    feature: leaf-width
+  - description: greater-than-2mm
+    feature: leaf-width
+  - description: less-than-20mm
+    feature: leaf-width
+  - description: 8-10mm
+    feature: seedpod-length
+  - description: greater-than-5mm
+    feature: seedpod-length
+  - description: less-than-10mm
+    feature: seedpod-length
+id:
+  ns: 53b398eae35eb129840377c6
+  vba: '502853'

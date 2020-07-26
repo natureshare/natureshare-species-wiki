@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Sciaridae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - gnat
+  - provisional-name
+id:
+  ns: 593019a1ed2a89edd4000010

@@ -1,0 +1,23 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Noctua loreyi
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Noctuidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Noctuinae
+    rank: Subfamily
+  - name: Noctuoidea
+    rank: Superfamily
+  - name: Hadenini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+  - provisional-name
+id:
+  ns: 5d4528b7c347d53bf8000231

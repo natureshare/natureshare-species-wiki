@@ -1,0 +1,38 @@
+updated_by: chrisl
+common_names:
+  - Prickly Bush-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - native-and-weedy-stands-in-vic
+  - pea
+  - plant
+features:
+  - description: pea
+    feature: flower
+  - description: orange
+    feature: flower-colour
+  - description: low-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-05m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 6-14mm
+    feature: leaf-length
+  - description: greater-than-5mm
+    feature: leaf-length
+  - description: less-than-20mm
+    feature: leaf-length
+  - description: 1-4mm
+    feature: leaf-width
+  - description: up-to-5mm
+    feature: leaf-width
+id:
+  ns: 53b398eae35eb129840377c0
+  vba: '504857'

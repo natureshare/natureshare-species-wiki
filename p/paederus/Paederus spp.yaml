@@ -1,0 +1,18 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Rove beetle
+classification:
+  - name: Insecta
+    rank: class
+  - name: Staphylinidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - insect
+  - provisional-name
+  - rove-beetle
+id:
+  ns: 54d88a8ded2a89a28d000018

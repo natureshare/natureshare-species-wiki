@@ -1,0 +1,19 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Orange Oak Bolete
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Boletaceae
+    rank: family
+  - name: Fungi
+    rank: kingdom
+  - name: Boletales
+    rank: order
+  - name: Basidiomycota
+    rank: phylum
+categories:
+  - fungi
+id:
+  ns: 5a953ca4ed2a89ad3200156c

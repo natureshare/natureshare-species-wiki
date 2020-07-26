@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Salpingidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - provisional-name
+id:
+  ns: 5459e168e35eb12c8f0001f8

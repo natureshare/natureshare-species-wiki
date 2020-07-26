@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Shield Pennywort
+classification:
+  - name: apiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: spike-like-not-an-umbel
+    feature: flower
+  - description: circular
+    feature: leaf
+  - description: peltate
+    feature: leaf
+id:
+  ns: 53b398e8e35eb12984036f2a
+  vba: '501730'

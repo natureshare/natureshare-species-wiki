@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - Soft Crane's-bill
+classification:
+  - name: geraniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - herb
+  - plant
+  - provisional-name
+features:
+  - description: usually-deciduous
+    feature: basal-leaf
+  - description: pink-white
+    feature: flower
+  - description: mid-spring-early-autumn
+    feature: flowering-time
+  - description: 5-7-trifid-lobes
+    feature: leaf
+  - description: opposite
+    feature: leaf
+  - description: round-to-kidney-shaped
+    feature: leaf
+  - description: to-4.5cm
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+id:
+  ns: 53b398e8e35eb12984036d4e
+  vba: '501431'

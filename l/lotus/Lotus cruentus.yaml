@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Red Bird's-foot Trefoil
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398e9e35eb129840371b7
+  vba: '502059'

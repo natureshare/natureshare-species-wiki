@@ -1,0 +1,14 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Philopteridae
+    rank: family
+  - name: Phthiraptera
+    rank: order
+categories:
+  - insect
+  - louse
+  - provisional-name
+id:
+  ns: 53b398f1e35eb12984039972

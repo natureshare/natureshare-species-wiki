@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Short-hair Plume-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - provisional-name
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398e7e35eb129840369d1
+  vba: '501034'

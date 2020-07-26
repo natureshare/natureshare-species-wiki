@@ -1,0 +1,27 @@
+updated_by: chrisl
+common_names:
+  - Coast Daisy
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: purple-mauve
+    feature: flower
+  - description: white
+    feature: flower
+  - description: to-15cm-or-upright-to45cm
+    feature: height
+  - description: entire-or-divided
+    feature: leaf
+  - description: succulent-sometimes
+    feature: leaf
+  - description: to-9cm
+    feature: leaf-length
+id:
+  ns: 53b398e6e35eb1298403656c
+  vba: '504303'

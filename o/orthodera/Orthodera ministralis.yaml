@@ -1,0 +1,15 @@
+updated_by: chrisl
+common_names:
+  - Green Mantid
+classification:
+  - name: Insecta
+    rank: class
+  - name: Mantidae
+    rank: family
+  - name: Mantodea
+    rank: order
+categories:
+  - insect
+  - praying-mantis
+id:
+  ns: 53b398f1e35eb129840397cd

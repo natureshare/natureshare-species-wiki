@@ -1,0 +1,33 @@
+updated_by: chrisl
+common_names:
+  - Wandering Percher
+classification:
+  - name: Insecta
+    rank: class
+  - name: Libellulidae
+    rank: family
+  - name: Odonata
+    rank: order
+  - name: Anisoptera
+    rank: suborder
+categories:
+  - dragonfly-and-damselfly
+  - dragonfly-proper
+  - insect
+features:
+  - description: blue
+    feature: body
+  - description: brown
+    feature: body
+  - description: gold
+    feature: body
+  - description: red
+    feature: body
+  - description: golden-brown
+    feature: female
+  - description: reddish-brown
+    feature: female
+  - description: red
+    feature: male
+id:
+  ns: 53b398ebe35eb12984037e9a

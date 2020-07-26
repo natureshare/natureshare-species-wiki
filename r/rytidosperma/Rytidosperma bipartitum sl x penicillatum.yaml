@@ -1,0 +1,22 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Leafy Wallaby-grass x Weeping Wallaby-grass hybrid
+synonyms:
+  - Austrodanthonia bipartita s.l. x penicillata
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 546bf0f7e35eb19281000092
+  vba: '505385'

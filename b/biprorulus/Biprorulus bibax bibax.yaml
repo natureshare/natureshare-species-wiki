@@ -1,0 +1,15 @@
+updated_by: david_francis
+common_names:
+  - Spined Citrus bug
+classification:
+  - name: Insecta
+    rank: class
+  - name: Pentatomidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - insect
+  - true-bug
+id:
+  ns: 53b398efe35eb12984039181

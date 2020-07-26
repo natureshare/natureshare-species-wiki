@@ -1,0 +1,38 @@
+updated_by: chrisl
+common_names:
+  - Alpine Pepper
+classification:
+  - name: winteraceae
+    rank: family
+categories:
+  - dicotyledon
+  - dioecious
+  - flora
+  - plant
+  - provisional-name
+features:
+  - description: white
+    feature: flower-colour
+  - description: actinomorphic
+    feature: flower-shape
+  - description: black
+    feature: fruit
+  - description: shrub-to-small-tree
+    feature: habit
+  - description: aromatic
+    feature: leaf
+  - description: alternate
+    feature: leaf-arrangement
+  - description: discolorous
+    feature: leaf-colour
+  - description: to-14cm
+    feature: leaf-length
+  - description: entire
+    feature: leaf-type
+  - description: to-3cm
+    feature: leaf-width
+  - description: absent
+    feature: stipules
+id:
+  ns: 53b398ebe35eb12984037b5a
+  vba: '503338'

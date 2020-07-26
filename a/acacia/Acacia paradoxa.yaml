@@ -1,0 +1,39 @@
+updated_by: chrisl
+common_names:
+  - Hedge Wattle
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - wattle
+features:
+  - description: globular
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+  - description: late-winter-spring
+    feature: flowering-time
+  - description: shrub
+    feature: habit
+  - description: dark-green
+    feature: leaf
+  - description: wavy-edge
+    feature: leaf
+  - description: to-3cm
+    feature: leaf-length
+  - description: sharp-point
+    feature: leaf-tip
+  - description: prickly
+    feature: plant
+  - description: hairy
+    feature: seedpod
+  - description: spines
+    feature: stem
+id:
+  ns: 53b398e5e35eb129840361f0
+  vba: '500072'

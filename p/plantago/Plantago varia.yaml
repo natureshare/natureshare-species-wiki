@@ -1,0 +1,36 @@
+updated_by: chrisl
+common_names:
+  - Variable Plantain
+classification:
+  - name: veronicaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: brown
+    feature: flower
+  - description: cluster
+    feature: flower
+  - description: most-of-year
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: 1mm-long-or-less
+    feature: hairs
+  - description: basal-rosette
+    feature: leaf
+  - description: hairy
+    feature: leaf
+  - description: linear-to-oblong
+    feature: leaf
+  - description: soft
+    feature: leaf
+  - description: to-20cm
+    feature: leaf
+  - description: 5-10-times-width
+    feature: leaf-length
+id:
+  ns: 53b398e9e35eb129840375ac
+  vba: '502566'

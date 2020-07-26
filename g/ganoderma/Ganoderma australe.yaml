@@ -1,0 +1,19 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Southern Bracket
+synonyms:
+  - Fomes australis
+  - Ganoderma tornatum
+  - Polyporus australis
+classification:
+  - name: Agaricomycetes
+    rank: Class
+  - name: Ganodermataceae
+    rank: Family
+  - name: Polyporales
+    rank: Order
+categories:
+  - fungi
+id:
+  ns: 5b5dadaded2a8903a0008873

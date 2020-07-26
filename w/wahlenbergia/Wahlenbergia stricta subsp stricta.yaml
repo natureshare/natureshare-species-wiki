@@ -1,0 +1,42 @@
+updated_by: chrisl
+common_names:
+  - Tall Bluebell
+classification:
+  - name: campanulaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: blue
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: white
+    feature: flower
+  - description: white-throat
+    feature: flower
+  - description: spring-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: hairy
+    feature: leaf
+  - description: oval
+    feature: leaf
+  - description: paired
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-7cm
+    feature: leaf
+  - description: wavy-edge
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398ebe35eb12984037d4e
+  vba: '503559'

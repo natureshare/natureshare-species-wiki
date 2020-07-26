@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Myxogastrea
+    rank: class
+  - name: Trichiaceae
+    rank: family
+  - name: Trichiida
+    rank: order
+  - name: Mycetozoa
+    rank: subphylum
+categories:
+  - slime-mould
+id:
+  ns: 58916938ed2a89d10f002072

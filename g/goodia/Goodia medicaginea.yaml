@@ -1,0 +1,24 @@
+updated_by: chrisl
+common_names:
+  - Western Golden-tip
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: 6mm-to-10-and-a-half-mm-long
+    feature: flower
+  - description: pea
+    feature: flower
+  - description: to-150cm
+    feature: height
+  - description: 1-4cm
+    feature: raceme-length
+id:
+  ns: 53b398e8e35eb12984036dcc
+  vba: '501518'

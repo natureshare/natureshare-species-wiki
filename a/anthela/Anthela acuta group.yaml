@@ -1,0 +1,33 @@
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Anthelidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Anthelinae
+    rank: Subfamily
+  - name: Bombycoidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+  - provisional-name
+features:
+  - description: red
+    feature: spots
+  - description: white
+    feature: spots
+  - description: zig-zag-line
+    feature: underwing
+  - description: brown
+    feature: wing
+  - description: one-coloured
+    feature: wing
+  - description: spots
+    feature: wing
+  - description: two-coloured
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037e21

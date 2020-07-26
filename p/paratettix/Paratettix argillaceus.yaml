@@ -1,0 +1,15 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Tetrigidae
+    rank: family
+  - name: Orthoptera
+    rank: order
+  - name: Caelifera
+    rank: suborder
+categories:
+  - grasshopper
+  - insect
+id:
+  ns: 53b398ece35eb12984038094

@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Dull Footman
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: ARCTIIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: LITHOSIINAE
+    rank: subfamily
+  - name: NOCTUOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398ebe35eb12984037f36

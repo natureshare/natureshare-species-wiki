@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Clustered Woodlover
+  - Sulphur Tuft
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Strophariaceae
+    rank: family
+  - name: Fungi
+    rank: kingdom
+  - name: Agaricales
+    rank: order
+  - name: Basidiomycota
+    rank: phylum
+categories:
+  - fungi
+id:
+  ns: 53b398f4e35eb1298403a5c7

@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Scatopsidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+  - gnat
+  - insect
+  - provisional-name
+id:
+  ns: 54d889b0ed2a89a28d000010

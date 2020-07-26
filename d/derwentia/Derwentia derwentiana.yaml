@@ -1,0 +1,31 @@
+updated_by: chrisl
+common_names:
+  - Derwent Speedwell
+classification:
+  - name: veronicaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - provisional-name
+features:
+  - description: pale-blue
+    feature: flower
+  - description: white
+    feature: flower
+  - description: medium-shrub
+    feature: habit
+  - description: woody-herb
+    feature: habit
+  - description: toothed
+    feature: leaf-margin
+  - description: lanceolate-to-ovate
+    feature: leaf-shape
+  - description: opposite
+    feature: leaves
+  - description: '4'
+    feature: number-of-petals
+id:
+  ns: 53b398e7e35eb1298403698a
+  vba: '502415'

@@ -1,0 +1,21 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Lithocolletis messianella
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Gracillariidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Lithocolletinae
+    rank: Subfamily
+  - name: Tineoidea
+    rank: Superfamily
+categories:
+  - fauna-introduced
+  - insect
+  - moth
+id:
+  ns: 5d793103cad3eb2024000179

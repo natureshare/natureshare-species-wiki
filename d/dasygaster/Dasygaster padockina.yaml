@@ -1,0 +1,26 @@
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Noctuidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Noctuinae
+    rank: Subfamily
+  - name: Noctuoidea
+    rank: Superfamily
+  - name: Hadenini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+features:
+  - description: brown
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f4e

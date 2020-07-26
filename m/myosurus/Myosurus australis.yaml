@@ -1,0 +1,35 @@
+updated_by: chrisl
+common_names:
+  - Mousetail
+synonyms:
+  - Myosurus minimus var. australis
+classification:
+  - name: ranunculaceae
+    rank: family
+categories:
+  - annual
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: bisexual
+    feature: flowers
+  - description: herb
+    feature: habit
+  - description: to-15cm
+    feature: height
+  - description: to-10cm
+    feature: leaf-length
+  - description: narrow-linear
+    feature: leaf-shape
+  - description: to-0.2cm
+    feature: leaf-width
+  - description: 3-5
+    feature: number-of-petals
+  - description: 3-5
+    feature: petals
+  - description: 5-10
+    feature: stamens
+id:
+  ns: 53b398e9e35eb1298403730d
+  vba: '502248'

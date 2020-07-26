@@ -1,0 +1,21 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Mexican Feather-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - weed
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 547ab1fae35eb1db73000029
+  vba: '505503'

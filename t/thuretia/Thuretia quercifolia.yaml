@@ -1,0 +1,18 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Florideophyceae
+    rank: class
+  - name: Dasyaceae
+    rank: family
+  - name: Plantae
+    rank: kingdom
+  - name: Ceramiales
+    rank: order
+  - name: Rhodophyta
+    rank: phylum
+categories:
+  - red-alga
+  - seaweed
+id:
+  ns: 5a6c1bdced2a89d02a00125d

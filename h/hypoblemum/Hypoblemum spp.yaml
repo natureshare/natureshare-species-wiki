@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Salticidae
+    rank: family
+  - name: Araneae
+    rank: order
+categories:
+  - jumping-spider
+  - provisional-name
+id:
+  ns: 58733447ed2a89f46400143c

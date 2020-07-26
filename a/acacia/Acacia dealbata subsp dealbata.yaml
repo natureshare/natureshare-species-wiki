@@ -1,0 +1,45 @@
+updated_by: chrisl
+common_names:
+  - Silver Wattle
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - wattle
+features:
+  - description: globular
+    feature: flower
+  - description: spike-like
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+  - description: late-winter-spring
+    feature: flowering-time
+  - description: small-tree
+    feature: habit
+  - description: tall-shrub
+    feature: habit
+  - description: tree
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: bipinnate
+    feature: leaf
+  - description: divided
+    feature: leaf
+  - description: glands
+    feature: leaf
+  - description: grey
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: hard
+    feature: seedpod
+id:
+  ns: 53b398e5e35eb129840361a7
+  vba: '505875'

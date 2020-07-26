@@ -1,0 +1,17 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Clavaria alba
+  - Clavaria mucida
+  - Lentaria mucida
+classification:
+  - name: Agaricomycetes
+    rank: Class
+  - name: Clavulinaceae
+    rank: Family
+  - name: Cantharellales
+    rank: Order
+categories:
+  - fungi
+id:
+  ns: 5b4eabb7ed2a8903a0005519

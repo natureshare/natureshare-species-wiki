@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Slender Parrot-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - ffg
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398e5e35eb129840362da
+  vba: '501049'

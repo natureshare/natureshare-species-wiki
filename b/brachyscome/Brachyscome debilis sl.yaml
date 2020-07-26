@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Downy Daisy
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+  - provisional-name
+features:
+  - description: white
+    feature: flower
+id:
+  ns: 53b398e6e35eb1298403655b
+  vba: '505941'

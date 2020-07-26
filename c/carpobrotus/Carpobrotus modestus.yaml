@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Inland Pigface
+classification:
+  - name: aizoaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: inland
+    feature: distribution
+  - description: 45-60
+    feature: number-of-petals
+  - description: 45-60
+    feature: petals
+id:
+  ns: 53b398e6e35eb12984036708
+  vba: '500656'

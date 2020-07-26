@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Bald Island Marlock
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: cluster
+    feature: flower
+  - description: mallee
+    feature: habit
+  - description: tree
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036b98
+  vba: '505735'

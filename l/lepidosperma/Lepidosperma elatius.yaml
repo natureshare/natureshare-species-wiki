@@ -1,0 +1,46 @@
+updated_by: chrisl
+common_names:
+  - Tall Sword-sedge
+classification:
+  - name: cyperaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+  - provisional-name
+  - sedge
+features:
+  - description: grey
+    feature: flower
+  - description: reddish-brown
+    feature: flower
+  - description: spike
+    feature: flower
+  - description: summer-mid-autumn
+    feature: flowering-time
+  - description: nut
+    feature: fruit
+  - description: reddish-brown
+    feature: fruit
+  - description: shining
+    feature: fruit
+  - description: smooth
+    feature: fruit
+  - description: sedge
+    feature: habit
+  - description: tuft
+    feature: habit
+  - description: basal
+    feature: leaf
+  - description: conspicuous-mid-rib
+    feature: leaf
+  - description: long
+    feature: leaf
+  - description: sharp-margin
+    feature: leaf
+  - description: straplike
+    feature: leaf
+id:
+  ns: 53b398e8e35eb129840370ab
+  vba: '501919'

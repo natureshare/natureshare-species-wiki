@@ -1,0 +1,20 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insect
+    rank: Class
+  - name: Cerambycidae
+    rank: Family
+  - name: Coleoptera
+    rank: Order
+  - name: Cerambycinae
+    rank: Subfamily
+  - name: Chrysomeloidea
+    rank: Superfamily
+  - name: Hesperophanini
+    rank: Tribe
+categories:
+  - beetle
+  - insect
+id:
+  ns: 5d0770edc347d56956000072

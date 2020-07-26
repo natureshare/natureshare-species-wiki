@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Carabidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - insect
+id:
+  ns: 53b398ede35eb12984038577

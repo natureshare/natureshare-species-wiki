@@ -1,0 +1,13 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Vespidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - wasp
+id:
+  ns: 588c23baed2a89d10f001326

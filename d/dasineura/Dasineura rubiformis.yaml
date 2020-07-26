@@ -1,0 +1,18 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Black-wattle Flower-galling Midge
+classification:
+  - name: Insecta
+    rank: class
+  - name: Cecidomyiidae
+    rank: family
+  - name: Diptera
+    rank: order
+  - name: Arthropoda
+    rank: phylum
+categories:
+  - gall
+  - gall-forming-insect
+id:
+  ns: 5b822e36ed2a89a7f1008747

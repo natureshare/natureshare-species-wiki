@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Box Micrantheum
+classification:
+  - name: euphorbiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: '3'
+    feature: number-of-petals
+  - description: '3'
+    feature: petals
+id:
+  ns: 53b398e9e35eb12984037291
+  vba: '502176'

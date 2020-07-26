@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - False Garden Mantis
+classification:
+  - name: insecta
+    rank: class
+  - name: Mantidae
+    rank: family
+  - name: Mantodea
+    rank: order
+categories:
+  - insect
+id:
+  ns: 582c592aed2a89de57000119

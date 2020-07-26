@@ -1,0 +1,29 @@
+updated_by: chrisl
+common_names:
+  - Shiny Cassinia
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: white
+    feature: flower
+  - description: shrub
+    feature: habit
+  - description: aromatic
+    feature: leaf
+  - description: flattish-undersurface-visible
+    feature: leaf
+  - description: 15-95mm
+    feature: leaf-length
+  - description: 2-5mm-rarely-extending-to-1-9mm
+    feature: leaf-width
+id:
+  ns: 53b398e6e35eb12984036716
+  vba: '500668'

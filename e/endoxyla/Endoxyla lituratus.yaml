@@ -1,0 +1,18 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Cossidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Zeuzerinae
+    rank: Subfamily
+  - name: Cossoidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5c0a1be21779a43a6e00019e

@@ -1,0 +1,27 @@
+updated_by: chrisl
+common_names:
+  - Brittle Greenhood
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - ffg
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: brown
+    feature: flower
+  - description: hooded
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: white-stripes
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398eae35eb1298403778a
+  vba: '502821'

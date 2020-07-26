@@ -1,0 +1,27 @@
+updated_by: chrisl
+common_names:
+  - Mitchell's Wattle
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - wattle
+features:
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+  - description: shrub
+    feature: habit
+  - description: divided
+    feature: leaf
+  - description: pinnate
+    feature: leaf
+id:
+  ns: 53b398e5e35eb129840361e2
+  vba: '500060'

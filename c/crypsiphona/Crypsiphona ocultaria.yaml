@@ -1,0 +1,38 @@
+updated_by: koolah
+common_names:
+  - Red-lined Looper Moth
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Geometrinae
+    rank: Subfamily
+  - name: Geometroidea
+    rank: Superfamily
+  - name: Geometrini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+features:
+  - description: brown
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: black
+    feature: wing-underside
+  - description: multi-coloured
+    feature: wing-underside
+  - description: red
+    feature: wing-underside
+  - description: white
+    feature: wing-underside
+id:
+  ns: 53b398ebe35eb12984037f03

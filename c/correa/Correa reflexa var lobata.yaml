@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Powelltown Correa
+classification:
+  - name: rutaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: triangular-lobes
+    feature: calyx
+id:
+  ns: 53b398e7e35eb1298403685c
+  vba: '505404'

@@ -1,0 +1,18 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Cut-leaf Daisy
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: narrow-linear-to-subulate
+    feature: leaf-lobe
+id:
+  ns: 54e04f94ed2a89d99000011f
+  vba: '504289'

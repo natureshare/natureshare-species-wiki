@@ -1,0 +1,27 @@
+updated_by: chrisl
+common_names:
+  - Desert Lantern
+classification:
+  - name: malvaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: yellow
+    feature: flower
+  - description: low-shrub
+    feature: habit
+  - description: margin-toothed
+    feature: leaf
+  - description: velvety-grey
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: five
+    feature: petals
+id:
+  ns: 53b398e5e35eb12984036183
+  vba: '500003'

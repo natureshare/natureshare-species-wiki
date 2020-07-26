@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Staphylinidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - insect
+  - rove-beetle
+id:
+  ns: 55069f2fed2a8994a90003aa

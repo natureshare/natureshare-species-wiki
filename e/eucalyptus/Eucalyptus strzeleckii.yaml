@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Strzelecki Gum
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - epbc
+  - ffg
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036c09
+  vba: '504558'

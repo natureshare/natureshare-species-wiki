@@ -1,0 +1,28 @@
+updated_by: chrisl
+common_names:
+  - Tufted Lobelia
+classification:
+  - name: campanulaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: dark-blue
+    feature: flower
+  - description: lobed
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: slender-herb
+    feature: habit
+  - description: obovate-to-oblong
+    feature: leaf-shape
+  - description: spoon-shaped
+    feature: leaf-shape
+  - description: '5'
+    feature: number-of-petals
+id:
+  ns: 53b398e9e35eb12984037176
+  vba: '502027'

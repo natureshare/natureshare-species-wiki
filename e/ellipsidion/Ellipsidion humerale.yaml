@@ -1,0 +1,18 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Small Ellipsidion Bush-cockroach
+synonyms:
+  - Apolyta humeralis
+  - Ellipsidion humeralis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Ectobiidae
+    rank: family
+  - name: Blattodea
+    rank: order
+categories:
+  - cockroach
+id:
+  ns: 5a43347eed2a8927cd000057

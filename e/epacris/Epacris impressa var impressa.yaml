@@ -1,0 +1,26 @@
+updated_by: chrisl
+common_names:
+  - Common Heath
+classification:
+  - name: epacridaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: pink
+    feature: flower
+  - description: red
+    feature: flower
+  - description: tubular
+    feature: flower
+  - description: white
+    feature: flower
+  - description: low-shrub
+    feature: habit
+  - description: prickly
+    feature: leaf
+id:
+  ns: 53b398e7e35eb12984036aea
+  vba: '504478'

@@ -1,0 +1,27 @@
+updated_by: chrisl
+common_names:
+  - Hybrid Sun-orchid complex
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: orchid
+    feature: flower
+  - description: pale-purple
+    feature: flower
+  - description: spots
+    feature: flower
+  - description: blue
+    feature: flower-colour
+  - description: herb
+    feature: habit
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398ebe35eb12984037bd2
+  vba: '503373'

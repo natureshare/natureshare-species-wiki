@@ -1,0 +1,25 @@
+updated_by: chrisl
+common_names:
+  - Lobe-seed Daisy
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: white
+    feature: flower
+  - description: 15-45cm
+    feature: height
+  - description: linear
+    feature: leaf
+  - description: margin-toothed-or-lobed
+    feature: leaf
+  - description: upper-section-3-or-more-lobed
+    feature: leaf
+id:
+  ns: 53b398e6e35eb1298403655e
+  vba: '500461'

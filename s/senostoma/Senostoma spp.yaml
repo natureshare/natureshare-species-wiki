@@ -1,0 +1,19 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: insecta
+    rank: class
+  - name: Tachinidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+  - provisional-name
+features:
+  - description: bristly
+    feature: abdomen
+  - description: long
+    feature: legs
+id:
+  ns: 588ecfdded2a89d10f001a3f

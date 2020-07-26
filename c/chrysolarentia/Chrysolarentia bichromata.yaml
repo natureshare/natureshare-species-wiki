@@ -1,0 +1,22 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Two-toned Carpet
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Larentiinae
+    rank: Subfamily
+  - name: Geometroidea
+    rank: Superfamily
+  - name: Xanthorhoini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 5c9863473abbd6fbc200001c

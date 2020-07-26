@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Trailing Guinea-flower
+classification:
+  - name: dilleniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: climber
+    feature: habit
+  - description: alternate
+    feature: leaf-arrangement
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e8e35eb12984036eb5
+  vba: '501665'

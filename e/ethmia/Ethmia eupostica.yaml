@@ -1,0 +1,15 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Ethmiidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Gelechioidea
+    rank: superfamily
+categories:
+  - moth
+id:
+  ns: 5a3bb2f3ed2a89e23c000d14

@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Hairy Hawkbit
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: yellow
+    feature: flower
+id:
+  ns: 53b398e8e35eb1298403708a
+  vba: '501895'

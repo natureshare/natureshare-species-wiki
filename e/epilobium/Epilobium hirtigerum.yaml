@@ -1,0 +1,37 @@
+updated_by: chrisl
+common_names:
+  - Hairy Willow-herb
+classification:
+  - name: onagraceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - herb
+  - plant
+features:
+  - description: pink
+    feature: flower
+  - description: pink-or-white
+    feature: flower
+  - description: white
+    feature: flower
+  - description: mid-spring-mid-autumn
+    feature: flowering-time
+  - description: covered-with-white-hairs
+    feature: juvenile-leaf
+  - description: linear
+    feature: leaf
+  - description: to-6cm
+    feature: leaf
+  - description: toothed-margin
+    feature: leaf
+  - description: alternate-mostly-or-always
+    feature: leaves
+  - description: '4'
+    feature: number-of-petals
+  - description: greyish-due-to-long-hair-cover
+    feature: plant
+id:
+  ns: 53b398e7e35eb12984036b03
+  vba: '501179'

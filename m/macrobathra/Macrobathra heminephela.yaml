@@ -1,0 +1,13 @@
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Cosmopterigidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f3e35eb1298403a374

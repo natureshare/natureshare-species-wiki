@@ -1,0 +1,15 @@
+updated_by: chrisl
+common_names:
+  - Grey Striped Mosquito
+classification:
+  - name: Insecta
+    rank: class
+  - name: Culicidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+  - insect
+id:
+  ns: 53b398eee35eb12984038c67

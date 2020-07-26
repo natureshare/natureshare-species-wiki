@@ -1,0 +1,13 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Myxogastrea
+    rank: class
+  - name: Physaraceae
+    rank: family
+  - name: Physarida
+    rank: order
+  - name: Mycetozoa
+    rank: subphylum
+id:
+  ns: 54238d54e35eb16af9000093

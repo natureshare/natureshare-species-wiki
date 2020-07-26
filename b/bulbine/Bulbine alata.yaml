@@ -1,0 +1,15 @@
+updated_by: chrisl
+classification:
+  - name: asphodelaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+features:
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398f2e35eb12984039e61
+  vba: '507822'

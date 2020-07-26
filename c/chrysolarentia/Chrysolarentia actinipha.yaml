@@ -1,0 +1,17 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Sharp-angled Carpet
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Larentiinae
+    rank: subfamily
+categories:
+  - moth
+id:
+  ns: 58f937fbed2a89f93100000a

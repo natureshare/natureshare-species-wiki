@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Robber Fly
+classification:
+  - name: Insecta
+    rank: class
+  - name: Asilidae
+    rank: family
+  - name: Diptera
+    rank: order
+  - name: Brachycera
+    rank: suborder
+categories:
+  - fly
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb129840380c1

@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Vegetable Beetle
+classification:
+  - name: Insecta
+    rank: class
+  - name: Tenebrionidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - insect
+id:
+  ns: 548d044ce35eb16b93000012

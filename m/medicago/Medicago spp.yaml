@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Medic
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - provisional-name
+  - weed
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398e9e35eb12984037242
+  vba: '508722'

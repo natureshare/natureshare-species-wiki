@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Spoonwing
+  - Thread-wing
+  - Thread-winged Antlion
+classification:
+  - name: Insecta
+    rank: class
+  - name: Nemopteridae
+    rank: family
+  - name: Neuroptera
+    rank: order
+categories:
+  - antlion
+  - insect
+  - lacewing
+  - provisional-name
+id:
+  ns: 53b398ece35eb12984038121

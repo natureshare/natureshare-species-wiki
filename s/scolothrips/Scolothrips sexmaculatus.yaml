@@ -1,0 +1,15 @@
+updated_by: chrisl
+common_names:
+  - Sixspotted Thrips
+classification:
+  - name: Insecta
+    rank: class
+  - name: Thripidae
+    rank: family
+  - name: Thysanoptera
+    rank: order
+categories:
+  - insect
+  - thrip
+id:
+  ns: 53b398f1e35eb12984039b7f

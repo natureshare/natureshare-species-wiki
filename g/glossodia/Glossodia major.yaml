@@ -1,0 +1,45 @@
+updated_by: chrisl
+common_names:
+  - Wax-lip Orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: mauve
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: blue
+    feature: flower-colour
+  - description: purple
+    feature: flower-colour
+  - description: spring
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: white
+    feature: labellum
+  - description: basal-single
+    feature: leaf
+  - description: hairy
+    feature: leaf
+  - description: long-oval
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+  - description: to-10cm
+    feature: leaf-length
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e8e35eb12984036d76
+  vba: '501445'

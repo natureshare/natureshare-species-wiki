@@ -1,0 +1,18 @@
+updated_by: david_francis
+common_names:
+  - Port Lincoln Parrot
+  - Western Ringneck
+classification:
+  - name: aves
+    rank: class
+  - name: psittacidae
+    rank: family
+  - name: Psittaciformes
+    rank: order
+categories:
+  - animal
+  - bird
+  - fauna
+  - parrot-and-lorikeet
+id:
+  ns: 53b398e5e35eb1298403613a

@@ -1,0 +1,21 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Conifer Blueing Bracket
+synonyms:
+  - Boletus caesius
+  - Leptoporus caesius
+  - Oligoporus caesius
+  - Polyporus caesius
+  - Tyromyces caesius
+classification:
+  - name: Agaricomycetes
+    rank: Class
+  - name: Fomitopsidaceae
+    rank: Family
+  - name: Polyporales
+    rank: Order
+categories:
+  - fungi
+id:
+  ns: 5b4ea9c0ed2a8903a00054f9

@@ -1,0 +1,13 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Belidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - belid-weevil
+id:
+  ns: 5c1f01a23abbd6888f0000e4

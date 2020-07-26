@@ -1,0 +1,14 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Labiduridae
+    rank: family
+  - name: Dermaptera
+    rank: order
+categories:
+  - earwig
+  - insect
+  - provisional-name
+id:
+  ns: 53b398eee35eb12984038b1a

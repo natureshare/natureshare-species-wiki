@@ -1,0 +1,38 @@
+updated_by: chrisl
+common_names:
+  - Heliotrope Moth
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: ARCTIIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: ARCTIINAE
+    rank: subfamily
+  - name: NOCTUOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: black
+    feature: spots
+  - description: red
+    feature: spots
+  - description: black
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: red
+    feature: wing
+  - description: spots
+    feature: wing
+  - description: white
+    feature: wing
+  - description: yellow
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f3d

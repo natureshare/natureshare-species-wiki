@@ -1,0 +1,45 @@
+updated_by: chrisl
+common_names:
+  - Creamy Candles
+  - Creamy Stackhousia
+classification:
+  - name: stackhousiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cream
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: spike
+    feature: flower
+  - description: tubular
+    feature: flower
+  - description: white
+    feature: flower
+  - description: mid-winter-summer
+    feature: flowering-time
+  - description: nut
+    feature: fruit
+  - description: herb
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: narrow
+    feature: leaf
+  - description: smooth
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-4cm
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398eae35eb12984037add
+  vba: '528493'

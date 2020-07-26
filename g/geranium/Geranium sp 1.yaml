@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Large-flower Crane's-bill
+classification:
+  - name: geraniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - ffg
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: 15-22mm-diameter
+    feature: flower
+  - description: retuse
+    feature: petal
+id:
+  ns: 53b398e8e35eb12984036d58
+  vba: '505342'

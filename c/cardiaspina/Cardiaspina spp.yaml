@@ -1,0 +1,18 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Lace Lerp
+classification:
+  - name: Insecta
+    rank: class
+  - name: Psyllidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+  - name: Spondyliaspidinae
+    rank: subfamily
+categories:
+  - insect
+  - lerp
+id:
+  ns: 56d172ffed2a89b54c0000a3

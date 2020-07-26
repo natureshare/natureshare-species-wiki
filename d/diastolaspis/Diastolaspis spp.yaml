@@ -1,0 +1,14 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Diaspididae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - insect
+  - provisional-name
+  - scale-insect
+id:
+  ns: 53b398efe35eb129840390ca

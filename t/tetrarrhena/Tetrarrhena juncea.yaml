@@ -1,0 +1,41 @@
+updated_by: chrisl
+common_names:
+  - Forest Wire-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+features:
+  - description: grass
+    feature: flower
+  - description: light-green
+    feature: flower
+  - description: purplish
+    feature: flower
+  - description: spike
+    feature: flower
+  - description: 3-5m
+    feature: flower-stalk
+  - description: late-spring-mid-autumn
+    feature: flowering-time
+  - description: grass
+    feature: habit
+  - description: wiry
+    feature: habit
+  - description: flat
+    feature: leaf
+  - description: rough
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+  - description: to-8cm
+    feature: leaf
+  - description: scattered-alternate
+    feature: leaf-on-stem
+id:
+  ns: 53b398ebe35eb12984037b7e
+  vba: '503348'

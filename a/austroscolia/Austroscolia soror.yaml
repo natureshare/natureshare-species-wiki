@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Black Flower Wasp
+synonyms:
+  - Scolia soror
+classification:
+  - name: Insecta
+    rank: class
+  - name: Scoliidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+  - name: Apocrita
+    rank: suborder
+  - name: Vespoidea
+    rank: superfamily
+categories:
+  - insect
+  - wasp
+id:
+  ns: 53b398f2e35eb12984039d20

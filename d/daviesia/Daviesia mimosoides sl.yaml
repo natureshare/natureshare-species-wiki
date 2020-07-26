@@ -1,0 +1,54 @@
+updated_by: chrisl
+common_names:
+  - Blunt-leaf Bitter-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - provisional-name
+features:
+  - description: pea
+    feature: flower
+  - description: pink
+    feature: flower-colour
+  - description: white
+    feature: flower-colour
+  - description: ascending-erect
+    feature: habit
+  - description: herb
+    feature: habit
+  - description: 5-40cm
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: trifoliate
+    feature: leaf-type
+  - description: greater-than-5mm
+    feature: leafet-length
+  - description: 5-20mm
+    feature: leaflet-length
+  - description: less-than-20mm
+    feature: leaflet-length
+  - description: 2-5mm
+    feature: leaflet-width
+  - description: greater-than-2mm
+    feature: leaflet-width
+  - description: less-than-5mm
+    feature: leaflet-width
+  - description: '3'
+    feature: leaflets
+  - description: 1mm
+    feature: seedpod-length
+  - description: less-than-1mm
+    feature: seedpod-length
+  - description: up-to-1mm
+    feature: seedpod-length
+  - description: '1'
+    feature: seeds
+id:
+  ns: 53b398e7e35eb12984036975
+  vba: '500997'

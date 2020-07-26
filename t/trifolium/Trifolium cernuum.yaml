@@ -1,0 +1,56 @@
+updated_by: chrisl
+common_names:
+  - Drooping-flower Clover
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - weed
+features:
+  - description: cluster
+    feature: flower
+  - description: pea
+    feature: flower
+  - description: pink
+    feature: flower-colour
+  - description: violet
+    feature: flower-colour
+  - description: climber
+    feature: habit
+  - description: herb
+    feature: habit
+  - description: to-1m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 20-110mm
+    feature: leaf-length
+  - description: greater-than-20mm
+    feature: leaf-length
+  - description: up-to-110mm
+    feature: leaf-length
+  - description: tendril
+    feature: leaf-tip
+  - description: pinnate
+    feature: leaf-type
+  - description: 4-to-18
+    feature: leaflets
+  - description: 25-80mm
+    feature: seedpod-length
+  - description: greater-than-25mm
+    feature: seedpod-length
+  - description: less-than-80mm
+    feature: seedpod-length
+  - description: 3-12mm
+    feature: seedpod-width
+  - description: up-to-12mm
+    feature: seedpod-width
+  - description: 6-to-12
+    feature: seeds
+id:
+  ns: 53b398ebe35eb12984037c4c
+  vba: '503426'

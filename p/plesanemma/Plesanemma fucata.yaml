@@ -1,0 +1,30 @@
+updated_by: chrisl
+common_names:
+  - Fucata Gum Moth
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: GEOMETRIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: ENNOMINAE
+    rank: subfamily
+  - name: GEOMETROIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: red
+    feature: spots
+  - description: brown
+    feature: wing
+  - description: one-coloured
+    feature: wing
+  - description: spots
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037ef0

@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Maroon Leek-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - epbc
+  - ffg
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398eae35eb129840376c3
+  vba: '502709'

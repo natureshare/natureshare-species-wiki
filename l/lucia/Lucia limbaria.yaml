@@ -1,0 +1,33 @@
+updated_by: chrisl
+common_names:
+  - Grassland Copper
+  - Small Copper
+classification:
+  - name: Insecta
+    rank: class
+  - name: Lycaenidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Papilionoidea
+    rank: superfamily
+categories:
+  - butterfly
+  - insect
+features:
+  - description: black
+    feature: wing
+  - description: brown
+    feature: wing
+  - description: copper
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: orange
+    feature: wing
+  - description: three-coloured
+    feature: wing
+  - description: chequered
+    feature: wing-fringe
+id:
+  ns: 53b398ebe35eb12984037ddd

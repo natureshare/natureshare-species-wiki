@@ -1,0 +1,38 @@
+updated_by: chrisl
+common_names:
+  - Slender Speedwell
+classification:
+  - name: veronicaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: blue
+    feature: flower
+  - description: clustered
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: violet
+    feature: flower
+  - description: spring-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: dark-green
+    feature: leaf
+  - description: margin-coarsely-toothed
+    feature: leaf
+  - description: oval-heart-shaped
+    feature: leaf
+  - description: to-2.5cm
+    feature: leaf
+  - description: '4'
+    feature: number-of-petals
+  - description: '4'
+    feature: petals
+id:
+  ns: 53b398ebe35eb12984037ce0
+  vba: '503506'

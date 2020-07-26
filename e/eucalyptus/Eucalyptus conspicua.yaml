@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Silver Swamp Stringybark
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036b9b
+  vba: '501766'

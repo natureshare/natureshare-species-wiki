@@ -1,0 +1,37 @@
+updated_by: chrisl
+common_names:
+  - Soft Bush-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: pea
+    feature: flower
+  - description: orange
+    feature: flower-colour
+  - description: medium-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: 1-15m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 3-35mm
+    feature: leaf-length
+  - description: less-than-5mm
+    feature: leaf-length
+  - description: 3-35mm
+    feature: leaf-width
+  - description: greater-than-2mm
+    feature: leaf-width
+  - description: up-to-5mm
+    feature: leaf-width
+id:
+  ns: 53b398eae35eb129840377d0
+  vba: '502859'

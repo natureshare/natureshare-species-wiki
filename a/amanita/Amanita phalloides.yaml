@@ -1,0 +1,15 @@
+updated_by: chrisl
+common_names:
+  - Deathcap
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Amanitaceae
+    rank: family
+  - name: Agaricales
+    rank: order
+categories:
+  - fungi
+  - fungimap
+id:
+  ns: 53b398f3e35eb1298403a26e

@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Muscidae
+    rank: family
+  - name: Diptera
+    rank: order
+  - name: Mydaeinae
+    rank: subfamily
+categories:
+  - fly
+id:
+  ns: 592b7e48ed2a8993d10004f6

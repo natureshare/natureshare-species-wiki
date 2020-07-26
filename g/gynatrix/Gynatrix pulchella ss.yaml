@@ -1,0 +1,38 @@
+updated_by: chrisl
+common_names:
+  - Hemp Bush
+classification:
+  - name: malvaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: greenish-white
+    feature: flower
+  - description: profuse
+    feature: flower
+  - description: scented
+    feature: flower
+  - description: small
+    feature: flower
+  - description: spike
+    feature: flower
+  - description: late-winter-mid-spring
+    feature: flowering-time
+  - description: late-winter-mid-spring
+    feature: flowering-time
+  - description: open-woody-shrub
+    feature: habit
+  - description: hairy
+    feature: leaf
+  - description: heart-shaped
+    feature: leaf
+  - description: margin-toothed
+    feature: leaf
+  - description: to-10cm
+    feature: leaf
+id:
+  ns: 53b398e8e35eb12984036e2a
+  vba: '503853'

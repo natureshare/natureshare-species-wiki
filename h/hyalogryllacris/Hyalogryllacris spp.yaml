@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Gryllacrididae
+    rank: family
+  - name: Orthoptera
+    rank: order
+categories:
+  - cricket
+  - insect
+  - provisional-name
+id:
+  ns: 5a36e131ed2a89626200233b

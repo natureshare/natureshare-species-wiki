@@ -1,0 +1,18 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Menemerus bracteatus
+classification:
+  - name: Arachnida
+    rank: Class
+  - name: Salticidae
+    rank: Family
+  - name: Araneomorphae
+    rank: Infraorder
+  - name: Araneae
+    rank: Order
+categories:
+  - jumping-spider
+  - spider
+id:
+  ns: 5d687a78cad3ebb2a100006e

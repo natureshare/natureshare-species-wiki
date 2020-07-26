@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - White-flank Black Braconid
+classification:
+  - name: Insecta
+    rank: class
+  - name: Braconidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - wasp
+id:
+  ns: 58cd202ced2a8960a2001341

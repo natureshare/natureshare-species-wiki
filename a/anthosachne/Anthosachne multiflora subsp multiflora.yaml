@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Short-awned Wheat-grass
+synonyms:
+  - Elymus multiflorus
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - rare-threatened
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036abd
+  vba: '501583'

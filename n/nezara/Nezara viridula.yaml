@@ -1,0 +1,16 @@
+updated_by: david_francis
+common_names:
+  - Green Vegetable Bug
+classification:
+  - name: Insecta
+    rank: class
+  - name: Pentatomidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - fauna-introduced
+  - insect
+  - true-bug
+id:
+  ns: 53b398f3e35eb1298403a3b5

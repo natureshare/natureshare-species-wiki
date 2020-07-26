@@ -1,0 +1,15 @@
+updated_by: david_francis
+common_names:
+  - Orange Assassin Bug
+classification:
+  - name: Insecta
+    rank: class
+  - name: Reduviidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - insect
+  - true-bug
+id:
+  ns: 53b398f2e35eb12984039ee5

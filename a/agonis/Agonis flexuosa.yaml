@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Willow Myrtle
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e5e35eb12984036291
+  vba: '505373'

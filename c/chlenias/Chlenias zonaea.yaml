@@ -1,0 +1,11 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Geometridae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+id:
+  ns: 5adefd8aed2a8994660073a6

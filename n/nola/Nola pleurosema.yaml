@@ -1,0 +1,17 @@
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Nolidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Nolinae
+    rank: Subfamily
+  - name: Noctuoidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f2e35eb12984039e55

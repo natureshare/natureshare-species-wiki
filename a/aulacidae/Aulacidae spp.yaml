@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: insecta
+    rank: class
+  - name: Aulacidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - provisional-name
+  - wasp
+id:
+  ns: 5a75813fed2a89d92500161e

@@ -1,0 +1,42 @@
+updated_by: chrisl
+common_names:
+  - Spiny-headed Mat-rush
+classification:
+  - name: xanthorrhoeaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+features:
+  - description: narrower-panicle
+    feature: female-flower
+  - description: brown
+    feature: flower
+  - description: cluster
+    feature: flower
+  - description: cream-yellow
+    feature: flower
+  - description: prickly
+    feature: flower
+  - description: spring-summer
+    feature: flowering-time
+  - description: brown
+    feature: fruit
+  - description: green
+    feature: fruit
+  - description: shiny
+    feature: fruit
+  - description: large-tussock
+    feature: habit
+  - description: bright-green
+    feature: leaf
+  - description: strappy
+    feature: leaf
+  - description: divided-into-2-or-3-sharp-points
+    feature: leaf-tip
+  - description: many-branched-panicle
+    feature: male-flower
+id:
+  ns: 53b398e9e35eb1298403719b
+  vba: '504714'

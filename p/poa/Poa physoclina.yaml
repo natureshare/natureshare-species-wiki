@@ -1,0 +1,22 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Wind-blown Tussock-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - endemic
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - rare-threatened
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 5471a7eee35eb18cf600001a
+  vba: '507791'

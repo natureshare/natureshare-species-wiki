@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Small Alpine Xenica
+classification:
+  - name: Insecta
+    rank: class
+  - name: Nymphalidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Papilionoidea
+    rank: superfamily
+categories:
+  - butterfly
+  - ffg
+  - insect
+id:
+  ns: 53b398ece35eb12984037fd7

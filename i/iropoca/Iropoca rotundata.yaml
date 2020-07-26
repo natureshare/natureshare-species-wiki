@@ -1,0 +1,19 @@
+updated_by: koolah
+common_names:
+  - Iropoca Moth
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Erebidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Lymantriinae
+    rank: Subfamily
+  - name: Noctuoidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398ebe35eb12984037f43

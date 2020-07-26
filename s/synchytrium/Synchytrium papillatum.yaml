@@ -1,0 +1,12 @@
+updated_by: chrisl
+classification:
+  - name: Chytridiomycetes
+    rank: class
+  - name: Synchytriaceae
+    rank: family
+  - name: Chytridiales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 53b398f4e35eb1298403a886

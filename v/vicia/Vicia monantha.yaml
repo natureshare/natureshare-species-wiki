@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Spurred Vetch
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - provisional-name
+  - weed
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398ebe35eb12984037cf4
+  vba: '503517'

@@ -1,0 +1,11 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Hemiptera
+    rank: order
+categories:
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb129840380d1

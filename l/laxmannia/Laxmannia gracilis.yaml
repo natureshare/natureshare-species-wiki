@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Slender Wire-lily
+classification:
+  - name: anthericaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+  - rare-threatened
+features:
+  - description: '3'
+    feature: number-of-petals
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398e8e35eb1298403706a
+  vba: '501889'

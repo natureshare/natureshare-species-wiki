@@ -1,0 +1,14 @@
+updated_by: chrisl
+common_names:
+  - Hollyhock Rust
+classification:
+  - name: Pucciniomycetes
+    rank: class
+  - name: Pucciniaceae
+    rank: family
+  - name: Pucciniales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 53b398f4e35eb1298403a7e5

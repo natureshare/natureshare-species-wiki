@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Chrysomelidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+  - name: Eumolpinae
+    rank: subfamily
+categories:
+  - leaf-beetle
+  - provisional-name
+id:
+  ns: 5a01856aed2a89ad950002e9

@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Flecked Flat-sedge
+classification:
+  - name: cyperaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+  - sedge
+features:
+  - description: to-150cm
+    feature: culm-height
+id:
+  ns: 53b398e7e35eb12984036931
+  vba: '500922'

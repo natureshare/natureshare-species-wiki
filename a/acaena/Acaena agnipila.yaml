@@ -1,0 +1,31 @@
+updated_by: chrisl
+common_names:
+  - Hairy Sheep's Burr
+classification:
+  - name: rosaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - provisional-name
+features:
+  - description: dark-purple
+    feature: flower-colour
+  - description: purple
+    feature: flower-colour
+  - description: equal-in-length
+    feature: fruit-spines
+  - description: interrupted-spike
+    feature: inflorescence
+  - description: hairy-underneath
+    feature: leaf
+  - description: pinnate
+    feature: leaf-type
+  - description: hairy
+    feature: leaf-underside
+  - description: '5'
+    feature: sepals
+id:
+  ns: 53b398e5e35eb12984036224
+  vba: '500104'

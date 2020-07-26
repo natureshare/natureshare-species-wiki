@@ -1,0 +1,17 @@
+classification:
+  - name: Insecta
+    rank: class
+  - name: NOCTUIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: ACRONICTINAE/AMPHIPYRINAE
+    rank: subfamily
+  - name: NOCTUOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+  - provisional-name
+id:
+  ns: 53b398ebe35eb12984037f54

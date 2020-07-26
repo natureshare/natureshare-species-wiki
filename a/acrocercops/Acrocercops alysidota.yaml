@@ -1,0 +1,18 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Gracillariidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Acrocercopinae
+    rank: Subfamily
+  - name: Tineoidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5c07416a1779a46aac00006f

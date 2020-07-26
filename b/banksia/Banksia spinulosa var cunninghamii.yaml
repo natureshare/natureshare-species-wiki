@@ -1,0 +1,42 @@
+updated_by: chrisl
+common_names:
+  - Hairpin Banksia
+classification:
+  - name: proteaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: hooked-black-styles
+    feature: flower
+  - description: rigid-spike
+    feature: flower
+  - description: yellow-orange
+    feature: flower
+  - description: autumn-mid-winter
+    feature: flowering-time
+  - description: narrow-cone
+    feature: fruit
+  - description: woody
+    feature: fruit
+  - description: dense-shrub
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: dark-green
+    feature: leaf
+  - description: hard
+    feature: leaf
+  - description: margin-toothed
+    feature: leaf
+  - description: narrow-linear
+    feature: leaf
+  - description: to-10cm
+    feature: leaf
+  - description: unstalked
+    feature: leaf
+id:
+  ns: 53b398e6e35eb129840364a4
+  vba: '500367'

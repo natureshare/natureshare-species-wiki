@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Coast Flax-lily
+classification:
+  - name: hemerocallidaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+features:
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398e7e35eb129840369bc
+  vba: '505557'

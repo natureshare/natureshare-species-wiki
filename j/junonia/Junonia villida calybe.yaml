@@ -1,0 +1,38 @@
+updated_by: chrisl
+common_names:
+  - Meadow Argus
+classification:
+  - name: Insecta
+    rank: class
+  - name: nymphalidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Papilionoidea
+    rank: superfamily
+categories:
+  - butterfly
+  - insect
+features:
+  - description: '4'
+    feature: spots
+  - description: 4-upperside
+    feature: spots
+  - description: blue
+    feature: spots
+  - description: black
+    feature: wing
+  - description: blue
+    feature: wing
+  - description: brown
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: orange
+    feature: wing
+  - description: three-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037deb

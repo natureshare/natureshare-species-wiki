@@ -1,0 +1,28 @@
+updated_by: chrisl
+common_names:
+  - Bent Goodenia
+classification:
+  - name: goodeniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: solitary-with-one-per-stem
+    feature: flowers
+  - description: herb
+    feature: habit
+  - description: to-25cm-above-a-basal-rosette
+    feature: height
+  - description: linear-to-oblanceolate
+    feature: leaf
+  - description: glabrous-or-slightly-hairy
+    feature: leaf-underside
+  - description: absent
+    feature: stem-leaves
+  - description: longer-than-leaves-or-equal
+    feature: stem-length
+id:
+  ns: 53b398e8e35eb12984036db2
+  vba: '501497'

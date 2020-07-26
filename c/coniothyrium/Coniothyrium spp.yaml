@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Dothideomycetes
+    rank: class
+  - name: Leptosphaeriaceae
+    rank: family
+  - name: Pleosporales
+    rank: order
+categories:
+  - fungi
+  - provisional-name
+id:
+  ns: 53b398f2e35eb1298403a04f

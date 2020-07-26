@@ -1,0 +1,28 @@
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Larentiinae
+    rank: Subfamily
+  - name: Geometroidea
+    rank: Superfamily
+  - name: Eupitheciini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+features:
+  - description: brown
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ece35eb12984038037

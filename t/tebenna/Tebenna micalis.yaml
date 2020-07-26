@@ -1,0 +1,19 @@
+updated_by: koolah
+common_names:
+  - Small Thistle Moth
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Choreutidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Chloreutinae
+    rank: Subfamily
+  - name: Sesioidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f2e35eb12984039f01

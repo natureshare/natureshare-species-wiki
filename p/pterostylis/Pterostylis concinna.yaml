@@ -1,0 +1,39 @@
+updated_by: chrisl
+common_names:
+  - Trim Greenhood
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: cream-green
+    feature: flower
+  - description: hooded
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: single
+    feature: flower
+  - description: late-autumn-to-mid-spring
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: brown
+    feature: labellum
+  - description: notched
+    feature: labellum
+  - description: basal-rosette
+    feature: leaf
+  - description: dark-green
+    feature: leaf
+  - description: scattered-alternate
+    feature: leaf
+  - description: to-3cm
+    feature: leaf
+id:
+  ns: 53b398eae35eb12984037744
+  vba: '502789'

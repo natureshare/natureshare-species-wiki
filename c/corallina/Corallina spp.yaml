@@ -1,0 +1,18 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Coralline Red Seaweed
+classification:
+  - name: Florideophyceae
+    rank: class
+  - name: Plantae
+    rank: kingdom
+  - name: Corallinales
+    rank: order
+  - name: Rhodophyta
+    rank: phylum
+categories:
+  - red-alga
+  - seaweed
+id:
+  ns: 5a928355ed2a89ad32000a4b

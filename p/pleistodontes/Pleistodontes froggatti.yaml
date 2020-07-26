@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Fig Wasp
+classification:
+  - name: Hymenoptera
+    rank: Order
+  - name: Insecta
+    rank: class
+  - name: Agaonidae
+    rank: family
+categories:
+  - wasp
+id:
+  ns: 590c62afed2a893d8c00217d

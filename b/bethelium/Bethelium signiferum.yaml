@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Wattle Longhorn
+classification:
+  - name: Insecta
+    rank: class
+  - name: Cerambycidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - insect
+id:
+  ns: 547fcff6e35eb1e8d3000007

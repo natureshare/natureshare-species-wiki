@@ -1,0 +1,30 @@
+updated_by: chrisl
+common_names:
+  - Slender Honey-myrtle
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: pink
+    feature: flower-colour
+  - description: purple
+    feature: flower-colour
+  - description: large-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-3m
+    feature: height
+  - description: 2-6mm
+    feature: leaf-length
+  - description: 1-4mm
+    feature: leaf-width
+id:
+  ns: 53b398e9e35eb1298403724e
+  vba: '502148'

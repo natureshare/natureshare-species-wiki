@@ -1,0 +1,17 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Stiletto Fly
+classification:
+  - name: Insecta
+    rank: class
+  - name: Therevidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+  - provisional-name
+  - stiletto-fly
+id:
+  ns: 581673aced2a8974800016fe

@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Violet Honey-myrtle
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - native-and-weedy-stands-in-vic
+  - plant
+features:
+  - description: cluster
+    feature: flower
+id:
+  ns: 53b398e9e35eb1298403725c
+  vba: '502156'

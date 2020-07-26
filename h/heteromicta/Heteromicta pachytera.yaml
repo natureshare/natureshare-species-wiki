@@ -1,0 +1,11 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Lepidoptera
+    rank: Order
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f2e35eb12984039f08

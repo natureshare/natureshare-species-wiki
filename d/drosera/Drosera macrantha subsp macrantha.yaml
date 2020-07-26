@@ -1,0 +1,47 @@
+updated_by: chrisl
+common_names:
+  - Climbing Sundew
+classification:
+  - name: droseraceae
+    rank: family
+categories:
+  - carnivorous
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: petalled
+    feature: flower
+  - description: white
+    feature: flower
+  - description: white-pale-pink
+    feature: flower
+  - description: late-winter-spring
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: trailing
+    feature: habit
+  - description: twiner
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: cupped
+    feature: leaf
+  - description: rounded
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: sticky
+    feature: leaf
+  - description: to-9cm
+    feature: leaf
+  - description: yellowish-green
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e7e35eb12984036a74
+  vba: '501106'

@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Abalone
+classification:
+  - name: Gastropoda
+    rank: class
+  - name: Mollusca
+    rank: phylum
+categories:
+  - abalone
+  - provisional-name
+id:
+  ns: 545f4b70e35eb13a1b00000c

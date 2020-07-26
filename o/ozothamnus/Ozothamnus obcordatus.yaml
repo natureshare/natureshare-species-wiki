@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Grey Everlasting
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: red
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: shrub
+    feature: habit
+id:
+  ns: 53b398e9e35eb1298403742f
+  vba: '501620'

@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - Pink Purslane
+classification:
+  - name: portulacaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: leaves-on-at-least-lower-part
+    feature: stem
+id:
+  ns: 53b398e6e35eb1298403663c
+  vba: '500551'

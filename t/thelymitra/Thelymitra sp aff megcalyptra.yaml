@@ -1,0 +1,17 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: orchid
+    feature: flower
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 5438bc2ae35eb1c78a000188

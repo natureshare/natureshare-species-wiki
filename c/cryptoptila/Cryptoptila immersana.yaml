@@ -1,0 +1,18 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Four Eyes
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: Tortricidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+categories:
+  - insect
+  - moth
+id:
+  ns: 564c0e26ed2a89e56e000baa

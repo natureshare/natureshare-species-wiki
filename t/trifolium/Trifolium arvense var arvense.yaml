@@ -1,0 +1,40 @@
+updated_by: chrisl
+common_names:
+  - Hare's-foot Clover
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - weed
+features:
+  - description: cluster
+    feature: flower
+  - description: pea
+    feature: flower
+  - description: low-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-1m
+    feature: height
+  - description: to-1mm
+    feature: leaf-length
+  - description: up-to-1mm
+    feature: leaf-length
+  - description: scale-like
+    feature: leaf-type
+  - description: up-to-1mm
+    feature: leaf-width
+  - description: less-than-20mm
+    feature: seedpod-length
+  - description: to-20mm
+    feature: seedpod-length
+  - description: up-to-20mm
+    feature: seedpod-length
+id:
+  ns: 53b398ebe35eb12984037c4a
+  vba: '503424'

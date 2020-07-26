@@ -1,0 +1,29 @@
+updated_by: chrisl
+common_names:
+  - Tuberous Bitter-cress
+classification:
+  - name: brassicaceae
+    rank: family
+categories:
+  - dicotyledon
+  - extinct-vic
+  - ffg
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: present
+    feature: basal-leaf
+  - description: 0-3
+    feature: cauline-leaves
+  - description: pinnate
+    feature: cauline-leaves
+  - description: basal-to-8cm
+    feature: leaf-length
+  - description: cauline-to-3cm
+    feature: leaf-length
+  - description: 5-8mm-long
+    feature: petal
+id:
+  ns: 53b398e6e35eb129840366bd
+  vba: '505033'

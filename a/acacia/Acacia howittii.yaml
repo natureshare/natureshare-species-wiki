@@ -1,0 +1,24 @@
+updated_by: chrisl
+common_names:
+  - Sticky Wattle
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - native-and-weedy-stands-in-vic
+  - plant
+  - rare-threatened
+  - wattle
+features:
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+id:
+  ns: 53b398e5e35eb129840361c4
+  vba: '500044'

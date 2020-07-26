@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Coleoptera
+    rank: Order
+  - name: Insecta
+    rank: class
+  - name: Cerambycidae
+    rank: family
+categories:
+  - longhorn-beetle
+  - longicorn-beetle
+  - provisional-name
+id:
+  ns: 5a87ec9eed2a8967ce0003bf

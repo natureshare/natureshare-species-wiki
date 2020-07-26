@@ -1,0 +1,48 @@
+updated_by: chrisl
+common_names:
+  - Scented Paperbark
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: bottlebrush
+    feature: flower
+  - description: cluster
+    feature: flower
+  - description: cream-yellow
+    feature: flower
+  - description: white
+    feature: flower-colour
+  - description: spring-summer
+    feature: flowering-time
+  - description: capsule
+    feature: fruit
+  - description: cup-shaped
+    feature: fruit
+  - description: shrub
+    feature: habit
+  - description: tree
+    feature: habit
+  - description: to-10m
+    feature: height
+  - description: crowded-in-opposite-pairs
+    feature: leaf
+  - description: dark-green
+    feature: leaf
+  - description: oval-to-triangular
+    feature: leaf
+  - description: stiff
+    feature: leaf
+  - description: to-1.8cm
+    feature: leaf
+  - description: 5-12mm
+    feature: leaf-length
+  - description: 3-7mm
+    feature: leaf-width
+id:
+  ns: 53b398e9e35eb12984037258
+  vba: '502153'

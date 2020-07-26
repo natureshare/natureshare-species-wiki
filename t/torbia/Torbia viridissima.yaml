@@ -1,0 +1,16 @@
+updated_by: david_francis
+common_names:
+  - Gum Leaf Katydid
+  - Gumleaf Torbia
+classification:
+  - name: insecta
+    rank: class
+  - name: Tettigoniidae
+    rank: family
+  - name: Orthoptera
+    rank: order
+categories:
+  - insect
+  - katydid
+id:
+  ns: 53b398f2e35eb12984039e82

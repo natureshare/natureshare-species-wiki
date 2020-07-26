@@ -1,0 +1,17 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Oecophoridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Chezala-group
+    rank: Supertribe
+  - name: Oecophorinae
+    rank: subfamily
+categories:
+  - moth
+id:
+  ns: 5a37633bed2a89626200255d

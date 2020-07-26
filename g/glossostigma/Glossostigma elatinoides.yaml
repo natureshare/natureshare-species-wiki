@@ -1,0 +1,33 @@
+updated_by: chrisl
+common_names:
+  - Small Mud-mat
+classification:
+  - name: phrymaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - herb
+  - plant
+features:
+  - description: blue-mauve
+    feature: flower
+  - description: tiny
+    feature: flower
+  - description: mid-autumn-spring
+    feature: flowering-time
+  - description: creeping
+    feature: habit
+  - description: semi-aquatic
+    feature: habit
+  - description: lanceolate-to-elliptic
+    feature: leaf
+  - description: opposite
+    feature: leaf
+  - description: to-1.5cm
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+id:
+  ns: 53b398e8e35eb12984036d7c
+  vba: '501449'

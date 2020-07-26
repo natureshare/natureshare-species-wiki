@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Eastern Three-lined Skink
+classification:
+  - name: Reptilia
+    rank: class
+  - name: Scincidae
+    rank: family
+  - name: Squamata
+    rank: order
+categories:
+  - animal
+  - fauna
+  - lizard
+  - reptile
+  - skink
+features:
+  - description: fused
+    feature: frontoparietal-scales
+id:
+  ns: 53b398e5e35eb12984035f5d

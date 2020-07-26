@@ -1,0 +1,14 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Deer
+classification:
+  - name: Cervidae
+    rank: family
+categories:
+  - animal
+  - fauna
+  - fauna-introduced
+  - mammal
+id:
+  ns: 5546f7b8ed2a899c7900034f

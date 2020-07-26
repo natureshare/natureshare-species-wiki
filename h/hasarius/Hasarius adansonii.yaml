@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Adanson's House Jumper
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Salticidae
+    rank: family
+  - name: Araneae
+    rank: order
+categories:
+  - spider
+id:
+  ns: 54605b41e35eb1bc4500003b

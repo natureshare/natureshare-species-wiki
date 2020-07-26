@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Onion Weed
+classification:
+  - name: asphodelaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+  - weed
+features:
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398e6e35eb129840363c5
+  vba: '500286'

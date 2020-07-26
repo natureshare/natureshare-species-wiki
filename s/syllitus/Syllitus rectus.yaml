@@ -1,0 +1,11 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Cerambycidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+id:
+  ns: 583d6373ed2a897480005ee2

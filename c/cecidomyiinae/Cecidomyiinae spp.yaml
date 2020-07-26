@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Gall Midge
+classification:
+  - name: insecta
+    rank: class
+  - name: Cecidomyiinae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - midge
+  - provisional-name
+id:
+  ns: 5a079439ed2a8962be00017f

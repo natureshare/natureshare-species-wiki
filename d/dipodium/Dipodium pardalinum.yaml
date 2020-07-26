@@ -1,0 +1,40 @@
+updated_by: chrisl
+common_names:
+  - Spotted Hyacinth-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: orchid
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: white
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: no-stripes
+    feature: labellum
+  - description: pink-spots
+    feature: labellum
+  - description: white
+    feature: labellum-hair
+  - description: leafless
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+  - description: white-with-pink-spots
+    feature: petals
+id:
+  ns: 53b398e7e35eb12984036a1b
+  vba: '500324'

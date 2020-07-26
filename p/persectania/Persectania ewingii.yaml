@@ -1,0 +1,19 @@
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Noctuidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Noctuinae
+    rank: Subfamily
+  - name: Noctuoidea
+    rank: Superfamily
+  - name: Hadenini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f2e35eb12984039e78

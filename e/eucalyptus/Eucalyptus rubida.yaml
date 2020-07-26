@@ -1,0 +1,76 @@
+updated_by: chrisl
+common_names:
+  - Candlebark
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+  - tree
+features:
+  - description: alternate
+    feature: adult-leaf
+  - description: dark-green
+    feature: adult-leaf
+  - description: linear
+    feature: adult-leaf
+  - description: stalked
+    feature: adult-leaf
+  - description: to-24cm
+    feature: adult-leaf
+  - description: develops-red-or-pink-before-shedding
+    feature: bark
+  - description: rough-on-lower-trunk
+    feature: bark
+  - description: shed-in-strips
+    feature: bark
+  - description: smooth
+    feature: bark
+  - description: smooth-throughout
+    feature: bark
+  - description: white
+    feature: bark
+  - description: '3'
+    feature: buds
+  - description: domed-cap
+    feature: buds
+  - description: flat-on-stem
+    feature: buds
+  - description: groups-of-3
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: white
+    feature: flower
+  - description: late-spring-summer
+    feature: flowering-time
+  - description: domed
+    feature: fruit
+  - description: hard
+    feature: fruit
+  - description: projecting-valves
+    feature: fruit
+  - description: tree
+    feature: habit
+  - description: 6-30m
+    feature: height
+  - description: flat-on-stems
+    feature: juvenile-leaf
+  - description: paired
+    feature: juvenile-leaf
+  - description: rounded
+    feature: juvenile-leaf
+  - description: silvery
+    feature: juvenile-leaf
+  - description: blue-green
+    feature: leaf-colour
+  - description: dull
+    feature: leaf-surface
+  - description: 1-3cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036bf6
+  vba: '501315'

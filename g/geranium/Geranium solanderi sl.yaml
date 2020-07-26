@@ -1,0 +1,36 @@
+updated_by: chrisl
+common_names:
+  - Austral Crane's-bill
+classification:
+  - name: geraniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - herb
+  - plant
+  - provisional-name
+features:
+  - description: larger
+    feature: basal-leaf
+  - description: more-deeply-lobed
+    feature: basal-leaf
+  - description: pink
+    feature: flower
+  - description: mid-spring-mid-summer
+    feature: flowering-time
+  - description: age-from-orange-to-red
+    feature: leaf
+  - description: lobed
+    feature: leaf
+  - description: on-long-hairy-stalk
+    feature: leaf
+  - description: round-to-kidney-shaped
+    feature: leaf
+  - description: to-10cm
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+id:
+  ns: 53b398e8e35eb12984036d56
+  vba: '501434'

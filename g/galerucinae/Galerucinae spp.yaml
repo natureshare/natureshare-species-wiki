@@ -1,0 +1,18 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Metallic Flea-beetle (subfamily)
+classification:
+  - name: Galerucinae
+    rank: Subfamily
+  - name: Insecta
+    rank: class
+  - name: Chrysomelidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - flea-beetle
+  - provisional-name
+id:
+  ns: 5c08e6c71779a4b034000125

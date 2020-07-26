@@ -1,0 +1,17 @@
+updated_by: david_francis
+common_names:
+  - Long-spinneret Bark-spider
+  - Tree-trunk Spider
+  - Two-tailed Spider
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Hersiliidae
+    rank: family
+  - name: Araneae
+    rank: order
+categories:
+  - provisional-name
+  - spider
+id:
+  ns: 53b398f3e35eb1298403a35c

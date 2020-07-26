@@ -1,0 +1,13 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Salticidae
+    rank: family
+  - name: Araneae
+    rank: order
+categories:
+  - spider
+id:
+  ns: 54e57c55ed2a8987b70003ff

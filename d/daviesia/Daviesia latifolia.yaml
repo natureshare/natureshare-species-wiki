@@ -1,0 +1,41 @@
+updated_by: chrisl
+common_names:
+  - Hop Bitter-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: dense-raceme
+    feature: flower
+  - description: pea
+    feature: flower
+  - description: red-brown-centre
+    feature: flower
+  - description: yellow-orange
+    feature: flower
+  - description: pod
+    feature: fruit
+  - description: triangular
+    feature: fruit
+  - description: open-spreading-shrub
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: dull-green
+    feature: leaf
+  - description: long-oval
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-10cm
+    feature: leaf
+  - description: wavy-edge
+    feature: leaf
+id:
+  ns: 53b398e7e35eb12984036972
+  vba: '500996'

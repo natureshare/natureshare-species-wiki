@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - English Bluebell
+classification:
+  - name: hyacinthaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+  - weed
+features:
+  - description: cream
+    feature: anther
+  - description: secund
+    feature: flowers
+id:
+  ns: 53b398e8e35eb12984036f08
+  vba: '505827'

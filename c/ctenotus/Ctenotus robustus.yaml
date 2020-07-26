@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Large Striped Skink
+classification:
+  - name: scincidae
+    rank: family
+categories:
+  - animal
+  - fauna
+  - lizard
+  - reptile
+  - skink
+features:
+  - description: oviparous
+    feature: reproductive-mode
+id:
+  ns: 53b398e5e35eb12984035fdd

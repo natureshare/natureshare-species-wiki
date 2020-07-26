@@ -1,0 +1,31 @@
+updated_by: chrisl
+common_names:
+  - Scented Groundsel
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: scented
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: grey
+    feature: leaf
+  - description: serrated
+    feature: leaf
+  - description: fluffy
+    feature: seed
+id:
+  ns: 53b398eae35eb12984037a06
+  vba: '503120'

@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Blanket Fern
+classification:
+  - name: aspleniaceae
+    rank: family
+categories:
+  - ferns-and-allies
+  - flora
+  - plant
+features:
+  - description: groundcover
+    feature: habit
+  - description: spreading
+    feature: habit
+  - description: hairy
+    feature: leaf
+id:
+  ns: 53b398e9e35eb129840375c5
+  vba: '505453'

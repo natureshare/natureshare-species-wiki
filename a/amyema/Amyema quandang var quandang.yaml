@@ -1,0 +1,49 @@
+updated_by: chrisl
+common_names:
+  - Grey Mistletoe
+classification:
+  - name: loranthaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - mistletoe
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: red
+    feature: flower
+  - description: most-of-year
+    feature: flowering-time
+  - description: berry
+    feature: fruit
+  - description: fleshy
+    feature: fruit
+  - description: green
+    feature: fruit
+  - description: parasitic
+    feature: habit
+  - description: acacia-dealbata
+    feature: host-plant
+  - description: covered-with-short-hairs
+    feature: leaf
+  - description: grey
+    feature: leaf
+  - description: lanceolate
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: simple
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-10-cm
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e6e35eb12984036327
+  vba: '500222'

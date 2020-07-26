@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Fungus Gnat
+classification:
+  - name: Mycetophilidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+  - insect
+  - provisional-name
+id:
+  ns: 53d72e49e35eb1b22900000b

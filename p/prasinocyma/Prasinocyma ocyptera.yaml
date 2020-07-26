@@ -1,0 +1,22 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - 'Iodis [sic] ocyptera'
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Geometrinae
+    rank: Subfamily
+  - name: Geometroidea
+    rank: Superfamily
+  - name: Geometrini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 5d3d8e3cc347d56c430001b9

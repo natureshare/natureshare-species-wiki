@@ -1,0 +1,16 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Cosmos
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+id:
+  ns: 54b21b44ed2a896d8600004c
+  vba: '505841'

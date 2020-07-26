@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Satinash
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - provisional-name
+features:
+  - description: cluster
+    feature: flower
+id:
+  ns: 53b398ebe35eb12984037b43
+  vba: '508009'

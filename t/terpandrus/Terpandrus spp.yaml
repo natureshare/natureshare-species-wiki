@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Gumleaf Katydids
+classification:
+  - name: insecta
+    rank: class
+  - name: Tettigoniidae
+    rank: family
+  - name: Orthoptera
+    rank: order
+categories:
+  - insect
+  - katydid
+id:
+  ns: 58e99329ed2a89486500152b

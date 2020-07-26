@@ -1,0 +1,39 @@
+updated_by: chrisl
+common_names:
+  - Common Blown-grass
+synonyms:
+  - Lachnagrostis filiformis var. 1
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+features:
+  - description: grass
+    feature: flower
+  - description: grey-green
+    feature: flower
+  - description: open-spike
+    feature: flower
+  - description: white
+    feature: flower
+  - description: mid-spring-mid-summer
+    feature: flowering-time
+  - description: grass
+    feature: habit
+  - description: tuft
+    feature: habit
+  - description: linear
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+  - description: to-20cm
+    feature: leaf
+  - description: tufted
+    feature: leaf
+id:
+  ns: 53b398e8e35eb1298403702e
+  vba: '504219'

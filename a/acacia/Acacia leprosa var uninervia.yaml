@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - Large-leaf Cinnamon Wattle
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+  - wattle
+features:
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+  - description: 3-5-per-axil-rarely-2
+    feature: flowerhead
+  - description: shrub
+    feature: habit
+  - description: present
+    feature: leaf-pits
+  - description: pointed
+    feature: leaf-tip
+  - description: hairy
+    feature: peduncle
+id:
+  ns: 53b398e5e35eb129840361d2
+  vba: '505141'

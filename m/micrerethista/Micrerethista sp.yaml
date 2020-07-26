@@ -1,0 +1,15 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Tineidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Harmacloninae
+    rank: subfamily
+categories:
+  - moth
+id:
+  ns: 59817a0fed2a89aae5002d0e

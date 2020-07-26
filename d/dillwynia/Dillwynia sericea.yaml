@@ -1,0 +1,70 @@
+updated_by: chrisl
+common_names:
+  - Showy Parrot-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - provisional-name
+features:
+  - description: apricot
+    feature: flower
+  - description: much-wider-than-tall
+    feature: flower
+  - description: orange
+    feature: flower
+  - description: pea
+    feature: flower
+  - description: red
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: pink
+    feature: flower-colour
+  - description: solitary-paired-in-leaf-axils
+    feature: flowers
+  - description: groundcover
+    feature: habit
+  - description: herb
+    feature: habit
+  - description: low-shrub
+    feature: habit
+  - description: prostrate
+    feature: habit
+  - description: trailing
+    feature: habit
+  - description: 10-30cm
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: trifoliate
+    feature: leaf-type
+  - description: greater-than-5mm
+    feature: leafet-length
+  - description: 6-15mm
+    feature: leaflet-length
+  - description: less-than-15mm
+    feature: leaflet-length
+  - description: 4-10mm
+    feature: leaflet-width
+  - description: greater-than-4mm
+    feature: leaflet-width
+  - description: less-than-10mm
+    feature: leaflet-width
+  - description: '3'
+    feature: leaflets
+  - description: 2-3mm
+    feature: seedpod-length
+  - description: greater-than-2mm
+    feature: seedpod-length
+  - description: up-to-3mm
+    feature: seedpod-length
+  - description: 1-or-2
+    feature: seeds
+id:
+  ns: 53b398e7e35eb12984036a08
+  vba: '501058'

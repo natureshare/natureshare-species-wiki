@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Grey Glasswort
+synonyms:
+  - Halosarcia halocnemoides subsp. halocnemoides
+classification:
+  - name: chenopodiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: brown
+    feature: seed
+id:
+  ns: 53b398e8e35eb12984036e60
+  vba: '501588'

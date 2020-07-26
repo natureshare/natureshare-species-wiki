@@ -1,0 +1,32 @@
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Oecophoridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Oecophorinae
+    rank: Subfamily
+  - name: Gelechioidea
+    rank: Superfamily
+  - name: Wingia-group
+    rank: Supertribe
+categories:
+  - insect
+  - moth
+features:
+  - description: white
+    feature: line
+  - description: black
+    feature: wing
+  - description: brown
+    feature: wing
+  - description: lined
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037ecf

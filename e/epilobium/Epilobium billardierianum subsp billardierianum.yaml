@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Smooth Willow-herb
+classification:
+  - name: onagraceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: white
+    feature: flower
+  - description: 32-80-teeth-on-margin
+    feature: leaf
+  - description: 6-20mm
+    feature: leaf-width
+  - description: opposite-at-least-on-lower-stem
+    feature: leaves
+id:
+  ns: 53b398e7e35eb12984036afa
+  vba: '504444'

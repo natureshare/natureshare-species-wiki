@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - Giant Honey-myrtle
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - native-and-weedy-stands-in-vic
+  - plant
+  - rare-threatened
+features:
+  - description: cluster
+    feature: flower
+  - description: cream
+    feature: flower-colour
+  - description: white
+    feature: flower-colour
+  - description: shrub
+    feature: habit
+  - description: small-tree
+    feature: habit
+  - description: to-6m
+    feature: height
+  - description: 12-25mm
+    feature: leaf-length
+  - description: 1mm
+    feature: leaf-width
+id:
+  ns: 53b398e9e35eb12984037249
+  vba: '502145'

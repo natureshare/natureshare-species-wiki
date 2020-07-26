@@ -1,0 +1,13 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Marasmiaceae
+    rank: family
+  - name: Agaricales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 54f16b15ed2a8983c2000111

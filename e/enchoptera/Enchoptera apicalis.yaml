@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Wasp-mimicking Longicorn Beetle
+classification:
+  - name: Insecta
+    rank: class
+  - name: Cerambycidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - longicorn-beetle
+id:
+  ns: 59d6af3bed2a892d40003043

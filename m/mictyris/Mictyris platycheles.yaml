@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Soldier Crab
+classification:
+  - name: Crustacea
+    rank: class
+  - name: Mictyridae
+    rank: family
+  - name: Decapoda
+    rank: order
+categories:
+  - crab
+id:
+  ns: 54d06d4fed2a899aeb000562

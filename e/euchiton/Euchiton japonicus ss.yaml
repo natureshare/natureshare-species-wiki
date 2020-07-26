@@ -1,0 +1,42 @@
+updated_by: chrisl
+common_names:
+  - Creeping Cudweed
+synonyms:
+  - Euchiton collinus s.s.
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - herb
+  - plant
+features:
+  - description: present
+    feature: basal-rosette
+  - description: 1-3
+    feature: floral-leaves
+  - description: not-or-hardly-exceed-flowerhead
+    feature: floral-leaves
+  - description: brown
+    feature: flower
+  - description: cluster
+    feature: flower
+  - description: 3-7-florets-rarely-2
+    feature: flowerhead
+  - description: spring-mid-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: cotton-white-underneath
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: to-4cm
+    feature: leaf
+  - description: perrenial
+    feature: plant
+id:
+  ns: 53b398e7e35eb12984036c21
+  vba: '501466'

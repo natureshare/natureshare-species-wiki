@@ -1,0 +1,19 @@
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Larentiinae
+    rank: Subfamily
+  - name: Geometroidea
+    rank: Superfamily
+  - name: Eupitheciini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f2e35eb12984039f22

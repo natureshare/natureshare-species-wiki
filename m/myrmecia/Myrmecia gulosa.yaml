@@ -1,0 +1,17 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Bull Ant
+  - Giant Bullant
+classification:
+  - name: Insecta
+    rank: class
+  - name: Formicidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - ant
+  - insect
+id:
+  ns: 54c8c60fed2a897151000131

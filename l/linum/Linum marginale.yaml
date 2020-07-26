@@ -1,0 +1,38 @@
+updated_by: chrisl
+common_names:
+  - Native Flax
+classification:
+  - name: linaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: clustered
+    feature: flower
+  - description: dark-veins-on-petals
+    feature: flower
+  - description: regular
+    feature: flower
+  - description: blue
+    feature: flower-colour
+  - description: petalled
+    feature: flower-shape-type
+  - description: herb
+    feature: habit
+  - description: bluish
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: narrow
+    feature: leaf
+  - description: to-2cm
+    feature: leaf
+  - description: to-2cm
+    feature: leaf-length
+  - description: '5'
+    feature: number-of-petals
+id:
+  ns: 53b398e9e35eb1298403715f
+  vba: '502017'

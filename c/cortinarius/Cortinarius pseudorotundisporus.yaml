@@ -1,0 +1,17 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Cortinariaceae
+    rank: family
+  - name: Fungi
+    rank: kingdom
+  - name: Agaricales
+    rank: order
+  - name: Basidiomycota
+    rank: phylum
+categories:
+  - fungi
+id:
+  ns: 5b62aa31ed2a89a7f100064b

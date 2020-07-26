@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Coarse Bottle-daisy
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: about-1mm-wide
+    feature: involucral-bracts
+  - description: 2-6-leafy-and-5-30mm-long
+    feature: stem-bracts
+id:
+  ns: 53b398e8e35eb1298403703d
+  vba: '501862'

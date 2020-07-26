@@ -1,0 +1,22 @@
+created_by: russell
+updated_by: koolah
+common_names:
+  - Rusty Geometrid
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Geometrinae
+    rank: Subfamily
+  - name: Geometroidea
+    rank: Superfamily
+  - name: Geometrini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 544f7756e35eb195ac00003a

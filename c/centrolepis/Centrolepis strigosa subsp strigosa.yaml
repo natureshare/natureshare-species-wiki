@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Hairy Centrolepis
+classification:
+  - name: centrolepidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+features:
+  - description: hairy
+    feature: bract
+  - description: hairy
+    feature: leaf
+id:
+  ns: 53b398e6e35eb12984036760
+  vba: '500716'

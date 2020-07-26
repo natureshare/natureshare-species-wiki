@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - Arching Flax-lily
+classification:
+  - name: hemerocallidaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+  - rare-threatened
+features:
+  - description: yellow
+    feature: anther
+  - description: blue
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: not-spreading
+    feature: habit
+  - description: often-to-1m-tall-and-upright
+    feature: habit
+  - description: v-or-y-shaped-in-cross-section
+    feature: leaf
+  - description: '6'
+    feature: number-of-petals
+  - description: '6'
+    feature: petals
+id:
+  ns: 53b398e7e35eb129840369b9
+  vba: '505560'

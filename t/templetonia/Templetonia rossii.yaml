@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Flat Templetonia
+synonyms:
+  - Templetonia sulcata
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398ebe35eb12984037b6e
+  vba: '503342'

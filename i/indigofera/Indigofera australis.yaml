@@ -1,0 +1,67 @@
+updated_by: chrisl
+common_names:
+  - Austral Indigo
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: mauve
+    feature: flower
+  - description: pea
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: spray
+    feature: flower
+  - description: orange
+    feature: flower-colour
+  - description: spring
+    feature: flowering-time
+  - description: brown
+    feature: fruit
+  - description: cylindrical
+    feature: fruit
+  - description: hairy
+    feature: fruit
+  - description: pod
+    feature: fruit
+  - description: procumbent
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-08m
+    feature: height
+  - description: alternate
+    feature: leaf
+  - description: blue-green
+    feature: leaf
+  - description: divided
+    feature: leaf
+  - description: pinnate
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-3cm
+    feature: leaf
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 5-12mm
+    feature: leaf-length
+  - description: greater-than-5mm
+    feature: leaf-length
+  - description: less-than-20mm
+    feature: leaf-length
+  - description: 05-2mm
+    feature: leaf-width
+  - description: up-to-2mm
+    feature: leaf-width
+id:
+  ns: 53b398e8e35eb12984036f74
+  vba: '501761'

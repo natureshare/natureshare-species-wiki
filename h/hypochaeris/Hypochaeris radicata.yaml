@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Cat's Ear
+  - Flatweed
+synonyms:
+  - Hypochoeris radicata
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: yellow
+    feature: flower
+id:
+  ns: 53b398e8e35eb12984036f56
+  vba: '501748'

@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - River Swamp Wallaby-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - epbc
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - rare-threatened
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398e6e35eb1298403630f
+  vba: '503623'

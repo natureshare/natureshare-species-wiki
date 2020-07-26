@@ -1,0 +1,28 @@
+updated_by: chrisl
+common_names:
+  - Australian Lilaeopsis
+classification:
+  - name: apiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: 2-10-clustered-terminally
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: umbel
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: slender-herb
+    feature: habit
+  - description: glabrous
+    feature: leaves
+  - description: rhizome
+    feature: stem
+id:
+  ns: 53b398e9e35eb12984037149
+  vba: '502005'

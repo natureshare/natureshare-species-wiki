@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Myxogastrea
+    rank: class
+  - name: Stemonitidaceae
+    rank: family
+  - name: Stemonitida
+    rank: order
+  - name: Mycetozoa
+    rank: subphylum
+categories:
+  - slime-mould
+id:
+  ns: 591e5e80ed2a89fca000000a

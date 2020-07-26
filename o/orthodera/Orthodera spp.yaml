@@ -1,0 +1,14 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Mantidae
+    rank: family
+  - name: Mantodea
+    rank: order
+categories:
+  - insect
+  - praying-mantis
+  - provisional-name
+id:
+  ns: 53b398f1e35eb129840397cf

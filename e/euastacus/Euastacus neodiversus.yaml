@@ -1,0 +1,17 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - South Gippsland Spiny Cray
+classification:
+  - name: Parastacidae
+    rank: family
+  - name: Decapoda
+    rank: order
+categories:
+  - animal
+  - crayfish
+  - fauna
+  - ffg
+  - rare-threatened
+id:
+  ns: 554726b5ed2a89dfbc0003e6

@@ -1,0 +1,20 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Upper Yarra Swamp-gum
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+id:
+  ns: 54a36f35e35eb1c61e000006
+  vba: '507688'

@@ -1,0 +1,32 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: lasiocampidae
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: lasiocampinae
+    rank: subfamily
+  - name: bombycoidea
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: black
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: orange
+    feature: wing
+  - description: red
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037e11

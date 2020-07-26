@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Rain Bugs
+  - Red Velvet Mites
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Trombidiidae
+    rank: family
+  - name: Trombidiformes
+    rank: order
+categories:
+  - mite
+id:
+  ns: 59199261ed2a89277f000027

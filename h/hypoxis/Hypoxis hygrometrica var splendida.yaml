@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Golden Weather-glass
+classification:
+  - name: hypoxidaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+  - rare-threatened
+features:
+  - description: yellow
+    feature: flower
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398e8e35eb12984036f69
+  vba: '504590'

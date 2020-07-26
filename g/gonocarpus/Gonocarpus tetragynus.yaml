@@ -1,0 +1,35 @@
+updated_by: chrisl
+common_names:
+  - Common Raspwort
+classification:
+  - name: haloragaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - herb
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: red
+    feature: flower
+  - description: spring-summer
+    feature: flowering-time
+  - description: erect-bushy-herb
+    feature: habit
+  - description: herb
+    feature: habit
+  - description: rough
+    feature: leaf
+  - description: tiny
+    feature: leaf
+  - description: toothed
+    feature: leaf
+  - description: opposite
+    feature: leaves
+id:
+  ns: 53b398e8e35eb12984036daa
+  vba: '501489'

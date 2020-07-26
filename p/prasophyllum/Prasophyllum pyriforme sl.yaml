@@ -1,0 +1,26 @@
+updated_by: chrisl
+common_names:
+  - Graceful Leek-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - provisional-name
+features:
+  - description: green-with-maroon-tip
+    feature: flower
+  - description: maroon
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: white
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398eae35eb129840376ce
+  vba: '502710'

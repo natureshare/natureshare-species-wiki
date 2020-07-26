@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Red-fingered Shore-crab
+classification:
+  - name: Malacostraca
+    rank: class
+  - name: Sesarmidae
+    rank: family
+  - name: Decapoda
+    rank: order
+categories:
+  - crab
+  - crustacean
+id:
+  ns: 58917231ed2a89d10f0020ac

@@ -1,0 +1,16 @@
+updated_by: david_francis
+common_names:
+  - Brown Darkling Beetle
+  - Honeybrown Beetle
+classification:
+  - name: insecta
+    rank: class
+  - name: Tenebrionidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - insect
+id:
+  ns: 53b398f2e35eb12984039f67

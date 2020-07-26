@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Southern Plantain
+classification:
+  - name: veronicaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: not-exserted
+    feature: anthers
+  - description: 1.5-5cm
+    feature: leaf-width
+id:
+  ns: 53b398e9e35eb12984037599
+  vba: '502551'

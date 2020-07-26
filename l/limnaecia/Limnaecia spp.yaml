@@ -1,0 +1,18 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Cosmopterigidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Cosmopteriginae
+    rank: Subfamily
+  - name: Gelechioidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5c4867c63abbd6f3b600010f

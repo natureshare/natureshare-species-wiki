@@ -1,0 +1,16 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Stenopelmatidae
+    rank: family
+  - name: Orthoptera
+    rank: order
+  - name: Ensifera
+    rank: suborder
+categories:
+  - cricket
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb1298403812f

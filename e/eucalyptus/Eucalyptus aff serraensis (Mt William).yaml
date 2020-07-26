@@ -1,0 +1,34 @@
+updated_by: chrisl
+common_names:
+  - Mt William Stringybark
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: rough-on-lower-trunk
+    feature: bark
+  - description: rough-to-smaller-branches
+    feature: bark
+  - description: groups-of-3-7
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: mallee
+    feature: habit
+  - description: 3-7m
+    feature: height
+  - description: green
+    feature: leaf-colour
+  - description: glossy
+    feature: leaf-surface
+  - description: 3-5cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036b74
+  vba: '505541'

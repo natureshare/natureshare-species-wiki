@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Salt Pratia
+classification:
+  - name: campanulaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: glabrous
+    feature: flower-stalk
+  - description: margin-entire-or-a-few-teeth
+    feature: leaf
+id:
+  ns: 53b398e9e35eb12984037171
+  vba: '502731'

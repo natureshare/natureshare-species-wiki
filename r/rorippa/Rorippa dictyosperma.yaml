@@ -1,0 +1,24 @@
+updated_by: chrisl
+common_names:
+  - Forest Bitter-cress
+classification:
+  - name: brassicaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: white
+    feature: flower
+  - description: '4'
+    feature: number-of-petals
+  - description: '4'
+    feature: petals
+  - description: straight-or-curved
+    feature: siliqua
+  - description: '6'
+    feature: stamens
+id:
+  ns: 53b398eae35eb129840378af
+  vba: '502943'

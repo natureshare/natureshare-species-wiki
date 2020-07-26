@@ -1,0 +1,13 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Asilidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - robber-fly
+id:
+  ns: 587379cfed2a89f464001572

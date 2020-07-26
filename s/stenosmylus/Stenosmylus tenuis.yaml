@@ -1,0 +1,13 @@
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Osmylidae
+    rank: Family
+  - name: Neuroptera
+    rank: Order
+categories:
+  - insect
+  - lacewing
+id:
+  ns: 53b398f1e35eb1298403987a

@@ -1,0 +1,16 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Small Dung Button
+classification:
+  - name: Sordariomycetes
+    rank: class
+  - name: Xylariaceae
+    rank: family
+  - name: Ascomycota
+    rank: phylum
+categories:
+  - fungi
+  - fungimap
+id:
+  ns: 55dc17a9ed2a897ee100001a

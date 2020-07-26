@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - Butterfly
+classification:
+  - name: Insecta
+    rank: class
+  - name: Lepidoptera
+    rank: order
+  - name: Papilionoidea
+    rank: superfamily
+categories:
+  - butterfly
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb12984038027

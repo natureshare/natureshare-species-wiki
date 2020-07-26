@@ -1,0 +1,42 @@
+updated_by: chrisl
+common_names:
+  - Wirilda
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - native-and-weedy-stands-in-vic
+  - plant
+  - wattle
+features:
+  - description: cluster
+    feature: flower
+  - description: globular
+    feature: flower
+  - description: scented
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+  - description: late-spring-early-summer
+    feature: flowering-time
+  - description: large-shrub
+    feature: habit
+  - description: small-tree
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: blue-green
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-20cm
+    feature: leaf-length
+id:
+  ns: 53b398e5e35eb129840361f8
+  vba: '504209'

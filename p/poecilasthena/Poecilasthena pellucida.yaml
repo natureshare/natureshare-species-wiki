@@ -1,0 +1,18 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Pale Delicate
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Larentiinae
+    rank: subfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5a5dc987ed2a8959b5000152

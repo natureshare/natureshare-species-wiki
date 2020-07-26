@@ -1,0 +1,15 @@
+updated_by: david_francis
+common_names:
+  - Native Drone Fly
+classification:
+  - name: Insecta
+    rank: class
+  - name: Syrphidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+  - insect
+id:
+  ns: 53b398f3e35eb1298403a38e

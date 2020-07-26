@@ -1,0 +1,43 @@
+updated_by: chrisl
+common_names:
+  - Sword-grass Brown
+  - Varied Sword-grass Brown
+classification:
+  - name: Insecta
+    rank: class
+  - name: Nymphalidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Papilionoidea
+    rank: superfamily
+categories:
+  - butterfly
+  - insect
+features:
+  - description: '3'
+    feature: spots
+  - description: 3-upperside
+    feature: spots
+  - description: '4'
+    feature: spots
+  - description: 4-underside
+    feature: spots
+  - description: brown
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: five-coloured
+    feature: wing
+  - description: four-coloured
+    feature: wing
+  - description: orange
+    feature: wing
+  - description: red
+    feature: wing
+  - description: white
+    feature: wing
+  - description: yellow
+    feature: wing
+id:
+  ns: 53b398ece35eb12984037fdd

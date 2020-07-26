@@ -1,0 +1,20 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Trichoptilus adelphodes
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Pterophoridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Pterophorinae
+    rank: Subfamily
+  - name: Pterophoroidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5d73040dcad3ebb2a100010b

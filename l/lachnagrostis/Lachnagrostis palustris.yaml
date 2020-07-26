@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Wetland Blown-grass
+synonyms:
+  - Lachnagrostis filiformis var. 2
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - plant
+  - rare-threatened
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398e8e35eb1298403702f

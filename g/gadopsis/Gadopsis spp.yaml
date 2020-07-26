@@ -1,0 +1,15 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Blackfish
+classification:
+  - name: Percichthyidae
+    rank: family
+  - name: Perciformes
+    rank: order
+categories:
+  - animal
+  - fauna
+  - fish
+id:
+  ns: 554727f9ed2a89dfbc0003f0

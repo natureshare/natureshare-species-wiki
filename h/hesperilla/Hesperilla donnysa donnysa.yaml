@@ -1,0 +1,34 @@
+updated_by: chrisl
+common_names:
+  - Donnysa Skipper
+  - Varied Sedge-skipper
+classification:
+  - name: Insecta
+    rank: class
+  - name: Hesperiidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Trapezitinae
+    rank: subfamily
+  - name: Hesperioidea
+    rank: superfamily
+categories:
+  - butterfly
+  - insect
+  - skippers-darts-and-allies
+features:
+  - description: black
+    feature: wing
+  - description: brown
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f95

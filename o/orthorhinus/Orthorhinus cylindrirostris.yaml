@@ -1,0 +1,17 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Elephant Beetle
+  - Elephant Weevil
+classification:
+  - name: insecta
+    rank: class
+  - name: Curculionidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - insect
+id:
+  ns: 5514d3f4ed2a8974d3000b63

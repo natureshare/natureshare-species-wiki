@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Hair Bent
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - provisional-name
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398e5e35eb1298403629c
+  vba: '500158'

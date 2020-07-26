@@ -1,0 +1,20 @@
+created_by: russell
+updated_by: koolah
+classification:
+  - name: insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Ennominae
+    rank: Subfamily
+  - name: Geometroidea
+    rank: Superfamily
+  - name: Caberini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 54e5fcbbed2a89d99000051e

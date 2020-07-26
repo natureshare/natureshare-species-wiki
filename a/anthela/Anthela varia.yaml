@@ -1,0 +1,19 @@
+updated_by: koolah
+common_names:
+  - Varied Anthelid
+classification:
+  - name: Insecta
+    rank: Class
+  - name: anthelidae
+    rank: Family
+  - name: lepidoptera
+    rank: Order
+  - name: anthelinae
+    rank: subfamily
+  - name: bombycoidea
+    rank: superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398ebe35eb12984037e1e

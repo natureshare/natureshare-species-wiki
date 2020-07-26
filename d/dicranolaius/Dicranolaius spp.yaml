@@ -1,0 +1,17 @@
+created_by: chrisl
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Melyridae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - insect
+features:
+  - description: red
+    feature: body
+id:
+  ns: 56eca350ed2a89d3360001aa

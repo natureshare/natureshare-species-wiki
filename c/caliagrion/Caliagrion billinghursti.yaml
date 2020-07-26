@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Large Riverdamsel
+classification:
+  - name: Insecta
+    rank: class
+  - name: Coenagrionidae
+    rank: family
+  - name: Odonata
+    rank: order
+  - name: Zygoptera
+    rank: suborder
+categories:
+  - damselfly
+  - dragonfly-and-damselfly
+  - ffg
+  - insect
+  - rare-threatened
+id:
+  ns: 53b398ebe35eb12984037e5c

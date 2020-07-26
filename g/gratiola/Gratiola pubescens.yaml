@@ -1,0 +1,24 @@
+updated_by: chrisl
+common_names:
+  - Glandular Brooklime
+classification:
+  - name: veronicaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: pink
+    feature: flower
+  - description: tubular
+    feature: flower
+  - description: white
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: 1-3mm
+    feature: pedicel
+id:
+  ns: 53b398e8e35eb12984036dd5
+  vba: '503747'

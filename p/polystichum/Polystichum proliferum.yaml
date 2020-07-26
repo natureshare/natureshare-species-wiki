@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - Mother Shield-fern
+classification:
+  - name: dryopteridaceae
+    rank: family
+categories:
+  - ferns-and-allies
+  - flora
+  - plant
+features:
+  - description: arching
+    feature: frond
+  - description: bulbils-near-tip
+    feature: frond
+  - description: dull-dark-green
+    feature: frond
+  - description: pinnate
+    feature: frond
+  - description: to-1m
+    feature: frond
+  - description: tuft
+    feature: habit
+  - description: bright-lime-green
+    feature: new-frond
+  - description: 2-rows-distant-from-frond-margins
+    feature: sori
+  - description: round
+    feature: sori
+id:
+  ns: 53b398eae35eb12984037639
+  vba: '502645'

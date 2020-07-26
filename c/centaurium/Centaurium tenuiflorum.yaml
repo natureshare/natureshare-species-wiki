@@ -1,0 +1,25 @@
+updated_by: chrisl
+common_names:
+  - Slender Centaury
+classification:
+  - name: gentianaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: magenta
+    feature: flower
+  - description: erect-herb
+    feature: habit
+  - description: withered-at-flowering
+    feature: leaves
+  - description: 4-5
+    feature: number-of-petals
+  - description: 4-5
+    feature: petals
+id:
+  ns: 53b398e6e35eb1298403674c
+  vba: '500705'

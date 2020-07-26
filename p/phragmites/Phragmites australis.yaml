@@ -1,0 +1,43 @@
+updated_by: chrisl
+common_names:
+  - Common Reed
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+features:
+  - description: grass
+    feature: flower
+  - description: purplish-white
+    feature: flower
+  - description: spike
+    feature: flower
+  - description: 1-3m-tall
+    feature: flower-stalk
+  - description: leafy-unbranched
+    feature: flower-stalk
+  - description: late-spring-autumn
+    feature: flowering-time
+  - description: bamboo-like
+    feature: habit
+  - description: grass
+    feature: habit
+  - description: semi-aquatic
+    feature: habit
+  - description: 1-3m-long
+    feature: leaf
+  - description: alternate
+    feature: leaf
+  - description: grey-green
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+id:
+  ns: 53b398e9e35eb1298403751b
+  vba: '502497'

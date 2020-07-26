@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Smooth Cat's-ear
+synonyms:
+  - Hypochoeris glabra
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: yellow
+    feature: flower
+id:
+  ns: 53b398e8e35eb12984036f55
+  vba: '501747'

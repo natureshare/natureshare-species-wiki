@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - Love Creeper
+classification:
+  - name: polygalaceae
+    rank: family
+categories:
+  - climber
+  - dicotyledon
+  - flora
+  - plant
+  - scrambler
+features:
+  - description: blue
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: late-winter-early-summer
+    feature: flowering-time
+  - description: climber-twiner
+    feature: habit
+  - description: leafless
+    feature: leaf
+  - description: '2'
+    feature: number-of-petals
+  - description: '2'
+    feature: petals
+id:
+  ns: 53b398e7e35eb12984036815
+  vba: '500801'

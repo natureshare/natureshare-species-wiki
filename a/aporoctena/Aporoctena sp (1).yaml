@@ -1,0 +1,19 @@
+updated_by: koolah
+classification:
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Ennominae
+    rank: Subfamily
+  - name: Geometroidea
+    rank: Superfamily
+  - name: Nacophorini
+    rank: Tribe
+  - name: Insecta
+    rank: class
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f2e35eb12984039d74

@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Assassin Bug
+classification:
+  - name: Insecta
+    rank: class
+  - name: Reduviidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+  - name: Heteroptera
+    rank: suborder
+categories:
+  - insect
+  - provisional-name
+  - true-bug
+id:
+  ns: 53b398ece35eb129840380e1

@@ -1,0 +1,18 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Small-flower x Coast Flax-lily hybrid
+classification:
+  - name: hemerocallidaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+features:
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 54a3a248e35eb1c61e00005e
+  vba: '505563'

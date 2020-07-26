@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Long-tail Greenhood
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - ffg
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398eae35eb1298403778e
+  vba: '502823'

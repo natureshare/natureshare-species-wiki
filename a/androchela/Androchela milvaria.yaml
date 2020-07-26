@@ -1,0 +1,21 @@
+updated_by: koolah
+common_names:
+  - Four-spot Cape-moth
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Ennominae
+    rank: Subfamily
+  - name: Geometroidea
+    rank: Superfamily
+  - name: Nacophorini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f2e35eb12984039f5c

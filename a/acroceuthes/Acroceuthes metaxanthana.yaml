@@ -1,0 +1,22 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Dog-face Moth
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: TORTRICIDAE
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: TORTRICINAE
+    rank: subfamily
+  - name: TORTRICOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 545d4b58e35eb1c52b000043

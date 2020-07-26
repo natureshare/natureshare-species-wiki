@@ -1,0 +1,30 @@
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Geometrinae
+    rank: Subfamily
+  - name: Geometroidea
+    rank: Superfamily
+  - name: Geometrini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+features:
+  - description: white
+    feature: line
+  - description: green
+    feature: wing
+  - description: lined
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f11

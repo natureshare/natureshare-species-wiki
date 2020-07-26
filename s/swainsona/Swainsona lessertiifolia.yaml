@@ -1,0 +1,41 @@
+updated_by: chrisl
+common_names:
+  - Coast Swainson-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: pea
+    feature: flower
+  - description: purple-streaked
+    feature: flower-colour
+  - description: prostrate
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-1m
+    feature: height
+  - description: opposite
+    feature: leaf-arrangement
+  - description: 15-25mm
+    feature: leaf-length
+  - description: less-than-5mm
+    feature: leaf-length
+  - description: up-to-1mm
+    feature: leaf-width
+  - description: 4-5mm
+    feature: seedpod-length
+  - description: less-than-5mm
+    feature: seedpod-length
+  - description: up-to-5mm
+    feature: seedpod-length
+  - description: '2'
+    feature: seeds
+id:
+  ns: 53b398ebe35eb12984037b28
+  vba: '503318'

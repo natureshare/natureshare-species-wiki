@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - Sprawling Bluebell
+classification:
+  - name: campanulaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: blue
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: single
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: narrow-lanceolate
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-3cm
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398ebe35eb12984037d47
+  vba: '503558'

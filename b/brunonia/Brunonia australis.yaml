@@ -1,0 +1,34 @@
+updated_by: chrisl
+common_names:
+  - Blue Pincushion
+classification:
+  - name: brunoniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: blue
+    feature: flower
+  - description: cluster
+    feature: flower
+  - description: dense-flowerhead
+    feature: flower
+  - description: mid-spring-early-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: basal-rosette
+    feature: leaf
+  - description: hairy
+    feature: leaf
+  - description: light-green
+    feature: leaf
+  - description: spoonshaped
+    feature: leaf
+  - description: to-10cm
+    feature: leaf
+id:
+  ns: 53b398e6e35eb129840365aa
+  vba: '500508'

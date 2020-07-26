@@ -1,0 +1,16 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Plutellidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Plutellinae
+    rank: subfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5a815550ed2a89def7002209

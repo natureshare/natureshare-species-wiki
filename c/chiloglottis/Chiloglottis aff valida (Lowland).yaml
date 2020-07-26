@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Lowland Bird-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - endemic
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e6e35eb129840367a1
+  vba: '505893'

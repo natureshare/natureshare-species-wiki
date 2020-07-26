@@ -1,0 +1,37 @@
+updated_by: chrisl
+common_names:
+  - Camphor Laurel
+classification:
+  - name: lauraceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: white
+    feature: flower-colour
+  - description: black
+    feature: fruit
+  - description: drupe
+    feature: fruit
+  - description: tree
+    feature: habit
+  - description: tree-to-30m
+    feature: habit
+  - description: to-11cm
+    feature: leaf-length
+  - description: elliptic
+    feature: leaf-shape
+  - description: glossy
+    feature: leaf-surface
+  - description: to-6cm
+    feature: leaf-width
+  - description: aromatic
+    feature: leaves
+  - description: 5-9
+    feature: stamens
+id:
+  ns: 53b398e7e35eb129840367e3
+  vba: '507753'

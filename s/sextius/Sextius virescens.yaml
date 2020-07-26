@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Acacia Horned Treehopper
+  - Green Treehopper
+classification:
+  - name: Insecta
+    rank: class
+  - name: Membracidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+  - name: Auchenorrhyncha
+    rank: suborder
+categories:
+  - hopper
+  - insect
+id:
+  ns: 53b398ece35eb12984038144

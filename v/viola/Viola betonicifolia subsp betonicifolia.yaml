@@ -1,0 +1,40 @@
+updated_by: chrisl
+common_names:
+  - Showy Violet
+classification:
+  - name: violaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: large
+    feature: flower
+  - description: mauve
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: spring-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: tuft
+    feature: habit
+  - description: basal-rosette
+    feature: leaf
+  - description: dark-green
+    feature: leaf
+  - description: oval-triangular-lanceolate
+    feature: leaf
+  - description: to-8cm
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398ebe35eb12984037d0d
+  vba: '504052'

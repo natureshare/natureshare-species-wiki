@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: insecta
+    rank: class
+  - name: Halictidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - bee
+  - insect
+id:
+  ns: 5832e5c7ed2a897480004b1b

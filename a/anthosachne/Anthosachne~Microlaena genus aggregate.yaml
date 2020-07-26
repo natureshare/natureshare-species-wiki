@@ -1,0 +1,22 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Wheat Grass/Weeping Grass
+synonyms:
+  - Elymus/Microlaena genus aggregate
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 54e19de0ed2a89ef2700021f
+  vba: '507099'

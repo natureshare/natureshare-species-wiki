@@ -1,0 +1,14 @@
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Ectobiidae
+    rank: family
+  - name: Blattodea
+    rank: order
+categories:
+  - cockroach
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb12984038180

@@ -1,0 +1,28 @@
+updated_by: chrisl
+common_names:
+  - Box Mistletoe
+classification:
+  - name: loranthaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: stalked
+    feature: centre-flower-of-3
+  - description: red
+    feature: flower
+  - description: yellowish-red
+    feature: fruit
+  - description: green
+    feature: leaf
+  - description: opposite
+    feature: leaf-arrangement
+  - description: yellow-to-reddish
+    feature: leaf-colour
+  - description: linear-to-elliptic
+    feature: leaf-shape
+id:
+  ns: 53b398e6e35eb12984036321
+  vba: '500218'

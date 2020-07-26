@@ -1,0 +1,41 @@
+updated_by: chrisl
+common_names:
+  - Hairy Pennywort
+classification:
+  - name: apiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - herb
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: pale-yellow
+    feature: flower
+  - description: tiny
+    feature: flower
+  - description: 3-5mm-diameter
+    feature: flowerhead
+  - description: mid-late-summer
+    feature: flowering-time
+  - description: 15-40-more-or-less
+    feature: flowers
+  - description: carpeting-herb
+    feature: habit
+  - description: lobed
+    feature: leaf
+  - description: on-long-stalk
+    feature: leaf
+  - description: round-to-kidney-shaped
+    feature: leaf
+  - description: to-2.5cm
+    feature: leaf
+  - description: hairy
+    feature: leaf-stem
+  - description: hairy
+    feature: plant
+id:
+  ns: 53b398e8e35eb12984036f20
+  vba: '501722'

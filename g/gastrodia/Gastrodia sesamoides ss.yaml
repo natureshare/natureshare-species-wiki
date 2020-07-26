@@ -1,0 +1,35 @@
+updated_by: chrisl
+common_names:
+  - Cinnamon Bells
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: brown
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: tubular
+    feature: flower
+  - description: white
+    feature: flower
+  - description: top-droops-when-in-bud
+    feature: flowering-stems
+  - description: mid-spring-early-summer
+    feature: flowering-time
+  - description: less-than-24
+    feature: flowers
+  - description: herb
+    feature: habit
+  - description: 20cm-to-60cm
+    feature: height
+  - description: leafless
+    feature: leaf
+id:
+  ns: 53b398e8e35eb12984036d0f
+  vba: '504459'

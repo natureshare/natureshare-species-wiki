@@ -1,0 +1,61 @@
+updated_by: chrisl
+common_names:
+  - Common Eutaxia
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: pea
+    feature: flower
+  - description: purple-streaked-or-red-veined
+    feature: flower
+  - description: yellow-orange
+    feature: flower
+  - description: pink
+    feature: flower-colour
+  - description: white
+    feature: flower-colour
+  - description: herb
+    feature: habit
+  - description: prostrate
+    feature: habit
+  - description: to-10cm
+    feature: height
+  - description: linear-to-linear-oblong
+    feature: leaf
+  - description: alternate
+    feature: leaf-arrangement
+  - description: less-than-3mm
+    feature: leaf-length
+  - description: trifoliate
+    feature: leaf-type
+  - description: less-than-1mm
+    feature: leaf-width
+  - description: greater-than-10mm
+    feature: leafet-length
+  - description: 10-20mm
+    feature: leaflet-length
+  - description: less-than-20mm
+    feature: leaflet-length
+  - description: 4-15mm
+    feature: leaflet-width
+  - description: greater-than-4mm
+    feature: leaflet-width
+  - description: less-than-15mm
+    feature: leaflet-width
+  - description: '3'
+    feature: leaflets
+  - description: 7-20mm
+    feature: seedpod-length
+  - description: greater-than-5mm
+    feature: seedpod-length
+  - description: less-than-20mm
+    feature: seedpod-length
+id:
+  ns: 53b398e7e35eb12984036c5a
+  vba: '504492'

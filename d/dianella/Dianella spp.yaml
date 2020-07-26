@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Flax Lily
+classification:
+  - name: hemerocallidaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+  - provisional-name
+features:
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398e7e35eb129840369c5
+  vba: '508327'

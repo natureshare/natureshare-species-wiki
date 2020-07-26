@@ -1,0 +1,47 @@
+updated_by: chrisl
+common_names:
+  - Tree Violet
+synonyms:
+  - Hymenanthera dentata
+  - Melicytus sp. aff. dentatus (East Gippsland variant)
+classification:
+  - name: violaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: bell
+    feature: flower
+  - description: clustered
+    feature: flower
+  - description: cream
+    feature: flower
+  - description: scented
+    feature: flower
+  - description: tiny
+    feature: flower
+  - description: mid-winter-early-summer
+    feature: flowering-time
+  - description: berry
+    feature: fruit
+  - description: green
+    feature: fruit
+  - description: open-spreading-shrub
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: dark-green
+    feature: leaf
+  - description: margin-toothed
+    feature: leaf
+  - description: oblong
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-5cm
+    feature: leaf
+id:
+  ns: 53b398e9e35eb12984037263
+  vba: '504933'

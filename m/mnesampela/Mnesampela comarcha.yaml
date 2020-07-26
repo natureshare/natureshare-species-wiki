@@ -1,0 +1,21 @@
+updated_by: koolah
+common_names:
+  - Dry-leaf Gum Moth
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Ennominae
+    rank: Subfamily
+  - name: Geometroidea
+    rank: Superfamily
+  - name: Nacophorini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398ebe35eb12984037ee8

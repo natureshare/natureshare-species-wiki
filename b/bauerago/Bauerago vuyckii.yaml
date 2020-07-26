@@ -1,0 +1,12 @@
+updated_by: chrisl
+classification:
+  - name: Microbotryomycetes
+    rank: class
+  - name: Microbotryaceae
+    rank: family
+  - name: Microbotryales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 53b398f3e35eb1298403a44b

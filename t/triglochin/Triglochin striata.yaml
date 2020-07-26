@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - Streaked Arrowgrass
+classification:
+  - name: juncaginaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+features:
+  - description: greenish-yellow
+    feature: flower
+  - description: spike
+    feature: flower
+  - description: spring-autumn
+    feature: flowering-time
+  - description: globular
+    feature: fruit
+  - description: herb
+    feature: habit
+  - description: semi-aquatic
+    feature: habit
+  - description: tuft
+    feature: habit
+  - description: flattened
+    feature: leaf
+  - description: to-30cm
+    feature: leaf
+id:
+  ns: 53b398ebe35eb12984037c73
+  vba: '503449'

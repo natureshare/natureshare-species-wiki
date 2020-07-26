@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Bombyliidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - bee-fly
+  - fly
+  - insect
+id:
+  ns: 550b67aaed2a8994a90005d8

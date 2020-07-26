@@ -1,0 +1,39 @@
+updated_by: chrisl
+common_names:
+  - Mountain Greenhood
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: orchid
+    feature: flower
+  - description: single
+    feature: flower
+  - description: white
+    feature: flower
+  - description: white-stripes
+    feature: flower
+  - description: late-winter-to-late-spring
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: dark-green
+    feature: leaf
+  - description: fleshy
+    feature: leaf
+  - description: long-oval
+    feature: leaf
+  - description: scattered-alternate
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+  - description: to-6cm
+    feature: leaf
+id:
+  ns: 53b398eae35eb12984037738
+  vba: '504873'

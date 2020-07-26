@@ -1,0 +1,53 @@
+updated_by: chrisl
+common_names:
+  - Swamp Paperbark
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - native-and-weedy-stands-in-vic
+  - plant
+features:
+  - description: bottlebrush
+    feature: flower
+  - description: cluster
+    feature: flower
+  - description: cream
+    feature: flower
+  - description: cream
+    feature: flower-colour
+  - description: white
+    feature: flower-colour
+  - description: mid-late-spring
+    feature: flowering-time
+  - description: capsule
+    feature: fruit
+  - description: cup-shaped-with-raised-valves
+    feature: fruit
+  - description: shrub
+    feature: habit
+  - description: shrub-to-small-tree
+    feature: habit
+  - description: tree
+    feature: habit
+  - description: to-7m
+    feature: height
+  - description: alternate
+    feature: leaf
+  - description: dark-green
+    feature: leaf
+  - description: narrow
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-1.5cm
+    feature: leaf
+  - description: 7-19mm
+    feature: leaf-length
+  - description: 1mm
+    feature: leaf-width
+id:
+  ns: 53b398e9e35eb1298403724d
+  vba: '502147'

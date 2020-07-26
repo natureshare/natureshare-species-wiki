@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Therevidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - insect
+  - provisional-name
+id:
+  ns: 5659421eed2a89e56e001010

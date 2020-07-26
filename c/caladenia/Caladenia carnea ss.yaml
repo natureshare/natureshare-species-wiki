@@ -1,0 +1,37 @@
+updated_by: chrisl
+common_names:
+  - Pink Fingers
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: orchid
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: white
+    feature: flower
+  - description: late-winter-early-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: 8-20cm
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e6e35eb129840365e9
+  vba: '503680'

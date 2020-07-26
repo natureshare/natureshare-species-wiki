@@ -1,0 +1,27 @@
+updated_by: chrisl
+common_names:
+  - Celery
+classification:
+  - name: apiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: groundcover
+    feature: habit
+  - description: upright
+    feature: habit
+  - description: to-1m
+    feature: height
+  - description: biennial
+    feature: plant
+  - description: 30cm-long-usually
+    feature: stem
+  - description: ribbed
+    feature: stem
+id:
+  ns: 53b398e6e35eb1298403636a
+  vba: '500245'

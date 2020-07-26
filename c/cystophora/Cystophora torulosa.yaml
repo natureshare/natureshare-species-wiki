@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Phaeophyceae
+    rank: class
+  - name: Cystoseiraceae
+    rank: family
+  - name: Fucales
+    rank: order
+  - name: Ochrophyta
+    rank: phylum
+categories:
+  - brown-seaweed
+id:
+  ns: 5b17b3e9ed2a897859001702

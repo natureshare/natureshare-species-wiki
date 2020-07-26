@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Hairy Vetch
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - weed
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398ebe35eb12984037cff
+  vba: '505052'

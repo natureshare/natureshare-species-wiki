@@ -1,0 +1,47 @@
+updated_by: chrisl
+common_names:
+  - Rusty Bush-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: pea
+    feature: flower
+  - description: mauve
+    feature: flower-colour
+  - description: pink
+    feature: flower-colour
+  - description: medium-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-15m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 10-30mm
+    feature: leaf-length
+  - description: greater-than-10mm
+    feature: leaf-length
+  - description: less-than-50mm
+    feature: leaf-length
+  - description: 2-15mm
+    feature: leaf-width
+  - description: greater-than-2mm
+    feature: leaf-width
+  - description: less-than-20mm
+    feature: leaf-width
+  - description: 8-10mm
+    feature: seedpod-length
+  - description: greater-than-5mm
+    feature: seedpod-length
+  - description: less-than-10mm
+    feature: seedpod-length
+id:
+  ns: 53b398eae35eb129840377c5
+  vba: '502852'

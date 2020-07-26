@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Mountain Darner
+classification:
+  - name: Insecta
+    rank: class
+  - name: Telephlebiidae
+    rank: family
+  - name: Odonata
+    rank: order
+  - name: Austroaeschna
+    rank: subgenus
+  - name: Anisoptera
+    rank: suborder
+categories:
+  - dragonfly-and-damselfly
+  - dragonfly-proper
+  - insect
+id:
+  ns: 53b398ebe35eb12984037e6c

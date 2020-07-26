@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Mountain Daisy
+synonyms:
+  - Brachyscome sp. leafy scapes
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - ffg
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: daisy
+    feature: flower
+id:
+  ns: 53b398e6e35eb12984036577
+  vba: '500479'

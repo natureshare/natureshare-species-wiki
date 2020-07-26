@@ -1,0 +1,15 @@
+updated_by: chrisl
+common_names:
+  - Metallic Shield Bug
+classification:
+  - name: Insecta
+    rank: class
+  - name: Scutelleridae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - insect
+  - true-bug
+id:
+  ns: 53b398f0e35eb12984039274

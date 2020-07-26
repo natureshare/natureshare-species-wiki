@@ -1,0 +1,12 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Cerambycidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - insect
+id:
+  ns: 53d73302e35eb12c16000018

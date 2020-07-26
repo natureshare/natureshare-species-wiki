@@ -1,0 +1,49 @@
+updated_by: chrisl
+common_names:
+  - Tiny Star
+synonyms:
+  - Hypoxis glabella var. glabella
+classification:
+  - name: hypoxidaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+features:
+  - description: '2'
+    feature: bracteoles
+  - description: bright-yellow
+    feature: flower
+  - description: on-long-stalk
+    feature: flower
+  - description: single-or-pairs
+    feature: flower
+  - description: to-2cm-wide
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: mid-winter-early-spring
+    feature: flowering-time
+  - description: tufting-herb
+    feature: habit
+  - description: dark-green
+    feature: leaf
+  - description: grass-like
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: to-20cm
+    feature: leaf
+  - description: unstalked
+    feature: leaf
+  - description: '6'
+    feature: number-of-petals
+  - description: glabrous
+    feature: plant
+  - description: '2'
+    feature: stem-leaves
+id:
+  ns: 53b398e8e35eb12984036f66
+  vba: '501755'

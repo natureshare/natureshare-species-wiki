@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - Yarra Gum
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: rough-on-trunk
+    feature: bark
+  - description: groups-of-7
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+  - description: 6-12m
+    feature: height
+  - description: green
+    feature: leaf-colour
+  - description: glossy
+    feature: leaf-surface
+  - description: 12-3cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036c1c
+  vba: '501326'

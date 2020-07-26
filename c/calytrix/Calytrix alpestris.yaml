@@ -1,0 +1,38 @@
+updated_by: chrisl
+common_names:
+  - Snow Myrtle
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: pink
+    feature: flower
+  - description: white
+    feature: flower
+  - description: pink
+    feature: flower-colour
+  - description: white
+    feature: flower-colour
+  - description: large-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: 1-25m
+    feature: height
+  - description: 90ish-degrees-to-stem
+    feature: leaf
+  - description: 1-5mm
+    feature: leaf-length
+  - description: 05mm
+    feature: leaf-width
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e6e35eb1298403669c
+  vba: '500607'

@@ -1,0 +1,71 @@
+updated_by: chrisl
+common_names:
+  - Swamp Gum
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - tree
+features:
+  - description: alternate
+    feature: adult-leaf
+  - description: broad-lanceolate
+    feature: adult-leaf
+  - description: shiny
+    feature: adult-leaf
+  - description: to-15cm
+    feature: adult-leaf
+  - description: wavy-edge
+    feature: adult-leaf
+  - description: greyish-new-bark-under-shedding
+    feature: bark
+  - description: loose-and-flaky
+    feature: bark
+  - description: rough-on-lower-trunk
+    feature: bark
+  - description: rough-persisting-some-way-up-trunk
+    feature: bark
+  - description: shed-in-long-strips-summer-and-autumn
+    feature: bark
+  - description: about-7
+    feature: buds
+  - description: diamond-shaped
+    feature: buds
+  - description: groups-of-7
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: white-cream
+    feature: flower
+  - description: autumn-early-spring
+    feature: flowering-time
+  - description: flat-topped
+    feature: fruit
+  - description: funnel-shaped
+    feature: fruit
+  - description: hard
+    feature: fruit
+  - description: tree
+    feature: habit
+  - description: 6-25m
+    feature: height
+  - description: dull-green
+    feature: juvenile-leaf
+  - description: elliptic
+    feature: juvenile-leaf
+  - description: paired
+    feature: juvenile-leaf
+  - description: stalked
+    feature: leaf
+  - description: green
+    feature: leaf-colour
+  - description: glossy
+    feature: leaf-surface
+  - description: 2-35cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036be0
+  vba: '505179'

@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Mallee Rustyhood
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398eae35eb12984037776
+  vba: '504851'

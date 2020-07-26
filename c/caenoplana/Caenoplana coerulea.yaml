@@ -1,0 +1,15 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Blue Planarian
+classification:
+  - name: Turbellaria
+    rank: class
+  - name: Geoplanidae
+    rank: family
+  - name: Seriata
+    rank: order
+categories:
+  - planarian
+id:
+  ns: 54f52ffaed2a8945a10004b1

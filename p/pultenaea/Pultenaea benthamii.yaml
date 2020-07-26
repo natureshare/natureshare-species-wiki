@@ -1,0 +1,38 @@
+updated_by: chrisl
+common_names:
+  - Bentham's Bush-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+  - description: orange
+    feature: flower-colour
+  - description: large-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-3m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 10-26mm
+    feature: leaf-length
+  - description: greater-than-10mm
+    feature: leaf-length
+  - description: less-than-50mm
+    feature: leaf-length
+  - description: 1-3mm
+    feature: leaf-width
+  - description: up-to-3mm
+    feature: leaf-width
+id:
+  ns: 53b398eae35eb129840377b5
+  vba: '502838'

@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - flower-spider
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Araneae
+    rank: order
+categories:
+  - provisional-name
+  - spider
+id:
+  ns: 54830314e35eb11dc400000a

@@ -1,0 +1,16 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Glyphipterigidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Yponomeutoidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5d0df863c347d5969c000158

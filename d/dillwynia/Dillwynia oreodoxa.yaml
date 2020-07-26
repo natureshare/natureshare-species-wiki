@@ -1,0 +1,51 @@
+updated_by: chrisl
+common_names:
+  - Grampians Parrot-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+  - description: red-markings
+    feature: flower-colour
+  - description: shrub
+    feature: habit
+  - description: slender-tree
+    feature: habit
+  - description: to-4m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: trifoliate
+    feature: leaf-type
+  - description: greater-than-5mm
+    feature: leafet-length
+  - description: 5-35mm
+    feature: leaflet-length
+  - description: less-than-40mm
+    feature: leaflet-length
+  - description: 3-29mm
+    feature: leaflet-width
+  - description: greater-than-2mm
+    feature: leaflet-width
+  - description: less-than-30mm
+    feature: leaflet-width
+  - description: '3'
+    feature: leaflets
+  - description: 16-38mm
+    feature: seedpod-length
+  - description: greater-than-15mm
+    feature: seedpod-length
+  - description: less-than-40mm
+    feature: seedpod-length
+id:
+  ns: 53b398e7e35eb12984036a04
+  vba: '501054'

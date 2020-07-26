@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Bladder Senna
+synonyms:
+  - Sutherlandia frutescens
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - weed
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398ebe35eb12984037b22
+  vba: '505686'

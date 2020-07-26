@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Alsike Clover
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - weed
+features:
+  - description: cluster
+    feature: flower
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398ebe35eb12984037c51
+  vba: '503430'

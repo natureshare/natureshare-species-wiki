@@ -1,0 +1,16 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Gracillariidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Gracillariinae
+    rank: subfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5a6d0c04ed2a89d956000012

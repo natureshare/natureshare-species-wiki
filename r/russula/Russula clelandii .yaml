@@ -1,0 +1,13 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Russulaceae
+    rank: family
+  - name: Russulales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 578216e7ed2a89e69f0004b9

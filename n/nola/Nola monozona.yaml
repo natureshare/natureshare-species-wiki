@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Epaulet Tuft-moth
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: NOLIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: NOLINAE
+    rank: subfamily
+  - name: NOCTUOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398ebe35eb12984037f5a

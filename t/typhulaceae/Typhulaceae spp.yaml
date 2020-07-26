@@ -1,0 +1,15 @@
+updated_by: chrisl
+common_names:
+  - Slender Club
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Typhulaceae
+    rank: family
+  - name: Agaricales
+    rank: order
+categories:
+  - fungi
+  - provisional-name
+id:
+  ns: 53b398f4e35eb1298403a9b7

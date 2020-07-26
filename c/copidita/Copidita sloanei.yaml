@@ -1,0 +1,22 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Oedemeridae
+    rank: Family
+  - name: Coleoptera
+    rank: Order
+  - name: Oedemerinae
+    rank: Subfamily
+  - name: Polyphaga
+    rank: Suborder
+  - name: Tenebrionoidea
+    rank: Superfamily
+  - name: Asclerini
+    rank: Tribe
+categories:
+  - beetle
+  - insect
+id:
+  ns: 5d71ab45cad3eb20240000d7

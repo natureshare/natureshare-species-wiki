@@ -1,0 +1,16 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+categories:
+  - insect
+  - moth
+features:
+  - description: brown
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: yellow
+    feature: wing
+id:
+  ns: 53b398ece35eb12984038034

@@ -1,0 +1,38 @@
+updated_by: chrisl
+common_names:
+  - Variable Stinkweed
+classification:
+  - name: rubiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: brown-or-purple
+    feature: flower
+  - description: cluster
+    feature: flower
+  - description: green
+    feature: flower
+  - description: inconspicuous
+    feature: flower
+  - description: winter-early-autumn
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: aromatic
+    feature: leaf
+  - description: lanceolate-to-narrow-lanceolate
+    feature: leaf
+  - description: margins-inrolled
+    feature: leaf
+  - description: paired
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-1.2cm
+    feature: leaf
+id:
+  ns: 53b398e9e35eb129840373ca
+  vba: '502344'

@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Tall Vanilla-lily
+classification:
+  - name: anthericaceae
+    rank: family
+categories:
+  - endemic
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+  - rare-threatened
+features:
+  - description: '3'
+    feature: number-of-petals
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398e6e35eb129840363a7
+  vba: '503699'

@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - Large Mock-olive
+classification:
+  - name: oleaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: visible
+    feature: leaf-veins
+id:
+  ns: 53b398e9e35eb12984037361
+  vba: '502282'

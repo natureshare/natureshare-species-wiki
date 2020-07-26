@@ -1,0 +1,22 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Obrium dorsale
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Cerambycidae
+    rank: Family
+  - name: Coleoptera
+    rank: Order
+  - name: Cerambycinae
+    rank: Subfamily
+  - name: Chrysomeloidea
+    rank: Superfamily
+  - name: Phoracanthini
+    rank: Tribe
+categories:
+  - beetle
+  - insect
+id:
+  ns: 5d076de9c347d53ca1000061

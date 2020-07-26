@@ -1,0 +1,17 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Bicoloured Crest
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Erebidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Erebinae
+    rank: subfamily
+categories:
+  - moth
+id:
+  ns: 5a2fbe2ded2a896262000d01

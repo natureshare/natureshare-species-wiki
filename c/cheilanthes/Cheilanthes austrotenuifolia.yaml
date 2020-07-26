@@ -1,0 +1,34 @@
+updated_by: chrisl
+common_names:
+  - Green Rock-fern
+classification:
+  - name: adiantaceae
+    rank: family
+categories:
+  - ferns-and-allies
+  - flora
+  - plant
+features:
+  - description: bright-green
+    feature: frond
+  - description: compound
+    feature: frond
+  - description: erect
+    feature: frond
+  - description: glossy
+    feature: frond
+  - description: to-30cm
+    feature: frond
+  - description: at-marginal-tips-of-leaf-veins
+    feature: fruit-sori
+  - description: small
+    feature: fruit-sori
+  - description: no-trunk
+    feature: habit
+  - description: spreading
+    feature: habit
+  - description: width3-10cm
+    feature: leaf
+id:
+  ns: 53b398e6e35eb12984036783
+  vba: '500730'

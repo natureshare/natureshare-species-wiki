@@ -1,0 +1,37 @@
+updated_by: chrisl
+common_names:
+  - Blushing Bindweed
+classification:
+  - name: convolvulaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - scrambler
+features:
+  - description: undulating-or-lobed-often-broad
+    feature: central-leaflet
+  - description: rosy-pink
+    feature: flower
+  - description: late-winter-summer
+    feature: flowering-time
+  - description: climber-twiner
+    feature: habit
+  - description: grey-green
+    feature: leaf
+  - description: hairy
+    feature: leaf
+  - description: lobed
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-6cm
+    feature: leaf
+  - description: divided
+    feature: lobes-at-base-of-lower-leaf
+  - description: '5'
+    feature: number-of-petals
+id:
+  ns: 53b398e7e35eb12984036826
+  vba: '505885'

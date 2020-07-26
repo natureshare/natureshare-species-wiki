@@ -1,0 +1,75 @@
+updated_by: chrisl
+common_names:
+  - Running Postman
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: pea
+    feature: flower
+  - description: red
+    feature: flower
+  - description: single
+    feature: flower
+  - description: orange
+    feature: flower-colour
+  - description: late-winter-early-summer
+    feature: flowering-time
+  - description: cylindrical
+    feature: fruit
+  - description: dark-brown
+    feature: fruit
+  - description: hairless
+    feature: fruit
+  - description: pod
+    feature: fruit
+  - description: groundcover
+    feature: habit
+  - description: medium-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: trailing
+    feature: habit
+  - description: to-15m
+    feature: height
+  - description: clover-like
+    feature: leaf
+  - description: crinkly
+    feature: leaf
+  - description: divided
+    feature: leaf
+  - description: grey-green
+    feature: leaf
+  - description: hairy
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: trifoliolate
+    feature: leaf
+  - description: wavy-edge
+    feature: leaf
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 4-25mm
+    feature: leaf-length
+  - description: less-than-20mm
+    feature: leaf-length
+  - description: less-than-30mm
+    feature: leaf-length
+  - description: 05-3mm
+    feature: leaf-width
+  - description: up-to-3mm
+    feature: leaf-width
+  - description: to-1.8cm
+    feature: leaflet
+  - description: '3'
+    feature: leaflets
+id:
+  ns: 53b398e8e35eb12984037007
+  vba: '501847'

@@ -1,0 +1,29 @@
+updated_by: chrisl
+common_names:
+  - Dwarf Bitter-cress
+classification:
+  - name: brassicaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: white
+    feature: flower
+  - description: '4'
+    feature: number-of-petals
+  - description: '4'
+    feature: petals
+  - description: less-than-point75mm-long
+    feature: seed
+  - description: rounded
+    feature: seed
+  - description: in-2-rows
+    feature: seeds
+  - description: '4'
+    feature: stamens
+id:
+  ns: 53b398eae35eb129840378b0
+  vba: '502944'

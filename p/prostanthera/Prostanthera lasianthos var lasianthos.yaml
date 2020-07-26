@@ -1,0 +1,40 @@
+updated_by: chrisl
+common_names:
+  - Victorian Christmas-bush
+classification:
+  - name: lamiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: hairy
+    feature: flower
+  - description: spike
+    feature: flower
+  - description: spotted-orange-and-purple
+    feature: flower
+  - description: white
+    feature: flower
+  - description: late-spring-summer
+    feature: flowering-time
+  - description: shrub-to-small-tree
+    feature: habit
+  - description: dark-green
+    feature: leaf
+  - description: lanceolate
+    feature: leaf
+  - description: lanceolate
+    feature: leaf
+  - description: margin-toothed
+    feature: leaf
+  - description: paired
+    feature: leaf
+  - description: thin
+    feature: leaf
+  - description: to-10cm
+    feature: leaf
+id:
+  ns: 53b398eae35eb129840376fb
+  vba: '504845'

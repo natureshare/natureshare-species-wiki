@@ -1,0 +1,26 @@
+updated_by: chrisl
+common_names:
+  - Poison Pratia
+classification:
+  - name: campanulaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: tinged-pink
+    feature: flower
+  - description: white
+    feature: flower
+  - description: lanceolate-to-elliptic
+    feature: leaf
+  - description: margin-toothed
+    feature: leaf
+  - description: 6-45mm
+    feature: leaf-length
+  - description: thick
+    feature: stem
+id:
+  ns: 53b398e9e35eb12984037169
+  vba: '502728'

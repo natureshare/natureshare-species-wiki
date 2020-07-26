@@ -1,0 +1,17 @@
+created_by: russell
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: TINEIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+categories:
+  - insect
+  - moth
+  - provisional-name
+id:
+  ns: 54215016e35eb17d19000082

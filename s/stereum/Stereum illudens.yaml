@@ -1,0 +1,17 @@
+created_by: chrisl
+updated_by: chrisl
+synonyms:
+  - Xylobolus illudens
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Stereaceae
+    rank: family
+  - name: Russulales
+    rank: order
+  - name: Basidiomycota
+    rank: phylum
+categories:
+  - fungi
+id:
+  ns: 5874ad69ed2a89f464001905

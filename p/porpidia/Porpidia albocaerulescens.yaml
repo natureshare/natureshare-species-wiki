@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Lecanoromycetes
+    rank: class
+  - name: Porpidiaceae
+    rank: family
+  - name: Lecideales
+    rank: order
+categories:
+  - fungi
+  - lichen
+id:
+  ns: 53b398f4e35eb1298403a798

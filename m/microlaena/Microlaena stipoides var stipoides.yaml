@@ -1,0 +1,39 @@
+updated_by: chrisl
+common_names:
+  - Weeping Grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+features:
+  - description: brown
+    feature: flower
+  - description: grass
+    feature: flower
+  - description: green
+    feature: flower
+  - description: nodding-spike-to-20cm
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: grass
+    feature: habit
+  - description: weeping
+    feature: habit
+  - description: flat
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+  - description: to-8cm
+    feature: leaf
+  - description: tufted
+    feature: leaf
+id:
+  ns: 53b398e9e35eb12984037296
+  vba: '502179'

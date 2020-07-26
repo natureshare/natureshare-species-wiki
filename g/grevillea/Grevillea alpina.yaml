@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Cat's Claw Grevillea
+classification:
+  - name: proteaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: cream-green
+    feature: flower
+  - description: red
+    feature: flower
+  - description: shrub
+    feature: habit
+id:
+  ns: 53b398e8e35eb12984036dd8
+  vba: '501526'

@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Fleshy Mistletoe
+classification:
+  - name: loranthaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: red
+    feature: flower
+  - description: mistletoe
+    feature: habit
+  - description: parasitic
+    feature: habit
+  - description: green
+    feature: leaf-colour
+id:
+  ns: 53b398e6e35eb12984036322
+  vba: '500219'

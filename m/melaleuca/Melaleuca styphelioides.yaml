@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Prickly Paperbark
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: cluster
+    feature: flower
+id:
+  ns: 53b398e9e35eb12984037259
+  vba: '507288'

@@ -1,0 +1,19 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Portulaca Sawfly
+classification:
+  - name: Insecta
+    rank: class
+  - name: Agridae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - insect
+  - sawfly
+features:
+  - description: '4'
+    feature: antennae
+id:
+  ns: 5689b00aed2a89aaf2000009

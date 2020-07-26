@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Highland Bent
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - weed
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398e5e35eb12984036298
+  vba: '504224'

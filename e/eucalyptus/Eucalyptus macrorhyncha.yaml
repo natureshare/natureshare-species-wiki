@@ -1,0 +1,77 @@
+updated_by: chrisl
+common_names:
+  - Red Stringybark
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - tree
+features:
+  - description: glossy
+    feature: adult-leaf
+  - description: lanceolate
+    feature: adult-leaf
+  - description: to-15cm
+    feature: adult-leaf
+  - description: dark-brown-grey
+    feature: bark
+  - description: deeply-furrowed
+    feature: bark
+  - description: red-brown-underneath
+    feature: bark
+  - description: rough-stringy
+    feature: bark
+  - description: rough-throughout
+    feature: bark
+  - description: stringy
+    feature: bark
+  - description: 7-11
+    feature: buds
+  - description: diamond-shaped
+    feature: buds
+  - description: groups-of-7-11
+    feature: buds
+  - description: long-cap
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: white-cream
+    feature: flower
+  - description: mid-summer-mid-autumn
+    feature: flowering-time
+  - description: hard
+    feature: fruit
+  - description: large
+    feature: fruit
+  - description: rim-near-top
+    feature: fruit
+  - description: round
+    feature: fruit
+  - description: tree
+    feature: habit
+  - description: 7-30m
+    feature: height
+  - description: hairy
+    feature: juvenile-leaf
+  - description: oval
+    feature: juvenile-leaf
+  - description: wavy-edge
+    feature: juvenile-leaf
+  - description: alternate
+    feature: leaf
+  - description: dull-green
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: green
+    feature: leaf-colour
+  - description: glossy
+    feature: leaf-surface
+  - description: 12-25cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036bcf
+  vba: '501294'

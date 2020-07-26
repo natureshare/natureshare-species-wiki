@@ -1,0 +1,51 @@
+updated_by: chrisl
+common_names:
+  - Scented Sundew
+synonyms:
+  - Drosera whittakeri subsp. aberrans
+classification:
+  - name: droseraceae
+    rank: family
+categories:
+  - carnivorous
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: petalled
+    feature: flower
+  - description: scented
+    feature: flower
+  - description: single
+    feature: flower
+  - description: white
+    feature: flower
+  - description: mid-winter-mid-spring
+    feature: flowering-time
+  - description: groundcover
+    feature: habit
+  - description: herb
+    feature: habit
+  - description: spreading
+    feature: habit
+  - description: basal-rosette
+    feature: leaf
+  - description: cupped
+    feature: leaf
+  - description: green-bronze-red
+    feature: leaf
+  - description: spoon-shaped
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: sticky
+    feature: leaf
+  - description: to-2.5cm
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e7e35eb12984036a7b
+  vba: '501110'

@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Small Pelican-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e7e35eb1298403687f
+  vba: '500842'

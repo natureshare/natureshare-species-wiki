@@ -1,0 +1,40 @@
+updated_by: chrisl
+common_names:
+  - Southern Sassafras
+classification:
+  - name: atherospermataceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cream
+    feature: flower-colour
+  - description: white
+    feature: flower-colour
+  - description: tree
+    feature: habit
+  - description: tree-to-30m
+    feature: habit
+  - description: rainforest
+    feature: habitat
+  - description: discolorous
+    feature: leaf-colour
+  - description: to-8cm
+    feature: leaf-length
+  - description: densely-hairy-lower-surface
+    feature: leaf-surface
+  - description: glabrous-upper-surface
+    feature: leaf-surface
+  - description: shiny
+    feature: leaf-surface
+  - description: acute
+    feature: leaf-tip
+  - description: to-2.5cm
+    feature: leaf-width
+  - description: aromatic
+    feature: leaves
+id:
+  ns: 53b398e6e35eb129840363fe
+  vba: '500311'

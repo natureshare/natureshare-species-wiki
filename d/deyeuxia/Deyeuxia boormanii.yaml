@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Fine Bent-grass
+synonyms:
+  - Deyeuxia parviseta var. boormanii
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - rare-threatened
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398e7e35eb129840369a3
+  vba: '504422'

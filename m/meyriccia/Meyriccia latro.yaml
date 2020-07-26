@@ -1,0 +1,24 @@
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Pyralidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Galleriinae
+    rank: subfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: brown
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: one-coloured
+    feature: wing
+  - description: two-coloured
+    feature: wing
+id:
+  ns: 53b398ece35eb12984038029

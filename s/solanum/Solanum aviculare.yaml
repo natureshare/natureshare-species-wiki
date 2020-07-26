@@ -1,0 +1,42 @@
+updated_by: chrisl
+common_names:
+  - Kangaroo Apple
+classification:
+  - name: solanaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: clustered
+    feature: flower
+  - description: dark-centre
+    feature: flower
+  - description: deeply-lobed
+    feature: flower
+  - description: violet
+    feature: flower
+  - description: berry
+    feature: fruit
+  - description: egg-shaped
+    feature: fruit
+  - description: orange-red-when-ripe
+    feature: fruit
+  - description: succulent
+    feature: fruit
+  - description: shrub
+    feature: habit
+  - description: 3-11-deeply-lobed
+    feature: leaf
+  - description: dark-green
+    feature: leaf
+  - description: elliptic-to-oval
+    feature: leaf
+  - description: to-20cm
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+id:
+  ns: 53b398eae35eb12984037a60
+  vba: '503169'

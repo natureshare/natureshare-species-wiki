@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Hysterangiaceae
+    rank: family
+  - name: Hysterangiales
+    rank: order
+categories:
+  - fungi
+  - provisional-name
+id:
+  ns: 53b398f2e35eb12984039fe5

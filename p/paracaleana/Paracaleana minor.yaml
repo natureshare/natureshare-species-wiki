@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Small Duck-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: maroon
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: red
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e9e35eb12984037462
+  vba: '502414'

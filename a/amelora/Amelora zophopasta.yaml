@@ -1,0 +1,16 @@
+created_by: chrisl
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: class
+  - name: Geometridae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Ennominae
+    rank: subfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 56dfeb39ed2a8972fb00036f

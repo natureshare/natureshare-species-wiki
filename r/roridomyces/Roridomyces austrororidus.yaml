@@ -1,0 +1,17 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Austro Dripping Bonnet
+synonyms:
+  - Mycena austrororida
+classification:
+  - name: Agaricomycetes
+    rank: Class
+  - name: Mycenaceae
+    rank: Family
+  - name: Agaricales
+    rank: Order
+categories:
+  - fungi
+id:
+  ns: 5b490a4ded2a8903a00040ba

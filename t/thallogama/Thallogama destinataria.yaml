@@ -1,0 +1,22 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Dappled Bark Moth
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Ennominae
+    rank: Subfamily
+  - name: Geometroidea
+    rank: Superfamily
+  - name: Boarmiini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 5c4308133abbd6a196000150

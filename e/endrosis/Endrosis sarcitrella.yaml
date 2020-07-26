@@ -1,0 +1,22 @@
+created_by: david_francis
+updated_by: koolah
+common_names:
+  - Whiteshouldered House Moth
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Oecophoridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Oecophorinae
+    rank: Subfamily
+  - name: Gelechioidea
+    rank: Superfamily
+  - name: Chezala-group
+    rank: Supertribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 54ff9fa1ed2a8994a9000100

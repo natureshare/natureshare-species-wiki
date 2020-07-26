@@ -1,0 +1,35 @@
+updated_by: chrisl
+common_names:
+  - Tall Sundew
+synonyms:
+  - Drosera peltata subsp. auriculata
+classification:
+  - name: droseraceae
+    rank: family
+categories:
+  - carnivorous
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: petalled
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: white
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: cupped
+    feature: leaf
+  - description: sticky
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+  - description: glabrous
+    feature: sepal
+id:
+  ns: 53b398e7e35eb12984036a76
+  vba: '501102'

@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Western Dusky-blue
+classification:
+  - name: Insecta
+    rank: class
+  - name: Lycaenidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Papilionoidea
+    rank: superfamily
+categories:
+  - butterfly
+  - insect
+features:
+  - description: blue
+    feature: wing-upperside
+id:
+  ns: 53b398ece35eb12984038000

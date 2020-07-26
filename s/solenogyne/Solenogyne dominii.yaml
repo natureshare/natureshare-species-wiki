@@ -1,0 +1,45 @@
+updated_by: chrisl
+common_names:
+  - Smooth Solenogyne
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: brown
+    feature: flower
+  - description: cluster
+    feature: flower
+  - description: daisy
+    feature: flower
+  - description: green
+    feature: flower
+  - description: late-spring-mid-autumn
+    feature: flowering-time
+  - description: black
+    feature: fruit
+  - description: brown
+    feature: fruit
+  - description: herb
+    feature: habit
+  - description: basal-rosette
+    feature: leaf
+  - description: dull-green
+    feature: leaf
+  - description: margin-toothed
+    feature: leaf
+  - description: mostly-glabrous
+    feature: leaf
+  - description: paler-underneath
+    feature: leaf
+  - description: to-6cm
+    feature: leaf
+  - description: glabrous
+    feature: stem
+id:
+  ns: 53b398eae35eb12984037a82
+  vba: '503195'

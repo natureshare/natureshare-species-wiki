@@ -1,0 +1,13 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Cicadidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - cicada
+id:
+  ns: 588b1a41ed2a89d10f000fbe

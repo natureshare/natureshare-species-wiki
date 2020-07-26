@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Western Rat-tail Grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - rare-threatened
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398eae35eb12984037ac5
+  vba: '503228'

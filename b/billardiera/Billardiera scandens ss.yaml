@@ -1,0 +1,33 @@
+updated_by: chrisl
+common_names:
+  - Velvet Apple-berry
+classification:
+  - name: pittosporaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: cream
+    feature: flower
+  - description: green
+    feature: flower
+  - description: tubular
+    feature: flower
+  - description: fleshy
+    feature: fruit
+  - description: green
+    feature: fruit
+  - description: hairy
+    feature: fruit
+  - description: climber-twiner
+    feature: habit
+  - description: groundcover
+    feature: habit
+  - description: hairy
+    feature: ovary
+id:
+  ns: 53b398e6e35eb129840364fe
+  vba: '504290'

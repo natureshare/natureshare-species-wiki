@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Oxalis Rust
+classification:
+  - name: Pucciniomycetes
+    rank: class
+  - name: Pucciniaceae
+    rank: family
+  - name: Pucciniales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 56c3e9fded2a898f66000329

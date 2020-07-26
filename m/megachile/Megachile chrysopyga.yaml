@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Megachilidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - bee
+  - insect
+  - leafcutter-bee
+id:
+  ns: 54bf26f1ed2a8962a8000034

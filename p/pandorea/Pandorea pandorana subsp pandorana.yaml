@@ -1,0 +1,39 @@
+updated_by: chrisl
+common_names:
+  - Wonga Vine
+classification:
+  - name: bignoniaceae
+    rank: family
+categories:
+  - climber
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cream-white
+    feature: flower
+  - description: maroon-markings-in-throat
+    feature: flower
+  - description: tubular
+    feature: flower
+  - description: capsule
+    feature: fruit
+  - description: oblong
+    feature: fruit
+  - description: climber
+    feature: habit
+  - description: dark-green
+    feature: leaf
+  - description: glossy
+    feature: leaf
+  - description: pinnate
+    feature: leaf
+  - description: lanceolate
+    feature: leaflet
+  - description: to-5cm
+    feature: leaflet
+  - description: 5-to-11
+    feature: leaflets
+id:
+  ns: 53b398e9e35eb12984037441
+  vba: '502399'

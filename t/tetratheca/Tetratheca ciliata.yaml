@@ -1,0 +1,44 @@
+updated_by: chrisl
+common_names:
+  - Pink-bells
+classification:
+  - name: elaeocarpaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: mauve-pink
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: white
+    feature: flower
+  - description: late-winter-early-summer
+    feature: flowering-time
+  - description: low-shrub
+    feature: habit
+  - description: 3-whorled
+    feature: leaf
+  - description: grey-hairs-underneath
+    feature: leaf
+  - description: hairy-margin
+    feature: leaf
+  - description: margin-toothed
+    feature: leaf
+  - description: oval
+    feature: leaf
+  - description: paired
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-5cm
+    feature: leaf
+  - description: '4'
+    feature: number-of-petals
+  - description: '4'
+    feature: petals
+id:
+  ns: 53b398ebe35eb12984037b82
+  vba: '503351'

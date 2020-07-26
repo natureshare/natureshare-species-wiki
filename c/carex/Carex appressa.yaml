@@ -1,0 +1,47 @@
+updated_by: chrisl
+common_names:
+  - Tall Sedge
+classification:
+  - name: cyperaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+  - sedge
+features:
+  - description: brown-yellow
+    feature: flower
+  - description: male-flower-above-female-flower-on-all-spikes
+    feature: flower
+  - description: narrow-spike
+    feature: flower
+  - description: late-winter-mid-summer
+    feature: flowering-time
+  - description: brown-yellow
+    feature: fruit
+  - description: hard
+    feature: fruit
+  - description: nut
+    feature: fruit
+  - description: dense-tuft
+    feature: habit
+  - description: robust
+    feature: habit
+  - description: basal
+    feature: leaf
+  - description: bright-green
+    feature: leaf
+  - description: serrated-margin
+    feature: leaf
+  - description: straplike
+    feature: leaf
+  - description: to-1.2m
+    feature: leaf
+  - description: unstalked
+    feature: leaf
+  - description: rough
+    feature: stem
+id:
+  ns: 53b398e6e35eb129840366d8
+  vba: '500623'

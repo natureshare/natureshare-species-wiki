@@ -1,0 +1,20 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Well-beloved Carpet
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Larentiinae
+    rank: subfamily
+  - name: Xanthorhoini
+    rank: tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 5a596f10ed2a891e1a000238

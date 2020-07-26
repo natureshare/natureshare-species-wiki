@@ -1,0 +1,18 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Curculionidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+  - name: Polyphaga
+    rank: suborder
+  - name: Curculionoidea
+    rank: superfamily
+categories:
+  - beetle
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb129840380b4

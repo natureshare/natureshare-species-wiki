@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Thread Pennywort
+classification:
+  - name: apiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: 3-4mm-diameter
+    feature: flowerhead
+  - description: 3-6
+    feature: flowers
+  - description: lobed
+    feature: leaf
+  - description: glabrous
+    feature: plant
+id:
+  ns: 53b398e8e35eb12984036f1c
+  vba: '501719'

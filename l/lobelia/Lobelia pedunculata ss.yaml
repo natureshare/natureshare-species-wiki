@@ -1,0 +1,40 @@
+updated_by: chrisl
+common_names:
+  - Matted Pratia
+synonyms:
+  - Pratia pedunculata
+classification:
+  - name: campanulaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: blue
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: tinged-blue
+    feature: flower
+  - description: white
+    feature: flower
+  - description: groundcover
+    feature: habit
+  - description: herb
+    feature: habit
+  - description: trailing
+    feature: habit
+  - description: margin-toothed
+    feature: leaf
+  - description: ovate-roundish
+    feature: leaf
+  - description: 2-13mm
+    feature: leaf-length
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e9e35eb12984037173
+  vba: '505038'

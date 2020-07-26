@@ -1,0 +1,15 @@
+updated_by: david_francis
+synonyms:
+  - Thyrsocera (Ellipsidion) australis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Ectobiidae
+    rank: family
+  - name: Blattodea
+    rank: order
+categories:
+  - cockroach
+  - insect
+id:
+  ns: 53b398ece35eb1298403817d

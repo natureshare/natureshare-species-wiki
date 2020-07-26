@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Blue Moon (turquoise Form)
+  - Chocolate Soldier (dark Tan Form)
+  - Greengrocer (green Form)
+  - Masked Devil
+  - Yellow Monday (yellow Form)
+classification:
+  - name: Insecta
+    rank: class
+  - name: Cicadidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - cicada
+  - hopper
+  - insect
+id:
+  ns: 53b398efe35eb12984039052

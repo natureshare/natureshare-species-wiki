@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Diuris
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - provisional-name
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036a4f
+  vba: '508349'

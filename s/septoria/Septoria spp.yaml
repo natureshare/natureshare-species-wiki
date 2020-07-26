@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Dothideomycetes
+    rank: class
+  - name: Mycosphaerellaceae
+    rank: family
+  - name: Capnodiales
+    rank: order
+categories:
+  - fungi
+  - provisional-name
+id:
+  ns: 53b398f4e35eb1298403a9ae

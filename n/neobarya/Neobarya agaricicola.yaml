@@ -1,0 +1,18 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Barya agaricicola
+  - Dialonectria agaricicola
+  - Nectria agaricicola
+  - Ophionectria agaricicola
+classification:
+  - name: Sordariomycetes
+    rank: Class
+  - name: Clavicipitaceae
+    rank: Family
+  - name: Hypocreales
+    rank: Order
+categories:
+  - fungi
+id:
+  ns: 5b2de5e6ed2a89a99300076e

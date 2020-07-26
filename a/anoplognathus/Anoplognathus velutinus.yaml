@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Hairy Christmas Beetle
+classification:
+  - name: insecta
+    rank: class
+  - name: Scarabaeidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - christmas-beetle
+  - insect
+id:
+  ns: 585a1a43ed2a89748000a316

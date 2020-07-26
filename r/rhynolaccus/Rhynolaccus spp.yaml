@@ -1,0 +1,14 @@
+created_by: chrisl
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Brentidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - weevil
+id:
+  ns: 566c2e9ced2a89b5f50003cb

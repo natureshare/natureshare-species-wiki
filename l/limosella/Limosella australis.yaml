@@ -1,0 +1,24 @@
+updated_by: chrisl
+common_names:
+  - Austral Mudwort
+classification:
+  - name: scrophulariaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: white
+    feature: flower
+  - description: white-with-purplish-lobes
+    feature: flower
+  - description: small-herb
+    feature: habit
+  - description: semi-aquatic
+    feature: habitat
+  - description: '5'
+    feature: number-of-petals
+id:
+  ns: 53b398e9e35eb12984037154
+  vba: '502009'

@@ -1,0 +1,17 @@
+created_by: chrisl
+updated_by: chrisl
+synonyms:
+  - Laphria maura
+classification:
+  - name: Insecta
+    rank: class
+  - name: Asilidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+  - insect
+  - robber-fly
+id:
+  ns: 54f994f9ed2a89097e000568

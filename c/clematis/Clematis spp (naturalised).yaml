@@ -1,0 +1,17 @@
+updated_by: chrisl
+classification:
+  - name: ranunculaceae
+    rank: family
+categories:
+  - flora
+  - plant
+  - weed
+features:
+  - description: bisexual
+    feature: flowers
+  - description: climber
+    feature: habit
+  - description: opposite
+    feature: leaf-arrangement
+id:
+  ns: 53b398ece35eb12984038042

@@ -1,0 +1,60 @@
+updated_by: chrisl
+common_names:
+  - River Bottlebrush
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: bottlebrush
+    feature: flower
+  - description: cluster
+    feature: flower
+  - description: cream-pink
+    feature: flower
+  - description: scattered
+    feature: flower
+  - description: cream
+    feature: flower-colour
+  - description: pale-yellow
+    feature: flower-colour
+  - description: mid-spring-summer
+    feature: flowering-time
+  - description: capsule
+    feature: fruit
+  - description: cup-shaped-with-3-valves
+    feature: fruit
+  - description: woody
+    feature: fruit
+  - description: large-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-3m
+    feature: height
+  - description: alternate
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: stiff
+    feature: leaf
+  - description: to-10cm
+    feature: leaf
+  - description: 30-50mm
+    feature: leaf-length
+  - description: silky
+    feature: leaf-new
+  - description: silver
+    feature: leaf-new
+  - description: 2-5mm
+    feature: leaf-width
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e6e35eb12984036657
+  vba: '500565'

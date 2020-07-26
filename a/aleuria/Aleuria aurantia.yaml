@@ -1,0 +1,15 @@
+updated_by: chrisl
+common_names:
+  - Orange Peel Fungi
+classification:
+  - name: Pezizomycetes
+    rank: class
+  - name: Pyronemataceae
+    rank: family
+  - name: Pezizales
+    rank: order
+categories:
+  - fungi
+  - fungimap
+id:
+  ns: 53b398f3e35eb1298403a40a

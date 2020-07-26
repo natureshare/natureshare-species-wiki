@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - Yellow Gum
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: loose-and-flaky
+    feature: bark
+  - description: smooth-throughout
+    feature: bark
+  - description: groups-of-3
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+  - description: 8-25m
+    feature: height
+  - description: green
+    feature: leaf-colour
+  - description: glossy
+    feature: leaf-surface
+  - description: 1-3cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036bc7
+  vba: '504454'

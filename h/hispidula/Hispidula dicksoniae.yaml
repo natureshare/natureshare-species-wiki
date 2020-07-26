@@ -1,0 +1,19 @@
+created_by: david_francis
+updated_by: david_francis
+synonyms:
+  - Cyathicula dicksoniae
+classification:
+  - name: Leotiomycetes
+    rank: class
+  - name: Hyaloscyphaceae
+    rank: family
+  - name: Fungi
+    rank: kingdom
+  - name: Helotiales
+    rank: order
+  - name: Ascomycota
+    rank: phylum
+categories:
+  - fungi
+id:
+  ns: 5b72a42aed2a89a7f10046ea

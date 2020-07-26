@@ -1,0 +1,25 @@
+created_by: chrisl
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: Tineidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: HIEROXESTINAE
+    rank: subfamily
+  - name: TINEOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: brown
+    feature: wing
+  - description: yellow
+    feature: wing
+id:
+  ns: 56d2c944ed2a89b54c000100

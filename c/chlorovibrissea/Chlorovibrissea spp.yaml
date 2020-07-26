@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Leotiomycetes
+    rank: class
+  - name: Vibrisseaceae
+    rank: family
+  - name: Helotiales
+    rank: order
+categories:
+  - fungi
+  - provisional-name
+id:
+  ns: 53b398f2e35eb1298403a033

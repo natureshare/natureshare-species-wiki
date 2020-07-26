@@ -1,0 +1,37 @@
+updated_by: chrisl
+common_names:
+  - Scaly Buttons
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: button-like
+    feature: flower
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: spring-early-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: margin-hairy
+    feature: involucral-bracts
+  - description: dark-green
+    feature: leaf
+  - description: hairs-on-upper-surface
+    feature: leaf
+  - description: to-2cm
+    feature: leaf
+  - description: woolly-white-underneath
+    feature: leaf
+  - description: 1-5mm
+    feature: leaf-width
+id:
+  ns: 53b398e8e35eb129840370e7
+  vba: '505610'

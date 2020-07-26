@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Horse Fly
+  - March Fly
+classification:
+  - name: Insecta
+    rank: class
+  - name: Tabanidae
+    rank: family
+  - name: Diptera
+    rank: order
+  - name: Brachycera
+    rank: suborder
+categories:
+  - fly
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb129840380c0

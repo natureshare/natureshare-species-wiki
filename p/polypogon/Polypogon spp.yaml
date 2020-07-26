@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Beard Grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - provisional-name
+  - weed
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398e9e35eb12984037630
+  vba: '508918'

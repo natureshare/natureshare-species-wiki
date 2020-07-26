@@ -1,0 +1,20 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Dinoprora nyctereutica
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Noctuidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Acronictinae
+    rank: Subfamily
+  - name: Noctuoidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5bced834ed2a8954f0000526

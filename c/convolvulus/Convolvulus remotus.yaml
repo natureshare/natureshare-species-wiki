@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Grass Bindweed
+classification:
+  - name: convolvulaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: pink
+    feature: flower
+  - description: not-divided
+    feature: lobes-at-base-of-lower-leaf
+  - description: rounded-and-entire
+    feature: lobes-at-base-of-lower-leaf
+id:
+  ns: 53b398e7e35eb12984036830
+  vba: '503673'

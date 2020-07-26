@@ -1,0 +1,41 @@
+updated_by: chrisl
+common_names:
+  - Twiggy Daisy-bush
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: clustered
+    feature: flower
+  - description: daisy
+    feature: flower
+  - description: mauve
+    feature: flower
+  - description: white
+    feature: flower
+  - description: spring-autumn
+    feature: flowering-time
+  - description: shrub-to-small-tree
+    feature: habit
+  - description: crowded-on-stem
+    feature: leaf
+  - description: margins-inrolled
+    feature: leaf
+  - description: narrow
+    feature: leaf
+  - description: sometimes-sticky
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-0.8cm
+    feature: leaf
+  - description: appressed-cottony
+    feature: stem-hair
+id:
+  ns: 53b398e9e35eb129840373a6
+  vba: '504785'

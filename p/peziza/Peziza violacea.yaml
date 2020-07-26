@@ -1,0 +1,12 @@
+updated_by: chrisl
+classification:
+  - name: Pezizomycetes
+    rank: class
+  - name: Pezizaceae
+    rank: family
+  - name: Pezizales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 53b398f4e35eb1298403a73a

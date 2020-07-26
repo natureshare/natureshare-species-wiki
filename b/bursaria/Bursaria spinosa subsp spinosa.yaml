@@ -1,0 +1,51 @@
+updated_by: chrisl
+common_names:
+  - Sweet Bursaria
+classification:
+  - name: pittosporaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - provisional-name
+features:
+  - description: crowded-raceme
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: scented
+    feature: flower
+  - description: white
+    feature: flower
+  - description: brown
+    feature: fruit
+  - description: papery-winged
+    feature: fruit
+  - description: purse-like
+    feature: fruit
+  - description: shrub
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: dark-green
+    feature: leaf
+  - description: shiny
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: tapered-tip
+    feature: leaf
+  - description: to-2.5cm
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+  - description: prickly
+    feature: plant
+  - description: spines
+    feature: stem
+id:
+  ns: 53b398e6e35eb129840365cb
+  vba: '500515'

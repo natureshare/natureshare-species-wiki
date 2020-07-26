@@ -1,0 +1,16 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Hemiptera
+    rank: order
+  - name: Heteroptera
+    rank: suborder
+  - name: Pentatomoidea
+    rank: superfamily
+categories:
+  - insect
+  - provisional-name
+  - true-bug
+id:
+  ns: 53b398ece35eb129840380e5

@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Crabroniidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - insect
+  - provisional-name
+  - wasp
+id:
+  ns: 54d56878ed2a89cd200002c4

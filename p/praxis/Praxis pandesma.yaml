@@ -1,0 +1,20 @@
+created_by: david_francis
+updated_by: koolah
+common_names:
+  - Variable Praxis
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Erebidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Erebinae
+    rank: Subfamily
+  - name: Noctuoidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 55701e31ed2a8918dd0004ba

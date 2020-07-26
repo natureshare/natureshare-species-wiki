@@ -1,0 +1,20 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Australian Salt-grass/Salt Couch species aggregate
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 54a395ffe35eb1c61e000051
+  vba: '505866'

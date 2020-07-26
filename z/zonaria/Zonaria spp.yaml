@@ -1,0 +1,18 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Sphaeophyceae
+    rank: class
+  - name: Dictyotaceae
+    rank: family
+  - name: Chromista
+    rank: kingdom
+  - name: Dictyotales
+    rank: order
+  - name: Ochrophyta
+    rank: phylum
+categories:
+  - brown-alga
+  - seaweed
+id:
+  ns: 5a6c1818ed2a89d02a00122a

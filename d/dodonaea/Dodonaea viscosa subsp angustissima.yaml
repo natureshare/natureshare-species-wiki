@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Slender Hop-bush
+classification:
+  - name: sapindaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: 30-95mm
+    feature: leaf-length
+  - description: at-least-7-and-a-half
+    feature: leaf-length-to-width-ratio
+  - description: 1-6mm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036a62
+  vba: '504428'

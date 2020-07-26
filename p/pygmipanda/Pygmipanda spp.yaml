@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Gastropoda
+    rank: class
+  - name: Caryodidae
+    rank: family
+  - name: Stylommatophora
+    rank: order
+categories:
+  - provisional-name
+  - snail
+id:
+  ns: 542a3352e35eb1dec10000cc

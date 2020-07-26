@@ -1,0 +1,12 @@
+updated_by: chrisl
+classification:
+  - name: Leotiomycetes
+    rank: class
+  - name: Cyttariaceae
+    rank: family
+  - name: Cyttariales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 53b398f3e35eb1298403a4f3

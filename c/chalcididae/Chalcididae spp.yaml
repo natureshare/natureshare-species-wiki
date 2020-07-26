@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Chalcididae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+  - name: Chalcidoidea
+    rank: superfamily
+categories:
+  - insect
+  - provisional-name
+  - wasp
+id:
+  ns: 53e46f9ce35eb1059b00000f

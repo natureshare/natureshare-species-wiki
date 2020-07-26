@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Greater Plantain
+classification:
+  - name: veronicaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: exserted
+    feature: anthers
+id:
+  ns: 53b398e9e35eb129840375a6
+  vba: '502562'

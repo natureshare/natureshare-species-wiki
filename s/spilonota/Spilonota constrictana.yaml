@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Tortricidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+categories:
+  - butterfly
+  - insect
+id:
+  ns: 54db4a97ed2a8980f50001ef

@@ -1,0 +1,51 @@
+updated_by: chrisl
+common_names:
+  - Eastern Globe-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: pea
+    feature: flower
+  - description: apricot
+    feature: flower-colour
+  - description: red
+    feature: flower-colour
+  - description: shrub
+    feature: habit
+  - description: small-shrub
+    feature: habit
+  - description: 05-1m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 5-20mm
+    feature: leaf-length
+  - description: greater-than-5mm
+    feature: leaf-length
+  - description: less-than-20mm
+    feature: leaf-length
+  - description: less-than-1mm
+    feature: leaf-width
+  - description: to-1mm
+    feature: leaf-width
+  - description: 5mm
+    feature: seedpod-length
+  - description: less-than-5mm
+    feature: seedpod-length
+  - description: up-to-5mm
+    feature: seedpod-length
+  - description: 35mm
+    feature: seedpod-width
+  - description: up-to-4mm
+    feature: seedpod-width
+  - description: '2'
+    feature: seeds
+id:
+  ns: 53b398eae35eb12984037ab3
+  vba: '504725'

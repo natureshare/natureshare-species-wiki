@@ -1,0 +1,12 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Syrphidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+  - insect
+id:
+  ns: 53e1dc29e35eb1f53700000a

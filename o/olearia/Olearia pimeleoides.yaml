@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Pimelea Daisy-bush
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: white
+    feature: flower
+id:
+  ns: 53b398e9e35eb129840373a3
+  vba: '502321'

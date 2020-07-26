@@ -1,0 +1,29 @@
+updated_by: chrisl
+common_names:
+  - Bronze Bluebell
+  - Yellow-backed Bluebell
+classification:
+  - name: campanulaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: blue
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: yellow-underneath
+    feature: flower
+  - description: opposite
+    feature: lower-leaves
+  - description: '5'
+    feature: number-of-petals
+  - description: usually-yellow
+    feature: petal-underside
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398ebe35eb12984037d4a
+  vba: '504059'

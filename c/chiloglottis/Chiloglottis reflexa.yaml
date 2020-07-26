@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Autumn Wasp-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: maroon
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: autumn-early-winter
+    feature: flowering-time
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e6e35eb129840367a5
+  vba: '500753'

@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Common Star-hair
+classification:
+  - name: araliaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: cream-white
+    feature: flower
+  - description: spreading-shrub
+    feature: habit
+  - description: narrowly-ovate-to-oblong
+    feature: leaf-shape
+  - description: felted
+    feature: stem
+id:
+  ns: 53b398e6e35eb129840363ef
+  vba: '505599'

@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Coast Gum
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - native-and-weedy-stands-in-vic
+  - plant
+  - rare-threatened
+features:
+  - description: cluster
+    feature: flower
+  - description: mallee
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036ba4
+  vba: '501271'

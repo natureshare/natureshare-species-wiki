@@ -1,0 +1,13 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Polyporaceae
+    rank: family
+  - name: Polyporales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 5782155ded2a89e69f0004b4

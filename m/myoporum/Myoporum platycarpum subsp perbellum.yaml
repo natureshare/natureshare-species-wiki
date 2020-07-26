@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Sugarwood
+classification:
+  - name: scrophulariaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: not-flexuose
+    feature: mature-tree-branches
+  - description: equal-longer-than-floral-tube
+    feature: petals
+id:
+  ns: 53b398e9e35eb12984037302
+  vba: '504614'

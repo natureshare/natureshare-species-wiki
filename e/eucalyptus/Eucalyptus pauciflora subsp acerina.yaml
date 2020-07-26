@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Baw Baw Sally
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: cluster
+    feature: flower
+  - description: mallee
+    feature: habit
+  - description: tree
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036be2
+  vba: '504745'

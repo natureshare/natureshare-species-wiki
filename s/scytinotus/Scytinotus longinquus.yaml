@@ -1,0 +1,18 @@
+updated_by: koolah
+synonyms:
+  - Agaricus longinquus
+  - Panellus cremeus
+  - Panellus roseolus
+  - Pleurotopsis longinqua
+  - Resupinatus crawfordiae
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Mycenaceae
+    rank: family
+  - name: Agaricales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 53b398f4e35eb1298403a77f

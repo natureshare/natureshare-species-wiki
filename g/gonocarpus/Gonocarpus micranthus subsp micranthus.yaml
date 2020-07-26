@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Creeping Raspwort
+classification:
+  - name: haloragaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: unbranched-or-1st-order-branching
+    feature: inflorescence
+  - description: circular-or-nearly-so
+    feature: leaf
+  - description: prostrate
+    feature: plant
+id:
+  ns: 53b398e8e35eb12984036da5
+  vba: '501486'

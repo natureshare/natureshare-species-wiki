@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Bootlace Bush
+classification:
+  - name: thymelaeaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: soft-not-leathery
+    feature: leaf
+  - description: 10-75mm
+    feature: leaf-length
+id:
+  ns: 53b398e9e35eb1298403754a
+  vba: '504829'

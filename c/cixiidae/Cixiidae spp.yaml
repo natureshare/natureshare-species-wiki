@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Cixiid Planthoppers
+classification:
+  - name: Insecta
+    rank: class
+  - name: Cixiidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - insect
+  - true-bug
+id:
+  ns: 54f843fded2a89097e0003bb

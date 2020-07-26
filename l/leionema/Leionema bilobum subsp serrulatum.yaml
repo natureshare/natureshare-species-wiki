@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Toothed Leionema
+synonyms:
+  - Leionema bilobum subsp. 3 (West Gippsland)
+classification:
+  - name: rutaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: west-gippsland
+    feature: distribution
+  - description: serrated
+    feature: leaf
+id:
+  ns: 53b398e8e35eb12984037077
+  vba: '505480'

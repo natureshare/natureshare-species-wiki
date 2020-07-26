@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Karkalla
+classification:
+  - name: aizoaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: coastal
+    feature: distribution
+  - description: 100-200
+    feature: number-of-petals
+  - description: 100-200
+    feature: petals
+id:
+  ns: 53b398e6e35eb12984036709
+  vba: '500657'

@@ -1,0 +1,17 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Common Butterfly-shell
+classification:
+  - name: bivalvia
+    rank: class
+  - name: Malleidae
+    rank: family
+  - name: Ostreida
+    rank: order
+  - name: Mollusca
+    rank: phylum
+categories:
+  - bivalve-mollusc
+id:
+  ns: 5b0e7cf6ed2a89fa06005f7e

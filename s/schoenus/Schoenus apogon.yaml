@@ -1,0 +1,47 @@
+updated_by: chrisl
+common_names:
+  - Common Bog-sedge
+classification:
+  - name: cyperaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+  - sedge
+features:
+  - description: 2-3-in-spikelet
+    feature: flower
+  - description: black
+    feature: flower
+  - description: cluster-of-2-5-spikelets
+    feature: flower
+  - description: spike
+    feature: flower
+  - description: mid-spring-mid-summer
+    feature: flowering-time
+  - description: 3-ribs
+    feature: fruit
+  - description: nut
+    feature: fruit
+  - description: oval
+    feature: fruit
+  - description: triangular-in-cross-section
+    feature: fruit
+  - description: whitish
+    feature: fruit
+  - description: tuft
+    feature: habit
+  - description: basal-tuft
+    feature: leaf
+  - description: fine
+    feature: leaf
+  - description: margins-inrolled
+    feature: leaf
+  - description: to-15cm
+    feature: leaf
+  - description: grooved
+    feature: stem
+id:
+  ns: 53b398eae35eb12984037971
+  vba: '503039'

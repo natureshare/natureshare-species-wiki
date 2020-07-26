@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Monomachidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - insect
+  - wasp
+id:
+  ns: 54e291fded2a89ef270002d5

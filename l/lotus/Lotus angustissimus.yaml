@@ -1,0 +1,58 @@
+updated_by: chrisl
+common_names:
+  - Slender Bird's-foot Trefoil
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - weed
+features:
+  - description: ribbed
+    feature: branches
+  - description: pea
+    feature: flower
+  - description: orange
+    feature: flower-colour
+  - description: medium-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-2m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 5-35mm
+    feature: leaf-length
+  - description: greater-than-5mm
+    feature: leaf-length
+  - description: less-than-50mm
+    feature: leaf-length
+  - description: prickly
+    feature: leaf-tip
+  - description: 05-6mm
+    feature: leaf-width
+  - description: up-to-6mm
+    feature: leaf-width
+  - description: 20-30mm
+    feature: seedpod
+  - description: 5-12mm
+    feature: seedpod-length
+  - description: greater-than-5mm
+    feature: seedpod-length
+  - description: less-than-15mm
+    feature: seedpod-length
+  - description: 35-6mm
+    feature: seedpod-width
+  - description: up-to-6mm
+    feature: seedpod-width
+  - description: '1'
+    feature: seeds
+  - description: 1-2-flowered
+    feature: umbel
+id:
+  ns: 53b398e9e35eb129840371b1
+  vba: '502056'

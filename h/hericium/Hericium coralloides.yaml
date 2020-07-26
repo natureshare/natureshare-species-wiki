@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Coral Tooth Fungus
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Hericiaceae
+    rank: family
+  - name: Russulales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 59264cebed2a8965ef000019

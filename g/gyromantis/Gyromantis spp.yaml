@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Bark Mantis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Amorphoscelidae
+    rank: family
+  - name: Mantodea
+    rank: order
+categories:
+  - praying-mantis
+  - provisional-name
+id:
+  ns: 59f902f9ed2a89782100003c

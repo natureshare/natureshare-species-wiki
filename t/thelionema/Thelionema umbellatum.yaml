@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Clustered Lily
+classification:
+  - name: hemerocallidaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+  - rare-threatened
+features:
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398ebe35eb12984037b96
+  vba: '504007'

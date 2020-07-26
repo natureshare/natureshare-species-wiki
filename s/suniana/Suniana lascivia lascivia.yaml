@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Dingy Dart
+  - Dingy Grass-dart
+classification:
+  - name: Insecta
+    rank: class
+  - name: Hesperiidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Hesperiinae
+    rank: subfamily
+  - name: Hesperioidea
+    rank: superfamily
+categories:
+  - butterfly
+  - insect
+  - skippers-darts-and-allies
+id:
+  ns: 53b398ebe35eb12984037fa7

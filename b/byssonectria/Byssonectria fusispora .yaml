@@ -1,0 +1,19 @@
+created_by: david_francis
+updated_by: david_francis
+synonyms:
+  - 'Inermisia fusispora '
+classification:
+  - name: Pezizomycetes
+    rank: class
+  - name: Pyronemataceae
+    rank: family
+  - name: fungi
+    rank: kingdom
+  - name: Pezizales
+    rank: order
+  - name: Ascomycota
+    rank: phylum
+categories:
+  - fungi
+id:
+  ns: 5a9541b0ed2a89ad320015ca

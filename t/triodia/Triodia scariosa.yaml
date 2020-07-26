@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Porcupine Grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398ebe35eb12984037c79
+  vba: '503454'

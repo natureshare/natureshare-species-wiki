@@ -1,0 +1,15 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Cottony Pigface Scale
+classification:
+  - name: Insecta
+    rank: class
+  - name: Coccidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - scale-insect
+id:
+  ns: 568afb72ed2a891193000012

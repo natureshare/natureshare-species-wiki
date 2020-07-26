@@ -1,0 +1,41 @@
+updated_by: chrisl
+common_names:
+  - Golden Bush-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+  - description: orange
+    feature: flower-colour
+  - description: large-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-3m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 3-16mm
+    feature: leaf-length
+  - description: less-than-20mm
+    feature: leaf-length
+  - description: less-than-5mm
+    feature: leaf-length
+  - description: 2-13mm
+    feature: leaf-width
+  - description: greater-than-2mm
+    feature: leaf-width
+  - description: less-than-20mm
+    feature: leaf-width
+id:
+  ns: 53b398eae35eb129840377c4
+  vba: '504624'

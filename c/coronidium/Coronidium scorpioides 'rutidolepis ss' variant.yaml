@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Pale Everlasting
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: 1-2cm-diameter
+    feature: capitula
+  - description: more-or-less-decumbent-branched
+    feature: stem
+id:
+  ns: 53b398e8e35eb12984036e87
+  vba: '504602'

@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Tall Bitter-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - pea
+  - plant
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398e7e35eb12984036973
+  vba: '504405'

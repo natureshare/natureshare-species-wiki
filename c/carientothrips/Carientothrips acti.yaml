@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Phlaeothripidae
+    rank: family
+  - name: Thysanoptera
+    rank: order
+categories:
+  - insect
+  - thrip
+id:
+  ns: 53b398f1e35eb12984039b1e

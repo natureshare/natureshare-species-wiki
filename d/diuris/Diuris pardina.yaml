@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Leopard Orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: orchid
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036a49
+  vba: '501080'

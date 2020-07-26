@@ -1,0 +1,33 @@
+updated_by: chrisl
+common_names:
+  - Common Water-ribbons
+synonyms:
+  - Triglochin procera s.s.
+classification:
+  - name: juncaginaceae
+    rank: family
+categories:
+  - aquatic
+  - flora
+  - monocotyledon
+  - plant
+features:
+  - description: green
+    feature: flower
+  - description: terminal-spike
+    feature: flower
+  - description: spring-early-autumn
+    feature: flowering-time
+  - description: large-herb
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: ribbon-like
+    feature: leaf
+  - description: to-2m
+    feature: leaf
+  - description: unstalked
+    feature: leaf
+id:
+  ns: 53b398ebe35eb12984037c6e
+  vba: '504073'

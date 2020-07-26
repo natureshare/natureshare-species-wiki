@@ -1,0 +1,15 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Oecophoridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Xyloryctinae
+    rank: subfamily
+categories:
+  - moth
+id:
+  ns: 5871caeeed2a89f464001090

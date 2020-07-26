@@ -1,0 +1,50 @@
+updated_by: chrisl
+common_names:
+  - Greater Bird's-foot Trefoil
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - weed
+features:
+  - description: pea
+    feature: flower
+  - description: orange-reddish
+    feature: flower-colour
+  - description: low-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-07m
+    feature: height
+  - description: 8-14-flowers
+    feature: inflorescence
+  - description: alternate
+    feature: leaf-arrangement
+  - description: crowded
+    feature: leaf-arrangement
+  - description: 6-15mm
+    feature: leaf-length
+  - description: greater-than-5mm
+    feature: leaf-length
+  - description: less-than-20mm
+    feature: leaf-length
+  - description: 07-12mm
+    feature: leaf-width
+  - description: up-to-2mm
+    feature: leaf-width
+  - description: 3-6mm
+    feature: seedpod-length
+  - description: greater-than-3mm
+    feature: seedpod-length
+  - description: less-than-10mm
+    feature: seedpod-length
+  - description: 1-or-2
+    feature: seeds
+id:
+  ns: 53b398e9e35eb129840371bc
+  vba: '502061'

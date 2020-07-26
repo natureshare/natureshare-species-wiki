@@ -1,0 +1,36 @@
+updated_by: chrisl
+common_names:
+  - Pasture Day Moth
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: Noctuidae
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: Agaristinae
+    rank: subfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: orange
+    feature: body
+  - description: day-flying
+    feature: flight-time
+  - description: black
+    feature: wing
+  - description: brown
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: red
+    feature: wing
+  - description: white
+    feature: wing
+  - description: yellow
+    feature: wing
+id:
+  ns: 53b398ece35eb12984038155

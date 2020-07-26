@@ -1,0 +1,13 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Theridiidae
+    rank: Family
+  - name: Arachnida
+    rank: class
+  - name: Araneae
+    rank: order
+categories:
+  - spider
+id:
+  ns: 5a32464eed2a8962620015bf

@@ -1,0 +1,21 @@
+updated_by: koolah
+common_names:
+  - Arc Line-moth
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: lepidoptera
+    rank: Order
+  - name: Ennominae
+    rank: Subfamily
+  - name: Geometroidea
+    rank: Superfamily
+  - name: Nacophorini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f3e35eb1298403a367

@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Branched Sundew
+synonyms:
+  - Drosera peltata subsp. peltata
+classification:
+  - name: droseraceae
+    rank: family
+categories:
+  - carnivorous
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: white
+    feature: flower
+  - description: usually-branched
+    feature: stem
+id:
+  ns: 53b398f3e35eb1298403a3e9
+  vba: '528663'

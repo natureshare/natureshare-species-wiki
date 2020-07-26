@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - White Correa
+classification:
+  - name: rutaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: white
+    feature: flower
+  - description: '4'
+    feature: number-of-petals
+  - description: '4'
+    feature: petals
+id:
+  ns: 53b398e7e35eb1298403684f
+  vba: '504363'

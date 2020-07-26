@@ -1,0 +1,43 @@
+updated_by: chrisl
+common_names:
+  - Grey Tussock-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+features:
+  - description: grass
+    feature: flower
+  - description: green
+    feature: flower
+  - description: purplish
+    feature: flower
+  - description: spike
+    feature: flower
+  - description: straw-coloured
+    feature: flower
+  - description: mid-spring-early-autumn
+    feature: flowering-time
+  - description: dense-tuft
+    feature: habit
+  - description: grass
+    feature: habit
+  - description: circular-cross-section
+    feature: leaf
+  - description: fine
+    feature: leaf
+  - description: grey-green
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+  - description: to-30cm
+    feature: leaf
+id:
+  ns: 53b398e9e35eb129840375f5
+  vba: '504835'

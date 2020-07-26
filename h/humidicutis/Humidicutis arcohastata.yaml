@@ -1,0 +1,17 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Hygrocybe arcohastata
+classification:
+  - name: Agaricomycetes
+    rank: Class
+  - name: Hygrophoraceae
+    rank: Family
+  - name: Agaricales
+    rank: Order
+  - name: Agaricomycetidae
+    rank: subclass
+categories:
+  - fungi
+id:
+  ns: 5b7f5998ed2a89a7f1007b59

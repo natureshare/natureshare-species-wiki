@@ -1,0 +1,27 @@
+updated_by: chrisl
+common_names:
+  - Slender Cicendia
+classification:
+  - name: gentianaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: tubular
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: slender-herb
+    feature: habit
+  - description: linear-to-narrow-lanceolate
+    feature: leaf-shape
+  - description: '4'
+    feature: number-of-petals
+  - description: '4'
+    feature: petals
+id:
+  ns: 53b398e7e35eb129840367de
+  vba: '500776'

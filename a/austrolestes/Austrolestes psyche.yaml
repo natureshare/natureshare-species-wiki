@@ -1,0 +1,25 @@
+updated_by: chrisl
+common_names:
+  - Cup Ringtail
+classification:
+  - name: Insecta
+    rank: class
+  - name: Lestidae
+    rank: family
+  - name: Odonata
+    rank: order
+  - name: Zygoptera
+    rank: suborder
+categories:
+  - damselfly
+  - dragonfly-and-damselfly
+  - insect
+features:
+  - description: black
+    feature: body
+  - description: blue
+    feature: body
+  - description: grey
+    feature: body
+id:
+  ns: 53b398ebe35eb12984037e4a

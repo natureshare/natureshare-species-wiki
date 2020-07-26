@@ -1,0 +1,15 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Sordariomycetes
+    rank: Class
+  - name: Cordycipitaceae
+    rank: Family
+  - name: Hypocreales
+    rank: Order
+  - name: Hypocreomycetidae
+    rank: subclass
+categories:
+  - fungi
+id:
+  ns: 5b7b6c1bed2a8903aa000006

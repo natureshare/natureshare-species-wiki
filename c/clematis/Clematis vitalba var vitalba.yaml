@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Traveller's Joy
+classification:
+  - name: ranunculaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: bisexual
+    feature: flowers
+  - description: climber
+    feature: habit
+  - description: opposite
+    feature: leaf-arrangement
+id:
+  ns: 53b398e7e35eb129840367ff
+  vba: '504310'

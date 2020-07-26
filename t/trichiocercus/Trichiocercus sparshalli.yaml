@@ -1,0 +1,31 @@
+updated_by: koolah
+common_names:
+  - Sparshall's Moth
+  - Sparshalli Moth
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Notodontidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Thaumetopoeinae
+    rank: Subfamily
+  - name: Noctuoidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: red
+    feature: bald-spot
+  - description: black
+    feature: head-hair
+  - description: red
+    feature: head-spot
+  - description: one-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ece35eb12984038035

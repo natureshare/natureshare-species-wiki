@@ -1,0 +1,77 @@
+updated_by: chrisl
+common_names:
+  - Narrow-leaf Peppermint
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - tree
+features:
+  - description: 15-cm-long
+    feature: adult-leaf
+  - description: aromatic
+    feature: adult-leaf
+  - description: linear
+    feature: adult-leaf
+  - description: thin
+    feature: adult-leaf
+  - description: grey-grey-brown
+    feature: bark
+  - description: on-trunk-and-lower-branches
+    feature: bark
+  - description: rough-finely-fibrous
+    feature: bark
+  - description: rough-throughout
+    feature: bark
+  - description: smooth-cream-to-grey-higher
+    feature: bark
+  - description: club-shaped
+    feature: buds
+  - description: groups-of-11-20
+    feature: buds
+  - description: numerous
+    feature: buds
+  - description: small
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: white
+    feature: flower
+  - description: mid-spring-mid-summer
+    feature: flowering-time
+  - description: club-shaped
+    feature: fruit
+  - description: hard
+    feature: fruit
+  - description: small
+    feature: fruit
+  - description: tree
+    feature: habit
+  - description: 6-30m
+    feature: height
+  - description: lanceolate
+    feature: juvenile-leaf
+  - description: stem-clasping
+    feature: juvenile-leaf
+  - description: thin
+    feature: juvenile-leaf
+  - description: alternate
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: blue-green
+    feature: leaf-colour
+  - description: green
+    feature: leaf-colour
+  - description: dull
+    feature: leaf-surface
+  - description: glossy
+    feature: leaf-surface
+  - description: 06-15cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036bf2
+  vba: '503828'

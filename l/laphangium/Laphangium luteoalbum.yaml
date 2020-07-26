@@ -1,0 +1,34 @@
+updated_by: chrisl
+common_names:
+  - Jersey Cudweed
+synonyms:
+  - Helichrysum luteoalbum
+  - Pseudognaphalium luteoalbum
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: brown
+    feature: flower
+  - description: cluster
+    feature: flower
+  - description: cream
+    feature: flower
+  - description: gold
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: grey
+    feature: leaf
+  - description: hairy
+    feature: leaf
+id:
+  ns: 53b398eae35eb1298403771d
+  vba: '502762'

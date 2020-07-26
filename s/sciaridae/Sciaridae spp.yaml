@@ -1,0 +1,17 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Fungus Gnats
+classification:
+  - name: Insecta
+    rank: class
+  - name: Sciaridae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+  - gnat
+  - provisional-name
+id:
+  ns: 59301913ed2a89eb04000506

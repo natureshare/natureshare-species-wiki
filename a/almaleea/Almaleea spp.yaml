@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - Bush Pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - flora
+  - pea
+  - plant
+  - provisional-name
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398e5e35eb129840362dc

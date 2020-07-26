@@ -1,0 +1,17 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Yabby
+classification:
+  - name: Malacostraca
+    rank: class
+  - name: Parastacidae
+    rank: family
+  - name: Decapoda
+    rank: order
+categories:
+  - animal
+  - crustacean
+  - fauna
+id:
+  ns: 5546b7b8ed2a891575000344

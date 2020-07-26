@@ -1,0 +1,18 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Grassland Froghopper
+classification:
+  - name: Insecta
+    rank: class
+  - name: Acrididae
+    rank: family
+  - name: Orthoptera
+    rank: order
+categories:
+  - animal
+  - fauna
+  - grasshopper
+  - insect
+id:
+  ns: 55471567ed2a89c9bd00027f

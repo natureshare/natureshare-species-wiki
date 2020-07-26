@@ -1,0 +1,34 @@
+updated_by: chrisl
+common_names:
+  - Trailing Speedwell
+classification:
+  - name: veronicaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: clustered
+    feature: flower
+  - description: mauve
+    feature: flower
+  - description: spring-summer
+    feature: flowering-time
+  - description: dark-green
+    feature: leaf
+  - description: margin-coarsely-toothed
+    feature: leaf
+  - description: oval-heart-shaped
+    feature: leaf
+  - description: to-2.5cm
+    feature: leaf
+  - description: acute
+    feature: leaf-apex
+  - description: '4'
+    feature: number-of-petals
+  - description: less-than-half-a-mm-long
+    feature: stem-hair
+id:
+  ns: 53b398ebe35eb12984037ce8
+  vba: '503512'

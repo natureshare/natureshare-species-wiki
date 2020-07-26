@@ -1,0 +1,39 @@
+updated_by: chrisl
+common_names:
+  - Common Wheat-grass
+synonyms:
+  - Elymus scaber var. scaber
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+features:
+  - description: cream-green
+    feature: flower
+  - description: grass
+    feature: flower
+  - description: open-spike
+    feature: flower
+  - description: to-80cm
+    feature: flower-stalk
+  - description: mid-winter-early-summer
+    feature: flowering-time
+  - description: grass
+    feature: habit
+  - description: open-tuft
+    feature: habit
+  - description: linear
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+  - description: to-20cm
+    feature: leaf
+id:
+  ns: 53b398e7e35eb12984036abe
+  vba: '528409'

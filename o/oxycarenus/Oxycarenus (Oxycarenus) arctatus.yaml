@@ -1,0 +1,15 @@
+updated_by: chrisl
+common_names:
+  - Coon Bug
+classification:
+  - name: Insecta
+    rank: class
+  - name: Oxycarenidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - insect
+  - true-bug
+id:
+  ns: 53b398efe35eb1298403916a

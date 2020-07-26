@@ -1,0 +1,44 @@
+updated_by: chrisl
+common_names:
+  - Boisduval's Autumn Moth
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: OENOSANDRIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: NOCTUOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: black
+    feature: body
+  - description: orange
+    feature: body
+  - description: striped
+    feature: body
+  - description: white
+    feature: head-hair
+  - description: black
+    feature: spots
+  - description: orange
+    feature: spots
+  - description: black
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: spots
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f60

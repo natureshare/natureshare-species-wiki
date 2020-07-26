@@ -1,0 +1,14 @@
+updated_by: chrisl
+common_names:
+  - Red and Black Spider
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Nicodamidae
+    rank: family
+  - name: Araneae
+    rank: order
+categories:
+  - spider
+id:
+  ns: 53b398f2e35eb12984039da1

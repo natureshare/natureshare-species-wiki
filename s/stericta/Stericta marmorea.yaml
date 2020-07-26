@@ -1,0 +1,19 @@
+updated_by: koolah
+synonyms:
+  - Salma marmorea
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Pyralidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Epipaschiinae
+    rank: Subfamily
+  - name: Pyraloidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f2e35eb12984039d6b

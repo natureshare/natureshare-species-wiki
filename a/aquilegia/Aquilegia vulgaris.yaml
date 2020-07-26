@@ -1,0 +1,34 @@
+updated_by: chrisl
+common_names:
+  - Columbine
+classification:
+  - name: ranunculaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - perennial
+  - plant
+  - weed
+features:
+  - description: blue
+    feature: flower-colour
+  - description: violet
+    feature: flower-colour
+  - description: bisexual
+    feature: flowers
+  - description: erect-herb
+    feature: habit
+  - description: to-100cm
+    feature: height
+  - description: crenate
+    feature: leaf-margin
+  - description: lobed
+    feature: leaf-margin
+  - description: biternate-to-triternate
+    feature: leaf-type
+  - description: compound
+    feature: leaf-type
+id:
+  ns: 53b398e6e35eb12984036375
+  vba: '504915'

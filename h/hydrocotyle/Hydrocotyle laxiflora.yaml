@@ -1,0 +1,36 @@
+updated_by: chrisl
+common_names:
+  - Stinking Pennywort
+classification:
+  - name: apiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: cream
+    feature: flower
+  - description: scented
+    feature: flower
+  - description: 5-16mm-diameter
+    feature: flowerhead
+  - description: 30-50-more-or-less
+    feature: flowers
+  - description: herb
+    feature: habit
+  - description: divided
+    feature: leaf
+  - description: hairy
+    feature: leaf
+  - description: lobed
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e8e35eb12984036f21
+  vba: '501723'

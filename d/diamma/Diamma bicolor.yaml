@@ -1,0 +1,14 @@
+updated_by: chrisl
+common_names:
+  - Blue Ant
+categories:
+  - ant
+  - insect
+  - wasp
+features:
+  - description: blue
+    feature: body
+  - description: orange
+    feature: legs
+id:
+  ns: 53b398f2e35eb12984039e90

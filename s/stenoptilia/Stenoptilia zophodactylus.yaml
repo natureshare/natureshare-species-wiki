@@ -1,0 +1,19 @@
+created_by: chrisl
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Lepidoptera
+    rank: Order
+  - name: Pterophorinae
+    rank: Subfamily
+  - name: Pterophoroidea
+    rank: Superfamily
+  - name: Pterophoridae
+    rank: family
+categories:
+  - fauna-introduced
+  - insect
+  - moth
+id:
+  ns: 564313b6ed2a89e56e0007e5

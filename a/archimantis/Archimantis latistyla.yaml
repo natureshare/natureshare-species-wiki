@@ -1,0 +1,13 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Large Brown Mantis
+classification:
+  - name: Mantidae
+    rank: Family
+  - name: Mantodea
+    rank: Order
+categories:
+  - mantis
+id:
+  ns: 5de712ab64be484f81000089

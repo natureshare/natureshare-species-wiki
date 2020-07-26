@@ -1,0 +1,28 @@
+updated_by: chrisl
+common_names:
+  - Pasture Webworm
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: PYRALIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: CRAMBINAE
+    rank: subfamily
+  - name: PYRALOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: brown
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f65

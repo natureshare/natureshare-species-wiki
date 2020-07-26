@@ -1,0 +1,17 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Freshwater Cray
+  - Western Cray
+classification:
+  - name: Parastacidae
+    rank: family
+  - name: Decapoda
+    rank: order
+categories:
+  - animal
+  - crayfish
+  - fauna
+  - rare-threatened
+id:
+  ns: 554728ebed2a89dfbc000403

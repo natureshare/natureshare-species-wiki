@@ -1,0 +1,30 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: GEOMETRIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: LARENTIINAE
+    rank: subfamily
+  - name: GEOMETROIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: brown
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f1d

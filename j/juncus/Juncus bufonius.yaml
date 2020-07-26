@@ -1,0 +1,35 @@
+updated_by: chrisl
+common_names:
+  - Toad Rush
+classification:
+  - name: juncaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+  - rush
+features:
+  - description: branched-panicle
+    feature: flower
+  - description: pale-green
+    feature: flower
+  - description: mid-spring-mid-summer
+    feature: flowering-time
+  - description: capsule
+    feature: fruit
+  - description: reddish-upper-part
+    feature: fruit
+  - description: slender-herb
+    feature: habit
+  - description: channelled
+    feature: leaf
+  - description: narrow
+    feature: leaf
+  - description: solid
+    feature: leaf
+  - description: straplike
+    feature: leaf
+id:
+  ns: 53b398e8e35eb12984036fd6
+  vba: '501810'

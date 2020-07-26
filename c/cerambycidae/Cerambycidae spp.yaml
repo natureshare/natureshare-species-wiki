@@ -1,0 +1,19 @@
+updated_by: david_francis
+common_names:
+  - Longhorn Beetle
+  - Longicorn Beetle
+classification:
+  - name: Insecta
+    rank: class
+  - name: Cerambycidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+  - name: Polyphaga
+    rank: suborder
+categories:
+  - beetle
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb129840380b1

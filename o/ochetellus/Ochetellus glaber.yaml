@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Formicidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+  - name: Dolichoderinae
+    rank: subfamily
+categories:
+  - ant
+id:
+  ns: 591eb6a3ed2a893e6b0017ed

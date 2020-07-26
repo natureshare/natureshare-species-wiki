@@ -1,0 +1,53 @@
+updated_by: chrisl
+common_names:
+  - Bird's-foot Trefoil
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - provisional-name
+  - weed
+features:
+  - description: pea
+    feature: flower
+  - description: red-blotch
+    feature: flower-colour
+  - description: medium-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: 05-2m
+    feature: height
+  - description: 1-6-flowers
+    feature: inflorescence
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 3-30mm
+    feature: leaf-length
+  - description: less-than-30mm
+    feature: leaf-length
+  - description: less-than-5mm
+    feature: leaf-length
+  - description: 05mm
+    feature: leaf-width
+  - description: up-to-05mm
+    feature: leaf-width
+  - description: 4-6mm
+    feature: seedpod-length
+  - description: less-than-10mm
+    feature: seedpod-length
+  - description: up-to-6mm
+    feature: seedpod-length
+  - description: 4mm
+    feature: seedpod-width
+  - description: up-to-4mm
+    feature: seedpod-width
+  - description: '2'
+    feature: seeds
+id:
+  ns: 53b398e9e35eb129840371b3
+  vba: '502058'

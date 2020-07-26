@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Werribee Blue-box
+synonyms:
+  - Eucalyptus aff. baueriana (Werribee)
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036b65
+  vba: '507580'

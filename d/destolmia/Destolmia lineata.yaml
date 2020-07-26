@@ -1,0 +1,20 @@
+common_names:
+  - Streaked Notodontid
+classification:
+  - name: Insecta
+    rank: class
+  - name: NOTODONTIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: NOTODONTINAE s.l.
+    rank: subfamily
+  - name: Notodontinae
+    rank: subfamily
+  - name: NOCTUOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398ebe35eb12984037f5d

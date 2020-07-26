@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Dwarf Mat-rush
+classification:
+  - name: xanthorrhoeaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+features:
+  - description: globular-cluster
+    feature: female-flower
+  - description: 5-17cm
+    feature: leaf-length
+id:
+  ns: 53b398e9e35eb129840371a1
+  vba: '503843'

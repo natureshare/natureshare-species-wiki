@@ -1,0 +1,13 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Froghopper
+classification:
+  - name: Insecta
+    rank: class
+  - name: Clasopteridae
+    rank: family
+  - name: Hemiptera
+    rank: order
+id:
+  ns: 571a33c6ed2a892b340000c0

@@ -1,0 +1,47 @@
+updated_by: chrisl
+common_names:
+  - Snowy Daisy-bush
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: clustered
+    feature: flower
+  - description: daisy
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: white
+    feature: flower
+  - description: spring-early-summer
+    feature: flowering-time
+  - description: shrub
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: dark-green
+    feature: leaf
+  - description: lanceolate
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-16cm
+    feature: leaf
+  - description: whitish-underneath
+    feature: leaf
+  - description: 10-16
+    feature: number-of-petals
+  - description: many
+    feature: number-of-petals
+  - description: 10-16
+    feature: petals
+  - description: many
+    feature: petals
+id:
+  ns: 53b398e9e35eb12984037397
+  vba: '502312'

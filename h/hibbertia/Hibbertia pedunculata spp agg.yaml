@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Stalked Guinea-flower
+classification:
+  - name: dilleniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - provisional-name
+  - rare-threatened
+features:
+  - description: alternate
+    feature: leaf-arrangement
+id:
+  ns: 53b398e8e35eb12984036ec6
+  vba: '501672'

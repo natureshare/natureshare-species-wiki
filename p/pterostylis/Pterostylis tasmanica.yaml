@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Southern Plume-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: hooded
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398eae35eb12984037788
+  vba: '504853'

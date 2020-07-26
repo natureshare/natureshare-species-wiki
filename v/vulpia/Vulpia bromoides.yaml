@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Squirrel-tail Fescue
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - weed
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398ebe35eb12984037d37
+  vba: '503544'

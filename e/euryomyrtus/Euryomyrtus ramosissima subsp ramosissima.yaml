@@ -1,0 +1,40 @@
+updated_by: david_francis
+common_names:
+  - Rosy Heath-myrtle
+synonyms:
+  - Baeckea ramosissima subsp. ramosissima
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: pink
+    feature: flower
+  - description: red
+    feature: flower
+  - description: white
+    feature: flower
+  - description: pink
+    feature: flower-colour
+  - description: white
+    feature: flower-colour
+  - description: shrub
+    feature: habit
+  - description: small-shrub
+    feature: habit
+  - description: to-60cm
+    feature: height
+  - description: 2-14mm
+    feature: leaf-length
+  - description: to-2mm
+    feature: leaf-width
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e7e35eb12984036c52
+  vba: '504259'

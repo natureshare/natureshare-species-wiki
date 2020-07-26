@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Austral Crane's-bill
+classification:
+  - name: geraniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: deep-pink-to-magenta
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: long-and-right-angled-to-stem
+    feature: hairs
+  - description: retuse
+    feature: petal
+id:
+  ns: 53b398e8e35eb12984036d57
+  vba: '505337'

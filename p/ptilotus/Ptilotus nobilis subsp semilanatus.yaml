@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Lamb Tails
+synonyms:
+  - Ptilotus exaltatus var. semilanatus
+classification:
+  - name: amaranthaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: linear-or-narrowly-spathulate
+    feature: leaf
+  - description: mostly-2-6mm-rarely-to-10mm
+    feature: leaf-width
+id:
+  ns: 53b398eae35eb12984037799
+  vba: '504865'

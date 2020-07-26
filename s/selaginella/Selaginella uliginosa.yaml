@@ -1,0 +1,25 @@
+updated_by: chrisl
+common_names:
+  - Swamp Selaginella
+classification:
+  - name: selaginellaceae
+    rank: family
+categories:
+  - ferns-and-allies
+  - flora
+  - moss
+  - plant
+features:
+  - description: pale-yellow-green
+    feature: frond
+  - description: scale-like
+    feature: frond
+  - description: simple
+    feature: frond
+  - description: erect-fern-ally
+    feature: habit
+  - description: no-trunk
+    feature: habit
+id:
+  ns: 53b398eae35eb129840379cf
+  vba: '503098'

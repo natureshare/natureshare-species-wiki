@@ -1,0 +1,45 @@
+updated_by: chrisl
+common_names:
+  - Cabbage White
+classification:
+  - name: Insecta
+    rank: class
+  - name: pieridae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Papilionoidea
+    rank: superfamily
+categories:
+  - butterfly
+  - fauna-introduced
+  - insect
+features:
+  - description: '1'
+    feature: spots
+  - description: 1-male-upperwing
+    feature: spots
+  - description: 1-underside
+    feature: spots
+  - description: '2'
+    feature: spots
+  - description: 2-female-upperwing
+    feature: spots
+  - description: 2-upperside
+    feature: spots
+  - description: 3-upperside
+    feature: spots
+  - description: black
+    feature: spots
+  - description: black
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: white
+    feature: wing
+  - description: yellow
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037df1

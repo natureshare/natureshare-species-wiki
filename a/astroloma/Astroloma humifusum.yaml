@@ -1,0 +1,52 @@
+updated_by: chrisl
+common_names:
+  - Cranberry Heath
+classification:
+  - name: epacridaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: red
+    feature: flower
+  - description: single
+    feature: flower
+  - description: tubular
+    feature: flower
+  - description: late-autumn-early-spring
+    feature: flowering-time
+  - description: black
+    feature: fruit
+  - description: drupe
+    feature: fruit
+  - description: fleshy
+    feature: fruit
+  - description: green
+    feature: fruit
+  - description: groundcover
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: blue-green
+    feature: leaf
+  - description: sharp-tip
+    feature: leaf
+  - description: simple
+    feature: leaf
+  - description: stiff
+    feature: leaf
+  - description: to-1cm
+    feature: leaf
+  - description: toothed-margin
+    feature: leaf
+  - description: unstalked
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e6e35eb129840363e7
+  vba: '500304'

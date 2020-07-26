@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Angled Pigface
+classification:
+  - name: aizoaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: 75-150
+    feature: number-of-petals
+  - description: 75-150
+    feature: petals
+id:
+  ns: 53b398e6e35eb12984036704
+  vba: '500654'

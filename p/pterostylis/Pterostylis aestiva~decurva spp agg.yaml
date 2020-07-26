@@ -1,0 +1,19 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Summer Greenhood
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - provisional-name
+features:
+  - description: orchid
+    feature: flower
+id:
+  ns: 54716a3ce35eb198b1000064
+  vba: '507376'

@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Ferny Panax
+classification:
+  - name: araliaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: bipinnate-tripinnate
+    feature: leaf
+  - description: sessile
+    feature: leaf
+id:
+  ns: 53b398e9e35eb12984037635
+  vba: '503401'

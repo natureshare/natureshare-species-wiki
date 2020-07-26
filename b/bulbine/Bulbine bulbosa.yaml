@@ -1,0 +1,41 @@
+updated_by: chrisl
+common_names:
+  - Bulbine Lily
+classification:
+  - name: asphodelaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+features:
+  - description: open-spike
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: basal
+    feature: leaf
+  - description: erect
+    feature: leaf
+  - description: green-grey-green
+    feature: leaf
+  - description: hollow
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: not-glaucous
+    feature: leaf
+  - description: to-40cm
+    feature: leaf
+  - description: '6'
+    feature: number-of-petals
+  - description: '6'
+    feature: petals
+id:
+  ns: 53b398e6e35eb129840365bf
+  vba: '500510'

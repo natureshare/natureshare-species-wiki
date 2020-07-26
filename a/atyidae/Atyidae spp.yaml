@@ -1,0 +1,13 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Malacostraca
+    rank: class
+  - name: Decapoda
+    rank: order
+categories:
+  - crustacean
+  - provisional-name
+  - shrimp
+id:
+  ns: 540afed6e35eb1a7a7000006

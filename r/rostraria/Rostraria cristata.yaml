@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Annual Cat's-tail
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - weed
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398eae35eb129840378bd
+  vba: '502054'

@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Swamp Greenhood
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - epbc
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398eae35eb12984037789
+  vba: '502819'

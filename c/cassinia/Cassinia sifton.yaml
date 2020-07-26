@@ -1,0 +1,39 @@
+updated_by: chrisl
+common_names:
+  - Sifton Bush
+synonyms:
+  - Cassinia arcuata (misapplied)
+classification:
+  - name: asteraceae
+    rank: family
+  - name: asterales
+    rank: order
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: brown
+    feature: flower
+  - description: cluster
+    feature: flower
+  - description: cream
+    feature: flower
+  - description: red
+    feature: flower
+  - description: late-spring-mid-autumn
+    feature: flowering-time
+  - description: shrub
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: curry-scented
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: 3-12mm
+    feature: leaf-length
+id:
+  ns: 53b398e6e35eb12984036713
+  vba: '500667'

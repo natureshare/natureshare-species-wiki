@@ -1,0 +1,42 @@
+updated_by: chrisl
+common_names:
+  - Dusty Daisy-bush
+synonyms:
+  - Olearia phlogopappa var. phlogopappa
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: blue-mauve
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: white
+    feature: flower
+  - description: spring-mid-summer
+    feature: flowering-time
+  - description: shrub
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: grey-green
+    feature: leaf
+  - description: margin-toothed
+    feature: leaf
+  - description: ovate-to-oblong
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-8cm
+    feature: leaf
+  - description: wavy-edge
+    feature: leaf
+  - description: white-underneath
+    feature: leaf
+id:
+  ns: 53b398e9e35eb129840373a1

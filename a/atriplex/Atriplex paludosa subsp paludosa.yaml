@@ -1,0 +1,33 @@
+updated_by: chrisl
+common_names:
+  - Marsh Saltbush
+classification:
+  - name: chenopodiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: near-coastal
+    feature: distribution
+  - description: flat
+    feature: fruit
+  - description: green
+    feature: fruit
+  - description: heart-shaped
+    feature: fruit
+  - description: shrub
+    feature: habit
+  - description: spreading
+    feature: habit
+  - description: to-160cm
+    feature: height
+  - description: green
+    feature: leaf
+  - description: 12-40mm
+    feature: leaf-length
+id:
+  ns: 53b398e6e35eb12984036413
+  vba: '500326'

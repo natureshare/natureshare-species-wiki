@@ -1,0 +1,26 @@
+updated_by: koolah
+common_names:
+  - Two-spotted Wave
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Sterrhinae
+    rank: Subfamily
+  - name: Geometroidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: brown
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+id:
+  ns: 53b398f2e35eb12984039d3f

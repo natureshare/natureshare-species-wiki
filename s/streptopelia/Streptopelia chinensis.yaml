@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - Chinese Turtle-Dove
+  - Indian Turtle-Dove
+  - Spotted Dove
+  - Spotted Turtle-Dove
+classification:
+  - name: columbidae
+    rank: family
+categories:
+  - animal
+  - bird
+  - fauna
+  - fauna-introduced
+id:
+  ns: 53b398e5e35eb129840360f8

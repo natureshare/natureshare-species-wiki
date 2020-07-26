@@ -1,0 +1,19 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Little-wing Pearl-shell
+synonyms:
+  - Electroma georgiana
+classification:
+  - name: Malleidae
+    rank: Family
+  - name: bivalvia
+    rank: class
+  - name: Ostreida
+    rank: order
+  - name: Mollusca
+    rank: phylum
+categories:
+  - bivalve-mollusc
+id:
+  ns: 5b0cd9cbed2a89fa06005868

@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Tiny Sundew
+classification:
+  - name: droseraceae
+    rank: family
+categories:
+  - carnivorous
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: basal-rosette
+    feature: leaf
+  - description: cupped
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e7e35eb12984036a78
+  vba: '501108'

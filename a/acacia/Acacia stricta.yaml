@@ -1,0 +1,43 @@
+updated_by: chrisl
+common_names:
+  - Hop Wattle
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - wattle
+features:
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+  - description: 2-per-axil-rarely-more
+    feature: flowerhead
+  - description: late-autumn-early-spring
+    feature: flowering-time
+  - description: shrub
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: grey-green
+    feature: leaf
+  - description: unstalked
+    feature: leaf
+  - description: to-15cm
+    feature: leaf-length
+  - description: absent
+    feature: leaf-pits
+  - description: blunt
+    feature: leaf-tip
+  - description: glabrous
+    feature: peduncle
+  - description: hard
+    feature: seedpod
+id:
+  ns: 53b398e5e35eb1298403620c
+  vba: '500091'

@@ -1,0 +1,26 @@
+updated_by: chrisl
+common_names:
+  - Prickly Cryptandra
+synonyms:
+  - Cryptandra tomentosa var. 1
+classification:
+  - name: rhamnaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: age-from-white-to-pink
+    feature: flower
+  - description: white
+    feature: flower
+  - description: small-shrub
+    feature: habit
+  - description: alternate
+    feature: leaves
+  - description: '5'
+    feature: number-of-petals
+id:
+  ns: 53b398e7e35eb129840368de
+  vba: '505634'

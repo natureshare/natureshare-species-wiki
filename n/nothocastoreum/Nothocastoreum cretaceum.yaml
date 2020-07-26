@@ -1,0 +1,12 @@
+updated_by: chrisl
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Mesophelliaceae
+    rank: family
+  - name: Hysterangiales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 53b398f4e35eb1298403a6e8

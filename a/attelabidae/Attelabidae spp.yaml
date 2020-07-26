@@ -1,0 +1,17 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Leafroller Weevil
+classification:
+  - name: Insecta
+    rank: class
+  - name: Attelabidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - insect
+  - provisional-name
+  - weevil
+id:
+  ns: 564c1145ed2a89e56e000bbd

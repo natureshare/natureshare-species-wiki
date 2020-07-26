@@ -1,0 +1,46 @@
+updated_by: chrisl
+common_names:
+  - Austral Bugle
+classification:
+  - name: lamiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: to-12cm-with-basal-rosette
+    feature: basal-leaf
+  - description: blue
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: spike
+    feature: flower
+  - description: tubular
+    feature: flower
+  - description: spring-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: linear
+    feature: leaf
+  - description: margin-toothed
+    feature: leaf
+  - description: simple
+    feature: leaf
+  - description: spoon-shaped
+    feature: leaf
+  - description: unstalked
+    feature: leaf
+  - description: velvety-green-grey
+    feature: leaf
+  - description: opposite
+    feature: leaf-on-stem
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e5e35eb129840362ac
+  vba: '500168'

@@ -1,0 +1,26 @@
+updated_by: chrisl
+common_names:
+  - Kopata
+classification:
+  - name: geraniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: petalled
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: lobed
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e9e35eb1298403749b
+  vba: '502446'

@@ -1,0 +1,16 @@
+created_by: reilly
+updated_by: david_francis
+common_names:
+  - Gall-insect
+  - Psyllid
+classification:
+  - name: Insecta
+    rank: class
+  - name: Triozidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - provisional-name
+id:
+  ns: 569c41f1ed2a899c8d000001

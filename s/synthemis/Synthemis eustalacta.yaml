@@ -1,0 +1,27 @@
+updated_by: chrisl
+common_names:
+  - Swamp Tigertail
+classification:
+  - name: Insecta
+    rank: class
+  - name: Synthemistidae
+    rank: family
+  - name: Odonata
+    rank: order
+  - name: Anisoptera
+    rank: suborder
+categories:
+  - dragonfly-and-damselfly
+  - dragonfly-proper
+  - insect
+features:
+  - description: black
+    feature: body
+  - description: blue
+    feature: body
+  - description: brown
+    feature: body
+  - description: yellow
+    feature: body
+id:
+  ns: 53b398ebe35eb12984037e8c

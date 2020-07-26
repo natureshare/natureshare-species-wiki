@@ -1,0 +1,18 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Common Worm-shell
+classification:
+  - name: Gastropoda
+    rank: class
+  - name: Vermetidae
+    rank: family
+  - name: Hypsogastropoda
+    rank: order
+  - name: Mollusca
+    rank: phylum
+categories:
+  - mollusc
+  - sea-snail
+id:
+  ns: 5b0cdcdaed2a89fa0600587e

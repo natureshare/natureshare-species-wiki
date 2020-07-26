@@ -1,0 +1,40 @@
+updated_by: chrisl
+common_names:
+  - Hop Goodenia
+classification:
+  - name: goodeniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: petalled
+    feature: flower
+  - description: spray-of-3-to-6
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: spring-summer
+    feature: flowering-time
+  - description: shrub
+    feature: habit
+  - description: to-2m
+    feature: height
+  - description: ovate
+    feature: leaf
+  - description: pale-green
+    feature: leaf
+  - description: serrated
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-10cm
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e8e35eb12984036dc0
+  vba: '501507'

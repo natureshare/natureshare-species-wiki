@@ -1,0 +1,35 @@
+updated_by: chrisl
+common_names:
+  - Common Ground-fern
+  - False Bracken
+classification:
+  - name: culcitaceae
+    rank: family
+categories:
+  - ferns-and-allies
+  - flora
+  - plant
+features:
+  - description: coarse-erect
+    feature: frond
+  - description: compound
+    feature: frond
+  - description: pinnate
+    feature: frond
+  - description: yellow-green
+    feature: frond
+  - description: end-of-leaf-veins
+    feature: fruit-sori
+  - description: globular
+    feature: fruit-sori
+  - description: small
+    feature: fruit-sori
+  - description: no-trunk
+    feature: habit
+  - description: to-200cm-tall
+    feature: habit
+  - description: creeping
+    feature: rhizome
+id:
+  ns: 53b398e6e35eb1298403667b
+  vba: '500887'

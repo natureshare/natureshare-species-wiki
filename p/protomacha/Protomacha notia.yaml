@@ -1,0 +1,22 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Tanyzancla notia
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Oecophoridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Oecophorinae
+    rank: Subfamily
+  - name: Gelechioidea
+    rank: Superfamily
+  - name: Barea-Group
+    rank: Supertribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 5d1c6202c347d5069a000221

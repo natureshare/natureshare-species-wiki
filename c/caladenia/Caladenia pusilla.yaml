@@ -1,0 +1,28 @@
+updated_by: david_francis
+common_names:
+  - Pygmy Caladenia
+  - Tiny Pink-fingers
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: orchid
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e6e35eb1298403661e
+  vba: '500545'

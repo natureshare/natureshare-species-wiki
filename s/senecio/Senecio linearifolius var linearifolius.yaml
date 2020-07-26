@@ -1,0 +1,29 @@
+updated_by: chrisl
+common_names:
+  - Fireweed Groundsel (type variant)
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: petalled
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+  - description: fluffy
+    feature: seed
+id:
+  ns: 53b398eae35eb129840379fd
+  vba: '505520'

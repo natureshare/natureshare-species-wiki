@@ -1,0 +1,25 @@
+updated_by: chrisl
+common_names:
+  - Fringed Daisy-bush
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: mauve-blue
+    feature: flower
+  - description: rarely-white
+    feature: flower
+  - description: revolute
+    feature: leaf-margin
+  - description: less-than-3mm
+    feature: leaf-width
+  - description: linear
+    feature: leaves
+id:
+  ns: 53b398e9e35eb1298403738d
+  vba: '502302'

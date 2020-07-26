@@ -1,0 +1,35 @@
+updated_by: chrisl
+common_names:
+  - White Waterlily
+classification:
+  - name: nymphaeaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: cream
+    feature: flower-colour
+  - description: pink-to-red
+    feature: flower-colour
+  - description: white
+    feature: flower-colour
+  - description: aquatic
+    feature: habitat
+  - description: orbicular
+    feature: leaf-shape
+  - description: reddish-under-surface
+    feature: leaf-surface
+  - description: to-30cm
+    feature: leaf-width
+  - description: 20-25
+    feature: number-of-petals
+  - description: 20-25
+    feature: petals
+  - description: horizontal
+    feature: rhizome
+id:
+  ns: 53b398e9e35eb1298403736d
+  vba: '504895'

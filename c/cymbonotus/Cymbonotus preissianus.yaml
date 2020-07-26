@@ -1,0 +1,29 @@
+updated_by: chrisl
+common_names:
+  - Austral Bear's-ear
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: petalled
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: hairy
+    feature: leaf
+  - description: lobed
+    feature: leaf
+  - description: many
+    feature: number-of-petals
+  - description: many
+    feature: petals
+id:
+  ns: 53b398e7e35eb12984036913
+  vba: '500903'

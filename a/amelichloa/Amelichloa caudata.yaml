@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Espartillo
+synonyms:
+  - Achnatherum caudatum
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - weed
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398e5e35eb12984036249
+  vba: '503200'

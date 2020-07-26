@@ -1,0 +1,57 @@
+updated_by: chrisl
+common_names:
+  - Common Vetch
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - provisional-name
+  - weed
+features:
+  - description: pea
+    feature: flower
+  - description: purple
+    feature: flower-colour
+  - description: white
+    feature: flower-colour
+  - description: ascending-erect
+    feature: habit
+  - description: herb
+    feature: habit
+  - description: coastal
+    feature: habitat
+  - description: to-05m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 60-90mm
+    feature: leaf-length
+  - description: greater-than-50mm
+    feature: leaf-length
+  - description: less-than-100mm
+    feature: leaf-length
+  - description: pinnate
+    feature: leaf-type
+  - description: 13-to-21
+    feature: leaflets
+  - description: 15-30mm
+    feature: seedpod-length
+  - description: greater-than-15mm
+    feature: seedpod-length
+  - description: less-than-30mm
+    feature: seedpod-length
+  - description: 5-8mm
+    feature: seedpod-width
+  - description: greater-than-5mm
+    feature: seedpod-width
+  - description: less-than-10mm
+    feature: seedpod-width
+  - description: to-20
+    feature: seeds
+id:
+  ns: 53b398ebe35eb12984037cf7
+  vba: '503518'

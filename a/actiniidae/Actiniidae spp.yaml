@@ -1,0 +1,18 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Anemones
+classification:
+  - name: Anthozoa
+    rank: class
+  - name: Actiniidae
+    rank: family
+  - name: Actiniaria
+    rank: order
+  - name: Cnidaria
+    rank: phylum
+categories:
+  - provisional-name
+  - sea-anenome
+id:
+  ns: 58917456ed2a89d10f0020b7

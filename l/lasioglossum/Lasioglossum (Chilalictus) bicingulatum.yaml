@@ -1,0 +1,12 @@
+created_by: russell
+updated_by: chrisl
+classification:
+  - name: Halictidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - bee
+  - insect
+id:
+  ns: 53c07486e35eb1c826000010

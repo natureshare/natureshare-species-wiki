@@ -1,0 +1,22 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Capua epiloma
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Tortricidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Tortricinae
+    rank: Subfamily
+  - name: Tortricoidea
+    rank: Superfamily
+  - name: Archipini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 5d1087fdc347d52ac2000130

@@ -1,0 +1,13 @@
+updated_by: chrisl
+common_names:
+  - Web-spinner
+classification:
+  - name: Insecta
+    rank: class
+  - name: Embioptera
+    rank: order
+categories:
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb129840380cf

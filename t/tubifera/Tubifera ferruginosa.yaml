@@ -1,0 +1,15 @@
+updated_by: david_francis
+classification:
+  - name: Myxogastrea
+    rank: class
+  - name: Tubiferaceae
+    rank: family
+  - name: Liceida
+    rank: order
+  - name: Mycetozoa
+    rank: subphylum
+categories:
+  - protozoan
+  - slime-mould
+id:
+  ns: 53b398f3e35eb1298403a35d

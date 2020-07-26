@@ -1,0 +1,15 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Choristidae
+    rank: family
+  - name: Mecoptera
+    rank: order
+categories:
+  - hanging-fly
+  - insect
+  - provisional-name
+  - scorpion-fly
+id:
+  ns: 53b398f1e35eb129840397df

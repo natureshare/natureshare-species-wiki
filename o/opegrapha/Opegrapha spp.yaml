@@ -1,0 +1,14 @@
+updated_by: chrisl
+classification:
+  - name: Arthoniomycetes
+    rank: class
+  - name: Roccellaceae
+    rank: family
+  - name: Arthoniales
+    rank: order
+categories:
+  - fungi
+  - lichen
+  - provisional-name
+id:
+  ns: 53b398f4e35eb1298403a98e

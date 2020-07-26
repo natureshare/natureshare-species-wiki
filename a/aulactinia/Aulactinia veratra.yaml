@@ -1,0 +1,19 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Common Green Anemone
+synonyms:
+  - Cnidopus verater
+classification:
+  - name: Anthozoa
+    rank: class
+  - name: Actiniidae
+    rank: family
+  - name: Actiniaria
+    rank: order
+  - name: Cnidaria
+    rank: phylum
+categories:
+  - sea-anenome
+id:
+  ns: 5ac45079ed2a899466000f4c

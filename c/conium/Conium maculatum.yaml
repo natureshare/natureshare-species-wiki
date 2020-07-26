@@ -1,0 +1,31 @@
+updated_by: chrisl
+common_names:
+  - Hemlock
+classification:
+  - name: apiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: white
+    feature: flower
+  - description: robust-herb
+    feature: habit
+  - description: umbel
+    feature: inflorescence
+  - description: 2-4-pinnate
+    feature: leaf
+  - description: triangular-in-outline
+    feature: leaf-shape
+  - description: absent
+    feature: sepals
+  - description: hollow
+    feature: stem
+  - description: spotted-orange-and-purple
+    feature: stem
+id:
+  ns: 53b398e7e35eb1298403681a
+  vba: '500803'

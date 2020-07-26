@@ -1,0 +1,34 @@
+updated_by: chrisl
+common_names:
+  - Australian Buttercup
+classification:
+  - name: ranunculaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: 3-deeply-divided-lobes
+    feature: basal-leaf
+  - description: on-long-branched-stalk
+    feature: flower
+  - description: regular
+    feature: flower
+  - description: late-winter-early-summer
+    feature: flowering-time
+  - description: bisexual
+    feature: flowers
+  - description: basal
+    feature: leaf
+  - description: to-30cm
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: sepals
+  - description: less-divided
+    feature: stem-leaf
+id:
+  ns: 53b398eae35eb1298403781f
+  vba: '502894'

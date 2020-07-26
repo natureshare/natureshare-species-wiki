@@ -1,0 +1,28 @@
+updated_by: koolah
+common_names:
+  - Varied Fraus
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Hepialidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: HEPIALOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: brown
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: one-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f2b

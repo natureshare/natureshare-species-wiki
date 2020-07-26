@@ -1,0 +1,44 @@
+updated_by: chrisl
+common_names:
+  - Small-leaved Clematis
+classification:
+  - name: ranunculaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cream
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: bisexual
+    feature: flowers
+  - description: climber
+    feature: habit
+  - description: biternate-on-old-growth
+    feature: leaf
+  - description: divided
+    feature: leaf
+  - description: trifoliate
+    feature: leaf
+  - description: opposite
+    feature: leaf-arrangement
+  - description: '3'
+    feature: leaflets
+  - description: 9-per-leaf-or-rarely-10-12
+    feature: leaflets
+  - description: grouped-in-3s
+    feature: leaflets
+  - description: '4'
+    feature: number-of-petals
+  - description: '4'
+    feature: petals
+  - description: fluffy
+    feature: seed
+id:
+  ns: 53b398e7e35eb129840367fc
+  vba: '507386'

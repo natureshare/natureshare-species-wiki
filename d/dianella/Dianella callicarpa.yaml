@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Swamp Flax-lily
+classification:
+  - name: hemerocallidaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - native-and-weedy-stands-in-vic
+  - plant
+  - rare-threatened
+features:
+  - description: blue
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398e7e35eb129840369b0
+  vba: '505086'

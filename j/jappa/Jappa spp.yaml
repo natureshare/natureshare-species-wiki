@@ -1,0 +1,14 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Leptophlebiidae
+    rank: family
+  - name: Ephemeroptera
+    rank: order
+categories:
+  - insect
+  - mayfly
+  - provisional-name
+id:
+  ns: 53b398efe35eb12984038e84

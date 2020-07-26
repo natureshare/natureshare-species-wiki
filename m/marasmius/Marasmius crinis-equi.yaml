@@ -1,0 +1,15 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Horse Hair Fungus
+classification:
+  - name: Agaricomycetes
+    rank: Class
+  - name: Marasmiaceae
+    rank: Family
+  - name: Agaricales
+    rank: Order
+categories:
+  - fungi
+id:
+  ns: 5b28f73ded2a8956d8000008

@@ -1,0 +1,26 @@
+updated_by: chrisl
+common_names:
+  - Prickly Woodruff
+classification:
+  - name: rubiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: petalled
+    feature: flower
+  - description: white
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: 6-whorled
+    feature: leaf
+  - description: '4'
+    feature: number-of-petals
+  - description: '4'
+    feature: petals
+id:
+  ns: 53b398e6e35eb129840363c1
+  vba: '500284'

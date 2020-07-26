@@ -1,0 +1,20 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Elusive Carpet
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: Geometridae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Larentiinae
+    rank: subfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5656de99ed2a89e56e000f74

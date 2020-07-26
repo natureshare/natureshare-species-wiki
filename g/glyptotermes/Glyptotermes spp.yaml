@@ -1,0 +1,14 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Kalotermitidae
+    rank: family
+  - name: Isoptera
+    rank: order
+categories:
+  - insect
+  - provisional-name
+  - termite
+id:
+  ns: 53b398f0e35eb1298403949e

@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Banks' Brown
+classification:
+  - name: Insecta
+    rank: class
+  - name: nymphalidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Papilionoidea
+    rank: superfamily
+categories:
+  - butterfly
+  - insect
+  - provisional-name
+features:
+  - description: brown
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037de8

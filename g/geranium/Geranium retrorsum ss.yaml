@@ -1,0 +1,41 @@
+updated_by: chrisl
+common_names:
+  - Grassland Crane's-bill
+classification:
+  - name: geraniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - herb
+  - plant
+features:
+  - description: somewhat-larger
+    feature: basal-leaf
+  - description: deep-pink-to-magenta
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: mid-winter-mid-summer
+    feature: flowering-time
+  - description: retrorse-and-strongly-appressed
+    feature: hairs
+  - description: deeply-dissected-narrow-lobes
+    feature: leaf
+  - description: hairy
+    feature: leaf
+  - description: round-to-kidney-shaped
+    feature: leaf
+  - description: to-9cm
+    feature: leaf
+  - description: pink
+    feature: main-flower-colour
+  - description: '5'
+    feature: number-of-petals
+  - description: retuse
+    feature: petal
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e8e35eb12984036d53
+  vba: '505336'

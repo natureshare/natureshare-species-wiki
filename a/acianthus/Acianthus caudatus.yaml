@@ -1,0 +1,27 @@
+updated_by: chrisl
+common_names:
+  - Mayfly Orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: maroon
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: purple-underneath
+    feature: leaf
+  - description: single
+    feature: leaf
+  - description: long
+    feature: sepals
+id:
+  ns: 53b398e5e35eb1298403624b
+  vba: '500110'

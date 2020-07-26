@@ -1,0 +1,13 @@
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Buprestidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - insect
+id:
+  ns: 53b398ece35eb129840382db

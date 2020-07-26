@@ -1,0 +1,16 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Hypertrophidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Gelechioidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5acdc3a2ed2a89946600317b

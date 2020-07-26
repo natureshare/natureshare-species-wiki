@@ -1,0 +1,14 @@
+updated_by: chrisl
+common_names:
+  - Potato Earthball
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Sclerodermataceae
+    rank: family
+  - name: Boletales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 53b398f4e35eb1298403a84a

@@ -1,0 +1,17 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Pixie Caps
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: orchid
+    feature: flower
+id:
+  ns: 59911806ed2a890f2e0019ef

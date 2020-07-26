@@ -1,0 +1,30 @@
+updated_by: chrisl
+common_names:
+  - The Joker
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: Arctiidae
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: Lithosiinae
+    rank: subfamily
+  - name: Noctuoidea
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: black-and-white
+    feature: wing
+  - description: spots
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398f2e35eb12984039e0d

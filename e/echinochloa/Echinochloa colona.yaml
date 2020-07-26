@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Awnless Barnyard-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - weed
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036a8a
+  vba: '501117'

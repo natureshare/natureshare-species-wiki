@@ -1,0 +1,44 @@
+updated_by: chrisl
+common_names:
+  - Slender Vetch
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - weed
+features:
+  - description: pea
+    feature: flower
+  - description: red-veined
+    feature: flower-colour
+  - description: herb
+    feature: habit
+  - description: prostrate
+    feature: habit
+  - description: to-08m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: pinnate
+    feature: leaf-type
+  - description: '5'
+    feature: leaflets
+  - description: 15-35mm
+    feature: seedpod-length
+  - description: greater-than-15mm
+    feature: seedpod-length
+  - description: less-than-35mm
+    feature: seedpod-length
+  - description: 15-2mm
+    feature: seedpod-width
+  - description: up-to-2mm
+    feature: seedpod-width
+  - description: 8-to-20
+    feature: seeds
+id:
+  ns: 53b398ebe35eb12984037cfc
+  vba: '503519'

@@ -1,0 +1,36 @@
+updated_by: chrisl
+common_names:
+  - Water Plantain
+classification:
+  - name: alismataceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+features:
+  - description: pink
+    feature: flower
+  - description: rigid-spike
+    feature: flower
+  - description: 100cm-long
+    feature: flowering-stems
+  - description: summer
+    feature: flowering-time
+  - description: erect-herb
+    feature: habit
+  - description: semi-aquatic
+    feature: habit
+  - description: basal-to-30cm
+    feature: leaf
+  - description: long-oval
+    feature: leaf
+  - description: straplike
+    feature: leaf
+  - description: unstalked
+    feature: leaf
+  - description: '3'
+    feature: number-of-petals
+id:
+  ns: 53b398e5e35eb129840362b7
+  vba: '500174'

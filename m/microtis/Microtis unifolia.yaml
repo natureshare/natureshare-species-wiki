@@ -1,0 +1,33 @@
+updated_by: chrisl
+common_names:
+  - Common Onion-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: dense-spike
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: green
+    feature: flower-colour
+  - description: mid-spring-early-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: long-oval-hollow
+    feature: leaf
+  - description: sheathes-stem
+    feature: leaf
+  - description: single
+    feature: leaf
+  - description: to-70cm
+    feature: leaf
+id:
+  ns: 53b398e9e35eb129840372a6
+  vba: '502189'

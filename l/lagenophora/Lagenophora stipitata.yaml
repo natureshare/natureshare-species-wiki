@@ -1,0 +1,33 @@
+updated_by: chrisl
+common_names:
+  - Common Bottle-daisy
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: mauve
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: white
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: 0point6mm-wide
+    feature: involucral-bracts
+  - description: many
+    feature: number-of-petals
+  - description: many
+    feature: petals
+  - description: inconspicuous
+    feature: stem-bracts
+id:
+  ns: 53b398e8e35eb12984037040
+  vba: '501863'

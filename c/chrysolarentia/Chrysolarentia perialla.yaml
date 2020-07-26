@@ -1,0 +1,20 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Perialla Carpet
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Larentiinae
+    rank: subfamily
+  - name: Xanthorhoini
+    rank: tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 5a6aadb5ed2a89d02a000b80

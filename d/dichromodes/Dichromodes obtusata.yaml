@@ -1,0 +1,20 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Rounded Heath Moth
+classification:
+  - name: Insecta
+    rank: class
+  - name: insecta
+    rank: class
+  - name: Geometridae
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: oenochrominae
+    rank: subfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 548bdb3ee35eb19a3900005e

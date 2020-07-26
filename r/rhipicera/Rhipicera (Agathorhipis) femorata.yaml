@@ -1,0 +1,25 @@
+updated_by: chrisl
+common_names:
+  - Fan-horned Beetle
+  - Feather-horned Beetle
+classification:
+  - name: Insecta
+    rank: class
+  - name: Rhipiceridae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - insect
+features:
+  - description: fan-like
+    feature: antennae
+  - description: feather-like
+    feature: antennae
+  - description: black
+    feature: body
+  - description: white
+    feature: spots
+id:
+  ns: 53b398ede35eb129840388bc

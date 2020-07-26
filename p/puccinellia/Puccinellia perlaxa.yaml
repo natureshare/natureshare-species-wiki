@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Plains Saltmarsh-grass
+synonyms:
+  - Puccinellia stricta var. perlaxa
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398eae35eb129840377b0
+  vba: '504838'

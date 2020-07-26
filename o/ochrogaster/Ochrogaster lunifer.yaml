@@ -1,0 +1,22 @@
+updated_by: david_francis
+common_names:
+  - Bag-shelter Moth
+  - Processionary Caterpillar
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: Notodontidae
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: Thaumetopoenae
+    rank: subfamily
+  - name: Noctuoidea
+    rank: superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f2e35eb12984039dbc

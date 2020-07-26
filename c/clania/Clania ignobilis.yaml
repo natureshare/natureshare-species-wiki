@@ -1,0 +1,15 @@
+updated_by: david_francis
+common_names:
+  - Faggot Case Moth
+classification:
+  - name: Insecta
+    rank: class
+  - name: Psychidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f2e35eb12984039f48

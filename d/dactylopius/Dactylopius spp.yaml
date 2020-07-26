@@ -1,0 +1,17 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Dactylopiidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+  - name: Sternorrhyncha
+    rank: suborder
+  - name: Coccoidea
+    rank: superfamily
+categories:
+  - provisional-name
+id:
+  ns: 5917fdefed2a893e6b00075c

@@ -1,0 +1,36 @@
+updated_by: chrisl
+common_names:
+  - River Tea-tree
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: white
+    feature: flower-colour
+  - description: glabrous
+    feature: fruit
+  - description: persists-on-plant
+    feature: fruit
+  - description: large-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-3m
+    feature: height
+  - description: 8-17mm
+    feature: leaf-length
+  - description: 2-7mm
+    feature: leaf-width
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+  - description: glabrous
+    feature: sepal
+id:
+  ns: 53b398e8e35eb129840370fa
+  vba: '501964'

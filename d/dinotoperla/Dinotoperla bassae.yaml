@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Gripopterygidae
+    rank: family
+  - name: Plecoptera
+    rank: order
+categories:
+  - insect
+  - stonefly
+id:
+  ns: 53b398f1e35eb12984039a03

@@ -1,0 +1,14 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Aphididae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - aphid
+  - insect
+  - provisional-name
+id:
+  ns: 53b398efe35eb12984038edd

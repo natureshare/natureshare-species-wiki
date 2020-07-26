@@ -1,0 +1,26 @@
+updated_by: chrisl
+common_names:
+  - Mossy Pennywort
+classification:
+  - name: apiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: red
+    feature: flower
+  - description: 2-3m-diameter
+    feature: flowerhead
+  - description: 3-4-usually
+    feature: flowers
+  - description: divided
+    feature: leaf
+  - description: upper-surface-shining
+    feature: leaf
+  - description: '5'
+    feature: leaflets
+id:
+  ns: 53b398e8e35eb12984036f23
+  vba: '501725'

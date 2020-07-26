@@ -1,0 +1,37 @@
+updated_by: chrisl
+common_names:
+  - Yellow Rush-lily
+classification:
+  - name: hemerocallidaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+features:
+  - description: petalled
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: spring-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: tangled
+    feature: habit
+  - description: few
+    feature: leaf
+  - description: grass-like
+    feature: leaf
+  - description: to-9cm
+    feature: leaf
+  - description: '6'
+    feature: number-of-petals
+  - description: yellow
+    feature: petal
+  - description: '6'
+    feature: petals
+id:
+  ns: 53b398ebe35eb12984037c44
+  vba: '503421'

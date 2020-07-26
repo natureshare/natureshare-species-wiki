@@ -1,0 +1,55 @@
+updated_by: chrisl
+common_names:
+  - Mealy Stringybark
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - tree
+features:
+  - description: alternate
+    feature: adult-leaf
+  - description: grey-green
+    feature: adult-leaf
+  - description: lanceolate
+    feature: adult-leaf
+  - description: to-20cm
+    feature: adult-leaf
+  - description: deep-furrows
+    feature: bark
+  - description: grey-brown
+    feature: bark
+  - description: rough-fibrous
+    feature: bark
+  - description: 7-11
+    feature: buds
+  - description: diamond-shaped
+    feature: buds
+  - description: silvery
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: white-cream
+    feature: flower
+  - description: late-summer-winter
+    feature: flowering-time
+  - description: flat-topped
+    feature: fruit
+  - description: hard
+    feature: fruit
+  - description: silvery
+    feature: fruit
+  - description: tree
+    feature: habit
+  - description: ovate-roundish
+    feature: juvenile-leaf
+  - description: paired
+    feature: juvenile-leaf
+  - description: stalked
+    feature: leaf
+id:
+  ns: 53b398e7e35eb12984036b95
+  vba: '503733'

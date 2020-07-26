@@ -1,0 +1,19 @@
+created_by: russell
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Oenochrominae
+    rank: Subfamily
+  - name: Geometroidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+  - provisional-name
+id:
+  ns: 548be1c2e35eb1dcf8000029

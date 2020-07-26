@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Alpine Cotula
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: once-pinnate
+    feature: leaf
+id:
+  ns: 53b398e7e35eb1298403688e
+  vba: '500845'

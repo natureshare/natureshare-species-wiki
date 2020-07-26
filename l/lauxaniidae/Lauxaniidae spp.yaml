@@ -1,0 +1,15 @@
+created_by: russell
+updated_by: chrisl
+classification:
+  - name: insecta
+    rank: class
+  - name: Lauxaniidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+  - insect
+  - provisional-name
+id:
+  ns: 55365608ed2a893a700009cf

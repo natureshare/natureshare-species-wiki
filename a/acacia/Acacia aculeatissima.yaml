@@ -1,0 +1,33 @@
+updated_by: chrisl
+common_names:
+  - Thin-leaf Wattle
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - wattle
+features:
+  - description: ball
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+  - description: winter-spring
+    feature: flowering-time
+  - description: groundcover
+    feature: habit
+  - description: prickly
+    feature: leaf
+  - description: linear
+    feature: seedpod
+  - description: papery
+    feature: seedpod
+  - description: to-6cm
+    feature: seedpod
+id:
+  ns: 53b398e5e35eb1298403618d
+  vba: '500008'

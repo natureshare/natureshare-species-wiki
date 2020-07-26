@@ -1,0 +1,30 @@
+updated_by: chrisl
+common_names:
+  - Water Fennel
+classification:
+  - name: ranunculaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - perennial
+  - plant
+  - weed
+features:
+  - description: white
+    feature: flower-colour
+  - description: yellow-at-base
+    feature: flower-colour
+  - description: bisexual
+    feature: flowers
+  - description: aquatic
+    feature: habit
+  - description: finely-divided
+    feature: leaf-type
+  - description: 4-5
+    feature: number-of-petals
+  - description: 4-5
+    feature: petals
+id:
+  ns: 53b398e6e35eb129840364c2
+  vba: '502913'

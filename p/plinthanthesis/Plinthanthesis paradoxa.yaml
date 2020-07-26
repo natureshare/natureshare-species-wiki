@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Wiry Wallaby-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - rare-threatened
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398e9e35eb129840375c8
+  vba: '502577'

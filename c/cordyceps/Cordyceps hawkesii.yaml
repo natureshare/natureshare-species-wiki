@@ -1,0 +1,18 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Fawn Vegetable Caterpillar
+classification:
+  - name: Sordariomycetes
+    rank: class
+  - name: fungi
+    rank: kingdom
+  - name: Hypocreales
+    rank: order
+  - name: Ascomycota
+    rank: phylum
+categories:
+  - fungi
+  - fungimap
+id:
+  ns: 5a962703ed2a89ad3200190e

@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Eastern Hawk
+classification:
+  - name: Insecta
+    rank: class
+  - name: Austrocorduliidae
+    rank: family
+  - name: Odonata
+    rank: order
+  - name: Anisoptera
+    rank: suborder
+categories:
+  - dragonfly-and-damselfly
+  - dragonfly-proper
+  - insect
+id:
+  ns: 53b398ebe35eb12984037e90

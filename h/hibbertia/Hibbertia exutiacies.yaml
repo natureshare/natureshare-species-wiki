@@ -1,0 +1,30 @@
+updated_by: chrisl
+common_names:
+  - Spiky Guinea-flower
+classification:
+  - name: dilleniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: hairy
+    feature: branches
+  - description: low-shrub
+    feature: habit
+  - description: to-50cm
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: sharp-point
+    feature: leaf-tip
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+  - description: glabrous
+    feature: sepal
+id:
+  ns: 53b398e8e35eb12984036eb9
+  vba: '501668'

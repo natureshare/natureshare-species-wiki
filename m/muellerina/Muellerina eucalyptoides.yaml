@@ -1,0 +1,42 @@
+updated_by: chrisl
+common_names:
+  - Creeping Mistletoe
+classification:
+  - name: loranthaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - mistletoe
+  - parasite
+  - plant
+features:
+  - description: loose-cluster
+    feature: flower
+  - description: red-and-green
+    feature: flower
+  - description: spring-early-summer
+    feature: flowering-time
+  - description: green
+    feature: fruit
+  - description: pear-shaped
+    feature: fruit
+  - description: sticky
+    feature: fruit
+  - description: parasitic
+    feature: habit
+  - description: lanceolate
+    feature: leaf
+  - description: pale-green
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: thick
+    feature: leaf
+  - description: to-7.5cm
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+id:
+  ns: 53b398e9e35eb129840372f4
+  vba: '502233'

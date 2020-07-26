@@ -1,0 +1,34 @@
+updated_by: koolah
+common_names:
+  - Wave-lined Geometrid
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Ennominae
+    rank: Subfamily
+  - name: Geometroidea
+    rank: Superfamily
+  - name: Nacophorini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+features:
+  - description: black
+    feature: wing
+  - description: brown
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037eeb

@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Granite Buttercup
+classification:
+  - name: ranunculaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: bisexual
+    feature: flowers
+  - description: spreading
+    feature: petiole-hairs
+  - description: '5'
+    feature: sepals
+id:
+  ns: 53b398eae35eb1298403781c
+  vba: '502891'

@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Barklice
+  - Booklice
+  - Caeciliid
+  - Psocid
+classification:
+  - name: Insecta
+    rank: class
+  - name: Psocoptera
+    rank: order
+categories:
+  - insect
+  - provisional-name
+  - psocid
+id:
+  ns: 53b398ece35eb12984038138

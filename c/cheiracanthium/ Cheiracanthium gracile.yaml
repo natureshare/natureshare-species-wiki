@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Long-spur Garden Sac Spider
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Eutichuridae
+    rank: family
+  - name: Araneae
+    rank: order
+categories:
+  - spider
+id:
+  ns: 54e57b23ed2a89d9900004b1

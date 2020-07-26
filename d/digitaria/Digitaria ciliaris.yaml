@@ -1,0 +1,21 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Crab Grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - weed
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 54a39eb1e35eb106b8000011
+  vba: '501043'

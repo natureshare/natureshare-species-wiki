@@ -1,0 +1,28 @@
+updated_by: chrisl
+common_names:
+  - Castlemaine Spider-orchid
+synonyms:
+  - Caladenia sp. aff. concolor (Castlemaine)
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - endemic
+  - ffg
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: crimson
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: red
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e6e35eb129840365f0
+  vba: '507730'

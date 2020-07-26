@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Sharp Mountain Tussock-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - rare-threatened
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398e9e35eb129840375e2
+  vba: '502583'

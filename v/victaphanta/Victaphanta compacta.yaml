@@ -1,0 +1,17 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Otway Black Snail
+classification:
+  - name: Rhytididae
+    rank: family
+  - name: Stylommatophora
+    rank: order
+categories:
+  - animal
+  - fauna
+  - ffg
+  - rare-threatened
+  - snail
+id:
+  ns: 55472296ed2a89dfbc0003b8

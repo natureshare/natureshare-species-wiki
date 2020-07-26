@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Florideophyceae
+    rank: class
+  - name: Rhodymeniaceae
+    rank: family
+  - name: Rhodymeniales
+    rank: order
+  - name: Rhodophyta
+    rank: phylum
+categories:
+  - red-seaweed
+id:
+  ns: 5b17b238ed2a8978590016fa

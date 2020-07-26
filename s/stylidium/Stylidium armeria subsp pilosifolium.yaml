@@ -1,0 +1,38 @@
+updated_by: chrisl
+common_names:
+  - Hairy-leaf Triggerplant
+  - Hairy-leaved Triggerplant
+classification:
+  - name: stylidiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - ffg
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: pale-pink
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: white
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: hairy
+    feature: leaf
+  - description: more-than-3mm-wide
+    feature: leaf
+  - description: oblanceolate
+    feature: leaf
+  - description: '4'
+    feature: number-of-petals
+  - description: '4'
+    feature: petals
+id:
+  ns: 53b398ebe35eb12984037dd8
+  vba: '528495'

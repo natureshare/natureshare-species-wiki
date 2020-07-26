@@ -1,0 +1,33 @@
+updated_by: chrisl
+common_names:
+  - Narrow-leaf Wattle
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - wattle
+features:
+  - description: spike
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+  - description: late-winter-early-summer
+    feature: flowering-time
+  - description: light-green
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: short
+    feature: leaf-length
+  - description: hard
+    feature: seedpod
+id:
+  ns: 53b398e5e35eb129840361e5
+  vba: '500062'

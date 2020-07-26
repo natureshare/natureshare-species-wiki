@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Golden Grevillea
+classification:
+  - name: proteaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: yellow
+    feature: flower
+  - description: medium-shrub
+    feature: habit
+id:
+  ns: 53b398e8e35eb12984036de3
+  vba: '501530'

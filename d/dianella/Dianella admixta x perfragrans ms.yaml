@@ -1,0 +1,18 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Black-anther x Arching Flax-lily hybrid
+classification:
+  - name: hemerocallidaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+features:
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 54a3a2cce35eb1c61e000069
+  vba: '505814'

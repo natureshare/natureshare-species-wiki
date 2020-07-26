@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Banded Sugar Ant
+classification:
+  - name: insecta
+    rank: class
+  - name: Formicidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - ant
+id:
+  ns: 5a9110c8ed2a89ad320002c2

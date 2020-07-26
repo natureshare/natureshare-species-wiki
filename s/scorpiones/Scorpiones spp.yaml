@@ -1,0 +1,13 @@
+updated_by: chrisl
+common_names:
+  - Scorpion
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Scorpiones
+    rank: order
+categories:
+  - provisional-name
+  - scorpion
+id:
+  ns: 53b398f2e35eb12984039d4d

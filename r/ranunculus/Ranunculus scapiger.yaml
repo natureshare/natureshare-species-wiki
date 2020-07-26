@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Hairy Buttercup
+classification:
+  - name: ranunculaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: bisexual
+    feature: flowers
+  - description: '5'
+    feature: sepals
+id:
+  ns: 53b398eae35eb12984037832
+  vba: '502910'

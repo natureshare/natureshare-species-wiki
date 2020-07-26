@@ -1,0 +1,35 @@
+updated_by: chrisl
+common_names:
+  - Narrow-leaf Cumbungi
+classification:
+  - name: typhaceae
+    rank: family
+categories:
+  - aquatic
+  - flora
+  - monocotyledon
+  - plant
+features:
+  - description: brown
+    feature: flower
+  - description: dense-cylindrical-spike
+    feature: flower
+  - description: summer-autumn
+    feature: flowering-time
+  - description: elliptic
+    feature: fruit
+  - description: rush-like
+    feature: habit
+  - description: flattened
+    feature: leaf
+  - description: leathery
+    feature: leaf
+  - description: stiff
+    feature: leaf
+  - description: to-200cm
+    feature: leaf
+  - description: unstalked
+    feature: leaf
+id:
+  ns: 53b398ebe35eb12984037c93
+  vba: '503468'

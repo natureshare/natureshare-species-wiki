@@ -1,0 +1,22 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Rusty-banded Cape-moth
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Geometroidea
+    rank: Superfamily
+  - name: Ennominae
+    rank: subfamily
+  - name: Nacophorini
+    rank: tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 5ad9b415ed2a899466005ed4

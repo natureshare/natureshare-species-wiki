@@ -1,0 +1,53 @@
+updated_by: david_francis
+common_names:
+  - Black-anther Flax-lily
+synonyms:
+  - Dianella admixta
+classification:
+  - name: hemerocallidaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+features:
+  - description: black
+    feature: anther
+  - description: maroon
+    feature: anther
+  - description: blue
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: spring-mid-summer
+    feature: flowering-time
+  - description: held-above-foliage
+    feature: flowers
+  - description: dark-blue
+    feature: fruit
+  - description: fleshy
+    feature: fruit
+  - description: shiny
+    feature: fruit
+  - description: spreading
+    feature: habit
+  - description: spreading-to-10m
+    feature: habit
+  - description: tufted
+    feature: habit
+  - description: often-glaucous
+    feature: leaf
+  - description: revolute
+    feature: leaf
+  - description: strappy
+    feature: leaf
+  - description: to-80cm
+    feature: leaf
+  - description: '6'
+    feature: number-of-petals
+  - description: '6'
+    feature: petals
+id:
+  ns: 53b398e7e35eb129840369ab
+  vba: '505555'

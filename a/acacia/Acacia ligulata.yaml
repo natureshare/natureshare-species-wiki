@@ -1,0 +1,25 @@
+updated_by: chrisl
+common_names:
+  - Small Cooba
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - wattle
+features:
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+  - description: large-shrub
+    feature: habit
+  - description: entire
+    feature: leaf
+id:
+  ns: 53b398e5e35eb129840361d5
+  vba: '500015'

@@ -1,0 +1,19 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Grey Mallee
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: mallee
+    feature: habit
+id:
+  ns: 5510ca33ed2a8974d3000a32
+  vba: '528659'

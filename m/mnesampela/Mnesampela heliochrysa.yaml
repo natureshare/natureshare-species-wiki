@@ -1,0 +1,26 @@
+updated_by: koolah
+common_names:
+  - Golden-winged Gum Moth
+classification:
+  - name: Insecta
+    rank: class
+  - name: GEOMETRIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: ENNOMINAE
+    rank: subfamily
+  - name: GEOMETROIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: brown
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: two-coloured
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037ee9

@@ -1,0 +1,17 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Doily Moth
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Sterrhinae
+    rank: subfamily
+categories:
+  - moth
+id:
+  ns: 58cf05a7ed2a896341000137

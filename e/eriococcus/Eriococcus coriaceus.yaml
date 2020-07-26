@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Blue-gum Scale
+classification:
+  - name: Insecta
+    rank: class
+  - name: Eriococcidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - scale-insect
+id:
+  ns: 5891b102ed2a89d10f002197

@@ -1,0 +1,27 @@
+updated_by: chrisl
+common_names:
+  - Spoon Cudweed
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: black
+    feature: flower
+  - description: brown
+    feature: flower
+  - description: cluster
+    feature: flower
+  - description: green
+    feature: flower
+  - description: white
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398ebe35eb12984037b08
+  vba: '503300'

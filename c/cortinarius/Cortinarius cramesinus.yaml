@@ -1,0 +1,18 @@
+updated_by: koolah
+common_names:
+  - Orange Dermocybe
+synonyms:
+  - Dermocybe cramesina
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: cortinariaceae
+    rank: family
+  - name: Agaricales
+    rank: order
+categories:
+  - fungi
+  - rare-threatened
+id:
+  ns: 53b398e7e35eb12984036989
+  vba: '507605'

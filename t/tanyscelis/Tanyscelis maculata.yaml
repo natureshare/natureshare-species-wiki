@@ -1,0 +1,17 @@
+created_by: chrisl
+updated_by: chrisl
+synonyms:
+  - Opisthoscelis maculata
+classification:
+  - name: Insecta
+    rank: class
+  - name: Eriococcidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - gall
+  - insect
+  - scale-insect
+id:
+  ns: 551d2b4aed2a89daf20000dc

@@ -1,0 +1,37 @@
+updated_by: chrisl
+common_names:
+  - Banks' Violet
+classification:
+  - name: violaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: purple-centre
+    feature: flower
+  - description: small
+    feature: flower
+  - description: white
+    feature: flower
+  - description: mid-spring-early-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: kidney-shaped
+    feature: leaf
+  - description: light-green
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-3cm
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+id:
+  ns: 53b398ebe35eb12984037d0b
+  vba: '505791'

@@ -1,0 +1,37 @@
+updated_by: chrisl
+common_names:
+  - Common Woodrush
+classification:
+  - name: juncaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+  - rush
+features:
+  - description: brown
+    feature: flower
+  - description: cluster
+    feature: flower
+  - description: spring-early-summer
+    feature: flowering-time
+  - description: brown
+    feature: fruit
+  - description: brown
+    feature: fruit
+  - description: capsule
+    feature: fruit
+  - description: capsule
+    feature: fruit
+  - description: tuft
+    feature: habit
+  - description: basal
+    feature: leaf
+  - description: edge-fringed
+    feature: leaf
+  - description: grasslike
+    feature: leaf
+id:
+  ns: 53b398e9e35eb129840371cd
+  vba: '502071'

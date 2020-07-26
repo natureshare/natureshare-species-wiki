@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: insecta
+    rank: class
+  - name: Tiphiidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - provisional-name
+  - wasp
+id:
+  ns: 5954dc2aed2a897cef0017ac

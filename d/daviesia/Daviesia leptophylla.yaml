@@ -1,0 +1,79 @@
+updated_by: chrisl
+common_names:
+  - Narrow-leaf Bitter-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: orange
+    feature: flower
+  - description: pea
+    feature: flower
+  - description: red
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: late-winter-spring
+    feature: flowering-time
+  - description: pod
+    feature: fruit
+  - description: triangular
+    feature: fruit
+  - description: ascending-erect
+    feature: habit
+  - description: herb
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-05m
+    feature: height
+  - description: alternate
+    feature: leaf
+  - description: dull-green
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: stiff
+    feature: leaf
+  - description: to-10cm
+    feature: leaf
+  - description: alternate
+    feature: leaf-arrangement
+  - description: pinnate
+    feature: leaf-type
+  - description: greater-than-2mm
+    feature: leafet-length
+  - description: 3-16mm
+    feature: leaflet-length
+  - description: less-than-20mm
+    feature: leaflet-length
+  - description: 2-5mm
+    feature: leaflet-width
+  - description: greater-than-2mm
+    feature: leaflet-width
+  - description: less-than-5mm
+    feature: leaflet-width
+  - description: '5'
+    feature: leaflets
+  - description: 10-30mm
+    feature: seedpod-length
+  - description: greater-than-10mm
+    feature: seedpod-length
+  - description: less-than-30mm
+    feature: seedpod-length
+  - description: 1-15mm
+    feature: seedpod-width
+  - description: up-to-15mm
+    feature: seedpod-width
+  - description: 7-to-23
+    feature: seeds
+id:
+  ns: 53b398e7e35eb12984036974
+  vba: '501000'

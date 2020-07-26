@@ -1,0 +1,37 @@
+updated_by: chrisl
+common_names:
+  - Reed Bent-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+features:
+  - description: grass
+    feature: flower
+  - description: light-green
+    feature: flower
+  - description: spike
+    feature: flower
+  - description: 100cm
+    feature: flower-stalk
+  - description: spring-autumn
+    feature: flowering-time
+  - description: grass
+    feature: habit
+  - description: open-tussock
+    feature: habit
+  - description: linear
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+  - description: to-30cm
+    feature: leaf
+  - description: tufted
+    feature: leaf
+id:
+  ns: 53b398e7e35eb129840369a5
+  vba: '501023'

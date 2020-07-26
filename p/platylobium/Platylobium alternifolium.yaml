@@ -1,0 +1,41 @@
+updated_by: chrisl
+common_names:
+  - Victorian Flat-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+  - description: orange
+    feature: flower-colour
+  - description: shrub
+    feature: habit
+  - description: trailing
+    feature: habit
+  - description: to-15cm
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 5-12mm
+    feature: leaf-length
+  - description: greater-than-5mm
+    feature: leaf-length
+  - description: less-than-20mm
+    feature: leaf-length
+  - description: triangular
+    feature: leaf-shape
+  - description: 1-2mm
+    feature: leaf-width
+  - description: up-to-2mm
+    feature: leaf-width
+id:
+  ns: 53b398e9e35eb129840375ae
+  vba: '502567'

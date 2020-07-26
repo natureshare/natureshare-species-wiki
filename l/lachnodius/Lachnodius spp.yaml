@@ -1,0 +1,17 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Lobe-margin Felt Scale Insect
+classification:
+  - name: Insecta
+    rank: class
+  - name: Eriococcidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - insect
+  - provisional-name
+  - scale-insect
+id:
+  ns: 56bc6bcded2a89c42d00009d

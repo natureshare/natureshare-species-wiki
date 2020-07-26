@@ -1,0 +1,27 @@
+updated_by: chrisl
+common_names:
+  - Common Cotula
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: cream
+    feature: flower
+  - description: green
+    feature: flower
+  - description: groundcover
+    feature: habit
+  - description: herb
+    feature: habit
+  - description: divided
+    feature: leaf
+id:
+  ns: 53b398e7e35eb1298403688f
+  vba: '500846'

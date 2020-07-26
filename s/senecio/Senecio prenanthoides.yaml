@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Beaked Fireweed
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: fluffy
+    feature: seed
+id:
+  ns: 53b398eae35eb12984037a11
+  vba: '503126'

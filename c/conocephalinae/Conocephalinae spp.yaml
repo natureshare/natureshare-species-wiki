@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Long-horned Grasshopper
+classification:
+  - name: Insecta
+    rank: class
+  - name: Tettigoniidae
+    rank: family
+  - name: Orthoptera
+    rank: order
+  - name: Conocephalinae
+    rank: subfamily
+  - name: Ensifera
+    rank: suborder
+categories:
+  - cricket
+  - grasshopper
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb12984038133

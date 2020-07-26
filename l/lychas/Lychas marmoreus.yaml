@@ -1,0 +1,18 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Little Marbled Scorpion
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Buthidae
+    rank: family
+  - name: Scorpiones
+    rank: order
+categories:
+  - scorpion
+features:
+  - description: secondary-stinger
+    feature: tail
+id:
+  ns: 555fc561ed2a897a030003c3

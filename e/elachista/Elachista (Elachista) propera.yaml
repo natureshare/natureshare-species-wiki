@@ -1,0 +1,17 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Elachistidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Elachistinae
+    rank: subfamily
+  - name: infrageneric-Elachista
+    rank: subgenus
+categories:
+  - moth
+id:
+  ns: 5a4404f4ed2a89e23c00273c

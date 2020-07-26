@@ -1,0 +1,13 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Tachinidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+id:
+  ns: 58a955f4ed2a896c5c000bb8

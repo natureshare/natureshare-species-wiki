@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Granite x Dwarf Buttercup hybrid
+classification:
+  - name: ranunculaceae
+    rank: family
+categories:
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: bisexual
+    feature: flowers
+  - description: '5'
+    feature: sepals
+id:
+  ns: 53b398eae35eb1298403783b

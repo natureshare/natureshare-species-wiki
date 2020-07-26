@@ -1,0 +1,29 @@
+updated_by: chrisl
+common_names:
+  - Alpine Podolepis
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: orange
+    feature: flower
+  - description: orange-compared-to-laciniata
+    feature: flower
+  - description: usually-orangey-not-yellow
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: glabrous
+    feature: leaf
+  - description: to-2mm
+    feature: ligule-apex-lobe-length
+  - description: 9-13mm
+    feature: ligule-length
+id:
+  ns: 53b398e9e35eb1298403760a
+  vba: '502618'

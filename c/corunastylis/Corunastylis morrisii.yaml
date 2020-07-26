@@ -1,0 +1,25 @@
+updated_by: chrisl
+common_names:
+  - Bearded Midge-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: green-with-maroon-tip
+    feature: flower
+  - description: hairy
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: purple
+    feature: flower-colour
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e7e35eb1298403686a
+  vba: '502715'

@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Anisolabididae
+    rank: family
+  - name: Dermaptera
+    rank: order
+categories:
+  - earwig
+  - insect
+id:
+  ns: 53b398eee35eb12984038b14

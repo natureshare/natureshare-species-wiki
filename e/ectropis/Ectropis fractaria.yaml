@@ -1,0 +1,26 @@
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Ennominae
+    rank: Subfamily
+  - name: Geometroidea
+    rank: Superfamily
+  - name: Boarmiini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+features:
+  - description: grey
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: two-coloured
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037eee

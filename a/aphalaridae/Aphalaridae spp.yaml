@@ -1,0 +1,18 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Aphalaridae
+    rank: family
+  - name: Hemiptera
+    rank: order
+  - name: Sternorrhyncha
+    rank: suborder
+  - name: Psylloidea
+    rank: superfamily
+categories:
+  - insect
+  - true-bug
+id:
+  ns: 586314b6ed2a89748000b74a

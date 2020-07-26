@@ -1,0 +1,44 @@
+updated_by: chrisl
+common_names:
+  - Banks' Brown
+classification:
+  - name: Insecta
+    rank: class
+  - name: Nymphalidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Papilionoidea
+    rank: superfamily
+categories:
+  - butterfly
+  - insect
+features:
+  - description: eastern-vic-to-trentham
+    feature: distribution
+  - description: different-spot-is-white
+    feature: spot
+  - description: '1'
+    feature: spots
+  - description: 1-upperside
+    feature: spots
+  - description: '3'
+    feature: spots
+  - description: 3-underside
+    feature: spots
+  - description: black
+    feature: wing
+  - description: brown
+    feature: wing
+  - description: four-coloured
+    feature: wing
+  - description: orange
+    feature: wing
+  - description: purple
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ece35eb12984037fc1

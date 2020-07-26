@@ -1,0 +1,37 @@
+updated_by: chrisl
+common_names:
+  - Grampians Peppermint
+  - Western Peppermint
+synonyms:
+  - Eucalyptus willisii subsp. falciformis
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: rough-on-lower-trunk
+    feature: bark
+  - description: rough-to-smaller-branches
+    feature: bark
+  - description: groups-of-11-20
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+  - description: 5-12m
+    feature: height
+  - description: green
+    feature: leaf-colour
+  - description: glossy
+    feature: leaf-surface
+  - description: 18-3cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036c17
+  vba: '505358'

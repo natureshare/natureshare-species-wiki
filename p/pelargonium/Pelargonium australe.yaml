@@ -1,0 +1,38 @@
+updated_by: chrisl
+common_names:
+  - Austral Stork's-bill
+classification:
+  - name: geraniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: clustered
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: white
+    feature: flower
+  - description: mid-spring-summer
+    feature: flowering-time
+  - description: clumping-herb
+    feature: habit
+  - description: lobed
+    feature: leaf
+  - description: paired
+    feature: leaf
+  - description: rounded
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-13cm
+    feature: leaf
+  - description: velvety-underneath
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+id:
+  ns: 53b398e9e35eb12984037498
+  vba: '502442'

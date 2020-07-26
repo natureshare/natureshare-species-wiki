@@ -1,0 +1,36 @@
+updated_by: chrisl
+common_names:
+  - Parson's Bands
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - provisional-name
+features:
+  - description: orchid
+    feature: flower
+  - description: white
+    feature: flower
+  - description: mid-summer-mid-winter
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: basal-single
+    feature: leaf
+  - description: dark-green
+    feature: leaf
+  - description: oval
+    feature: leaf
+  - description: shiny
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+  - description: to-3.5cm
+    feature: leaf
+id:
+  ns: 53b398e7e35eb12984036b48
+  vba: '501219'

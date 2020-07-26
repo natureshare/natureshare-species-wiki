@@ -1,0 +1,31 @@
+updated_by: chrisl
+common_names:
+  - Chequered Blue
+  - Saltbush Blue
+classification:
+  - name: Insecta
+    rank: class
+  - name: Lycaenidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Papilionoidea
+    rank: superfamily
+categories:
+  - butterfly
+  - insect
+features:
+  - description: blue
+    feature: wing
+  - description: brown
+    feature: wing
+  - description: three-coloured
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: white
+    feature: wing
+  - description: chequered
+    feature: wing-fringe
+id:
+  ns: 53b398ece35eb12984038023

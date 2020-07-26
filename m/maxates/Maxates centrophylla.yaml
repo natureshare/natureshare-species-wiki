@@ -1,0 +1,28 @@
+updated_by: koolah
+common_names:
+  - Green-spotted Angled Emerald
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Geometrinae
+    rank: subfamily
+  - name: Geometrini
+    rank: tribe
+categories:
+  - insect
+  - moth
+features:
+  - description: black
+    feature: spots
+  - description: green
+    feature: wing
+  - description: one-coloured
+    feature: wing
+  - description: spots
+    feature: wing
+id:
+  ns: 53b398f2e35eb12984039d75

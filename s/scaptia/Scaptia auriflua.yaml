@@ -1,0 +1,16 @@
+updated_by: david_francis
+common_names:
+  - Flower-feeding March Fly
+  - Nectar-feeding March Fly
+classification:
+  - name: Insecta
+    rank: class
+  - name: Tabanidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+  - insect
+id:
+  ns: 53b398f2e35eb12984039ee1

@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - South Island Pied Oystercatcher
+classification:
+  - name: aves
+    rank: class
+  - name: haematopodidae
+    rank: family
+  - name: Charadriiformes
+    rank: order
+categories:
+  - vagrant
+id:
+  ns: 594f66b1ed2a897cef000a77

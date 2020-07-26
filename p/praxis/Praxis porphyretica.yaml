@@ -1,0 +1,19 @@
+updated_by: koolah
+common_names:
+  - Brown Praxis
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Erebidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Erebinae
+    rank: Subfamily
+  - name: Noctuoidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f2e35eb12984039d72

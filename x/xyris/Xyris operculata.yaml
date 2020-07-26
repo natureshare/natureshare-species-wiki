@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - Tall Yellow-eye
+classification:
+  - name: xyridaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+features:
+  - description: get-smaller-towards-base
+    feature: bracts
+id:
+  ns: 53b398ebe35eb12984037da9
+  vba: '503597'

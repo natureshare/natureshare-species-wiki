@@ -1,0 +1,17 @@
+updated_by: koolah
+common_names:
+  - Eastern Alchymist
+classification:
+  - name: Noctuidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Insecta
+    rank: class
+  - name: Acronictinae-Amphipyrinae
+    rank: subfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f2e35eb12984039eeb

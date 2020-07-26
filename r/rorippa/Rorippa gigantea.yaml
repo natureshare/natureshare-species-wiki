@@ -1,0 +1,24 @@
+updated_by: chrisl
+common_names:
+  - Long-style Bitter-cress
+classification:
+  - name: brassicaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: white
+    feature: flower
+  - description: '4'
+    feature: number-of-petals
+  - description: '4'
+    feature: petals
+  - description: straight
+    feature: siliqua
+  - description: '6'
+    feature: stamens
+id:
+  ns: 53b398eae35eb129840378b1
+  vba: '502945'

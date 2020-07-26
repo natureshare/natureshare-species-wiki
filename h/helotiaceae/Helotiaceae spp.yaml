@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Leotiomycetes
+    rank: class
+  - name: Helotiaceae
+    rank: family
+  - name: Helotiales
+    rank: order
+categories:
+  - fungi
+  - provisional-name
+id:
+  ns: 53b398f2e35eb12984039f9d

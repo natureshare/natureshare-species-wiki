@@ -1,0 +1,17 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Freshwater Crayfish
+classification:
+  - name: Malacostraca
+    rank: class
+  - name: Parastacidae
+    rank: family
+  - name: Decapoda
+    rank: order
+categories:
+  - crayfish
+  - crustacean
+  - provisional-name
+id:
+  ns: 54577c0ae35eb12c8f00008a

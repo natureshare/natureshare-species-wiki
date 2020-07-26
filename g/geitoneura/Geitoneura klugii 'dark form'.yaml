@@ -1,0 +1,41 @@
+updated_by: chrisl
+common_names:
+  - Klug's Xenica
+  - Marbled Xenica
+classification:
+  - name: Insecta
+    rank: class
+  - name: Nymphalidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Papilionoidea
+    rank: superfamily
+categories:
+  - butterfly
+  - insect
+features:
+  - description: '2'
+    feature: spots
+  - description: 2-upperside
+    feature: spots
+  - description: '3'
+    feature: spots
+  - description: 3-underside
+    feature: spots
+  - description: black
+    feature: wing
+  - description: brown
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: four-coloured
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: orange
+    feature: wing
+  - description: two-coloured
+    feature: wing
+id:
+  ns: 53b398ece35eb12984037fbf

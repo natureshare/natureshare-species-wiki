@@ -1,0 +1,20 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Japanese Wisteria
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - climber
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - weed
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 551a060bed2a8990040002ef
+  vba: '507709'

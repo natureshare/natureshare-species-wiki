@@ -1,0 +1,24 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: Arctiidae
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: Lithosiinae
+    rank: subfamily
+  - name: Noctuoidea
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: black-and-white
+    feature: wing
+  - description: two-coloured
+    feature: wing
+id:
+  ns: 53b398f2e35eb12984039e13

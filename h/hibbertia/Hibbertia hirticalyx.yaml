@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Bass Guinea-flower
+classification:
+  - name: dilleniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: alternate
+    feature: leaf-arrangement
+id:
+  ns: 53b398e8e35eb12984036ebc
+  vba: '505438'

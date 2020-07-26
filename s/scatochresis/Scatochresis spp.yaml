@@ -1,0 +1,20 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: OECOPHORIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: OECOPHORINAE
+    rank: subfamily
+  - name: GELECHIOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+  - provisional-name
+id:
+  ns: 53b398ebe35eb12984037ea8

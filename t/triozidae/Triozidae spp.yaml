@@ -1,0 +1,19 @@
+created_by: reilly
+updated_by: david_francis
+common_names:
+  - Jumping Plant-lice
+classification:
+  - name: Hemiptera
+    rank: Order
+  - name: insecta
+    rank: class
+  - name: Triozidae
+    rank: family
+  - name: Sternorrhyncha
+    rank: suborder
+  - name: Psylloidea
+    rank: superfamily
+categories:
+  - provisional-name
+id:
+  ns: 569c403ced2a893d8b000001

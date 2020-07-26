@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Braconidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+  - name: Microgastrinae
+    rank: subfamily
+categories:
+  - provisional-name
+  - wasp
+id:
+  ns: 5917fc13ed2a89065400001f

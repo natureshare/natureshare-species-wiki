@@ -1,0 +1,47 @@
+updated_by: chrisl
+common_names:
+  - Errinundra Pepper
+classification:
+  - name: winteraceae
+    rank: family
+categories:
+  - dicotyledon
+  - dioecious
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: errinundra
+    feature: distribution
+  - description: white
+    feature: flower-colour
+  - description: actinomorphic
+    feature: flower-shape
+  - description: black
+    feature: fruit
+  - description: shrub-to-4m-high
+    feature: habit
+  - description: shrub-to-small-tree
+    feature: habit
+  - description: aromatic
+    feature: leaf
+  - description: alternate
+    feature: leaf-arrangement
+  - description: discolorous
+    feature: leaf-colour
+  - description: to-14cm-long
+    feature: leaf-size
+  - description: entire
+    feature: leaf-type
+  - description: to-3cm
+    feature: leaf-width
+  - description: '2'
+    feature: number-of-petals
+  - description: '2'
+    feature: petals
+  - description: absent
+    feature: stipules
+id:
+  ns: 53b398ebe35eb12984037b5b
+  vba: '504003'

@@ -1,0 +1,24 @@
+created_by: david_francis
+updated_by: koolah
+common_names:
+  - False Turkey-tail Fungus
+synonyms:
+  - Stereum australe
+  - Stereum ostrea
+  - Thelephora ostrea
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Stereaceae
+    rank: family
+  - name: fungi
+    rank: kingdom
+  - name: Russulales
+    rank: order
+  - name: Basidiomycota
+    rank: phylum
+categories:
+  - fungi
+  - fungimap
+id:
+  ns: 5a534746ed2a89d22b000ba1

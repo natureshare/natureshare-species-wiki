@@ -1,0 +1,44 @@
+updated_by: chrisl
+common_names:
+  - Murnong
+  - Yam Daisy
+synonyms:
+  - Microseris sp. 3
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: daisy
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: mid-winter-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: basal-rosette
+    feature: leaf
+  - description: margin-toothed
+    feature: leaf
+  - description: narrow
+    feature: leaf
+  - description: shiny
+    feature: leaf
+  - description: to-30cm
+    feature: leaf
+  - description: many
+    feature: number-of-petals
+  - description: many
+    feature: petals
+  - description: fluffy-white
+    feature: seedhead
+id:
+  ns: 53b398e9e35eb1298403729c
+  vba: '503887'

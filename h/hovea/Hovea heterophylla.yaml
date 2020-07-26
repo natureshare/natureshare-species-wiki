@@ -1,0 +1,81 @@
+updated_by: chrisl
+common_names:
+  - Common Hovea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: ridged
+    feature: branches
+  - description: cluster
+    feature: flower
+  - description: mauve
+    feature: flower
+  - description: pea
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: white
+    feature: flower
+  - description: orange
+    feature: flower-colour
+  - description: late-winter-mid-spring
+    feature: flowering-time
+  - description: green-ripens-to-black
+    feature: fruit
+  - description: pod
+    feature: fruit
+  - description: rounded
+    feature: fruit
+  - description: herb
+    feature: habit
+  - description: low-shrub
+    feature: habit
+  - description: medium-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-2m
+    feature: height
+  - description: olive-green
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-6.5cm
+    feature: leaf
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 5-30mm
+    feature: leaf-length
+  - description: greater-than-5mm
+    feature: leaf-length
+  - description: less-than-30mm
+    feature: leaf-length
+  - description: prickly
+    feature: leaf-tip
+  - description: 05-15mm
+    feature: leaf-width
+  - description: up-to-2mm
+    feature: leaf-width
+  - description: 8-11mm
+    feature: seedpod-length
+  - description: greater-than-5mm
+    feature: seedpod-length
+  - description: less-than-15mm
+    feature: seedpod-length
+  - description: 4-8mm
+    feature: seedpod-width
+  - description: greater-than-4mm
+    feature: seedpod-width
+  - description: up-to-8mm
+    feature: seedpod-width
+  - description: '1'
+    feature: seeds
+id:
+  ns: 53b398e8e35eb12984036efb
+  vba: '501705'

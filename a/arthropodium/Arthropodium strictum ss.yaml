@@ -1,0 +1,53 @@
+updated_by: chrisl
+common_names:
+  - Chocolate Lily
+classification:
+  - name: anthericaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+features:
+  - description: 1-per-axil
+    feature: flower
+  - description: cluster
+    feature: flower
+  - description: mauve
+    feature: flower
+  - description: not-nodding
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: scented
+    feature: flower
+  - description: white
+    feature: flower
+  - description: spring-early-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: lily
+    feature: habit
+  - description: grasslike
+    feature: leaf
+  - description: straplike
+    feature: leaf
+  - description: to-40cm
+    feature: leaf
+  - description: tufted
+    feature: leaf
+  - description: unstalked
+    feature: leaf
+  - description: '3'
+    feature: number-of-petals
+  - description: '6'
+    feature: number-of-petals
+  - description: '6'
+    feature: petals-sepals
+id:
+  ns: 53b398e6e35eb129840363ac
+  vba: '505126'

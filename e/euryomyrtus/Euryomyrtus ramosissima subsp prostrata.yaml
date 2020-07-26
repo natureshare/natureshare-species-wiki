@@ -1,0 +1,33 @@
+updated_by: chrisl
+common_names:
+  - Nodding Baeckea
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: pink
+    feature: flower-colour
+  - description: white
+    feature: flower-colour
+  - description: shrub
+    feature: habit
+  - description: small-shrub
+    feature: habit
+  - description: 8-20cm
+    feature: height
+  - description: 3-11mm
+    feature: leaf-length
+  - description: to-1mm
+    feature: leaf-width
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e7e35eb12984036c51
+  vba: '504258'

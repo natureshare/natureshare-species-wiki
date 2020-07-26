@@ -1,0 +1,20 @@
+created_by: chrisl
+updated_by: david_francis
+common_names:
+  - Blind-snake
+synonyms:
+  - Ramphotyphlops spp.
+classification:
+  - name: Reptilia
+    rank: class
+  - name: typhlopidae
+    rank: family
+  - name: Squamata
+    rank: order
+categories:
+  - animal
+  - fauna
+  - provisional-name
+  - snake
+id:
+  ns: 55471ac6ed2a89adc2000223

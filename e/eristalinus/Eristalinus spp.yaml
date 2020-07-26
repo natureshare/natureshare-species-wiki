@@ -1,0 +1,17 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Drone-flies
+classification:
+  - name: insecta
+    rank: class
+  - name: Syrphidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - dronefly
+  - fly
+  - provisional-name
+id:
+  ns: 5869d0a1ed2a89f871000007

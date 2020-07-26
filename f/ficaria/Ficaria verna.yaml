@@ -1,0 +1,34 @@
+updated_by: chrisl
+common_names:
+  - Lesser Celandine
+classification:
+  - name: ranunculaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - perennial
+  - plant
+  - weed
+features:
+  - description: bisexual
+    feature: flowers
+  - description: trailing-herb
+    feature: habit
+  - description: alternate
+    feature: leaf-arrangement
+  - description: rosetted
+    feature: leaf-arrangement
+  - description: ovate-to-reniform
+    feature: leaf-shape
+  - description: to-3cm
+    feature: leaf-width
+  - description: '8'
+    feature: number-of-petals
+  - description: '8'
+    feature: petals
+  - description: 20-30
+    feature: stamens
+id:
+  ns: 53b398e7e35eb12984036c73
+  vba: '503960'

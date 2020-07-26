@@ -1,0 +1,45 @@
+updated_by: chrisl
+common_names:
+  - Hairy Solenogyne
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: brown
+    feature: flower
+  - description: cluster
+    feature: flower
+  - description: daisy
+    feature: flower
+  - description: green
+    feature: flower
+  - description: single-flowerhead
+    feature: flower
+  - description: mid-spring-mid-autumn
+    feature: flowering-time
+  - description: brown
+    feature: fruit
+  - description: herb
+    feature: habit
+  - description: basal-rosette
+    feature: leaf
+  - description: dull-green
+    feature: leaf
+  - description: hairy
+    feature: leaf
+  - description: lanceolate
+    feature: leaf
+  - description: margin-toothed
+    feature: leaf
+  - description: to-6cm
+    feature: leaf
+  - description: hairy
+    feature: stem
+id:
+  ns: 53b398eae35eb12984037a83
+  vba: '503196'

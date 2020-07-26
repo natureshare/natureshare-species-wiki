@@ -1,0 +1,19 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Oil Mallee
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - flora
+  - plant
+  - provisional-name
+features:
+  - description: cluster
+    feature: flower
+  - description: mallee
+    feature: habit
+id:
+  ns: 54a2d21be35eb17b22000073
+  vba: '515890'

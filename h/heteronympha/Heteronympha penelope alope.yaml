@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Shouldered Brown
+classification:
+  - name: Insecta
+    rank: class
+  - name: Nymphalidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Papilionoidea
+    rank: superfamily
+categories:
+  - butterfly
+  - insect
+id:
+  ns: 53b398ece35eb12984037fc8

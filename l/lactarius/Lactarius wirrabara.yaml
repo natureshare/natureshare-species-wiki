@@ -1,0 +1,17 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Russulaceae
+    rank: Family
+  - name: Agaricomycetes
+    rank: class
+  - name: Fungi
+    rank: kingdom
+  - name: Russulales
+    rank: order
+  - name: Basidiomycota
+    rank: phylum
+categories:
+  - fungi
+id:
+  ns: 5a953ef4ed2a89ad3200158b

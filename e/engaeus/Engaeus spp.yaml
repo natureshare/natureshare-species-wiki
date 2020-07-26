@@ -1,0 +1,15 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Burrowing Cray
+classification:
+  - name: Parastacidae
+    rank: family
+  - name: Decapoda
+    rank: order
+categories:
+  - animal
+  - crayfish
+  - fauna
+id:
+  ns: 5546fb61ed2a891575000384

@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Cicadellidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - hopper
+  - insect
+id:
+  ns: 53b398efe35eb12984038f8e

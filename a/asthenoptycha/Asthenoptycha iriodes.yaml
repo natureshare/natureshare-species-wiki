@@ -1,0 +1,13 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Tortricidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+categories:
+  - moth
+id:
+  ns: 58b90116ed2a893890002224

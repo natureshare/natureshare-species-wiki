@@ -1,0 +1,15 @@
+updated_by: chrisl
+common_names:
+  - Firebrat
+classification:
+  - name: Insecta
+    rank: class
+  - name: Lepismatidae
+    rank: family
+  - name: Thysanura
+    rank: order
+categories:
+  - insect
+  - silverfish
+id:
+  ns: 53b398f1e35eb12984039b91

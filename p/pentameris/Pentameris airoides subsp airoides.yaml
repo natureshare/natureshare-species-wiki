@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - False Hair-grass
+synonyms:
+  - Pentaschistis airoides subsp. airoides
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - weed
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398e9e35eb129840374b2
+  vba: '502457'

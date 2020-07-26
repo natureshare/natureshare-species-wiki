@@ -1,0 +1,30 @@
+updated_by: chrisl
+common_names:
+  - Annual Fireweed
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+  - provisional-name
+features:
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: divided
+    feature: leaf
+  - description: lobed
+    feature: leaf
+  - description: fluffy
+    feature: seed
+id:
+  ns: 53b398eae35eb129840379e6
+  vba: '503107'

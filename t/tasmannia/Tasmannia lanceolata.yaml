@@ -1,0 +1,49 @@
+updated_by: chrisl
+common_names:
+  - Mountain Pepper
+classification:
+  - name: winteraceae
+    rank: family
+categories:
+  - dicotyledon
+  - dioecious
+  - flora
+  - plant
+features:
+  - description: white
+    feature: flower-colour
+  - description: actinomorphic
+    feature: flower-shape
+  - description: black
+    feature: fruit
+  - description: aromatic
+    feature: leaf
+  - description: alternate
+    feature: leaf-arrangement
+  - description: discolorous
+    feature: leaf-colour
+  - description: to-12cm
+    feature: leaf-length
+  - description: lanceolate
+    feature: leaf-shape
+  - description: entire
+    feature: leaf-type
+  - description: to-3.5cm
+    feature: leaf-width
+  - description: '3'
+    feature: number-of-petals
+  - description: 3-or-more
+    feature: number-of-petals
+  - description: '4'
+    feature: number-of-petals
+  - description: '3'
+    feature: petals
+  - description: 3-or-more
+    feature: petals
+  - description: '4'
+    feature: petals
+  - description: absent
+    feature: stipules
+id:
+  ns: 53b398ebe35eb12984037b57
+  vba: '503337'

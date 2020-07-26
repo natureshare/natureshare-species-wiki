@@ -1,0 +1,38 @@
+updated_by: chrisl
+common_names:
+  - Sweet Hound's-tongue
+classification:
+  - name: boraginaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: leaf-like-at-base-of-flowerstem
+    feature: bract
+  - description: scented
+    feature: flower
+  - description: white
+    feature: flower
+  - description: yellow-centre
+    feature: flower
+  - description: spring-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: basal-rosette
+    feature: leaf
+  - description: stiff-hairs
+    feature: leaf
+  - description: to-12cm
+    feature: leaf
+  - description: mostly-basal
+    feature: leaves
+  - description: '5'
+    feature: number-of-petals
+id:
+  ns: 53b398e7e35eb12984036920
+  vba: '500910'

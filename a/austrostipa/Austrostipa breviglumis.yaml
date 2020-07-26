@@ -1,0 +1,34 @@
+updated_by: chrisl
+common_names:
+  - Cane Spear-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - rare-threatened
+features:
+  - description: grass
+    feature: flower
+  - description: to-1.5m-long
+    feature: flowering-stems
+  - description: usually-branched
+    feature: flowering-stems
+  - description: spring-early-summer
+    feature: flowering-time
+  - description: grass
+    feature: habit
+  - description: glabrous-to-finely-scabrous
+    feature: leaf
+  - description: inrolled
+    feature: leaf
+  - description: to-20cm
+    feature: leaf-length
+  - description: glabrous
+    feature: nodes
+id:
+  ns: 53b398e6e35eb1298403644f
+  vba: '503268'

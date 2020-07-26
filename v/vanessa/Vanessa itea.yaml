@@ -1,0 +1,53 @@
+updated_by: koolah
+common_names:
+  - Australian Admiral
+  - Yellow Admiral
+classification:
+  - name: Insecta
+    rank: Class
+  - name: nymphalidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Nymphalinae
+    rank: Subfamily
+  - name: Papilionoidea
+    rank: Superfamily
+  - name: Nymphalini
+    rank: Tribe
+categories:
+  - butterfly
+  - insect
+features:
+  - description: '2'
+    feature: spots
+  - description: 2-underside
+    feature: spots
+  - description: '3'
+    feature: spots
+  - description: 3-upperside
+    feature: spots
+  - description: '4'
+    feature: spots
+  - description: 4-upperside
+    feature: spots
+  - description: black
+    feature: wing
+  - description: blue
+    feature: wing
+  - description: brown
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: five-coloured
+    feature: wing
+  - description: four-coloured
+    feature: wing
+  - description: orange
+    feature: wing
+  - description: red
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037dec

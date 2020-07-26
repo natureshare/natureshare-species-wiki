@@ -1,0 +1,20 @@
+created_by: russell
+updated_by: david_francis
+common_names:
+  - Carpet Sea Star
+  - Eight-armed Cushion Star
+synonyms:
+  - Patiriella calcar
+classification:
+  - name: Asteroidea
+    rank: class
+  - name: Asterinidae
+    rank: family
+  - name: Valvatida
+    rank: order
+  - name: Echinodermata
+    rank: phylum
+categories:
+  - starfish-sea-star
+id:
+  ns: 552fdfd2ed2a8998fd000014

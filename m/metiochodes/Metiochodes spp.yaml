@@ -1,0 +1,15 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Trignidiidae
+    rank: Family
+  - name: Orthoptera
+    rank: Order
+  - name: Trigonidiinae
+    rank: Subfamily
+  - name: Grylloidea
+    rank: Superfamily
+categories:
+  - insect
+id:
+  ns: 5de730df64be481474000065

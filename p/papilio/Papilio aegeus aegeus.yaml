@@ -1,0 +1,28 @@
+updated_by: chrisl
+common_names:
+  - Orchard Swallowtail
+classification:
+  - name: Insecta
+    rank: class
+  - name: Papilionidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Papilionoidea
+    rank: superfamily
+categories:
+  - butterfly
+  - insect
+features:
+  - description: black
+    feature: wing
+  - description: blue
+    feature: wing
+  - description: four-coloured
+    feature: wing
+  - description: red
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ece35eb12984037fee

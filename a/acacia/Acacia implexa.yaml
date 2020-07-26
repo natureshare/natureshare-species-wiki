@@ -1,0 +1,35 @@
+updated_by: chrisl
+common_names:
+  - Lightwood
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - wattle
+features:
+  - description: globular
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+  - description: summer-autumn
+    feature: flowering-time
+  - description: small-tree
+    feature: habit
+  - description: tree
+    feature: habit
+  - description: sickle-shape
+    feature: leaf
+  - description: simple
+    feature: leaf
+  - description: to-20cm
+    feature: leaf-length
+  - description: hard
+    feature: seedpod
+id:
+  ns: 53b398e5e35eb129840361c5
+  vba: '500045'

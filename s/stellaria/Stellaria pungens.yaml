@@ -1,0 +1,36 @@
+updated_by: chrisl
+common_names:
+  - Prickly Starwort
+classification:
+  - name: caryophyllaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: petalled
+    feature: flower
+  - description: white
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: spreading
+    feature: habit
+  - description: prickly
+    feature: leaf
+  - description: '10'
+    feature: number-of-petals
+  - description: '5'
+    feature: number-of-petals
+  - description: many
+    feature: number-of-petals
+  - description: '10'
+    feature: petals
+  - description: '5'
+    feature: petals
+  - description: many
+    feature: petals
+id:
+  ns: 53b398eae35eb12984037aed
+  vba: '503255'

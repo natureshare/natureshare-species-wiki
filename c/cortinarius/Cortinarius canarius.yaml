@@ -1,0 +1,19 @@
+updated_by: koolah
+common_names:
+  - Canary Dermocybe
+synonyms:
+  - Dermocybe canaria
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: cortinariaceae
+    rank: family
+  - name: Agaricales
+    rank: order
+categories:
+  - fungi
+  - fungimap
+  - rare-threatened
+id:
+  ns: 53b398e7e35eb12984036988
+  vba: '507601'

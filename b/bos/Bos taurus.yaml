@@ -1,0 +1,12 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Cattle (feral)
+classification:
+  - name: bovidae
+    rank: family
+categories:
+  - fauna-introduced
+  - mammal
+id:
+  ns: 5546b381ed2a891575000327

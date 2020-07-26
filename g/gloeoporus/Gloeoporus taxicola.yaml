@@ -1,0 +1,19 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Meruliopsis taxicola
+  - Merulius ravenelii
+  - Merulius taxicola
+  - Poria taxicola
+  - Xylomyzon taxicola
+classification:
+  - name: Agaricomycetes
+    rank: Class
+  - name: Meruliaceae
+    rank: Family
+  - name: Polyporales
+    rank: Order
+categories:
+  - fungi
+id:
+  ns: 5b4eaac6ed2a8903a000550a

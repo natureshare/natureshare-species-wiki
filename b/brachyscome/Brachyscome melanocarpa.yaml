@@ -1,0 +1,26 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Black-seed Daisy
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: mauve
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: many
+    feature: ligules
+  - description: many
+    feature: petals
+  - description: black
+    feature: seed
+id:
+  ns: 55d208e2ed2a89db810011b9

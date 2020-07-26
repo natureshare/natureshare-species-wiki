@@ -1,0 +1,18 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Pink Stainer
+classification:
+  - name: Agaricomycetes
+    rank: Class
+  - name: Agaricaceae
+    rank: Family
+  - name: Agaricales
+    rank: Order
+  - name: Agaricomycetidae
+    rank: subclass
+categories:
+  - fungi
+  - provisional-name
+id:
+  ns: 5b62733aed2a89e41b000008

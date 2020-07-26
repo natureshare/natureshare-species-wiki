@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Upright Guinea-flower
+classification:
+  - name: dilleniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - provisional-name
+features:
+  - description: alternate
+    feature: leaf-arrangement
+id:
+  ns: 53b398e8e35eb12984036ed5
+  vba: '501683'

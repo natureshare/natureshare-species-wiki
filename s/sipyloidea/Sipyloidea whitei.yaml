@@ -1,0 +1,15 @@
+updated_by: chrisl
+common_names:
+  - Whites Winged Stick-insect
+classification:
+  - name: Insecta
+    rank: class
+  - name: Diapheromeridae
+    rank: family
+  - name: Phasmatodea
+    rank: order
+categories:
+  - insect
+  - stick-insect
+id:
+  ns: 53b398f1e35eb1298403987d

@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Coast Lily
+classification:
+  - name: asphodelaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+  - rare-threatened
+features:
+  - description: glaucous-slightly
+    feature: leaf
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398e6e35eb129840365c0
+  vba: '507703'

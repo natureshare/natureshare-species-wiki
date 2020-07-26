@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Ragwort
+synonyms:
+  - Senecio jacobaea
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: yellow
+    feature: flower
+id:
+  ns: 53b398eae35eb129840379f4
+  vba: '503113'

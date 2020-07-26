@@ -1,0 +1,14 @@
+updated_by: david_francis
+common_names:
+  - White-banded House Jumper
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Salticidae
+    rank: family
+  - name: Araneae
+    rank: order
+categories:
+  - spider
+id:
+  ns: 53b398f3e35eb1298403a3f4

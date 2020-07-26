@@ -1,0 +1,28 @@
+updated_by: chrisl
+common_names:
+  - Early Black-wattle
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - wattle
+  - weed
+features:
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+  - description: tree
+    feature: habit
+  - description: bipinnate
+    feature: leaf
+  - description: divided
+    feature: leaf
+id:
+  ns: 53b398e5e35eb129840361ad
+  vba: '500028'

@@ -1,0 +1,17 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Devil's Coach-horse
+classification:
+  - name: Insecta
+    rank: class
+  - name: Staphylinidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - insect
+  - rove-beetle
+id:
+  ns: 54ac7b36e35eb14699000083

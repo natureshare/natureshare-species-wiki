@@ -1,0 +1,36 @@
+updated_by: chrisl
+common_names:
+  - Drooping Sheoak
+classification:
+  - name: casuarinaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: drooping
+    feature: branchlets
+  - description: cluster
+    feature: flower-female
+  - description: red
+    feature: flower-female
+  - description: brown
+    feature: flower-male
+  - description: spike
+    feature: flower-male
+  - description: cone
+    feature: fruit
+  - description: rows-of-valves
+    feature: fruit
+  - description: woody
+    feature: fruit
+  - description: rounded-tree
+    feature: habit
+  - description: tree
+    feature: habit
+  - description: leaf-segments
+    feature: leaf
+id:
+  ns: 53b398e5e35eb129840362d9
+  vba: '500685'

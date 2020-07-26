@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Large-fruit Yellow-gum
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - ffg
+  - flora
+  - native-and-weedy-stands-in-vic
+  - plant
+  - rare-threatened
+features:
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036bc8
+  vba: '504455'

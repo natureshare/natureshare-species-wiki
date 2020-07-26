@@ -1,0 +1,39 @@
+updated_by: chrisl
+common_names:
+  - Purple Beard-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: bearded
+    feature: flower
+  - description: hairy
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: purple
+    feature: flower-colour
+  - description: spring-mid-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: basal-single
+    feature: leaf
+  - description: fleshy
+    feature: leaf
+  - description: ribbed
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+  - description: straplike
+    feature: leaf
+  - description: to-40cm
+    feature: leaf
+id:
+  ns: 53b398e6e35eb12984036678
+  vba: '500589'

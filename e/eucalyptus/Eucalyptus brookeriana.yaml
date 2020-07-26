@@ -1,0 +1,33 @@
+updated_by: chrisl
+common_names:
+  - Brooker's Gum
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: rough-on-lower-trunk
+    feature: bark
+  - description: smooth-throughout
+    feature: bark
+  - description: groups-of-7
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+  - description: 20-50m
+    feature: height
+  - description: green
+    feature: leaf-colour
+  - description: glossy
+    feature: leaf-surface
+  - description: 15-45cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036b8c
+  vba: '501256'

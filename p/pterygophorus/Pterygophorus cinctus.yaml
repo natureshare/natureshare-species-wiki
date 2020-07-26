@@ -1,0 +1,15 @@
+updated_by: chrisl
+common_names:
+  - Bottlebrush Sawfly
+classification:
+  - name: Insecta
+    rank: class
+  - name: Pergidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - insect
+  - sawfly
+id:
+  ns: 53b398f0e35eb1298403938a

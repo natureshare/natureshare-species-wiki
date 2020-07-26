@@ -1,0 +1,30 @@
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Oecophoridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Stathmopodinae
+    rank: Subfamily
+  - name: Gelechioidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: hairy
+    feature: leg
+  - description: black
+    feature: wing
+  - description: brown
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: two-coloured
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037ecd

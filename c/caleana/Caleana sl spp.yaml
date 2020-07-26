@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Duck Orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - provisional-name
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e6e35eb12984036644
+  vba: '508173'

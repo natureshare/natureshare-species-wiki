@@ -1,0 +1,28 @@
+updated_by: chrisl
+common_names:
+  - Bushy Needlewood
+classification:
+  - name: proteaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: white
+    feature: flower
+  - description: nut
+    feature: fruit
+  - description: woody
+    feature: fruit
+  - description: shrub
+    feature: habit
+  - description: prickly
+    feature: leaf
+id:
+  ns: 53b398e8e35eb12984036e32
+  vba: '505071'

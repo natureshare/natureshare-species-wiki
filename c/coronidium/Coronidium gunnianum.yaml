@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Pale Swamp Everlasting
+synonyms:
+  - Helichrysum aff. rutidolepis (Lowland Swamps)
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: lowland-swamps
+    feature: distribution
+id:
+  ns: 53b398e8e35eb12984036e83
+  vba: '504655'

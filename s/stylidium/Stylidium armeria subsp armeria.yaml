@@ -1,0 +1,30 @@
+updated_by: chrisl
+classification:
+  - name: stylidiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: petalled
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: white
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: glabrous
+    feature: leaf
+  - description: more-than-3mm-wide
+    feature: leaf
+  - description: oblanceolate
+    feature: leaf
+  - description: '4'
+    feature: number-of-petals
+  - description: '4'
+    feature: petals
+id:
+  ns: 53b398ebe35eb12984037dd9
+  vba: '528632'

@@ -1,0 +1,24 @@
+updated_by: chrisl
+common_names:
+  - Grey Willow-herb
+classification:
+  - name: onagraceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: pink
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: 2-12-teeth-on-margin
+    feature: leaf
+  - description: 2-7mm
+    feature: leaf-width
+  - description: opposite-at-least-on-lower-stem
+    feature: leaves
+id:
+  ns: 53b398e7e35eb12984036afb
+  vba: '504445'

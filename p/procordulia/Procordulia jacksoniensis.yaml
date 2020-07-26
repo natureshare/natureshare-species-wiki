@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Eastern Swamp Emerald
+classification:
+  - name: Insecta
+    rank: class
+  - name: Corduliidae
+    rank: family
+  - name: Odonata
+    rank: order
+  - name: Anisoptera
+    rank: suborder
+categories:
+  - dragonfly-and-damselfly
+  - dragonfly-proper
+  - insect
+id:
+  ns: 53b398ebe35eb12984037e95

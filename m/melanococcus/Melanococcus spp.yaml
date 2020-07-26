@@ -1,0 +1,15 @@
+created_by: russell
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Pseudococcidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - insect
+  - provisional-name
+  - scale-insect
+id:
+  ns: 53c0767ce35eb10722000019

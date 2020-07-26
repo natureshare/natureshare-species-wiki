@@ -1,0 +1,13 @@
+updated_by: chrisl
+common_names:
+  - Thrip
+classification:
+  - name: Insecta
+    rank: class
+  - name: Thysanoptera
+    rank: order
+categories:
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb1298403813b

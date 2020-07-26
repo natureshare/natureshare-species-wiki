@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Dergholm Trachymene
+classification:
+  - name: apiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: dergholm-area
+    feature: distribution
+id:
+  ns: 53b398ebe35eb12984037c1e
+  vba: '507719'

@@ -1,0 +1,71 @@
+updated_by: chrisl
+common_names:
+  - Manna Gum
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - tree
+features:
+  - description: alternate
+    feature: adult-leaf
+  - description: linear-sickle-shaped
+    feature: adult-leaf
+  - description: shiny
+    feature: adult-leaf
+  - description: to-20cm
+    feature: adult-leaf
+  - description: rough-on-lower-trunk
+    feature: bark
+  - description: shed-in-ribbons-in-summer
+    feature: bark
+  - description: smooth-throughout
+    feature: bark
+  - description: white-upper-trunk-and-branches
+    feature: bark
+  - description: '3'
+    feature: buds
+  - description: '3'
+    feature: buds
+  - description: egg-shaped
+    feature: buds
+  - description: groups-of-3
+    feature: buds
+  - description: on-flattened-stalks
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: white-cream
+    feature: flower
+  - description: mid-summer-mid-autumn
+    feature: flowering-time
+  - description: 3-4-projecting-valves
+    feature: fruit
+  - description: hard
+    feature: fruit
+  - description: round
+    feature: fruit
+  - description: tree
+    feature: habit
+  - description: 10-90m
+    feature: height
+  - description: dark-green
+    feature: juvenile-leaf
+  - description: lanceolate
+    feature: juvenile-leaf
+  - description: paired
+    feature: juvenile-leaf
+  - description: stalked
+    feature: leaf
+  - description: green
+    feature: leaf-colour
+  - description: glossy
+    feature: leaf-surface
+  - description: 1-3cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036c13
+  vba: '504463'

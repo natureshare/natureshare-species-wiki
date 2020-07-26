@@ -1,0 +1,19 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Diaspididae
+    rank: Family
+  - name: Hemiptera
+    rank: Order
+  - name: Sternorrhyncha
+    rank: Suborder
+  - name: Coccoidea
+    rank: Superfamily
+categories:
+  - gall-forming-insect
+  - gall-forming-scale-insect
+  - insect
+id:
+  ns: 5e27f64a6437119fb7000032

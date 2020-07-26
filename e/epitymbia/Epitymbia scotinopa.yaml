@@ -1,0 +1,28 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: TORTRICIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: TORTRICINAE
+    rank: subfamily
+  - name: TORTRICOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: black
+    feature: wing
+  - description: brown
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f7b

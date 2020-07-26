@@ -1,0 +1,43 @@
+updated_by: chrisl
+common_names:
+  - Cotton Fireweed
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: daisy
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: spring-early-autumn
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: low-shrub
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: grey
+    feature: leaf
+  - description: grey-green
+    feature: leaf
+  - description: hairy
+    feature: leaf
+  - description: narrow
+    feature: leaf
+  - description: tip-pointed
+    feature: leaf
+  - description: to-10cm
+    feature: leaf
+  - description: fluffy
+    feature: seed
+id:
+  ns: 53b398eae35eb12984037a15
+  vba: '503124'

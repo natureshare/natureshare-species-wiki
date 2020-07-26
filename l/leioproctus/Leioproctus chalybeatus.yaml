@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Colletidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - bee
+  - insect
+id:
+  ns: 54f4f9bded2a8983c2000434

@@ -1,0 +1,81 @@
+updated_by: chrisl
+common_names:
+  - Messmate Stringybark
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - tree
+features:
+  - description: alternate
+    feature: adult-leaf
+  - description: shiny
+    feature: adult-leaf
+  - description: to-15cm
+    feature: adult-leaf
+  - description: grey
+    feature: bark
+  - description: red-brown-underneath
+    feature: bark
+  - description: rough-stringy
+    feature: bark
+  - description: rough-throughout
+    feature: bark
+  - description: smooth-paler-higher
+    feature: bark
+  - description: stringy
+    feature: bark
+  - description: thick
+    feature: bark
+  - description: 7-15
+    feature: buds
+  - description: club-shaped
+    feature: buds
+  - description: groups-of-7-19
+    feature: buds
+  - description: on-thick-stalk
+    feature: buds
+  - description: warty
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: white
+    feature: flower
+  - description: summer-early-autumn
+    feature: flowering-time
+  - description: hard
+    feature: fruit
+  - description: sunken-valves
+    feature: fruit
+  - description: wineglass-shaped
+    feature: fruit
+  - description: tree
+    feature: habit
+  - description: 2-90m
+    feature: height
+  - description: broadly-oval
+    feature: juvenile-leaf
+  - description: glossy
+    feature: juvenile-leaf
+  - description: hanging
+    feature: juvenile-leaf
+  - description: pairs
+    feature: juvenile-leaf
+  - description: oblique
+    feature: leaf
+  - description: oblique
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: green
+    feature: leaf-colour
+  - description: glossy
+    feature: leaf-surface
+  - description: 15-35cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036bda
+  vba: '501304'

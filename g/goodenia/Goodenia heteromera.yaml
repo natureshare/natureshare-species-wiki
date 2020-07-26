@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - Spreading Goodenia
+classification:
+  - name: goodeniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: absent
+    feature: bracteoles
+  - description: seasonally-wet-often-riverine
+    feature: distribution
+  - description: solitary-or-multiples-per-stem
+    feature: flowers
+  - description: forming-mats-to-2m-wide
+    feature: habit
+  - description: herb
+    feature: habit
+  - description: spreading
+    feature: habit
+  - description: to-20cm-with-basal-rosette
+    feature: height
+  - description: oblanceolate-to-obovate
+    feature: leaf
+  - description: absent
+    feature: stem-leaves
+id:
+  ns: 53b398e8e35eb12984036db8
+  vba: '501502'

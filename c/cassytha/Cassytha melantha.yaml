@@ -1,0 +1,51 @@
+updated_by: chrisl
+common_names:
+  - Coarse Dodder-laurel
+classification:
+  - name: lauraceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - parasite
+  - plant
+features:
+  - description: covered-with-black-hairs
+    feature: buds
+  - description: spike
+    feature: flower
+  - description: tiny
+    feature: flower
+  - description: white
+    feature: flower
+  - description: winter-mid-spring
+    feature: flowering-time
+  - description: black
+    feature: fruit
+  - description: drupe
+    feature: fruit
+  - description: green
+    feature: fruit
+  - description: streaked-blackish
+    feature: fruit
+  - description: to-1cm-diam
+    feature: fruit
+  - description: climber-twiner
+    feature: habit
+  - description: parasitic
+    feature: habit
+  - description: often-eucalyptus
+    feature: host-plant
+  - description: leafless
+    feature: leaf
+  - description: '3'
+    feature: number-of-petals
+  - description: '3'
+    feature: petals
+  - description: '9'
+    feature: stamens
+  - description: glabrous
+    feature: stem
+id:
+  ns: 53b398e6e35eb12984036723
+  vba: '500672'

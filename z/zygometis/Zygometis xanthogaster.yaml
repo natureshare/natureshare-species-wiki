@@ -1,0 +1,25 @@
+created_by: chrisl
+updated_by: chrisl
+synonyms:
+  - Diaea lactea
+  - Diaea xanthogaster
+  - Zygometis lactea
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Thomisidae
+    rank: family
+  - name: Araneomorphae
+    rank: infraorder
+  - name: Animalia
+    rank: kingdom
+  - name: Araneae
+    rank: order
+  - name: Arthropoda
+    rank: phylum
+  - name: Chelicerata
+    rank: subphylum
+categories:
+  - spider
+id:
+  ns: 54b100ebed2a896272000036

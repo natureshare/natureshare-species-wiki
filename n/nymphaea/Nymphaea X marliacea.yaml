@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Waterlily 'Marliacea Chromatella'
+classification:
+  - name: nymphaeaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: aquatic
+    feature: habitat
+id:
+  ns: 53b398e9e35eb12984037370
+  vba: '507091'

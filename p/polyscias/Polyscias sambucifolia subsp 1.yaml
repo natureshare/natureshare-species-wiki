@@ -1,0 +1,24 @@
+updated_by: chrisl
+common_names:
+  - Broad-leaf Panax
+classification:
+  - name: araliaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: once-pinnate
+    feature: leaf
+  - description: sessile
+    feature: leaf
+  - description: 9-20cm-rarely-6cm
+    feature: leaflet-length
+  - description: less-than-5
+    feature: leaflet-pairs
+  - description: 3-17cm-rarely-2cm
+    feature: leaflet-width
+id:
+  ns: 53b398e9e35eb12984037634
+  vba: '504634'

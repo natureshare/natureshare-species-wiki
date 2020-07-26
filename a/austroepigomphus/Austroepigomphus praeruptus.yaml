@@ -1,0 +1,18 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Gomphidae
+    rank: family
+  - name: Odonata
+    rank: order
+  - name: Austroepigomphus
+    rank: subgenus
+  - name: Anisoptera
+    rank: suborder
+categories:
+  - dragonfly-and-damselfly
+  - dragonfly-proper
+  - insect
+id:
+  ns: 53b398ebe35eb12984037e7a

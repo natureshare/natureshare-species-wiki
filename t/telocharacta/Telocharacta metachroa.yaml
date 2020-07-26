@@ -1,0 +1,19 @@
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Lepidoptera
+    rank: Order
+  - name: Oecophorinae
+    rank: Subfamily
+  - name: Gelechioidea
+    rank: Superfamily
+  - name: Philobota-group
+    rank: Supertribe
+  - name: Oecophoridae
+    rank: family
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f1e35eb12984039786

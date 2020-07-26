@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Sweet Onion-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: orchid
+    feature: flower
+  - description: green
+    feature: flower-colour
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e9e35eb129840372a3
+  vba: '502188'

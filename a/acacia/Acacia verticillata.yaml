@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - Prickly Moses
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - provisional-name
+  - wattle
+features:
+  - description: cluster
+    feature: flower
+  - description: spike-like
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+  - description: large-shrub
+    feature: habit
+  - description: tall-shrub
+    feature: habit
+  - description: prickly
+    feature: leaf
+  - description: whorled
+    feature: leaf
+id:
+  ns: 53b398e5e35eb1298403621b
+  vba: '500100'

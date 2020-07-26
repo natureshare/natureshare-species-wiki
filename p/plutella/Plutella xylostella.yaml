@@ -1,0 +1,21 @@
+updated_by: koolah
+common_names:
+  - Cabbage Moth
+  - Diamond Back
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Plutellidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Plutellinae
+    rank: Subfamily
+  - name: Yponomeutoidea
+    rank: Superfamily
+categories:
+  - fauna-introduced
+  - insect
+  - moth
+id:
+  ns: 53b398f2e35eb12984039f2b

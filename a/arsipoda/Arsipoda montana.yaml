@@ -1,0 +1,20 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Chrysomelidae
+    rank: Family
+  - name: Coleoptera
+    rank: Order
+  - name: Galerucinae
+    rank: subfamily
+  - name: Chrysomeloidea
+    rank: superfamily
+  - name: Alticini
+    rank: tribe
+categories:
+  - insect
+  - leaf-beetle
+id:
+  ns: 5a867f7fed2a89def70033aa

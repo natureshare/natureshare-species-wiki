@@ -1,0 +1,19 @@
+updated_by: david_francis
+common_names:
+  - Golden-haired Firetail
+  - Orange and Black Cicada
+synonyms:
+  - Cicadetta abdominalis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Cicadidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - cicada
+  - hopper
+  - insect
+id:
+  ns: 53b398efe35eb12984039045

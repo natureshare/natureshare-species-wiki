@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Pelecorhynchidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+  - horse-fly
+  - insect
+id:
+  ns: 54e28489ed2a89d990000339

@@ -1,0 +1,47 @@
+updated_by: chrisl
+common_names:
+  - Scented Bush-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - ffg
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+  - description: orange-blotch
+    feature: flower-colour
+  - description: shrub
+    feature: habit
+  - description: to-2m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: opposite
+    feature: leaf-arrangement
+  - description: 2-20mm
+    feature: leaf-length
+  - description: greater-than-2mm
+    feature: leaf-length
+  - description: less-than-20mm
+    feature: leaf-length
+  - description: 1-5mm
+    feature: leaf-width
+  - description: up-to-5mm
+    feature: leaf-width
+  - description: 6-7mm
+    feature: seedpod-length
+  - description: greater-than-5mm
+    feature: seedpod-length
+  - description: less-than-10mm
+    feature: seedpod-length
+  - description: '2'
+    feature: seeds
+id:
+  ns: 53b398eae35eb129840377c1
+  vba: '502849'

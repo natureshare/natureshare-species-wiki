@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Paxillaceae
+    rank: family
+  - name: Boletales
+    rank: order
+categories:
+  - fungi
+  - provisional-name
+id:
+  ns: 53b398f4e35eb1298403a990

@@ -1,0 +1,19 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Bruised Pinkgill
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Entolomataceae
+    rank: family
+  - name: Fungi
+    rank: kingdom
+  - name: Agaricales
+    rank: order
+  - name: Basidiomycota
+    rank: phylum
+categories:
+  - fungi
+id:
+  ns: 5b833dffed2a89a7f1008b76

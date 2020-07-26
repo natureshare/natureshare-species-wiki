@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Pucciniomycetes
+    rank: class
+  - name: Pileolariaceae
+    rank: family
+  - name: Pucciniales
+    rank: order
+categories:
+  - fungi
+  - provisional-name
+id:
+  ns: 53b398f4e35eb1298403a9bb

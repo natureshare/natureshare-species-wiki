@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - Cotton Plant Bug
+  - False Stainer
+classification:
+  - name: Insecta
+    rank: class
+  - name: Coreidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - insect
+  - true-bug
+id:
+  ns: 53b398efe35eb12984039081

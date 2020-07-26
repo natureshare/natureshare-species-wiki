@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Sitona Weevil
+classification:
+  - name: Insecta
+    rank: class
+  - name: Curculionidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - insect
+  - weevil
+id:
+  ns: 590e990eed2a893d8c0025d9

@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Twospine Blackfish
+classification:
+  - name: Actinopterygii
+    rank: class
+  - name: Percichthyidae
+    rank: family
+  - name: Perciformes
+    rank: order
+categories:
+  - fish
+id:
+  ns: 54c610cded2a8980b7000007

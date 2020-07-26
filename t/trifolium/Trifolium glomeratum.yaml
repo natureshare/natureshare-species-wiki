@@ -1,0 +1,46 @@
+updated_by: chrisl
+common_names:
+  - Cluster Clover
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - weed
+features:
+  - description: cluster
+    feature: flower
+  - description: pea
+    feature: flower
+  - description: apricot
+    feature: flower-colour
+  - description: reddish-brown
+    feature: flower-colour
+  - description: low-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-1m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 2-5mm
+    feature: leaf-length
+  - description: less-than-5mm
+    feature: leaf-length
+  - description: 15mm
+    feature: seedpod-length
+  - description: less-than-15mm
+    feature: seedpod-length
+  - description: up-to-15mm
+    feature: seedpod-length
+  - description: 10mm
+    feature: seedpod-width
+  - description: up-to-10mm
+    feature: seedpod-width
+id:
+  ns: 53b398ebe35eb12984037c4f
+  vba: '503429'

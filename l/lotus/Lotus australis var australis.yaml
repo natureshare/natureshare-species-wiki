@@ -1,0 +1,52 @@
+updated_by: chrisl
+common_names:
+  - Austral Trefoil
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: spinescent
+    feature: branches
+  - description: pea
+    feature: flower
+  - description: red-veined
+    feature: flower-colour
+  - description: shrub
+    feature: habit
+  - description: small-shrub
+    feature: habit
+  - description: 04-15m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 1-10mm
+    feature: leaf-length
+  - description: less-than-10mm
+    feature: leaf-length
+  - description: less-than-5mm
+    feature: leaf-length
+  - description: 05mm
+    feature: leaf-width
+  - description: up-to-05mm
+    feature: leaf-width
+  - description: 5-7mm
+    feature: seedpod-length
+  - description: greater-than-5mm
+    feature: seedpod-length
+  - description: less-than-10mm
+    feature: seedpod-length
+  - description: 3-4mm
+    feature: seedpod-width
+  - description: up-to-4mm
+    feature: seedpod-width
+  - description: '2'
+    feature: seeds
+id:
+  ns: 53b398e9e35eb129840371b2
+  vba: '502057'

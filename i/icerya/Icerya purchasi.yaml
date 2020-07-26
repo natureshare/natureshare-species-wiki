@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Cottony Cushion Scale
+classification:
+  - name: Insecta
+    rank: class
+  - name: Monophlebidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - scale-insect
+id:
+  ns: 5881a61ced2a89f46400331e

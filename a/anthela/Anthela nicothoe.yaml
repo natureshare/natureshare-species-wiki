@@ -1,0 +1,19 @@
+updated_by: koolah
+common_names:
+  - Urticating Anthelid
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Anthelidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Anthelinae
+    rank: Subfamily
+  - name: Bombycoidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398ebe35eb12984037e18

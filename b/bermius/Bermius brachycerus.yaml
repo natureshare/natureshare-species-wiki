@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Garden Bermius
+classification:
+  - name: Insecta
+    rank: class
+  - name: Acrididae
+    rank: family
+  - name: Orthoptera
+    rank: order
+  - name: Oxyinae
+    rank: subfamily
+  - name: Caelifera
+    rank: suborder
+  - name: Oxyini
+    rank: tribe
+categories:
+  - grasshopper
+  - insect
+id:
+  ns: 53b398ece35eb12984038050

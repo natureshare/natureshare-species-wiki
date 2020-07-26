@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Satin Daisy-bush
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: white-to-pale-mauve
+    feature: flower
+id:
+  ns: 53b398e9e35eb1298403739a
+  vba: '504130'

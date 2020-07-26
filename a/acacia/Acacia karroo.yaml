@@ -1,0 +1,25 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Karoo Thorn
+synonyms:
+  - Vachellia karroo
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - wattle
+  - weed
+features:
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+id:
+  ns: 54e20fc6ed2a8987b700027d
+  vba: '507299'

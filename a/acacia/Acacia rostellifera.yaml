@@ -1,0 +1,23 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Summer-scented Wattle
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - wattle
+  - weed
+features:
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+id:
+  ns: 54e207a3ed2a89d99000030a
+  vba: '507790'

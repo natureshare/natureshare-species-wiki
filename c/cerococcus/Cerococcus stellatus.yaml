@@ -1,0 +1,15 @@
+updated_by: chrisl
+common_names:
+  - Star Scale
+classification:
+  - name: Insecta
+    rank: class
+  - name: Cerococcidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - insect
+  - scale-insect
+id:
+  ns: 53b398efe35eb12984038f6a

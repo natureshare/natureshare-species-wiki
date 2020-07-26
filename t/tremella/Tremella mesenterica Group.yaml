@@ -1,0 +1,19 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Golden Jelly Fungus
+  - Witches Butter
+  - Yellow Brain
+classification:
+  - name: Tremellomycetes
+    rank: class
+  - name: Tremellaceae
+    rank: family
+  - name: Tremellales
+    rank: order
+categories:
+  - fungi
+  - fungimap
+  - provisional-name
+id:
+  ns: 53d3297ee35eb1b0f600000f

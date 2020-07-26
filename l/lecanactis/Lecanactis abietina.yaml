@@ -1,0 +1,15 @@
+updated_by: chrisl
+common_names:
+  - Old Wood Rimmed Lichen
+classification:
+  - name: Arthoniomycetes
+    rank: class
+  - name: Roccellaceae
+    rank: family
+  - name: Arthoniales
+    rank: order
+categories:
+  - fungi
+  - lichen
+id:
+  ns: 53b398f4e35eb1298403a602

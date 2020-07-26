@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Madeira Winter-cherry
+classification:
+  - name: solanaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: white
+    feature: flower
+  - description: orange
+    feature: fruit
+  - description: poisonous
+    feature: fruit
+  - description: red
+    feature: fruit
+id:
+  ns: 53b398eae35eb12984037a78
+  vba: '503187'

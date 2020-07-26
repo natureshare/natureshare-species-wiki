@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Peppertop Sun-orchid
+  - Short-leaved Sun-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398ebe35eb12984037ba7
+  vba: '505916'

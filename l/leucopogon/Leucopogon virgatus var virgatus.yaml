@@ -1,0 +1,44 @@
+updated_by: chrisl
+common_names:
+  - Common Beard-heath
+classification:
+  - name: epacridaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: bearded
+    feature: flower
+  - description: hairy
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: white
+    feature: flower
+  - description: mid-winter-mid-spring
+    feature: flowering-time
+  - description: low-shrub
+    feature: habit
+  - description: dark-green
+    feature: leaf
+  - description: lanceolate-to-narrow-lanceolate
+    feature: leaf
+  - description: sharp-point
+    feature: leaf
+  - description: to-1cm
+    feature: leaf
+  - description: usually-glabrous
+    feature: leaf
+  - description: acuminate-pungent
+    feature: leaf-apex
+  - description: mostly-7mm-or-longer
+    feature: leaf-length
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e8e35eb12984037135
+  vba: '504391'

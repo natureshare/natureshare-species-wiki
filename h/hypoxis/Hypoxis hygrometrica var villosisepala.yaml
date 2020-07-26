@@ -1,0 +1,31 @@
+updated_by: chrisl
+common_names:
+  - Golden Weather-glass
+classification:
+  - name: hypoxidaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+features:
+  - description: petalled
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: hairy
+    feature: leaf
+  - description: '6'
+    feature: number-of-petals
+  - description: '6'
+    feature: petals
+  - description: hair-on-leaves
+    feature: plant
+  - description: hairy
+    feature: stem
+id:
+  ns: 53b398e8e35eb12984036f6a
+  vba: '504591'

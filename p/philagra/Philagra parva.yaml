@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Common Spittlebug
+classification:
+  - name: Insecta
+    rank: class
+  - name: Cercopidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - true-bug
+id:
+  ns: 5a9a5700ed2a896baf0003a3

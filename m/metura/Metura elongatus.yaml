@@ -1,0 +1,31 @@
+updated_by: chrisl
+common_names:
+  - Saunders Case Moth
+  - Saunders' Case Moth
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: Psychidae
+    rank: family
+  - name: lepidoptera
+    rank: order
+categories:
+  - insect
+  - moth
+features:
+  - description: orange
+    feature: body
+  - description: orange
+    feature: head-hair
+  - description: black
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398f2e35eb12984039d26

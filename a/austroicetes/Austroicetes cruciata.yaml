@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Small Plague Grasshopper
+  - Small Plague Locust
+classification:
+  - name: Insecta
+    rank: class
+  - name: Acrididae
+    rank: family
+  - name: Orthoptera
+    rank: order
+  - name: Acridinae
+    rank: subfamily
+  - name: Caelifera
+    rank: suborder
+  - name: Oedipodini
+    rank: tribe
+categories:
+  - grasshopper
+  - insect
+id:
+  ns: 53b398ece35eb1298403808b

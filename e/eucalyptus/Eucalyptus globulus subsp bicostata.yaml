@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Eurabbie
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: in-3s
+    feature: buds
+  - description: pedicel-absent
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036bb3
+  vba: '501283'

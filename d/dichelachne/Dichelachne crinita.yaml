@@ -1,0 +1,39 @@
+updated_by: chrisl
+common_names:
+  - Long-hair Plume-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+features:
+  - description: grass
+    feature: flower
+  - description: spike
+    feature: flower
+  - description: 50-100cm
+    feature: flower-stalk
+  - description: spring-summer
+    feature: flowering-time
+  - description: grass
+    feature: habit
+  - description: tuft
+    feature: habit
+  - description: blue-green
+    feature: leaf
+  - description: green
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+  - description: to-20cm
+    feature: leaf
+  - description: tufted
+    feature: leaf
+id:
+  ns: 53b398e7e35eb129840369cc
+  vba: '501033'

@@ -1,0 +1,26 @@
+updated_by: david_francis
+common_names:
+  - Brown-clubbed Spider-orchid (large form)
+  - Small Spider-orchid (small form)
+synonyms:
+  - Caladenia phaeoclavia
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: orchid
+    feature: flower
+  - description: red
+    feature: flower
+  - description: purple
+    feature: flower-colour
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e6e35eb12984036619
+  vba: '504344'

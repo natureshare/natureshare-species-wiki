@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Arthoniomycetes
+    rank: class
+  - name: Arthoniaceae
+    rank: family
+  - name: Arthoniales
+    rank: order
+categories:
+  - fungi
+  - lichen
+id:
+  ns: 53b398f3e35eb1298403a437

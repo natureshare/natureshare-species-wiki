@@ -1,0 +1,18 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Gelechiidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Chelariinae
+    rank: Subfamily
+  - name: Gelechioidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5d69ca85cad3eb4c5500007d

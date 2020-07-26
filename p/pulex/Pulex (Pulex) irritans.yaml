@@ -1,0 +1,15 @@
+updated_by: chrisl
+common_names:
+  - Human Flea
+classification:
+  - name: Insecta
+    rank: class
+  - name: Pulicidae
+    rank: family
+  - name: Siphonaptera
+    rank: order
+categories:
+  - flea
+  - insect
+id:
+  ns: 53b398f1e35eb12984039ae5

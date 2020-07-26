@@ -1,0 +1,15 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Agaricomycetes
+    rank: Class
+  - name: Cortinariaceae
+    rank: Family
+  - name: Agaricales
+    rank: Order
+  - name: Agaricomycetidae
+    rank: subclass
+categories:
+  - fungi
+id:
+  ns: 5b627134ed2a89a7f10004e6

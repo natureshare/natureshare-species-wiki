@@ -1,0 +1,14 @@
+updated_by: chrisl
+common_names:
+  - Violet Bramble Rust
+classification:
+  - name: Pucciniomycetes
+    rank: class
+  - name: Phragmidiaceae
+    rank: family
+  - name: Pucciniales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 53b398f4e35eb1298403a757

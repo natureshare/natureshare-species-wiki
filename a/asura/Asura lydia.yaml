@@ -1,0 +1,22 @@
+updated_by: koolah
+common_names:
+  - Lydia Lichen Moth
+  - Lydia Moth
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Erebidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Arctiinae
+    rank: Subfamily
+  - name: Noctuoidea
+    rank: Superfamily
+  - name: Lithosiinae
+    rank: Tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398ece35eb12984038140

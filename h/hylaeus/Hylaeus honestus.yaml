@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Colletidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+  - name: Euprosopis
+    rank: subgenus
+categories:
+  - insect
+  - wasp
+id:
+  ns: 5426a9ffe35eb16af9000172

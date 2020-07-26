@@ -1,0 +1,34 @@
+updated_by: koolah
+common_names:
+  - Varied Grey
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Geometrinae
+    rank: Subfamily
+  - name: Geometroidea
+    rank: Subfamily
+  - name: Geometrini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+features:
+  - description: black
+    feature: wing
+  - description: brown
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: black
+    feature: wing-lines
+id:
+  ns: 53b398f2e35eb12984039e69

@@ -1,0 +1,26 @@
+updated_by: chrisl
+common_names:
+  - Dwarf Geebung
+classification:
+  - name: proteaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: petalled
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: green
+    feature: fruit
+  - description: low-shrub
+    feature: habit
+  - description: '4'
+    feature: number-of-petals
+  - description: '4'
+    feature: petals
+id:
+  ns: 53b398e9e35eb129840374c3
+  vba: '502470'

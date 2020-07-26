@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Plains Joyweed
+classification:
+  - name: amaranthaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: short-oval-shaped-or-roundish
+    feature: leaf
+id:
+  ns: 53b398e6e35eb129840362f1
+  vba: '505096'

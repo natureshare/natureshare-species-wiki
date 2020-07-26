@@ -1,0 +1,23 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Fissure Weed
+  - Hairy Bluebush
+  - Hairy Fissure-weed
+classification:
+  - name: chenopodiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: hairy
+    feature: fruit
+  - description: prostrate
+    feature: habit
+  - description: spreading
+    feature: habit
+id:
+  ns: 5431f172e35eb1bae0000011

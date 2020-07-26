@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - Privet Mock-olive
+classification:
+  - name: oleaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: obscure-or-not-visible
+    feature: leaf-veins
+id:
+  ns: 53b398e9e35eb1298403735f
+  vba: '502280'

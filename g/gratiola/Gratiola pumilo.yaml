@@ -1,0 +1,25 @@
+updated_by: chrisl
+common_names:
+  - Dwarf Brooklime
+classification:
+  - name: veronicaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: tubular
+    feature: flower
+  - description: white
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: 1-8mm
+    feature: leaf-width
+  - description: 0-7mm-rarely-9mm
+    feature: pedicel
+id:
+  ns: 53b398e8e35eb12984036dd6
+  vba: '503753'

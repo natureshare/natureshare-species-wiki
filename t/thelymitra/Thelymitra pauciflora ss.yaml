@@ -1,0 +1,37 @@
+updated_by: chrisl
+common_names:
+  - Slender Sun-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: orchid
+    feature: flower
+  - description: pale-purple
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: raceme
+    feature: flower
+  - description: blue
+    feature: flower-colour
+  - description: late-winter-mid-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: thick-linear
+    feature: leaf
+  - description: to-30cm
+    feature: leaf
+  - description: '6'
+    feature: number-of-petals
+  - description: '6'
+    feature: petals
+id:
+  ns: 53b398ebe35eb12984037bc7
+  vba: '505013'

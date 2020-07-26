@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Trefoil Pennywort
+classification:
+  - name: apiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: 2-3mm-diameter
+    feature: flowerhead
+  - description: 6-12-rarely-3-to-5
+    feature: flowers
+  - description: divided
+    feature: leaf
+  - description: '3'
+    feature: leaflets
+id:
+  ns: 53b398e8e35eb12984036f22
+  vba: '501724'

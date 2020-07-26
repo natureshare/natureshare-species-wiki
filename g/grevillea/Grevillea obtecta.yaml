@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Fryerstown Grevillea
+classification:
+  - name: proteaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: hairy
+    feature: buds
+  - description: groundcover
+    feature: habit
+id:
+  ns: 53b398e8e35eb12984036e04
+  vba: '503745'

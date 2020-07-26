@@ -1,0 +1,18 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Common Whistling Moth
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: Noctuidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+categories:
+  - insect
+  - moth
+id:
+  ns: 54c7316bed2a897151000084

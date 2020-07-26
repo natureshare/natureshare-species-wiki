@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Bush Plum
+  - Northern Sandalwood
+classification:
+  - name: santalaceae
+    rank: family
+categories:
+  - dicotyledon
+  - ffg
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: pendulous
+    feature: branchlets
+  - description: purple
+    feature: fruit
+id:
+  ns: 53b398eae35eb1298403793b
+  vba: '503005'

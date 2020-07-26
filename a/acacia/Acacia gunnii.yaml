@@ -1,0 +1,29 @@
+updated_by: chrisl
+common_names:
+  - Ploughshare Wattle
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - wattle
+features:
+  - description: cluster
+    feature: flower
+  - description: red
+    feature: flower-colour
+  - description: yellow
+    feature: flower-colour
+  - description: low-shrub
+    feature: habit
+  - description: prickly
+    feature: leaf
+  - description: triangular
+    feature: leaf
+id:
+  ns: 53b398e5e35eb129840361c0
+  vba: '500041'

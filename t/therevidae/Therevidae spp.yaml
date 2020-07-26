@@ -1,0 +1,16 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Stilletto Fly
+classification:
+  - name: Insecta
+    rank: class
+  - name: Therevidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+  - insect
+id:
+  ns: 54cb5794ed2a89715100029e

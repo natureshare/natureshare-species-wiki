@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Cricket
+classification:
+  - name: Insecta
+    rank: class
+  - name: Gryllidae
+    rank: family
+  - name: Orthoptera
+    rank: order
+  - name: Ensifera
+    rank: suborder
+categories:
+  - cricket
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb12984038130

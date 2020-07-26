@@ -1,0 +1,12 @@
+updated_by: chrisl
+common_names:
+  - Chytrid Frog Fungi
+classification:
+  - name: Chytridiomycetes
+    rank: class
+  - name: Rhizophydiales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 53b398f3e35eb1298403a44a

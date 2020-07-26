@@ -1,0 +1,41 @@
+updated_by: chrisl
+common_names:
+  - Chaffy Bush-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: pea
+    feature: flower
+  - description: orange-yellow
+    feature: flower-colour
+  - description: red
+    feature: flower-colour
+  - description: low-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-1m
+    feature: height
+  - description: opposite
+    feature: leaf-arrangement
+  - description: 10-30mm
+    feature: leaf-length
+  - description: greater-than-10mm
+    feature: leaf-length
+  - description: less-than-50mm
+    feature: leaf-length
+  - description: 6-38mm
+    feature: leaf-width
+  - description: greater-than-5mm
+    feature: leaf-width
+  - description: less-than-40mm
+    feature: leaf-width
+id:
+  ns: 53b398eae35eb129840377e0
+  vba: '504862'

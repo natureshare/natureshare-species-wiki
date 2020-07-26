@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Leafless Bluebush
+classification:
+  - name: chenopodiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: leafless
+    feature: leaf
+id:
+  ns: 53b398e9e35eb129840371f8
+  vba: '502096'

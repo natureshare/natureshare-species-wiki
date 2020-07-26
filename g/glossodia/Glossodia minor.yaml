@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Small Wax-lip Orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e8e35eb12984036d77
+  vba: '501446'

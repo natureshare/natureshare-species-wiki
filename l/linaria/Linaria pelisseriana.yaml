@@ -1,0 +1,27 @@
+updated_by: chrisl
+common_names:
+  - Pelisser's Toad-flax
+classification:
+  - name: veronicaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: 2-lipped
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: tubular
+    feature: flower
+  - description: violet
+    feature: flower
+  - description: slender-herb
+    feature: habit
+  - description: alternate
+    feature: leaves
+id:
+  ns: 53b398e9e35eb12984037158
+  vba: '502012'

@@ -1,0 +1,14 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Calocidae
+    rank: family
+  - name: Trichoptera
+    rank: order
+categories:
+  - caddisfly
+  - insect
+  - provisional-name
+id:
+  ns: 53b398f1e35eb12984039b9e

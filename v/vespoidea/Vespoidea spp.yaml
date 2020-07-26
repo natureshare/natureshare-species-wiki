@@ -1,0 +1,16 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Hymenoptera
+    rank: order
+  - name: Apocrita
+    rank: suborder
+  - name: Vespoidea
+    rank: superfamily
+categories:
+  - insect
+  - provisional-name
+  - wasp
+id:
+  ns: 53b398ece35eb129840380ff

@@ -1,0 +1,36 @@
+updated_by: chrisl
+common_names:
+  - Manuka
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: white
+    feature: flower-colour
+  - description: shrub
+    feature: habit
+  - description: tree
+    feature: habit
+  - description: to-5m
+    feature: height
+  - description: broadest-near-middle
+    feature: leaf
+  - description: narrow-elliptic-to-circular
+    feature: leaf
+  - description: 7-22mm
+    feature: leaf-length
+  - description: prickly
+    feature: leaf-tip
+  - description: 2-7mm
+    feature: leaf-width
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e8e35eb129840370fc
+  vba: '501965'

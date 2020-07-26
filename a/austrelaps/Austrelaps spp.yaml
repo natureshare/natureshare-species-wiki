@@ -1,0 +1,12 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Copperhead
+classification:
+  - name: elapidae
+    rank: family
+categories:
+  - reptile
+  - snake
+id:
+  ns: 5546b29eed2a899c79000328

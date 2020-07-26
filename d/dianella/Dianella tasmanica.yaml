@@ -1,0 +1,53 @@
+updated_by: chrisl
+common_names:
+  - Tasman Flax-lily
+classification:
+  - name: hemerocallidaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+features:
+  - description: brown
+    feature: anther
+  - description: yellow
+    feature: anther
+  - description: blue
+    feature: flower
+  - description: cluster
+    feature: flower
+  - description: mauve
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: fleshy
+    feature: fruit
+  - description: purple
+    feature: fruit
+  - description: spreading
+    feature: habit
+  - description: tufted
+    feature: habit
+  - description: serrated-margin
+    feature: leaf
+  - description: strappy
+    feature: leaf
+  - description: to-1m
+    feature: leaf
+  - description: unstalked
+    feature: leaf
+  - description: often-2cm-or-more
+    feature: leaf-width
+  - description: '6'
+    feature: number-of-petals
+  - description: blue
+    feature: petal
+  - description: '6'
+    feature: petals
+id:
+  ns: 53b398e7e35eb129840369c7
+  vba: '501030'

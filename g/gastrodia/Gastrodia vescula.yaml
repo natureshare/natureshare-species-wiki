@@ -1,0 +1,30 @@
+updated_by: chrisl
+common_names:
+  - Small Potato-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: brown
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: tubular
+    feature: flower
+  - description: white
+    feature: flower
+  - description: 1-3
+    feature: flowers
+  - description: herb
+    feature: habit
+  - description: 5-20cm
+    feature: height
+id:
+  ns: 53b398e8e35eb12984036d11
+  vba: '504502'

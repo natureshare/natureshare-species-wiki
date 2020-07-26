@@ -1,0 +1,19 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Southern/Slender Tick-trefoil species aggregate
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - provisional-name
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 54a3a6b5e35eb106b8000029
+  vba: '507821'

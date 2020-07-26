@@ -1,0 +1,37 @@
+updated_by: chrisl
+common_names:
+  - Gold-dust Wattle
+synonyms:
+  - Acacia rotundifolia
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - wattle
+features:
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+  - description: late-winter-spring
+    feature: flowering-time
+  - description: spreading-shrub
+    feature: habit
+  - description: glabrous
+    feature: leaf
+  - description: short
+    feature: leaf
+  - description: brittle
+    feature: seedpod
+  - description: irregularly-twisted
+    feature: seedpod
+  - description: spiral-coil
+    feature: seedpod
+id:
+  ns: 53b398e5e35eb1298403618c
+  vba: '504778'

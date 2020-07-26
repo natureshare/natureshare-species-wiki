@@ -1,0 +1,17 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Twiggy Guinea-flower
+classification:
+  - name: dilleniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: alternate
+    feature: leaf-arrangement
+id:
+  ns: 54a2263ee35eb17180000015
+  vba: '504597'

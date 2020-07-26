@@ -1,0 +1,29 @@
+updated_by: chrisl
+common_names:
+  - Eltham Copper
+classification:
+  - name: Insecta
+    rank: class
+  - name: Lycaenidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Papilionoidea
+    rank: superfamily
+categories:
+  - butterfly
+  - ffg
+  - insect
+features:
+  - description: brown
+    feature: wing
+  - description: copper
+    feature: wing
+  - description: orange
+    feature: wing
+  - description: red
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ece35eb1298403801d

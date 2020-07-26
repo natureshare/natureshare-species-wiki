@@ -1,0 +1,19 @@
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Pyralidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Pyralinae
+    rank: Subfamily
+  - name: Pyraloidea
+    rank: Superfamily
+  - name: Pyralini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f2e35eb12984039f2d

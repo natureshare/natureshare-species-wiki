@@ -1,0 +1,46 @@
+updated_by: chrisl
+common_names:
+  - Mueller's Bush-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - pea
+  - plant
+features:
+  - description: spines
+    feature: branches
+  - description: pea
+    feature: flower
+  - description: medium-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-15m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 3-6mm
+    feature: leaf-length
+  - description: less-than-10mm
+    feature: leaf-length
+  - description: less-than-5mm
+    feature: leaf-length
+  - description: 3-6mm
+    feature: leaf-width
+  - description: greater-than-2mm
+    feature: leaf-width
+  - description: up-to-6mm
+    feature: leaf-width
+  - description: 15-20mm
+    feature: seedpod-length
+  - description: greater-than-15mm
+    feature: seedpod-length
+  - description: less-than-20mm
+    feature: seedpod-length
+id:
+  ns: 53b398eae35eb129840377d2
+  vba: '504859'

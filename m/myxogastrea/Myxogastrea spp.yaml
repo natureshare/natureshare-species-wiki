@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Plasmodial Slime-moulds
+classification:
+  - name: Myxogastrea
+    rank: class
+  - name: Amoebozoa
+    rank: phylum
+  - name: Mycetozoa
+    rank: subphylum
+categories:
+  - slime-mould
+id:
+  ns: 591e4c6fed2a897195000006

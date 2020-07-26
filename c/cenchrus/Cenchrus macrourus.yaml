@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - African Feather-grass
+synonyms:
+  - Pennisetum macrourum
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - weed
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398e9e35eb129840374ab
+  vba: '502452'

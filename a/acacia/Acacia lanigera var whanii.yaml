@@ -1,0 +1,24 @@
+updated_by: chrisl
+common_names:
+  - Woolly Wattle
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - wattle
+features:
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+  - description: low-shrub
+    feature: habit
+id:
+  ns: 53b398e5e35eb129840361ce
+  vba: '505094'

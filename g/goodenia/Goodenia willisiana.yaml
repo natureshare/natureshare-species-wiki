@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - Sandhill Goodenia
+classification:
+  - name: goodeniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: shorter-than-leaves-or-equal
+    feature: stem-length
+id:
+  ns: 53b398e8e35eb12984036dc8
+  vba: '501492'

@@ -1,0 +1,20 @@
+updated_by: david_francis
+common_names:
+  - Blackish Blind Snake
+  - Gray's Blind Snake
+synonyms:
+  - Ramphotyphlops nigrescens
+classification:
+  - name: Reptilia
+    rank: class
+  - name: typhlopidae
+    rank: family
+  - name: Squamata
+    rank: order
+categories:
+  - animal
+  - fauna
+  - reptile
+  - snake
+id:
+  ns: 53b398e5e35eb12984035f99

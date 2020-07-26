@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Rough-seed Wire-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - ffg
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - rare-threatened
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398e6e35eb1298403639a
+  vba: '505184'

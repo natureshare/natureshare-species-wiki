@@ -1,0 +1,14 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Glyphipterigidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+categories:
+  - insect
+  - moth
+id:
+  ns: 5a6a8f94ed2a89d02a000a93

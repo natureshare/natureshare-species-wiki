@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - Orange Tit
+  - Silky Hairstreak
+  - Victorian Hairstreak
+classification:
+  - name: Insecta
+    rank: class
+  - name: Lycaenidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Papilionoidea
+    rank: superfamily
+categories:
+  - butterfly
+  - insect
+features:
+  - description: black
+    feature: wing
+  - description: orange
+    feature: wing
+  - description: red
+    feature: wing
+  - description: three-coloured
+    feature: wing
+  - description: white
+    feature: wing
+  - description: yellow
+    feature: wing
+id:
+  ns: 53b398ece35eb12984038020

@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Spreading Bush-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398eae35eb129840377cf
+  vba: '505685'

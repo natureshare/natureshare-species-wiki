@@ -1,0 +1,14 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Bearded Dragon
+classification:
+  - name: agamidae
+    rank: family
+categories:
+  - animal
+  - fauna
+  - lizard
+  - reptile
+id:
+  ns: 554717c2ed2a89dfbc00036a

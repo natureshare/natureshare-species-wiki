@@ -1,0 +1,55 @@
+updated_by: chrisl
+common_names:
+  - Silky Bush-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: pea
+    feature: flower
+  - description: purple
+    feature: flower-colour
+  - description: white
+    feature: flower-colour
+  - description: prostrate
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-2m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 20-100mm
+    feature: leaf-length
+  - description: greater-than-20mm
+    feature: leaf-length
+  - description: up-to-100mm
+    feature: leaf-length
+  - description: 5-60mm
+    feature: leaf-width
+  - description: greater-than-5mm
+    feature: leaf-width
+  - description: less-than-60mm
+    feature: leaf-width
+  - description: 20-45mm
+    feature: seedpod-length
+  - description: greater-than-20mm
+    feature: seedpod-length
+  - description: less-than-50mm
+    feature: seedpod-length
+  - description: 6-10mm
+    feature: seedpod-width
+  - description: greater-than-5mm
+    feature: seedpod-width
+  - description: less-than-10mm
+    feature: seedpod-width
+  - description: 6-to-8
+    feature: seeds
+id:
+  ns: 53b398eae35eb129840377dc
+  vba: '502869'

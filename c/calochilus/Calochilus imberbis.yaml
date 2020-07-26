@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Naked Beard-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: bearded
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e6e35eb12984036675
+  vba: '503670'

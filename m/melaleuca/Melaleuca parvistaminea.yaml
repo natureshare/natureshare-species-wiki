@@ -1,0 +1,31 @@
+updated_by: chrisl
+common_names:
+  - Rough-barked Honey-myrtle
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - native-and-weedy-stands-in-vic
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: cream
+    feature: flower-colour
+  - description: white
+    feature: flower-colour
+  - description: shrub
+    feature: habit
+  - description: tree
+    feature: habit
+  - description: to-5m
+    feature: height
+  - description: 4-11m
+    feature: leaf-length
+  - description: 1mm
+    feature: leaf-width
+id:
+  ns: 53b398e9e35eb12984037255
+  vba: '502154'

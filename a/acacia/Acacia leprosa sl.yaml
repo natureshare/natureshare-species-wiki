@@ -1,0 +1,44 @@
+updated_by: chrisl
+common_names:
+  - Cinnamon Wattle
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - provisional-name
+  - wattle
+features:
+  - description: cluster
+    feature: flower
+  - description: scented
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+  - description: late-winter-early-summer
+    feature: flowering-time
+  - description: medium-shrub
+    feature: habit
+  - description: small-tree
+    feature: habit
+  - description: bright-green
+    feature: leaf
+  - description: scented
+    feature: leaf
+  - description: sticky
+    feature: leaf
+  - description: apex-pointed
+    feature: leaf-apex
+  - description: 3-to-15cm
+    feature: leaf-length
+  - description: one-central
+    feature: leaf-veins
+  - description: to-2.5cm
+    feature: leaf-width
+id:
+  ns: 53b398e5e35eb129840361d0
+  vba: '500049'

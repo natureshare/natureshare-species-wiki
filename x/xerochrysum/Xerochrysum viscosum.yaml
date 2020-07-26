@@ -1,0 +1,34 @@
+updated_by: chrisl
+common_names:
+  - Shiny Everlasting
+  - Sticky Everlasting
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: mucronate
+    feature: bract
+  - description: yellow
+    feature: bract
+  - description: orange
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: sticky
+    feature: leaf
+  - description: many
+    feature: number-of-petals
+  - description: many
+    feature: petals
+id:
+  ns: 53b398ebe35eb12984037da6
+  vba: '501633'

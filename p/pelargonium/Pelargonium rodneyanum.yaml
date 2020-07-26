@@ -1,0 +1,30 @@
+updated_by: chrisl
+common_names:
+  - Magenta Stork's-bill
+classification:
+  - name: geraniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: magenta
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: red
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: lobed
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e9e35eb1298403749e
+  vba: '502448'

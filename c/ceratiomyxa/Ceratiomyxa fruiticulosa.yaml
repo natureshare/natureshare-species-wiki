@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Protostelea
+    rank: class
+  - name: Ceratiomyxaceae
+    rank: family
+  - name: Protostelida
+    rank: order
+  - name: Mycetozoa
+    rank: subphylum
+categories:
+  - fungimap
+  - slime-mould
+id:
+  ns: 54e17eafed2a8987b70001bb

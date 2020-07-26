@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - Thyme Guinea-flower
+classification:
+  - name: dilleniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: alternate
+    feature: leaf-arrangement
+id:
+  ns: 53b398e8e35eb12984036ed0
+  vba: '501678'

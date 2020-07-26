@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Dark Flat-sedge
+classification:
+  - name: cyperaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+  - sedge
+features:
+  - description: 5-80cm
+    feature: culm-height
+id:
+  ns: 53b398e7e35eb1298403693c
+  vba: '500932'

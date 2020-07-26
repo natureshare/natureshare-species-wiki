@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: chrisl
+synonyms:
+  - Metagea punctulativentris
+classification:
+  - name: Insecta
+    rank: class
+  - name: Eucharitidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - insect
+  - wasp
+id:
+  ns: 55f11746ed2a89b06c000505

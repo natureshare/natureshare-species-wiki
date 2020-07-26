@@ -1,0 +1,14 @@
+updated_by: chrisl
+classification:
+  - name: Lecanoromycetes
+    rank: class
+  - name: Acarosporaceae
+    rank: family
+  - name: Acarosporales
+    rank: order
+categories:
+  - fungi
+  - lichen
+  - provisional-name
+id:
+  ns: 53b398f2e35eb12984039fce

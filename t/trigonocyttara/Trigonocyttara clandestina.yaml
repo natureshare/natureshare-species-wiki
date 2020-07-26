@@ -1,0 +1,13 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Psychidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+categories:
+  - moth
+id:
+  ns: 58997ca6ed2a89d10f0033cc

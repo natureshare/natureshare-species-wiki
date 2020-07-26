@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Hydroptilidae
+    rank: family
+  - name: Trichoptera
+    rank: order
+categories:
+  - caddisfly
+  - insect
+id:
+  ns: 53b398f2e35eb12984039be6

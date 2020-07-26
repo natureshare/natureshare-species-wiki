@@ -1,0 +1,52 @@
+updated_by: chrisl
+common_names:
+  - Spotted Medic
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - weed
+features:
+  - description: pea
+    feature: flower
+  - description: red-veined
+    feature: flower-colour
+  - description: large-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-4m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 10-30mm
+    feature: leaf-length
+  - description: greater-than-10mm
+    feature: leaf-length
+  - description: less-than-50mm
+    feature: leaf-length
+  - description: prickly
+    feature: leaf-tip
+  - description: 07-1mm
+    feature: leaf-width
+  - description: up-to-1mm
+    feature: leaf-width
+  - description: 5-7mm
+    feature: seedpod-length
+  - description: greater-than-5mm
+    feature: seedpod-length
+  - description: less-than-10mm
+    feature: seedpod-length
+  - description: 4mm
+    feature: seedpod-width
+  - description: up-to-4mm
+    feature: seedpod-width
+  - description: 1-or-2
+    feature: seeds
+id:
+  ns: 53b398e9e35eb12984037238
+  vba: '502134'

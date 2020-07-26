@@ -1,0 +1,51 @@
+updated_by: chrisl
+common_names:
+  - Rigid Bush-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: ribbed
+    feature: branches
+  - description: pea
+    feature: flower
+  - description: orange
+    feature: flower-colour
+  - description: medium-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-2m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 12mm
+    feature: leaf-length
+  - description: less-than-20mm
+    feature: leaf-length
+  - description: prickly
+    feature: leaf-tip
+  - description: 6mm
+    feature: leaf-width
+  - description: up-to-6mm
+    feature: leaf-width
+  - description: 5-12mm
+    feature: seedpod-length
+  - description: greater-than-5mm
+    feature: seedpod-length
+  - description: less-than-15mm
+    feature: seedpod-length
+  - description: 35-6mm
+    feature: seedpod-width
+  - description: up-to-6mm
+    feature: seedpod-width
+  - description: '1'
+    feature: seeds
+id:
+  ns: 53b398eae35eb129840377e3
+  vba: '502872'

@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Common Duckweed
+classification:
+  - name: lemnaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+features:
+  - description: 1-4mm-long
+    feature: plant
+  - description: elliptic-round-or-broad-obovate
+    feature: plant
+  - description: floats-on-water-surface
+    feature: plant
+  - description: leaf-makes-up-entire-plant
+    feature: plant
+id:
+  ns: 53b398e8e35eb12984037083
+  vba: '501893'

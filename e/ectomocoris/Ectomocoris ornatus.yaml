@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Assassin-bug
+classification:
+  - name: Insecta
+    rank: class
+  - name: Reduviidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - assassin-bug
+id:
+  ns: 5845eab1ed2a8974800071e3

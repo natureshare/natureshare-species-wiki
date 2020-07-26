@@ -1,0 +1,19 @@
+updated_by: koolah
+common_names:
+  - Patterned Gallaba
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Notodontidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Notodontinae
+    rank: Subfamily
+  - name: Noctuoidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f2e35eb12984039dbf

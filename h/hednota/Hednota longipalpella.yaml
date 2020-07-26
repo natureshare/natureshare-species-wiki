@@ -1,0 +1,17 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Pasture Webworm
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Crambidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Crambinae
+    rank: subfamily
+categories:
+  - moth
+id:
+  ns: 58c1688bed2a89389000388f

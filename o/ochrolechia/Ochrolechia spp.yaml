@@ -1,0 +1,14 @@
+updated_by: chrisl
+classification:
+  - name: Lecanoromycetes
+    rank: class
+  - name: Ochrolechiaceae
+    rank: family
+  - name: Pertusariales
+    rank: order
+categories:
+  - fungi
+  - lichen
+  - provisional-name
+id:
+  ns: 53b398f3e35eb1298403a14b

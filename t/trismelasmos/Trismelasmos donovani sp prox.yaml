@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Lepidoptera
+    rank: Order
+  - name: Insecta
+    rank: class
+  - name: COSSIDAE
+    rank: family
+  - name: Zeuzerinae
+    rank: subfamily
+categories:
+  - moth
+  - provisional-name
+id:
+  ns: 5a1f7897ed2a8962be0052c2

@@ -1,0 +1,32 @@
+updated_by: koolah
+common_names:
+  - Tree Lucerne Moth
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Crambidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Pyraustinae
+    rank: Subfamily
+  - name: Pyraloidea
+    rank: Superfamily
+  - name: Pyraustini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+features:
+  - description: black
+    feature: wing
+  - description: brown
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: yellow
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f70

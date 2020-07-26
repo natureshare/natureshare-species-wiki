@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+synonyms:
+  - Apiomorpha longmani
+classification:
+  - name: Insecta
+    rank: class
+  - name: Eriococcidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - gall-forming-wasp
+id:
+  ns: 597eedc0ed2a89aae5002842

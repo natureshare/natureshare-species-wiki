@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Coast Saw-sedge
+classification:
+  - name: cyperaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+  - sedge
+features:
+  - description: 55-100cm
+    feature: culm-height
+  - description: grey-black
+    feature: fruit
+  - description: 30-70cm
+    feature: inflorescence
+id:
+  ns: 53b398e8e35eb12984036cf3
+  vba: '501397'

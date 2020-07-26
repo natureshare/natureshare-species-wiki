@@ -1,0 +1,14 @@
+updated_by: chrisl
+classification:
+  - name: Eurotiomycetes
+    rank: class
+  - name: Verrucariaceae
+    rank: family
+  - name: Verrucariales
+    rank: order
+categories:
+  - fungi
+  - lichen
+  - provisional-name
+id:
+  ns: 53b398f3e35eb1298403a185

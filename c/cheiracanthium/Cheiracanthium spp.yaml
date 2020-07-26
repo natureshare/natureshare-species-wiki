@@ -1,0 +1,16 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Long-legged Sac Spider
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Eutichuridae
+    rank: family
+  - name: Araneae
+    rank: order
+categories:
+  - provisional-name
+  - spider
+id:
+  ns: 550864aaed2a8974d3000641

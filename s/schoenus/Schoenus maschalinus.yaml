@@ -1,0 +1,41 @@
+updated_by: chrisl
+common_names:
+  - Leafy Bog-sedge
+classification:
+  - name: cyperaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+  - sedge
+features:
+  - description: 1-3-spikelets-clustered-terminally
+    feature: flower
+  - description: brown
+    feature: flower
+  - description: spike
+    feature: flower
+  - description: late-spring-summer
+    feature: flowering-time
+  - description: elliptic
+    feature: fruit
+  - description: nut
+    feature: fruit
+  - description: triangular-in-cross-section
+    feature: fruit
+  - description: whitish-to-pale-brown
+    feature: fruit
+  - description: prostrate-or-ascending-herb
+    feature: habit
+  - description: basal-tuft
+    feature: leaf
+  - description: to-0.3cm
+    feature: leaf
+  - description: very-narrow
+    feature: leaf
+  - description: weak
+    feature: leaf
+id:
+  ns: 53b398eae35eb1298403797f
+  vba: '503048'

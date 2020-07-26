@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Lecanoromycetes
+    rank: class
+  - name: Lecanoraceae
+    rank: family
+  - name: Lecanorales
+    rank: order
+categories:
+  - fungi
+  - lichen
+id:
+  ns: 53b398f4e35eb1298403a61a

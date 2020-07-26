@@ -1,0 +1,33 @@
+updated_by: chrisl
+common_names:
+  - Rough Bedstraw
+classification:
+  - name: rubiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - provisional-name
+features:
+  - description: cream
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: white
+    feature: flower
+  - description: glabrous
+    feature: fruit
+  - description: smooth-or-finely-wrinkled
+    feature: fruit
+  - description: herb
+    feature: habit
+  - description: 4-whorled
+    feature: leaf
+  - description: '4'
+    feature: number-of-petals
+  - description: '4'
+    feature: petals
+id:
+  ns: 53b398e8e35eb12984036cff
+  vba: '501409'

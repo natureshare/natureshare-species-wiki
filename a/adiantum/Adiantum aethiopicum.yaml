@@ -1,0 +1,30 @@
+updated_by: chrisl
+common_names:
+  - Common Maidenhair
+classification:
+  - name: adiantaceae
+    rank: family
+categories:
+  - ferns-and-allies
+  - flora
+  - plant
+features:
+  - description: compound
+    feature: frond
+  - description: lobed-pinnule
+    feature: frond
+  - description: short
+    feature: frond
+  - description: wedge-shaped
+    feature: frond
+  - description: 1-4-per-pinnule
+    feature: fruit-sori
+  - description: near-frond-margin
+    feature: fruit-sori
+  - description: groundcover
+    feature: habit
+  - description: trailing
+    feature: habit
+id:
+  ns: 53b398e5e35eb12984036271
+  vba: '500129'

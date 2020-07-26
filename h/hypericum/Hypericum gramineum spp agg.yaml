@@ -1,0 +1,27 @@
+updated_by: chrisl
+common_names:
+  - Small St John's Wort
+classification:
+  - name: clusiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - provisional-name
+features:
+  - description: petalled
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+  - description: erect
+    feature: stem
+id:
+  ns: 53b398e8e35eb12984036f3e
+  vba: '501741'

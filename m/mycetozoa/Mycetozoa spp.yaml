@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Slime Molds
+  - Slime Moulds
+classification:
+  - name: Amoebozoa
+    rank: phylum
+  - name: Mycetozoa
+    rank: subphylum
+categories:
+  - provisional-name
+  - slime-mould
+id:
+  ns: 5426ad0de35eb1aeb300011b

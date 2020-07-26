@@ -1,0 +1,53 @@
+updated_by: chrisl
+common_names:
+  - Button Everlasting
+synonyms:
+  - Helichrysum scorpioides
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: yellow
+    feature: bract
+  - description: 2-3cm-diameter
+    feature: capitula
+  - description: cluster
+    feature: flower
+  - description: orange
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: spring-early-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: basal-rosette
+    feature: leaf
+  - description: long-oval
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-7cm
+    feature: leaf
+  - description: woolly
+    feature: leaf
+  - description: many
+    feature: number-of-petals
+  - description: many
+    feature: petals
+  - description: fluffy
+    feature: seed
+  - description: more-or-less-erect-unbranched
+    feature: stem
+  - description: hairy
+    feature: stem-leaves
+id:
+  ns: 53b398e8e35eb12984036e88
+  vba: '501626'

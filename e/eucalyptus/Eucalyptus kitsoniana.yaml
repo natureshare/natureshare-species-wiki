@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - Bog Gum
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: smooth-throughout
+    feature: bark
+  - description: groups-of-7
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: mallee
+    feature: habit
+  - description: 2-16m
+    feature: height
+  - description: bright-green
+    feature: leaf-colour
+  - description: glossy
+    feature: leaf-surface
+  - description: 16-4cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036bbf
+  vba: '501290'

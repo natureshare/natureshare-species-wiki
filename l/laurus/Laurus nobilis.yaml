@@ -1,0 +1,34 @@
+updated_by: chrisl
+common_names:
+  - Bay Laurel
+classification:
+  - name: lauraceae
+    rank: family
+categories:
+  - dicotyledon
+  - dioecious
+  - flora
+  - plant
+  - weed
+features:
+  - description: pale-yellow-green
+    feature: flower-colour
+  - description: black
+    feature: fruit
+  - description: drupe
+    feature: fruit
+  - description: large-shrub-to-tree
+    feature: habit
+  - description: to-12cm
+    feature: leaf-length
+  - description: entire
+    feature: leaf-margin
+  - description: elliptic-ovate
+    feature: leaf-shape
+  - description: simple
+    feature: leaf-type
+  - description: to-4cm
+    feature: leaf-width
+id:
+  ns: 53b398e8e35eb12984037061
+  vba: '507480'

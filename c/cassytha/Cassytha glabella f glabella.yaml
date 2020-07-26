@@ -1,0 +1,26 @@
+updated_by: chrisl
+common_names:
+  - Slender Dodder-laurel
+classification:
+  - name: lauraceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: climber-twiner
+    feature: habit
+  - description: parasitic
+    feature: habit
+  - description: '3'
+    feature: number-of-petals
+  - description: '3'
+    feature: petals
+  - description: '9'
+    feature: stamens
+  - description: glabrous
+    feature: stem
+id:
+  ns: 53b398e6e35eb12984036722
+  vba: '504680'

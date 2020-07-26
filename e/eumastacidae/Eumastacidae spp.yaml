@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Matchstick Grasshopper
+  - Monkey Grasshopper
+classification:
+  - name: Insecta
+    rank: class
+  - name: Eumastacidae
+    rank: family
+  - name: Orthoptera
+    rank: order
+  - name: Caelifera
+    rank: suborder
+categories:
+  - grasshopper
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb12984038092

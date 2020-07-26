@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Button Medic
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - weed
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398e9e35eb1298403723d
+  vba: '502139'

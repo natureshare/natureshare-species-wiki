@@ -1,0 +1,32 @@
+updated_by: koolah
+common_names:
+  - Orange-rimmed Satin Moth
+classification:
+  - name: Insecta
+    rank: class
+  - name: GEOMETRIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: ENNOMINAE
+    rank: subfamily
+  - name: GEOMETROIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: brown
+    feature: line
+  - description: lined
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: one-coloured
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037ddb

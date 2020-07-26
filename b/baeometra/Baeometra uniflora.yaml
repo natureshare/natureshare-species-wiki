@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Baeometra
+classification:
+  - name: colchicaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+  - weed
+features:
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398e6e35eb12984036493
+  vba: '504265'

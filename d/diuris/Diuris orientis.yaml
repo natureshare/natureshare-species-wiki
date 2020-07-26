@@ -1,0 +1,35 @@
+updated_by: chrisl
+common_names:
+  - Wallflower Orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: orchid
+    feature: flower
+  - description: red-brown
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: spring
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: 2-to-3
+    feature: leaf
+  - description: deeply-channelled
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+  - description: to-25cm
+    feature: leaf
+id:
+  ns: 53b398e7e35eb12984036a47
+  vba: '501079'

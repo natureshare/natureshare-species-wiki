@@ -1,0 +1,38 @@
+updated_by: chrisl
+common_names:
+  - Glossy Hovea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+  - description: orange
+    feature: flower-colour
+  - description: large-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-3m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 10-20mm
+    feature: leaf-length
+  - description: greater-than-10mm
+    feature: leaf-length
+  - description: less-than-50mm
+    feature: leaf-length
+  - description: 03-12mm
+    feature: leaf-width
+  - description: up-to-2mm
+    feature: leaf-width
+id:
+  ns: 53b398e8e35eb12984036efa
+  vba: '503767'

@@ -1,0 +1,18 @@
+created_by: chrisl
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: COSSIDAE
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: COSSINAE
+    rank: subfamily
+categories:
+  - moth
+features:
+  - description: grey
+    feature: wing-upperside
+id:
+  ns: 54e88689ed2a89ef27000508

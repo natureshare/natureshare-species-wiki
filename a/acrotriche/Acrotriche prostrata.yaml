@@ -1,0 +1,29 @@
+updated_by: chrisl
+common_names:
+  - Trailing Ground-berry
+classification:
+  - name: epacridaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+features:
+  - description: cream
+    feature: flower
+  - description: green
+    feature: flower
+  - description: translucent-tube
+    feature: flower
+  - description: tubular
+    feature: flower
+  - description: trailing
+    feature: habit
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e5e35eb12984036266
+  vba: '500122'

@@ -1,0 +1,37 @@
+updated_by: chrisl
+common_names:
+  - Broom Rush
+classification:
+  - name: juncaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+  - rush
+features:
+  - description: dense-spike
+    feature: flower
+  - description: light-brown
+    feature: flower
+  - description: late-spring-summer
+    feature: flowering-time
+  - description: brown
+    feature: fruit
+  - description: capsule
+    feature: fruit
+  - description: tuft
+    feature: habit
+  - description: basal
+    feature: leaf
+  - description: dark-reddish-brown
+    feature: leaf
+  - description: to-30cm
+    feature: leaf
+  - description: blue-green
+    feature: stem
+  - description: hard
+    feature: stem
+id:
+  ns: 53b398e8e35eb12984036ff8
+  vba: '501841'

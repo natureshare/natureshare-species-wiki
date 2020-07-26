@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Tall Leek-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: dark-brown
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: white-and-brown
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398eae35eb129840376bf
+  vba: '502707'

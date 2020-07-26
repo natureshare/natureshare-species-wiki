@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Trailing Podolobium
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: apricot
+    feature: flower
+  - description: orange
+    feature: flower
+  - description: pea
+    feature: flower
+  - description: groundcover
+    feature: habit
+id:
+  ns: 53b398e9e35eb12984037612
+  vba: '502396'

@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Garden Maggot
+classification:
+  - name: Insecta
+    rank: class
+  - name: Bibionidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+id:
+  ns: 5846b755ed2a897480007447

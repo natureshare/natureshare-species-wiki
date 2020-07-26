@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Guinea Flower
+classification:
+  - name: dilleniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - provisional-name
+features:
+  - description: alternate
+    feature: leaf-arrangement
+id:
+  ns: 53b398e8e35eb12984036ed4
+  vba: '508535'

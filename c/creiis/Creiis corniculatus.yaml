@@ -1,0 +1,17 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Eastern Horn Lerp
+synonyms:
+  - Rhinocola corniculata
+classification:
+  - name: insecta
+    rank: class
+  - name: Psyllidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - lerp
+id:
+  ns: 597eeef1ed2a89aa0d000007

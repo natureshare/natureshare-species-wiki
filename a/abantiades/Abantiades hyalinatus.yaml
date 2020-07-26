@@ -1,0 +1,26 @@
+updated_by: koolah
+common_names:
+  - Mustard Ghost Moth
+classification:
+  - name: Hepialoidea
+    rank: Superfamily
+  - name: Insecta
+    rank: class
+  - name: Hepialidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Hepialinae
+    rank: subfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: ochre
+    feature: forewing
+  - description: white-markings
+    feature: forewing
+  - description: purple
+    feature: hindwing
+id:
+  ns: 53b398f0e35eb129840394cf

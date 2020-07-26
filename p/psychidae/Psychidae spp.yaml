@@ -1,0 +1,19 @@
+updated_by: koolah
+common_names:
+  - Bagworm
+  - Case Moth
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Psychidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Tineoidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+  - provisional-name
+id:
+  ns: 53b398f3e35eb1298403a3be

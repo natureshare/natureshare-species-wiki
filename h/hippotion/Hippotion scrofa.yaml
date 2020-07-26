@@ -1,0 +1,22 @@
+updated_by: david_francis
+common_names:
+  - Coprosma Hawk Moth
+  - Scrofa Hawk Moth
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: sphingidae
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: macroglossinae
+    rank: subfamily
+  - name: bombycoidea
+    rank: superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398ebe35eb12984037e40

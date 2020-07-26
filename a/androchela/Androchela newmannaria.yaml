@@ -1,0 +1,22 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Newman's Cape-moth
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Ennominae
+    rank: subfamily
+  - name: Geometroidea
+    rank: superfamily
+  - name: Nacophorini
+    rank: tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 5ad6fe22ed2a8994660054a6

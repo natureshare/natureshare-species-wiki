@@ -1,0 +1,19 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Neptune's Necklace
+  - Sea Grapes
+classification:
+  - name: Phaeophyceae
+    rank: class
+  - name: Chromista
+    rank: kingdom
+  - name: Fucales
+    rank: order
+  - name: Ochrophyta
+    rank: phylum
+categories:
+  - brown-alga
+  - seaweed
+id:
+  ns: 5a926339ed2a89ad32000988

@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Lizard Orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e6e35eb129840365c6
+  vba: '500513'

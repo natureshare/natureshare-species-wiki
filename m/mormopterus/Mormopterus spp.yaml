@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Free-tail Bats
+classification:
+  - name: mammalia
+    rank: class
+  - name: Mollossidae
+    rank: family
+  - name: chiroptera
+    rank: order
+categories:
+  - bat
+  - provisional-name
+id:
+  ns: 588b2cdfed2a89d10f001069

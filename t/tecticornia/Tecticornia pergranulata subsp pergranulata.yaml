@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Blackseed Glasswort
+synonyms:
+  - Halosarcia pergranulata subsp. pergranulata
+classification:
+  - name: chenopodiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: dark-reddish-brown-to-black
+    feature: seed
+id:
+  ns: 53b398e8e35eb12984036e67
+  vba: '504576'

@@ -1,0 +1,25 @@
+updated_by: chrisl
+common_names:
+  - Mantis Orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: orchid
+    feature: flower
+  - description: red
+    feature: flower
+  - description: purple
+    feature: flower-colour
+  - description: herb
+    feature: habit
+  - description: combed
+    feature: labellum
+id:
+  ns: 53b398e6e35eb1298403662e
+  vba: '503677'

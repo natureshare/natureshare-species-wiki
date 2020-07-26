@@ -1,0 +1,23 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Wait-a-while/Spine Bush
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - provisional-name
+  - wattle
+features:
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+id:
+  ns: 54e2133eed2a8987b7000297
+  vba: '507525'

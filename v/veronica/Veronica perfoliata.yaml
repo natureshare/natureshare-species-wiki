@@ -1,0 +1,28 @@
+updated_by: david_francis
+common_names:
+  - Digger's Speedwell
+synonyms:
+  - Derwentia perfoliata
+classification:
+  - name: veronicaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: blue
+    feature: flower
+  - description: purple-blue
+    feature: flower
+  - description: small-shrub
+    feature: habit
+  - description: woody-herb
+    feature: habit
+  - description: ovate
+    feature: leaf-shape
+  - description: '4'
+    feature: number-of-petals
+id:
+  ns: 53b398e7e35eb1298403698e
+  vba: '502416'

@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Branching Groundsel
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: yellow
+    feature: flower
+id:
+  ns: 53b398eae35eb129840379dd
+  vba: '503104'

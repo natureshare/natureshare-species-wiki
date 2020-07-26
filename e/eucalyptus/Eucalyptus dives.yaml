@@ -1,0 +1,36 @@
+updated_by: chrisl
+common_names:
+  - Broad-leaf Peppermint
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: rough-throughout
+    feature: bark
+  - description: groups-of-11-20
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: white
+    feature: flower
+  - description: tree
+    feature: habit
+  - description: 6-20m
+    feature: height
+  - description: blue-green
+    feature: leaf-colour
+  - description: green
+    feature: leaf-colour
+  - description: dull
+    feature: leaf-surface
+  - description: glossy
+    feature: leaf-surface
+  - description: 15-3cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036ba5
+  vba: '501272'

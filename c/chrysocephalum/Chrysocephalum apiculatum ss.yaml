@@ -1,0 +1,43 @@
+updated_by: chrisl
+common_names:
+  - Common Everlasting
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: yellow
+    feature: bract
+  - description: button-like
+    feature: flower
+  - description: orange
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: spring-early-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: hairy
+    feature: leaf
+  - description: mostly-obovate-to-oblanceolate
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-6cm
+    feature: leaf
+  - description: many
+    feature: number-of-petals
+  - description: many
+    feature: petals
+id:
+  ns: 53b398e7e35eb129840367d6
+  vba: '504281'

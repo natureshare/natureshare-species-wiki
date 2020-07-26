@@ -1,0 +1,67 @@
+updated_by: chrisl
+common_names:
+  - Red Box
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - tree
+features:
+  - description: alternate
+    feature: adult-leaf
+  - description: bluish-green
+    feature: adult-leaf
+  - description: oval-to-broadly-lanceolate
+    feature: adult-leaf
+  - description: to-9cm
+    feature: adult-leaf
+  - description: grey
+    feature: bark
+  - description: rough-to-smaller-branches
+    feature: bark
+  - description: scaly
+    feature: bark
+  - description: sheds-in-flakes-or-strips
+    feature: bark
+  - description: 3-7
+    feature: buds
+  - description: bluish
+    feature: buds
+  - description: club-shaped
+    feature: buds
+  - description: groups-of-7
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: white-cream
+    feature: flower
+  - description: spring-mid-summer
+    feature: flowering-time
+  - description: barrel-shaped
+    feature: fruit
+  - description: hard
+    feature: fruit
+  - description: tree
+    feature: habit
+  - description: 6-20m
+    feature: height
+  - description: grey-green
+    feature: juvenile-leaf
+  - description: paired
+    feature: juvenile-leaf
+  - description: rounded
+    feature: juvenile-leaf
+  - description: stalked
+    feature: leaf
+  - description: blue-green
+    feature: leaf-colour
+  - description: dull
+    feature: leaf-surface
+  - description: 16-55cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036bed
+  vba: '504335'

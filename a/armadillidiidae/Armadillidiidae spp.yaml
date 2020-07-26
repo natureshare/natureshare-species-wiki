@@ -1,0 +1,18 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Pill-bug
+classification:
+  - name: Malacostraca
+    rank: class
+  - name: Armadillidiidae
+    rank: family
+  - name: Isopoda
+    rank: order
+  - name: Crustacea
+    rank: subphylum
+categories:
+  - crustacean
+  - pill-bug
+id:
+  ns: 545f48b9e35eb14a04000008

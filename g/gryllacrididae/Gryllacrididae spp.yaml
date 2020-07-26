@@ -1,0 +1,18 @@
+updated_by: david_francis
+common_names:
+  - Raspy Crickets
+classification:
+  - name: Insecta
+    rank: class
+  - name: Gryllacrididae
+    rank: family
+  - name: Orthoptera
+    rank: order
+  - name: Ensifera
+    rank: suborder
+categories:
+  - cricket
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb1298403812d

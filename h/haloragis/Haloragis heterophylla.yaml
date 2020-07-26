@@ -1,0 +1,41 @@
+updated_by: chrisl
+common_names:
+  - Varied Raspwort
+classification:
+  - name: haloragaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - herb
+  - plant
+features:
+  - description: red-green
+    feature: flower
+  - description: spike
+    feature: flower
+  - description: spring-summer
+    feature: flowering-time
+  - description: slender-herb
+    feature: habit
+  - description: 2-linear-lobes-towards-leaf-tip
+    feature: leaf
+  - description: fleshy
+    feature: leaf
+  - description: grey-green
+    feature: leaf
+  - description: hairy
+    feature: leaf
+  - description: sessile
+    feature: leaf
+  - description: to-5cm
+    feature: leaf
+  - description: trifid-lobes
+    feature: leaf
+  - description: opposite-on-lower-stem
+    feature: leaves
+  - description: '4'
+    feature: number-of-petals
+id:
+  ns: 53b398e8e35eb12984036e57
+  vba: '501584'

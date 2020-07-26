@@ -1,0 +1,76 @@
+updated_by: chrisl
+common_names:
+  - Purple Coral-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - scrambler
+features:
+  - description: massed
+    feature: flower
+  - description: pea
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: white
+    feature: flower
+  - description: orange
+    feature: flower-colour
+  - description: mid-winter-spring
+    feature: flowering-time
+  - description: linear-to-oblong
+    feature: fruit
+  - description: pod
+    feature: fruit
+  - description: to-4.5cm
+    feature: fruit
+  - description: climber
+    feature: habit
+  - description: groundcover
+    feature: habit
+  - description: low-shrub
+    feature: habit
+  - description: scrambler
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: trailing
+    feature: habit
+  - description: twiner
+    feature: habit
+  - description: to-1m
+    feature: height
+  - description: alternate
+    feature: leaf
+  - description: dark-green
+    feature: leaf
+  - description: leathery
+    feature: leaf
+  - description: ovate-to-lanceolate
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-10cm
+    feature: leaf
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 5-10mm
+    feature: leaf-length
+  - description: greater-than-5mm
+    feature: leaf-length
+  - description: less-than-10mm
+    feature: leaf-length
+  - description: 03-05mm
+    feature: leaf-width
+  - description: up-to-05mm
+    feature: leaf-width
+id:
+  ns: 53b398e8e35eb12984036e70
+  vba: '501596'

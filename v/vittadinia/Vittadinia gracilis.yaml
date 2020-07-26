@@ -1,0 +1,35 @@
+updated_by: chrisl
+common_names:
+  - Woolly New Holland Daisy
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: mauve
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: low-shrub
+    feature: habit
+  - description: grey
+    feature: leaf
+  - description: hairy
+    feature: leaf
+  - description: many
+    feature: number-of-petals
+  - description: many
+    feature: petals
+  - description: fluffy
+    feature: seed
+id:
+  ns: 53b398ebe35eb12984037d30
+  vba: '503539'

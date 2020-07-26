@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Inland Early Nancy
+classification:
+  - name: colchicaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+features:
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398ebe35eb12984037d7d
+  vba: '507745'

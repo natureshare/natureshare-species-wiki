@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Spanish Bluebell
+classification:
+  - name: hyacinthaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+  - weed
+features:
+  - description: blue
+    feature: anther
+  - description: not-secund-or-subsecund
+    feature: flowers
+id:
+  ns: 53b398e8e35eb12984036f07
+  vba: '505826'

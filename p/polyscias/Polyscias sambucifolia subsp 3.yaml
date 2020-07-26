@@ -1,0 +1,42 @@
+updated_by: chrisl
+common_names:
+  - Mountain Panax
+classification:
+  - name: araliaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: small
+    feature: flower
+  - description: terminal-umbel
+    feature: flower
+  - description: yellow-green
+    feature: flower
+  - description: berry
+    feature: fruit
+  - description: blue-mauve
+    feature: fruit
+  - description: ribbed
+    feature: fruit
+  - description: succulent
+    feature: fruit
+  - description: shrub-to-small-tree
+    feature: habit
+  - description: dark-green
+    feature: leaf
+  - description: once-pinnate
+    feature: leaf
+  - description: sessile
+    feature: leaf
+  - description: 2-4cm-rarely-to-7cm
+    feature: leaflet-length
+  - description: more-than-6
+    feature: leaflet-pairs
+  - description: 3-7mm-rarely-to-2cm
+    feature: leaflet-width
+id:
+  ns: 53b398eae35eb12984037636
+  vba: '504635'

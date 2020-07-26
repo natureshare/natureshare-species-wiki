@@ -1,0 +1,15 @@
+common_names:
+  - 'Skipper, dart or allies'
+classification:
+  - name: Insecta
+    rank: class
+  - name: Lepidoptera
+    rank: order
+  - name: Hesperioidea
+    rank: superfamily
+categories:
+  - butterfly
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb12984038028

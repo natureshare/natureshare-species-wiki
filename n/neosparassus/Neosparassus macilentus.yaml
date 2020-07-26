@@ -1,0 +1,19 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Slender Huntsman
+synonyms:
+  - Heteropoda macilenta
+classification:
+  - name: Arachnida
+    rank: Class
+  - name: Sparassidae
+    rank: Family
+  - name: Araneomorphae
+    rank: Infraorder
+  - name: Araneae
+    rank: Order
+categories:
+  - spider
+id:
+  ns: 5d687858cad3ebb2a1000066

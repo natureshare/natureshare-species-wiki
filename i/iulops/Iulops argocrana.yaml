@@ -1,0 +1,18 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - White-fringed Emerald
+classification:
+  - name: Insecta
+    rank: class
+  - name: insecta
+    rank: class
+  - name: Geometridae
+    rank: family
+  - name: lepidoptera
+    rank: order
+categories:
+  - insect
+  - moth
+id:
+  ns: 54e02a28ed2a89d9900000da

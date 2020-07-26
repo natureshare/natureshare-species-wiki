@@ -1,0 +1,24 @@
+updated_by: chrisl
+common_names:
+  - Wattle Goat Moth
+classification:
+  - name: Insecta
+    rank: class
+  - name: Cossidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+categories:
+  - insect
+  - moth
+features:
+  - description: black
+    feature: wing
+  - description: brown
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+id:
+  ns: 53b398f2e35eb12984039e66

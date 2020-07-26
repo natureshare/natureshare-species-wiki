@@ -1,0 +1,13 @@
+created_by: russell
+updated_by: chrisl
+categories:
+  - monocotyledon
+  - orchid
+features:
+  - description: green
+    feature: flower-colour
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 5525253eed2a89aa33000a28
+  vba: '42444'

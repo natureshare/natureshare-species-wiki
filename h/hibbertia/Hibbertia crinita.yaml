@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Hoary Guinea-flower
+classification:
+  - name: dilleniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: medium-shrub
+    feature: habit
+  - description: alternate
+    feature: leaf-arrangement
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e8e35eb12984036eb4
+  vba: '504594'

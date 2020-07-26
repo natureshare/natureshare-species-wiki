@@ -1,0 +1,17 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Sphaeromatid Isopod
+classification:
+  - name: Malacostraca
+    rank: class
+  - name: Sphaeromatidae
+    rank: family
+  - name: Isopoda
+    rank: order
+  - name: Crustacea
+    rank: subphylum
+categories:
+  - crustacean
+id:
+  ns: 5b17dfe9ed2a8978590017bf

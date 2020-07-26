@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Creeping Monkey-flower
+synonyms:
+  - Mimulus repens
+classification:
+  - name: phrymaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: purple
+    feature: flower-colour
+id:
+  ns: 53b398e9e35eb129840372b2
+  vba: '502197'

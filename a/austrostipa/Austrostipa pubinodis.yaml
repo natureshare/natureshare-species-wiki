@@ -1,0 +1,47 @@
+updated_by: chrisl
+common_names:
+  - Tall Spear-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+features:
+  - description: brown
+    feature: flower
+  - description: grass
+    feature: flower
+  - description: green
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: spike
+    feature: flower
+  - description: white
+    feature: flower
+  - description: 80-150cm
+    feature: flowering-stems
+  - description: spring-summer
+    feature: flowering-time
+  - description: grass
+    feature: habit
+  - description: tuft-to-35cm
+    feature: habit
+  - description: linear
+    feature: leaf
+  - description: ridged
+    feature: leaf
+  - description: rough
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+  - description: to-35cm
+    feature: leaf
+  - description: tufted
+    feature: leaf
+id:
+  ns: 53b398e6e35eb12984036465
+  vba: '503288'

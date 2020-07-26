@@ -1,0 +1,36 @@
+updated_by: chrisl
+common_names:
+  - Bright Copper
+classification:
+  - name: Insecta
+    rank: class
+  - name: lycaenidae
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: THECLINAE
+    rank: subfamily
+  - name: PAPILIONOIDEA
+    rank: superfamily
+categories:
+  - butterfly
+  - insect
+features:
+  - description: black
+    feature: wing
+  - description: blue
+    feature: wing
+  - description: brown
+    feature: wing
+  - description: copper
+    feature: wing
+  - description: orange
+    feature: wing
+  - description: red
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: yellow
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037ddc

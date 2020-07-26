@@ -1,0 +1,78 @@
+updated_by: chrisl
+common_names:
+  - Creeping Bossiaea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - scrambler
+features:
+  - description: mid-late-spring
+    feature: flower
+  - description: pea
+    feature: flower
+  - description: red-brown-centre
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: pink
+    feature: flower-colour
+  - description: white
+    feature: flower-colour
+  - description: pod
+    feature: fruit
+  - description: groundcover
+    feature: habit
+  - description: herb
+    feature: habit
+  - description: low-shrub
+    feature: habit
+  - description: trailing
+    feature: habit
+  - description: to-06m
+    feature: height
+  - description: alternate
+    feature: leaf
+  - description: small
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: variable-shape
+    feature: leaf
+  - description: alternate
+    feature: leaf-arrangement
+  - description: pinnate
+    feature: leaf-type
+  - description: greater-than-5mm
+    feature: leafet-length
+  - description: 6-35mm
+    feature: leaflet-length
+  - description: less-than-40mm
+    feature: leaflet-length
+  - description: 1-10mm
+    feature: leaflet-width
+  - description: less-than-10mm
+    feature: leaflet-width
+  - description: up-to-10mm
+    feature: leaflet-width
+  - description: '5'
+    feature: leaflets
+  - description: 20-50mm
+    feature: seedpod-length
+  - description: greater-than-20mm
+    feature: seedpod-length
+  - description: less-than-50mm
+    feature: seedpod-length
+  - description: 15-4mm
+    feature: seedpod-width
+  - description: up-to-5mm
+    feature: seedpod-width
+  - description: 8-to-20
+    feature: seeds
+id:
+  ns: 53b398e6e35eb12984036539
+  vba: '500440'

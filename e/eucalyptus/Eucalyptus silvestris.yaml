@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Woodland Box
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: cluster
+    feature: flower
+  - description: mallee
+    feature: habit
+  - description: tree
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036bfd
+  vba: '503825'

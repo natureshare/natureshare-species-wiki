@@ -1,0 +1,37 @@
+updated_by: chrisl
+common_names:
+  - Thatch Saw-sedge
+classification:
+  - name: cyperaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+  - sedge
+features:
+  - description: 50-100cm
+    feature: culm-height
+  - description: black
+    feature: flower
+  - description: brown
+    feature: flower
+  - description: cluster
+    feature: flower
+  - description: spring-summer
+    feature: flower
+  - description: nut
+    feature: fruit
+  - description: sometimes-whiteish-outer-layer
+    feature: fruit
+  - description: straw-to-dark-brown
+    feature: fruit
+  - description: tufted
+    feature: habit
+  - description: 50-70cm
+    feature: inflorescence
+  - description: strappy
+    feature: leaf
+id:
+  ns: 53b398e8e35eb12984036cef
+  vba: '501394'

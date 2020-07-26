@@ -1,0 +1,14 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Australembiidae
+    rank: family
+  - name: Embioptera
+    rank: order
+categories:
+  - insect
+  - provisional-name
+  - web-spinner
+id:
+  ns: 53b398efe35eb12984038e67

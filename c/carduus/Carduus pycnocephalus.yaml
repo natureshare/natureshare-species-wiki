@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Slender Thistle
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: purple
+    feature: flower
+  - description: winged
+    feature: stem
+id:
+  ns: 53b398e6e35eb129840366d2
+  vba: '500620'

@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Saffron Milkcap
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Russulaceae
+    rank: family
+  - name: Russulales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 54f1570fed2a8983c20000cc

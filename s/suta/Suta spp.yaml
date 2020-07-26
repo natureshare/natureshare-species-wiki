@@ -1,0 +1,16 @@
+created_by: chrisl
+updated_by: chrisl
+classification:
+  - name: Reptilia
+    rank: class
+  - name: Elapidae
+    rank: family
+  - name: Squamata
+    rank: order
+categories:
+  - animal
+  - fauna
+  - reptile
+  - snake
+id:
+  ns: 5796a236ed2a89a56c000090

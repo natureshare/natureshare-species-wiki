@@ -1,0 +1,51 @@
+updated_by: chrisl
+common_names:
+  - Thready Bush-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+  - description: red
+    feature: flower-colour
+  - description: shrub
+    feature: habit
+  - description: spreading
+    feature: habit
+  - description: to-15m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: opposite
+    feature: leaf-arrangement
+  - description: 5-20mm
+    feature: leaf-length
+  - description: greater-than-5mm
+    feature: leaf-length
+  - description: less-than-20mm
+    feature: leaf-length
+  - description: prickly
+    feature: leaf-tip
+  - description: 2-5mm
+    feature: leaf-width
+  - description: greater-than-2mm
+    feature: leaf-width
+  - description: up-to-5mm
+    feature: leaf-width
+  - description: 10-20mm
+    feature: seedpod-length
+  - description: greater-than-10mm
+    feature: seedpod-length
+  - description: less-than-20mm
+    feature: seedpod-length
+id:
+  ns: 53b398eae35eb129840377cd
+  vba: '502858'

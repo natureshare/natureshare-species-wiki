@@ -1,0 +1,21 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Moondarra Beard-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 54da289fed2a8980f500009f
+  vba: '507732'

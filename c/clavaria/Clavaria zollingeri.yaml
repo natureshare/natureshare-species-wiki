@@ -1,0 +1,14 @@
+updated_by: chrisl
+common_names:
+  - Violet Coral
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Clavariaceae
+    rank: family
+  - name: Agaricales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 53b398f3e35eb1298403a2cf

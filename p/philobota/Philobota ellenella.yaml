@@ -1,0 +1,30 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: OECOPHORIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: OECOPHORINAE
+    rank: subfamily
+  - name: GELECHIOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: brown
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: two-coloured
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037eb9

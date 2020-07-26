@@ -1,0 +1,45 @@
+updated_by: chrisl
+common_names:
+  - Darwin's Barberry
+classification:
+  - name: berberidaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: rusty-pubescent
+    feature: branches
+  - description: berry
+    feature: fruit
+  - description: medium-shrub
+    feature: habit
+  - description: to-2m
+    feature: height
+  - description: cluster-of-3-7
+    feature: leaf-arrangement
+  - description: discolorous
+    feature: leaf-colour
+  - description: to-3cm
+    feature: leaf-length
+  - description: 3-toothed-apex
+    feature: leaf-margin
+  - description: obovate-to-cuneate
+    feature: leaf-shape
+  - description: lower-surface-pall-dull
+    feature: leaf-surface
+  - description: upper-surface-shining
+    feature: leaf-surface
+  - description: spiny
+    feature: leaf-tip
+  - description: to-1.8cm
+    feature: leaf-width
+  - description: '9'
+    feature: number-of-petals
+  - description: '9'
+    feature: petals
+id:
+  ns: 53b398e6e35eb129840364d8
+  vba: '500385'

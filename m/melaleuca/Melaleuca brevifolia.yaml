@@ -1,0 +1,28 @@
+updated_by: chrisl
+common_names:
+  - Mallee Honey-myrtle
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: white
+    feature: flower-colour
+  - description: shrub
+    feature: habit
+  - description: small-tree
+    feature: habit
+  - description: to-25m
+    feature: height
+  - description: 3-7mm
+    feature: leaf-length
+  - description: 1-2mm
+    feature: leaf-width
+id:
+  ns: 53b398e9e35eb1298403724a
+  vba: '502151'

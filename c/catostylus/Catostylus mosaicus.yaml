@@ -1,0 +1,18 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Blue Blubber
+  - Jelly Blubber
+classification:
+  - name: Scyphozoa
+    rank: class
+  - name: Catostylidae
+    rank: family
+  - name: Rhizostomeae
+    rank: order
+  - name: Cnidaria
+    rank: phylum
+categories:
+  - jellyfish
+id:
+  ns: 5c3d6b443abbd653aa000125

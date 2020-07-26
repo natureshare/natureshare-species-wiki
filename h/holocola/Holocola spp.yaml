@@ -1,0 +1,21 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Tortricidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Olethreutinae
+    rank: Subfamily
+  - name: Tortricoidea
+    rank: Superfamily
+  - name: Eucosmini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+  - provisional-name
+id:
+  ns: 5d750154cad3eb4c5500017e

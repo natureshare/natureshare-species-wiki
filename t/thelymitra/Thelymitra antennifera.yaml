@@ -1,0 +1,31 @@
+updated_by: chrisl
+common_names:
+  - Rabbit Ears
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: orchid
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: zig-zag-terminal-raceme
+    feature: flower
+  - description: spring
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: grasslike
+    feature: leaf
+  - description: to-12cm
+    feature: leaf
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398ebe35eb12984037b9c
+  vba: '503361'

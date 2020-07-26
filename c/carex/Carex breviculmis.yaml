@@ -1,0 +1,49 @@
+updated_by: chrisl
+common_names:
+  - Common Grass-sedge
+classification:
+  - name: cyperaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+  - sedge
+features:
+  - description: hidden-below-within-foliage
+    feature: flower
+  - description: non-terminal-spikes-female
+    feature: flower
+  - description: spike
+    feature: flower
+  - description: terminal-spikes-male
+    feature: flower
+  - description: late-winter-early-summer
+    feature: flowering-time
+  - description: hard
+    feature: fruit
+  - description: nut
+    feature: fruit
+  - description: oval
+    feature: fruit
+  - description: pale-yellow
+    feature: fruit
+  - description: dense-tuft
+    feature: habit
+  - description: basal
+    feature: leaf
+  - description: flat
+    feature: leaf
+  - description: longer-than-flowerstems
+    feature: leaf
+  - description: to-35-cm
+    feature: leaf
+  - description: unstalked
+    feature: leaf
+  - description: rough
+    feature: stem
+  - description: triangular
+    feature: stem
+id:
+  ns: 53b398e6e35eb129840366dc
+  vba: '500627'

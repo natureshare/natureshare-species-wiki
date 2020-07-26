@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Mountain Flat-pea
+synonyms:
+  - Platylobium formosum p.p.
+classification:
+  - name: Fabaceae
+    rank: family
+categories:
+  - flora
+  - pea
+  - plant
+  - provisional-name
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398f3e35eb1298403a3df

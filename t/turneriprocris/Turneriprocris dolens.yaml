@@ -1,0 +1,26 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: ZYGAENIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: PROCRIDINAE
+    rank: subfamily
+  - name: ZYGAENOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: day-flying
+    feature: flight-time
+  - description: blue
+    feature: wing
+  - description: one-coloured
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f83

@@ -1,0 +1,23 @@
+updated_by: koolah
+common_names:
+  - Pink Browntail Moth
+synonyms:
+  - Urocoma baliolalis
+classification:
+  - name: Lymantriinae
+    rank: Subfamily
+  - name: Insecta
+    rank: class
+  - name: Erebidae
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: Noctuoidea
+    rank: superfamily
+  - name: Nygmiini
+    rank: tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f2e35eb12984039dd8

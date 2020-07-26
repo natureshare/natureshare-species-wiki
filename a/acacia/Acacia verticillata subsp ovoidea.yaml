@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Ovoid Prickly Moses
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - wattle
+features:
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+id:
+  ns: 53b398e5e35eb1298403621d
+  vba: '504212'

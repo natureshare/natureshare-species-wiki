@@ -1,0 +1,29 @@
+updated_by: chrisl
+common_names:
+  - Umbrella Wattle
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - wattle
+features:
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+  - description: small-tree
+    feature: habit
+  - description: tall-shrub
+    feature: habit
+  - description: entire
+    feature: leaf
+  - description: coiled
+    feature: pods
+id:
+  ns: 53b398e5e35eb129840361ee
+  vba: '500070'

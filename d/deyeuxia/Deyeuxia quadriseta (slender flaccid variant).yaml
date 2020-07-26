@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Slender Reed Bent-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - plant
+  - rare-threatened
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398e7e35eb129840369a6

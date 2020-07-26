@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Trailing Hop-bush
+classification:
+  - name: sapindaceae
+    rank: family
+categories:
+  - dicotyledon
+  - epbc
+  - flora
+  - native-and-weedy-stands-in-vic
+  - plant
+  - rare-threatened
+features:
+  - description: groundcover
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036a59
+  vba: '501090'

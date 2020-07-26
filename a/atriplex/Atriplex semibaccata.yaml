@@ -1,0 +1,28 @@
+updated_by: chrisl
+common_names:
+  - Berry Saltbush
+classification:
+  - name: chenopodiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: apex-pointed
+    feature: fruit
+  - description: fleshy
+    feature: fruit
+  - description: red
+    feature: fruit
+  - description: spherical-rhombic
+    feature: fruit
+  - description: groundcover
+    feature: habit
+  - description: grey-green
+    feature: leaf
+  - description: 6-18mm-rarely-to-25mm
+    feature: leaf-length
+id:
+  ns: 53b398e6e35eb1298403641a
+  vba: '500332'

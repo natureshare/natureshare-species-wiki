@@ -1,0 +1,16 @@
+updated_by: david_francis
+common_names:
+  - Inland Thornbill
+classification:
+  - name: aves
+    rank: class
+  - name: Acanthizidae
+    rank: family
+  - name: passeriformes
+    rank: order
+categories:
+  - animal
+  - bird
+  - fauna
+id:
+  ns: 53b398e5e35eb12984035fd0

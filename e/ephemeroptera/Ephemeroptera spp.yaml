@@ -1,0 +1,13 @@
+updated_by: chrisl
+common_names:
+  - Mayfly
+classification:
+  - name: Insecta
+    rank: class
+  - name: Ephemeroptera
+    rank: order
+categories:
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb129840380d0

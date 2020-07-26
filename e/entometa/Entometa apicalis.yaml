@@ -1,0 +1,17 @@
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Lasiocampidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Lasiocampinae
+    rank: Subfamily
+  - name: Bombycoidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398ebe35eb12984037dfc

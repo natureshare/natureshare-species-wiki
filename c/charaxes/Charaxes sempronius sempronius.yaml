@@ -1,0 +1,20 @@
+updated_by: david_francis
+common_names:
+  - Four-tail
+  - Tailed Emperor
+synonyms:
+  - Polyura sempronius sempronius
+classification:
+  - name: Insecta
+    rank: class
+  - name: Nymphalidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Papilionoidea
+    rank: superfamily
+categories:
+  - butterfly
+  - insect
+id:
+  ns: 53b398ece35eb12984037fdb

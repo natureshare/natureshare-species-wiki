@@ -1,0 +1,32 @@
+updated_by: koolah
+common_names:
+  - Pond Moth
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Crambidae
+    rank: Family
+  - name: lepidoptera
+    rank: order
+  - name: Acentropinae
+    rank: subfamily
+  - name: PYRALOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: upturned
+    feature: body
+  - description: brown
+    feature: wing
+  - description: brown-and-white
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f6f

@@ -1,0 +1,40 @@
+updated_by: chrisl
+common_names:
+  - Dagger Hakea
+classification:
+  - name: proteaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: massed
+    feature: flower
+  - description: scented
+    feature: flower
+  - description: white
+    feature: flower
+  - description: late-spring-summer
+    feature: flowering-time
+  - description: dagger-shaped
+    feature: fruit
+  - description: hard
+    feature: fruit
+  - description: sharp-point
+    feature: fruit
+  - description: to-3cm
+    feature: fruit
+  - description: dense-shrub
+    feature: habit
+  - description: needle-shaped
+    feature: leaf
+  - description: to-5cm
+    feature: leaf
+  - description: hairy
+    feature: leaf-new
+  - description: white
+    feature: leaf-new
+id:
+  ns: 53b398e8e35eb12984036e47
+  vba: '501573'

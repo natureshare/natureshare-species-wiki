@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Black and White Skipper
+  - Diamond Sand-skipper
+classification:
+  - name: Insecta
+    rank: class
+  - name: Hesperiidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Trapezitinae
+    rank: subfamily
+  - name: Hesperioidea
+    rank: superfamily
+categories:
+  - butterfly
+  - ffg
+  - insect
+  - skippers-darts-and-allies
+id:
+  ns: 53b398ebe35eb12984037f8c

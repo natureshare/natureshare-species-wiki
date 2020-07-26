@@ -1,0 +1,43 @@
+updated_by: chrisl
+common_names:
+  - Magpie Moth
+  - Senecio Moth
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: ARCTIIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: ARCTIINAE
+    rank: subfamily
+  - name: NOCTUOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: orange
+    feature: body
+  - description: striped
+    feature: body
+  - description: black
+    feature: caterpillar
+  - description: hairy
+    feature: caterpillar
+  - description: orange
+    feature: caterpillar
+  - description: red
+    feature: caterpillar
+  - description: day-flying
+    feature: flight-time
+  - description: black
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f30

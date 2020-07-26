@@ -1,0 +1,18 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Veliidae
+    rank: family
+  - name: Gerromorpha
+    rank: infraorder
+  - name: Hemiptera
+    rank: order
+  - name: Heteroptera
+    rank: suborder
+categories:
+  - insect
+  - provisional-name
+  - true-bug
+id:
+  ns: 53b398ece35eb129840380ed

@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Midlands Spider-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - endemic
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e6e35eb12984036625
+  vba: '505892'

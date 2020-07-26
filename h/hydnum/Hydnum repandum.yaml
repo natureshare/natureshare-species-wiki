@@ -1,0 +1,14 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Wood Hedgehog
+classification:
+  - name: Hydnaceae
+    rank: family
+  - name: Cantharellales
+    rank: order
+categories:
+  - fungi
+  - fungimap
+id:
+  ns: 54f998d2ed2a89097e000594

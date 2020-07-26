@@ -1,0 +1,26 @@
+updated_by: chrisl
+common_names:
+  - Slender Bitter-cress
+classification:
+  - name: brassicaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - provisional-name
+  - rare-threatened
+features:
+  - description: absent-or-not-persisting
+    feature: basal-leaf
+  - description: more-than-6
+    feature: cauline-leaves
+  - description: pinnate
+    feature: cauline-leaves
+  - description: cauline-to-6cm
+    feature: leaf-length
+  - description: 7-12mm-long-rarely-5mm
+    feature: petal
+id:
+  ns: 53b398e6e35eb129840366cc
+  vba: '500617'

@@ -1,0 +1,37 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: anthelidae
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: anthelinae
+    rank: subfamily
+  - name: bombycoidea
+    rank: superfamily
+categories:
+  - insect
+  - moth
+  - provisional-name
+features:
+  - description: black
+    feature: line
+  - description: brown
+    feature: line
+  - description: black
+    feature: wing
+  - description: brown
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: lined
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037e31

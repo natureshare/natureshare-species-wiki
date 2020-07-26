@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Lamponidae
+    rank: family
+  - name: Araneae
+    rank: order
+categories:
+  - provisional-name
+  - spider
+id:
+  ns: 53b398f2e35eb12984039c88

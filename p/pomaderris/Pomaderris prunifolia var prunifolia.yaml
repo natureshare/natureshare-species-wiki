@@ -1,0 +1,34 @@
+updated_by: chrisl
+common_names:
+  - Prunus Pomaderris
+classification:
+  - name: rhamnaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: pale-yellow
+    feature: flower
+  - description: mid-late-spring
+    feature: flowering-time
+  - description: shrub
+    feature: habit
+  - description: bristly-hairy-above
+    feature: leaf
+  - description: dark-green-above
+    feature: leaf
+  - description: oval
+    feature: leaf
+  - description: rough
+    feature: leaf
+  - description: to-8cm
+    feature: leaf
+  - description: whitish-underneath
+    feature: leaf
+id:
+  ns: 53b398eae35eb12984037668
+  vba: '502670'

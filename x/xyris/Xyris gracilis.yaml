@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Slender Yellow-eye
+classification:
+  - name: xyridaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+features:
+  - description: all-about-the-same-size
+    feature: bracts
+  - description: 10-15cm-rarely-to-20cm
+    feature: leaf-length
+  - description: more-than-10cm
+    feature: leaf-length
+  - description: 25-90cm-rarely-19-25cm
+    feature: stem-length
+id:
+  ns: 53b398ebe35eb12984037da7
+  vba: '503595'

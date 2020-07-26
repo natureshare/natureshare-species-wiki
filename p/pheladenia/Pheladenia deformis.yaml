@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Bluebeard Orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: blue
+    feature: color
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: '5'
+    feature: number-of-petals
+id:
+  ns: 53b398e9e35eb129840374fa
+  vba: '500531'

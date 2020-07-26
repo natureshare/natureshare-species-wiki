@@ -1,0 +1,28 @@
+updated_by: koolah
+common_names:
+  - Grey Fraus
+classification:
+  - name: Insecta
+    rank: class
+  - name: HEPIALIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: HEPIALOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: brown
+    feature: wing
+  - description: gold
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: two-coloured
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f2a

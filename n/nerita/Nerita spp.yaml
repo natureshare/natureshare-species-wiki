@@ -1,0 +1,18 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Nerite Sea-snail (genus)
+classification:
+  - name: Gastropoda
+    rank: class
+  - name: Neritidae
+    rank: family
+  - name: Neritopsina
+    rank: order
+  - name: Mollusca
+    rank: phylum
+categories:
+  - provisional-name
+  - sea-snail
+id:
+  ns: 5b0e7bebed2a89fa06005f77

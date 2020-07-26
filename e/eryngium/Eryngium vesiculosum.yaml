@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Prickfoot
+classification:
+  - name: apiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: groundcover
+    feature: habit
+  - description: spreading
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036b5f
+  vba: '501240'

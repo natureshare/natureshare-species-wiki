@@ -1,0 +1,16 @@
+updated_by: david_francis
+common_names:
+  - Parent Bug family
+classification:
+  - name: Insecta
+    rank: class
+  - name: Acanthosomatidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - insect
+  - shield-bug
+  - true-bug
+id:
+  ns: 53b398f3e35eb1298403a375

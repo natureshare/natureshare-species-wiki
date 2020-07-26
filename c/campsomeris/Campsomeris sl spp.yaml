@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Scoliidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - provisional-name
+  - wasp
+id:
+  ns: 5954df01ed2a897cef0017b6

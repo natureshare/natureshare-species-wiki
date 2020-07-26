@@ -1,0 +1,25 @@
+updated_by: chrisl
+common_names:
+  - Australian Emperor
+classification:
+  - name: Insecta
+    rank: class
+  - name: Aeshnidae
+    rank: family
+  - name: Odonata
+    rank: order
+  - name: Anisoptera
+    rank: suborder
+categories:
+  - dragonfly-and-damselfly
+  - dragonfly-proper
+  - insect
+features:
+  - description: black
+    feature: body
+  - description: blue
+    feature: body
+  - description: yellow
+    feature: body
+id:
+  ns: 53b398ebe35eb12984037e68

@@ -1,0 +1,71 @@
+updated_by: chrisl
+common_names:
+  - Spiny Bossiaea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: spiny
+    feature: branchlets
+  - description: pea
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: white
+    feature: flower-colour
+  - description: early-spring
+    feature: flowering-time
+  - description: solitary
+    feature: flowers
+  - description: 1-3m-tall
+    feature: habit
+  - description: herb
+    feature: habit
+  - description: large-shrub
+    feature: habit
+  - description: prostrate
+    feature: habit
+  - description: 10-30cm
+    feature: height
+  - description: to-0.6cm
+    feature: leaf
+  - description: alternate
+    feature: leaf-arrangement
+  - description: trifoliate
+    feature: leaf-type
+  - description: greater-than-5mm
+    feature: leafet-length
+  - description: 6-40mm
+    feature: leaflet-length
+  - description: less-than-40mm
+    feature: leaflet-length
+  - description: 10-30mm
+    feature: leaflet-width
+  - description: greater-than-10mm
+    feature: leaflet-width
+  - description: less-than-30mm
+    feature: leaflet-width
+  - description: '3'
+    feature: leaflets
+  - description: alternate
+    feature: leaves
+  - description: narrowly-ovate-to-oblong
+    feature: pod
+  - description: to-2cm
+    feature: pod
+  - description: 4-6mm
+    feature: seedpod-length
+  - description: greater-than-4mm
+    feature: seedpod-length
+  - description: less-than-10mm
+    feature: seedpod-length
+  - description: 3-or-4
+    feature: seeds
+id:
+  ns: 53b398e6e35eb12984036538
+  vba: '500439'

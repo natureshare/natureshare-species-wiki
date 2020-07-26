@@ -1,0 +1,12 @@
+updated_by: chrisl
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Meruliaceae
+    rank: family
+  - name: Polyporales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 53b398f3e35eb1298403a312

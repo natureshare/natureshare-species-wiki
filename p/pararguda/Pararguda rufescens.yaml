@@ -1,0 +1,34 @@
+updated_by: koolah
+common_names:
+  - Rufous Snout Moth
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Lasiocampidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Lasiocampinae
+    rank: Subfamily
+  - name: Bombycoidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: grey
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: one-coloured
+    feature: wing
+  - description: purple
+    feature: wing
+  - description: red
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: chequered
+    feature: wing-fringe
+id:
+  ns: 53b398ebe35eb12984037df8

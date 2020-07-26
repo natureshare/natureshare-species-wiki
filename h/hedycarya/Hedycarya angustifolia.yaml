@@ -1,0 +1,35 @@
+updated_by: chrisl
+common_names:
+  - Austral Mulberry
+classification:
+  - name: monimiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - dioecious
+  - flora
+  - plant
+features:
+  - description: green
+    feature: flower-colour
+  - description: globular
+    feature: fruit
+  - description: yellow-orange
+    feature: fruit
+  - description: shrub-to-small-tree
+    feature: habit
+  - description: tree-to-7m
+    feature: habit
+  - description: discolorous
+    feature: leaf-colour
+  - description: to-10.5cm
+    feature: leaf-length
+  - description: coarsely-toothed
+    feature: leaf-margin
+  - description: elliptic-ovate-lanceolate
+    feature: leaf-shape
+  - description: to-5.5cm
+    feature: leaf-width
+id:
+  ns: 53b398e8e35eb12984036e79
+  vba: '501600'

@@ -1,0 +1,26 @@
+updated_by: chrisl
+common_names:
+  - Painted Cup Moth
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: Limacodidae
+    rank: family
+  - name: lepidoptera
+    rank: order
+categories:
+  - insect
+  - moth
+features:
+  - description: orange
+    feature: body
+  - description: brown
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: two-coloured
+    feature: wing
+id:
+  ns: 53b398f2e35eb12984039d46

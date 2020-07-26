@@ -1,0 +1,35 @@
+updated_by: chrisl
+common_names:
+  - Common Cassinia
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: white
+    feature: flower
+  - description: late-spring-early-autumn
+    feature: flowering-time
+  - description: shrub
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: aromatic
+    feature: leaf
+  - description: revolute-obscuring-undersurface
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: 10-50mm
+    feature: leaf-length
+  - description: 1-2-and-a-half-mm
+    feature: leaf-width
+id:
+  ns: 53b398e6e35eb12984036712
+  vba: '500666'

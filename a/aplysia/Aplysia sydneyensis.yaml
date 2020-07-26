@@ -1,0 +1,17 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Sea Hare
+classification:
+  - name: Gastropoda
+    rank: class
+  - name: Aplysiidae
+    rank: family
+  - name: Anaspidea
+    rank: order
+  - name: Mollusca
+    rank: phylum
+categories:
+  - sea-slug
+id:
+  ns: 5a6c1693ed2a89d02a001220

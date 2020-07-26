@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Orange Day Lily
+classification:
+  - name: hemerocallidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+  - weed
+features:
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398e8e35eb12984036e92
+  vba: '507195'

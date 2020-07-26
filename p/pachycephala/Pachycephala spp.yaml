@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: aves
+    rank: class
+  - name: pachycephalidae
+    rank: family
+  - name: passeriformes
+    rank: order
+categories:
+  - bird
+  - provisional-name
+  - whistler
+id:
+  ns: 54869372e35eb12c89000007

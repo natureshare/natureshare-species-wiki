@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Mallee Tussock-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - endemic
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - rare-threatened
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398e9e35eb129840375e4
+  vba: '503890'

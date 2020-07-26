@@ -1,0 +1,19 @@
+updated_by: david_francis
+classification:
+  - name: insecta
+    rank: class
+  - name: Pompilidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - insect
+  - spider-wasp
+  - wasp
+features:
+  - description: yellow
+    feature: antennae
+  - description: black
+    feature: body
+id:
+  ns: 53b398f2e35eb12984039d7c

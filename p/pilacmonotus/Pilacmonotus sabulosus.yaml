@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Ascalaphidae
+    rank: family
+  - name: Neuroptera
+    rank: order
+categories:
+  - insect
+  - owlfly
+id:
+  ns: 53b398f1e35eb129840397ea

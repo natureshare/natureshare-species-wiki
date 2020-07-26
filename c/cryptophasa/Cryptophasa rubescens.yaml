@@ -1,0 +1,32 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: OECOPHORIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: XYLORYCTINAE
+    rank: subfamily
+  - name: GELECHIOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: cream
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: pink
+    feature: wing
+  - description: purple
+    feature: wing
+  - description: red
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037ed7

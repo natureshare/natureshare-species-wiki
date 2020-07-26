@@ -1,0 +1,14 @@
+updated_by: chrisl
+common_names:
+  - Hanging Fly
+  - Scorpion Fly
+classification:
+  - name: Insecta
+    rank: class
+  - name: Mecoptera
+    rank: order
+categories:
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb12984038119

@@ -1,0 +1,20 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Pyrgomorphidae
+    rank: family
+  - name: Orthoptera
+    rank: order
+  - name: Pyrgomorphinae
+    rank: subfamily
+  - name: Caelifera
+    rank: suborder
+  - name: Monistriini
+    rank: tribe
+categories:
+  - grasshopper
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb12984038048

@@ -1,0 +1,52 @@
+updated_by: chrisl
+common_names:
+  - Silky Golden-tip
+synonyms:
+  - Goodia lotifolia var. pubescens
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+  - description: orange
+    feature: flower-colour
+  - description: medium-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: 03-15m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 3-30mm
+    feature: leaf-length
+  - description: less-than-30mm
+    feature: leaf-length
+  - description: less-than-5mm
+    feature: leaf-length
+  - description: 03-05mm
+    feature: leaf-width
+  - description: up-to-05mm
+    feature: leaf-width
+  - description: 5mm
+    feature: seedpod-length
+  - description: less-than-5mm
+    feature: seedpod-length
+  - description: up-to-5mm
+    feature: seedpod-length
+  - description: 3mm
+    feature: seedpod-width
+  - description: up-to-3mm
+    feature: seedpod-width
+  - description: '1'
+    feature: seeds
+id:
+  ns: 53b398e8e35eb12984036dcb
+  vba: '504600'

@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Leotiomycetes
+    rank: class
+  - name: Fungi
+    rank: kingdom
+  - name: Helotiales
+    rank: order
+  - name: Ascomycota
+    rank: phylum
+categories:
+  - fungi
+id:
+  ns: 5a962960ed2a89ad32001921

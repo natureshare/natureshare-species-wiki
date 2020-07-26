@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Tweedia
+classification:
+  - name: asclepiadaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: blue
+    feature: flower
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e9e35eb12984037427
+  vba: '505927'

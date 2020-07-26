@@ -1,0 +1,18 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Yellow-star
+classification:
+  - name: hypoxidaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+  - provisional-name
+features:
+  - description: yellow
+    feature: flower
+id:
+  ns: 55e93fa5ed2a89b06c00019e

@@ -1,0 +1,28 @@
+updated_by: chrisl
+common_names:
+  - Cluster-headed Mat-rush
+classification:
+  - name: xanthorrhoeaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+features:
+  - description: brown
+    feature: flower
+  - description: cluster
+    feature: flower
+  - description: cream
+    feature: flower
+  - description: brown
+    feature: fruit
+  - description: green
+    feature: fruit
+  - description: tufted
+    feature: habit
+  - description: strappy
+    feature: leaf
+id:
+  ns: 53b398e9e35eb1298403719a
+  vba: '504713'

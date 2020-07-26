@@ -1,0 +1,17 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Snakeskin Chiton
+classification:
+  - name: Polyplacophora
+    rank: class
+  - name: Chitonidae
+    rank: family
+  - name: Chitonida
+    rank: order
+  - name: Mollusca
+    rank: phylum
+categories:
+  - mollusc
+id:
+  ns: 5abe0c23ed2a89aba2000008

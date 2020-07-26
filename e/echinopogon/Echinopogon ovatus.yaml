@@ -1,0 +1,39 @@
+updated_by: chrisl
+common_names:
+  - Common Hedgehog-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+features:
+  - description: bright-green
+    feature: flower
+  - description: grass
+    feature: flower
+  - description: mid-spring-mid-summer
+    feature: flower
+  - description: spike
+    feature: flower
+  - description: erect-ascending
+    feature: habit
+  - description: grass
+    feature: habit
+  - description: bright-green
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+  - description: tapered-tip
+    feature: leaf
+  - description: to-20cm
+    feature: leaf
+  - description: very-rough
+    feature: leaf
+id:
+  ns: 53b398e7e35eb12984036a93
+  vba: '501122'

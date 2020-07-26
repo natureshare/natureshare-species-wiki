@@ -1,0 +1,13 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Trigonalidae
+    rank: Family
+  - name: Insecta
+    rank: class
+  - name: Hymenoptera
+    rank: order
+categories:
+  - wasp
+id:
+  ns: 5a88e9b7ed2a8967ce00048a

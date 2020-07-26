@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - Maori Bedstraw
+classification:
+  - name: rubiaceae
+    rank: family
+categories:
+  - flora
+  - plant
+features:
+  - description: curved-hairs
+    feature: fruit
+  - description: hairy
+    feature: fruit
+id:
+  ns: 53b398e8e35eb12984036d03

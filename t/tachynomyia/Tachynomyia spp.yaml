@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Flower wasp
+classification:
+  - name: Insecta
+    rank: class
+  - name: Tiphiidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - provisional-name
+  - wasp
+id:
+  ns: 584cefc0ed2a897480008256

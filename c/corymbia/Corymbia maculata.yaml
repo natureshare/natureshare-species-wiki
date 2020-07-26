@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Spotted Gum
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - native-and-weedy-stands-in-vic
+  - plant
+  - rare-threatened
+features:
+  - description: cluster
+    feature: flower
+id:
+  ns: 53b398e7e35eb12984036883
+  vba: '501295'

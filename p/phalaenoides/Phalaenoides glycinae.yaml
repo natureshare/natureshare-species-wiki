@@ -1,0 +1,34 @@
+updated_by: chrisl
+common_names:
+  - Australian Grapevine Moth
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: Noctuidae
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: Agaristinae
+    rank: subfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: black
+    feature: body
+  - description: orange
+    feature: body
+  - description: striped
+    feature: body
+  - description: day-flying
+    feature: flight-time
+  - description: black
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398f2e35eb12984039d51

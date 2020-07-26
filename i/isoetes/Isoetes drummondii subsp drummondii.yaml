@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Plain Quillwort
+classification:
+  - name: isoetaceae
+    rank: family
+categories:
+  - ferns-and-allies
+  - flora
+  - plant
+features:
+  - description: all-spherical
+    feature: megaspores
+  - description: grows-in-mud-or-shallow-water
+    feature: plant
+  - description: brown-black
+    feature: sporangia
+  - description: shiny
+    feature: sporangia
+id:
+  ns: 53b398e8e35eb12984036f85
+  vba: '504572'

@@ -1,0 +1,35 @@
+updated_by: chrisl
+common_names:
+  - Small Tongue-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: orchid
+    feature: flower
+  - description: spike
+    feature: flower
+  - description: purple
+    feature: flower-colour
+  - description: mid-summer-mid-winter
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: dark-green
+    feature: leaf
+  - description: fleshy
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-12cm-stiffly-erect
+    feature: leaf
+  - description: underside-maroon
+    feature: leaf
+id:
+  ns: 53b398e7e35eb129840368e3
+  vba: '500883'

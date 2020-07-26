@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Tangled Bedstraw
+classification:
+  - name: rubiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: hairy
+    feature: fruit
+  - description: hooked-hairs
+    feature: fruit
+id:
+  ns: 53b398e8e35eb12984036cf9
+  vba: '528611'

@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Aster-weed
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: white
+    feature: flower
+id:
+  ns: 53b398e6e35eb129840363d9
+  vba: '500297'

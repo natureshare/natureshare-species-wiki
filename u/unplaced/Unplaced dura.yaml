@@ -1,0 +1,22 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Capua dura
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Tortricidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Tortricinae
+    rank: Subfamily
+  - name: Tortricoidea
+    rank: Superfamily
+  - name: Epitymbiini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 5d7932bdcad3ebb2a100018a

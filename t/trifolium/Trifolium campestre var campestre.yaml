@@ -1,0 +1,56 @@
+updated_by: chrisl
+common_names:
+  - Hop Clover
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - weed
+features:
+  - description: cluster
+    feature: flower
+  - description: pea
+    feature: flower
+  - description: pale-blue
+    feature: flower-colour
+  - description: purple-veined
+    feature: flower-colour
+  - description: climber
+    feature: habit
+  - description: herb
+    feature: habit
+  - description: 15-80cm
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 10-45mm
+    feature: leaf-length
+  - description: greater-than-10mm
+    feature: leaf-length
+  - description: less-than-50mm
+    feature: leaf-length
+  - description: tendril
+    feature: leaf-tip
+  - description: pinnate
+    feature: leaf-type
+  - description: 6-to-12
+    feature: leaflets
+  - description: 8-15mm
+    feature: seedpod-length
+  - description: greater-than-5mm
+    feature: seedpod-length
+  - description: less-than-15mm
+    feature: seedpod-length
+  - description: 25-45mm
+    feature: seedpod-width
+  - description: up-to-5mm
+    feature: seedpod-width
+  - description: 3-to-4
+    feature: seeds
+id:
+  ns: 53b398ebe35eb12984037c4b
+  vba: '503425'

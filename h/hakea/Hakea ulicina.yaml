@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Furze Hakea
+classification:
+  - name: proteaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: anglesea-and-east
+    feature: distribution
+  - description: 1-4mm
+    feature: leaf-width
+id:
+  ns: 53b398e8e35eb12984036e48
+  vba: '501574'

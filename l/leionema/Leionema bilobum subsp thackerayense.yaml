@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Notched Leionema
+synonyms:
+  - Leionema bilobum subsp. 2 (Victoria Range)
+classification:
+  - name: rutaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: west-grampians
+    feature: distribution
+  - description: entire
+    feature: leaf
+id:
+  ns: 53b398e8e35eb12984037076
+  vba: '505641'

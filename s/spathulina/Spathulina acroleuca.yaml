@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Tephritidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fruit-flies
+  - insect
+id:
+  ns: 5837dfa2ed2a8974800053d1

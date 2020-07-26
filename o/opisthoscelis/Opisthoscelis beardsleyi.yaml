@@ -1,0 +1,11 @@
+created_by: chrisl
+updated_by: chrisl
+classification:
+  - name: Eriococcidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - scale-insect
+id:
+  ns: 54f5a086ed2a8983c2000519

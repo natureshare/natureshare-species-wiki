@@ -1,0 +1,71 @@
+updated_by: chrisl
+common_names:
+  - Smooth Parrot-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: pea
+    feature: flower
+  - description: red-centre
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: late-winter-early-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: prostrate
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-06m
+    feature: height
+  - description: alternate
+    feature: leaf
+  - description: needle-shaped
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-2.5cm
+    feature: leaf
+  - description: alternate
+    feature: leaf-arrangement
+  - description: trifoliate
+    feature: leaf-type
+  - description: greater-than-5mm
+    feature: leafet-length
+  - description: 5-30mm
+    feature: leaflet-length
+  - description: less-than-30mm
+    feature: leaflet-length
+  - description: 3-22mm
+    feature: leaflet-width
+  - description: greater-than-2mm
+    feature: leaflet-width
+  - description: less-than-25mm
+    feature: leaflet-width
+  - description: '3'
+    feature: leaflets
+  - description: 2-12mm
+    feature: seedpod-length
+  - description: greater-than-2mm
+    feature: seedpod-length
+  - description: less-than-15mm
+    feature: seedpod-length
+  - description: 3-10mm
+    feature: seedpod-width
+  - description: up-to-10mm
+    feature: seedpod-width
+  - description: 3-to-11
+    feature: seeds
+id:
+  ns: 53b398e7e35eb12984036a01
+  vba: '501051'

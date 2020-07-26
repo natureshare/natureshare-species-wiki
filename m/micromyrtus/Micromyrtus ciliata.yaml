@@ -1,0 +1,34 @@
+updated_by: chrisl
+common_names:
+  - Heath-myrtle
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: pink
+    feature: flower-colour
+  - description: white
+    feature: flower-colour
+  - description: shrub
+    feature: habit
+  - description: small-shrub
+    feature: habit
+  - description: 03-1m
+    feature: height
+  - description: 15-4mm
+    feature: leaf-length
+  - description: 05-1mm
+    feature: leaf-width
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e9e35eb12984037298
+  vba: '502181'

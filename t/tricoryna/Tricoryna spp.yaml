@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Hymenoptera
+    rank: Order
+  - name: Insecta
+    rank: class
+  - name: Eucharitidae
+    rank: family
+categories:
+  - provisional-name
+  - wasp
+id:
+  ns: 589d109fed2a89a60a000013

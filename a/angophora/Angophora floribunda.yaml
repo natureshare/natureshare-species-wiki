@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Rough-barked Apple
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: cluster
+    feature: flower
+id:
+  ns: 53b398e6e35eb12984036348
+  vba: '500230'

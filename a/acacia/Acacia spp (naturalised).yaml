@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Wattle (naturalised)
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - provisional-name
+  - wattle
+  - weed
+features:
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+id:
+  ns: 53b398e5e35eb1298403620a
+  vba: '509288'

@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Thirty-two-spotted Katydid
+classification:
+  - name: Insecta
+    rank: class
+  - name: Tettigoniidae
+    rank: family
+  - name: Orthoptera
+    rank: order
+categories:
+  - katydid
+id:
+  ns: 58c299b6ed2a893890003b8e

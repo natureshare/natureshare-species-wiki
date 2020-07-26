@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - Victoria Range Stringybark
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: rough-on-lower-trunk
+    feature: bark
+  - description: groups-of-7-11
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+  - description: 4-15m
+    feature: height
+  - description: green
+    feature: leaf-colour
+  - description: glossy
+    feature: leaf-surface
+  - description: 2-35cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036c0f
+  vba: '504751'

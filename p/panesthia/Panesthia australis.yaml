@@ -1,0 +1,15 @@
+updated_by: chrisl
+common_names:
+  - Australian Wood Cockroach
+classification:
+  - name: Insecta
+    rank: class
+  - name: Blaberidae
+    rank: family
+  - name: Blattodea
+    rank: order
+categories:
+  - cockroach
+  - insect
+id:
+  ns: 53b398ece35eb12984038166

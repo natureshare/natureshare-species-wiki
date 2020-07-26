@@ -1,0 +1,16 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Tineidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Hieroxestinae
+    rank: subfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5a65ccb6ed2a8959b5001e5f

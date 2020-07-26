@@ -1,0 +1,13 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Australian Leafroller Tachinid
+classification:
+  - name: Insecta
+    rank: class
+  - name: Tachinidae
+    rank: family
+  - name: Diptera
+    rank: order
+id:
+  ns: 58077067ed2a89450f00aabc

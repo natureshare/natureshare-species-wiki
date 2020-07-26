@@ -1,0 +1,15 @@
+created_by: russell
+updated_by: chrisl
+classification:
+  - name: insecta
+    rank: class
+  - name: Trogidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - insect
+  - provisional-name
+id:
+  ns: 5471d7a8e35eb1f43b000047

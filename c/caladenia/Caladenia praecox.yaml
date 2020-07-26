@@ -1,0 +1,31 @@
+updated_by: chrisl
+common_names:
+  - Early Caladenia
+  - Early Hood-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - endemic
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: orchid
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: white
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: yellow
+    feature: labellum-spots
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e6e35eb1298403661b
+  vba: '500543'

@@ -1,0 +1,17 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Hypertrophidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: mimodora
+    rank: Species
+  - name: Thudaca
+    rank: genus
+categories:
+  - moth
+id:
+  ns: 583004a8ed2a899dda0000b7

@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Lesser Grass Blue
+classification:
+  - name: Insecta
+    rank: class
+  - name: Lycaenidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+categories:
+  - butterfly
+id:
+  ns: 5810aaa5ed2a897480000cdb

@@ -1,0 +1,13 @@
+created_by: chrisl
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Myrmeleontidae
+    rank: family
+  - name: Neuroptera
+    rank: order
+categories:
+  - antlion
+id:
+  ns: 54f996d4ed2a89097e000577

@@ -1,0 +1,20 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Artist's Bracket
+synonyms:
+  - Boletus applanatus
+  - Elfvingia applanata
+  - Fomes applanatus
+  - Polyporus applanatus
+classification:
+  - name: Agaricomycetes
+    rank: Class
+  - name: Ganodermataceae
+    rank: Family
+  - name: Polyporales
+    rank: Order
+categories:
+  - fungi
+id:
+  ns: 5b419a7aed2a8903a00023b1

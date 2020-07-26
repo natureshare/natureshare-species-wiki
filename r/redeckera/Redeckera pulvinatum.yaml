@@ -1,0 +1,12 @@
+updated_by: chrisl
+classification:
+  - name: Glomeromycetes
+    rank: class
+  - name: Diversisporaceae
+    rank: family
+  - name: Diversisporales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 53b398f4e35eb1298403a824

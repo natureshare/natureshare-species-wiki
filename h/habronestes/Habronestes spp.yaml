@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - Ant Hunting Spider
+  - Ant-eating Spider
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Zodariidae
+    rank: family
+  - name: Araneae
+    rank: order
+categories:
+  - provisional-name
+  - spider
+id:
+  ns: 53b398f2e35eb12984039d8e

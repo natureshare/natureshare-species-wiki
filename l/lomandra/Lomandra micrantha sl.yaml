@@ -1,0 +1,37 @@
+updated_by: chrisl
+common_names:
+  - Small-flower Mat-rush
+classification:
+  - name: xanthorrhoeaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+  - provisional-name
+features:
+  - description: black
+    feature: flower
+  - description: brown
+    feature: flower
+  - description: cluster
+    feature: flower
+  - description: green
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: black
+    feature: fruit
+  - description: green
+    feature: fruit
+  - description: tufted
+    feature: habit
+  - description: strappy
+    feature: leaf
+  - description: '6'
+    feature: number-of-petals
+  - description: '6'
+    feature: petals
+id:
+  ns: 53b398e9e35eb1298403719c
+  vba: '502047'

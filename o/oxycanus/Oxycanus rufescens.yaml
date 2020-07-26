@@ -1,0 +1,28 @@
+updated_by: koolah
+common_names:
+  - Dry-country Oxycanus
+classification:
+  - name: Hepialinae
+    rank: Subfamily
+  - name: Insecta
+    rank: class
+  - name: HEPIALIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: HEPIALOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: one-coloured
+    feature: wing
+  - description: pink
+    feature: wing
+  - description: purple
+    feature: wing
+  - description: red
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f25

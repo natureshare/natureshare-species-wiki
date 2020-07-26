@@ -1,0 +1,42 @@
+updated_by: chrisl
+common_names:
+  - Small Grass-tree
+classification:
+  - name: xanthorrhoeaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+features:
+  - description: scented
+    feature: flower
+  - description: terminal-spike
+    feature: flower
+  - description: yellowish
+    feature: flower
+  - description: mid-spring-mid-autumn
+    feature: flowering-time
+  - description: 3-celled
+    feature: fruit
+  - description: capsule
+    feature: fruit
+  - description: woody
+    feature: fruit
+  - description: stout-perennial
+    feature: habit
+  - description: tuft
+    feature: habit
+  - description: underground-trunk
+    feature: habit
+  - description: arching
+    feature: leaf
+  - description: basal-tuft
+    feature: leaf
+  - description: to-100cm
+    feature: leaf
+  - description: triangular-in-cross-section
+    feature: leaf
+id:
+  ns: 53b398ebe35eb12984037d93
+  vba: '503588'

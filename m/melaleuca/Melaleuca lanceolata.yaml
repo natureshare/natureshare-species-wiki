@@ -1,0 +1,30 @@
+updated_by: chrisl
+common_names:
+  - Moonah
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: cream
+    feature: flower-colour
+  - description: white
+    feature: flower-colour
+  - description: shrub
+    feature: habit
+  - description: tree
+    feature: habit
+  - description: to-10m
+    feature: height
+  - description: 5-15mm
+    feature: leaf-length
+  - description: 1-3mm
+    feature: leaf-width
+id:
+  ns: 53b398e9e35eb12984037252
+  vba: '502150'

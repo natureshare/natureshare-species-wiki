@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Termitidae
+    rank: family
+  - name: Isoptera
+    rank: order
+categories:
+  - insect
+  - termite
+id:
+  ns: 53b398f0e35eb129840394af

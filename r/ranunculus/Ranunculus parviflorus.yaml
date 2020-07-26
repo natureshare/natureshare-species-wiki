@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Small-flower Buttercup
+classification:
+  - name: ranunculaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: bisexual
+    feature: flowers
+  - description: '5'
+    feature: sepals
+id:
+  ns: 53b398eae35eb12984037826
+  vba: '502901'

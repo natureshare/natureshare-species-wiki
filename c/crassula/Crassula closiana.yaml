@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Stalked Crassula
+classification:
+  - name: crassulaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: on-long-stalks
+    feature: flower
+  - description: upright-erect
+    feature: habit
+  - description: widely-spaced-on-stem
+    feature: leaf
+id:
+  ns: 53b398e7e35eb129840368a7
+  vba: '500864'

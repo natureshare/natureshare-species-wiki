@@ -1,0 +1,30 @@
+updated_by: koolah
+common_names:
+  - Doubleday's Footman
+classification:
+  - name: Insecta
+    rank: class
+  - name: Arctiidae
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: Lithosiinae
+    rank: subfamily
+  - name: Noctuoidea
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: orange
+    feature: head-hair
+  - description: orange
+    feature: neck-hair
+  - description: black
+    feature: wing
+  - description: orange
+    feature: wing
+  - description: yellow
+    feature: wing
+id:
+  ns: 53b398f2e35eb12984039d28

@@ -1,0 +1,19 @@
+created_by: david_francis
+updated_by: david_francis
+synonyms:
+  - Agaricus involutus
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Paxillaceae
+    rank: family
+  - name: fungi
+    rank: kingdom
+  - name: Boletales
+    rank: order
+  - name: Basidiomycota
+    rank: phylum
+categories:
+  - fungi
+id:
+  ns: 5a9542f7ed2a89ad320015dc

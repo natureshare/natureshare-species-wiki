@@ -1,0 +1,21 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Epipaschia lygropa
+  - Stericta cinerascens
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Pyralidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Epipaschiinae
+    rank: Subfamily
+  - name: Pyraloidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5d75039ccad3eb4c55000188

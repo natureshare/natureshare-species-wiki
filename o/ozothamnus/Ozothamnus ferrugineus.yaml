@@ -1,0 +1,35 @@
+updated_by: chrisl
+common_names:
+  - Tree Everlasting
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: daisy
+    feature: flower
+  - description: white
+    feature: flower
+  - description: late-spring-summer
+    feature: flowering-time
+  - description: shrub-to-small-tree
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: dark-green
+    feature: leaf
+  - description: narrow
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-7cm
+    feature: leaf
+  - description: white-underneath
+    feature: leaf
+id:
+  ns: 53b398e9e35eb1298403742e
+  vba: '501616'

@@ -1,0 +1,13 @@
+common_names:
+  - Fool?s Conecap
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Bolbitiaceae
+    rank: family
+  - name: Agaricales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 53b398f3e35eb1298403a2e8

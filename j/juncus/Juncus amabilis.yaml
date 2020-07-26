@@ -1,0 +1,29 @@
+updated_by: chrisl
+common_names:
+  - Hollow Rush
+classification:
+  - name: juncaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+  - rush
+features:
+  - description: compact-spike
+    feature: flower
+  - description: light-brown
+    feature: flower
+  - description: late-spring-early-summer
+    feature: flowering-time
+  - description: capsule
+    feature: fruit
+  - description: reddish-brown-point
+    feature: fruit
+  - description: tuft
+    feature: habit
+  - description: reduced
+    feature: leaf
+id:
+  ns: 53b398e8e35eb12984036fcf
+  vba: '501803'

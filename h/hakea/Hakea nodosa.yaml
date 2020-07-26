@@ -1,0 +1,38 @@
+updated_by: chrisl
+common_names:
+  - Yellow Hakea
+classification:
+  - name: proteaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: massed
+    feature: flower
+  - description: scented
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: mid-autumn-late-winter
+    feature: flowering-time
+  - description: hard
+    feature: fruit
+  - description: oval
+    feature: fruit
+  - description: to-3cm
+    feature: fruit
+  - description: warty
+    feature: fruit
+  - description: blue-green
+    feature: leaf
+  - description: needle-shaped
+    feature: leaf
+  - description: to-4cm
+    feature: leaf
+  - description: unstalked
+    feature: leaf
+id:
+  ns: 53b398e8e35eb12984036e3d
+  vba: '501568'

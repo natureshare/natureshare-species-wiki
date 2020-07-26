@@ -1,0 +1,14 @@
+updated_by: chrisl
+common_names:
+  - Peach Leaf Curl Fungus
+classification:
+  - name: Taphrinomycetes
+    rank: class
+  - name: Taphrinaceae
+    rank: family
+  - name: Taphrinales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 53b398f4e35eb1298403a889

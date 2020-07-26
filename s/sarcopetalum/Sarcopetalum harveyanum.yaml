@@ -1,0 +1,38 @@
+updated_by: chrisl
+common_names:
+  - Pearl Vine
+classification:
+  - name: menispermaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: east-gippsland
+    feature: distribution
+  - description: vine
+    feature: habit
+  - description: rainforest
+    feature: habitat
+  - description: alternate
+    feature: leaf-arrangement
+  - description: to-15cm
+    feature: leaf-length
+  - description: ovate-to-deltoid
+    feature: leaf-shape
+  - description: glossy
+    feature: leaf-surface
+  - description: entire
+    feature: leaf-type
+  - description: to-15cm
+    feature: leaf-width
+  - description: 4-6
+    feature: number-of-petals
+  - description: 4-6
+    feature: petals
+  - description: dioecious
+    feature: plant
+id:
+  ns: 53b398eae35eb12984037948
+  vba: '503013'

@@ -1,0 +1,40 @@
+updated_by: chrisl
+common_names:
+  - Long-tailed Pea-blue
+  - Pea Blue
+  - Pea-pod Argus
+classification:
+  - name: Insecta
+    rank: class
+  - name: Lycaenidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Papilionoidea
+    rank: superfamily
+categories:
+  - butterfly
+  - insect
+features:
+  - description: '2'
+    feature: spots
+  - description: 2-underside
+    feature: spots
+  - description: 2-upperside
+    feature: spots
+  - description: black
+    feature: spots
+  - description: blue
+    feature: wing
+  - description: brown
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: tailed
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ece35eb1298403800c

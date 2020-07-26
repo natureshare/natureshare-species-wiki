@@ -1,0 +1,15 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Common Galaxias
+classification:
+  - name: Galaxiidae
+    rank: family
+  - name: Salmoniformes
+    rank: order
+categories:
+  - animal
+  - fauna
+  - fish
+id:
+  ns: 55472538ed2a89dfbc0003ca

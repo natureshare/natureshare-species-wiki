@@ -1,0 +1,15 @@
+created_by: chrisl
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Cerambycidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - insect
+  - longicorn-beetle
+id:
+  ns: 569efd07ed2a8954e1000017

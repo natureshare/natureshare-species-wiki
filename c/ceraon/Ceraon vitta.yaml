@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Membracidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - hopper
+  - insect
+id:
+  ns: 53b398efe35eb1298403915d

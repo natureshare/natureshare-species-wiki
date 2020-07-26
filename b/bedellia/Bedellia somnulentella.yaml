@@ -1,0 +1,13 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Lyonetiidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+categories:
+  - moth
+id:
+  ns: 58a5547ced2a896c5c000263

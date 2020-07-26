@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Greenbush
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - weed
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398e6e35eb1298403664b
+  vba: '503908'

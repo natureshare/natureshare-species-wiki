@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Purple Loosestrife
+classification:
+  - name: lythraceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: shrub
+    feature: habit
+  - description: upright-to-150cm
+    feature: habit
+  - description: to-150cm
+    feature: height
+id:
+  ns: 53b398e9e35eb129840371ea
+  vba: '502093'

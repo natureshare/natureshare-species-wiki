@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Grampians Duck-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - ffg
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e9e35eb12984037461
+  vba: '504372'

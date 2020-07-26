@@ -1,0 +1,40 @@
+updated_by: chrisl
+common_names:
+  - Rock Correa
+classification:
+  - name: rutaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: green
+    feature: flower
+  - description: single
+    feature: flower
+  - description: tubular
+    feature: flower
+  - description: late-autumn-winter
+    feature: flowering-time
+  - description: medium-shrub
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: dark-green
+    feature: leaf
+  - description: oval
+    feature: leaf
+  - description: scented
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-4cm
+    feature: leaf
+  - description: wavy-edge
+    feature: leaf
+  - description: '4'
+    feature: number-of-petals
+id:
+  ns: 53b398e7e35eb12984036852
+  vba: '500830'

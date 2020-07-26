@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - Violet Kunzea
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: pink
+    feature: flower-colour
+  - description: purple
+    feature: flower-colour
+  - description: medium-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: 05-15m
+    feature: height
+  - description: 1-4mm
+    feature: leaf-length
+  - description: 075-1mm
+    feature: leaf-width
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e8e35eb1298403701a
+  vba: '501857'

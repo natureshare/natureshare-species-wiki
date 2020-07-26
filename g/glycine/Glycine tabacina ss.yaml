@@ -1,0 +1,25 @@
+updated_by: chrisl
+common_names:
+  - Variable Glycine
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: much-longer-stalk-than-other-2
+    feature: central-leaflet
+  - description: pea
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: trifoliolate
+    feature: leaf
+  - description: '3'
+    feature: leaflets
+id:
+  ns: 53b398e8e35eb12984036d89
+  vba: '503739'

@@ -1,0 +1,19 @@
+updated_by: koolah
+common_names:
+  - Labyrinthine Ghost Moth
+classification:
+  - name: Hepialinae
+    rank: Subfamily
+  - name: Hepialoidea
+    rank: Superfamily
+  - name: Insecta
+    rank: class
+  - name: Hepialidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f0e35eb129840394d0

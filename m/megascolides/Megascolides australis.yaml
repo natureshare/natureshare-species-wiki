@@ -1,0 +1,15 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Giant Gippsland Earthworm
+classification:
+  - name: Oligochaeta
+    rank: class
+  - name: megascolecidae
+    rank: family
+categories:
+  - animal
+  - fauna
+  - rare-threatened
+id:
+  ns: 554703beed2a899c79000384

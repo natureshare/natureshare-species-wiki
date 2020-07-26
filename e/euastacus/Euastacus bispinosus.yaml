@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Glenelg Spiny Freshwater Crayfish
+classification:
+  - name: Malacostraca
+    rank: class
+  - name: Parastacidae
+    rank: family
+  - name: Decapoda
+    rank: order
+categories:
+  - crayfish
+  - crustacean
+  - epbc
+  - rare-threatened
+id:
+  ns: 53b398f3e35eb1298403a351

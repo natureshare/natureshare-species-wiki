@@ -1,0 +1,15 @@
+updated_by: david_francis
+common_names:
+  - Black and White Seed Bug
+classification:
+  - name: Insecta
+    rank: class
+  - name: Rhyparochromidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - insect
+  - true-bug
+id:
+  ns: 53b398efe35eb12984039234

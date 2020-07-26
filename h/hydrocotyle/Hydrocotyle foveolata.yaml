@@ -1,0 +1,34 @@
+updated_by: chrisl
+common_names:
+  - Yellow Pennywort
+classification:
+  - name: apiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: cream
+    feature: flower
+  - description: green
+    feature: flower
+  - description: sessile
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: 3-5mm-diameter
+    feature: flowerhead
+  - description: 3-6
+    feature: flowers
+  - description: herb
+    feature: habit
+  - description: divided
+    feature: leaf
+  - description: lobed
+    feature: leaf
+id:
+  ns: 53b398e8e35eb12984036f1e
+  vba: '501720'

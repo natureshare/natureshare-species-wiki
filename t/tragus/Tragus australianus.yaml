@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Small Burr-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - native-and-weedy-stands-in-vic
+  - plant
+  - rare-threatened
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398ebe35eb12984037c29
+  vba: '503418'

@@ -1,0 +1,28 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: PYRALIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: CRAMBINAE
+    rank: subfamily
+  - name: PYRALOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: hairy
+    feature: palp
+  - description: brown
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f6a

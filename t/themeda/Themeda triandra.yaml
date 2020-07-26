@@ -1,0 +1,57 @@
+updated_by: chrisl
+common_names:
+  - Kangaroo Grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+features:
+  - description: black
+    feature: flower
+  - description: brown
+    feature: flower
+  - description: grass
+    feature: flower
+  - description: light-green
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: spike-interrupted-by-leaves
+    feature: flower
+  - description: 70-90cm
+    feature: flower-stalk
+  - description: spring-early-autumn
+    feature: flowering-time
+  - description: 40-75cm
+    feature: habit
+  - description: grass
+    feature: habit
+  - description: soft-tussock
+    feature: habit
+  - description: blue
+    feature: leaf
+  - description: green
+    feature: leaf
+  - description: keeled-below
+    feature: leaf
+  - description: limp
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: purple
+    feature: leaf
+  - description: sometimes-rough-above
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+  - description: to-30cm
+    feature: leaf
+  - description: tufted
+    feature: leaf
+id:
+  ns: 53b398ebe35eb12984037bd7
+  vba: '503387'

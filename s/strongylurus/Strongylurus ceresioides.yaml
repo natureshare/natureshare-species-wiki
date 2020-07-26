@@ -1,0 +1,22 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Cerambycidae
+    rank: Family
+  - name: Coleoptera
+    rank: Order
+  - name: Cerambycinae
+    rank: Subfamily
+  - name: Polyphaga
+    rank: Suborder
+  - name: Chrysomeloidea
+    rank: Superfamily
+  - name: Strongylurus
+    rank: Tribe
+categories:
+  - insect
+  - longicorn-beetle
+id:
+  ns: 5d71b465cad3eb4c55000118

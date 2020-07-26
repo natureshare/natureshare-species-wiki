@@ -1,0 +1,15 @@
+updated_by: chrisl
+common_names:
+  - Beech Aphid
+classification:
+  - name: Insecta
+    rank: class
+  - name: Aphididae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - aphid
+  - insect
+id:
+  ns: 53b398efe35eb12984038f22

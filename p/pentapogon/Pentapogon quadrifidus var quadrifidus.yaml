@@ -1,0 +1,39 @@
+updated_by: chrisl
+common_names:
+  - Five-awned Spear-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+features:
+  - description: grass
+    feature: flower
+  - description: light-brown
+    feature: flower
+  - description: spike
+    feature: flower
+  - description: 30-to-60cm
+    feature: flower-stalk
+  - description: mid-spring-summer
+    feature: flowering-time
+  - description: grass
+    feature: habit
+  - description: tuft
+    feature: habit
+  - description: 8-18cm
+    feature: leaf
+  - description: inrolled
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+  - description: tufted
+    feature: leaf
+id:
+  ns: 53b398e9e35eb129840374b1
+  vba: '502456'

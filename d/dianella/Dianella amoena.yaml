@@ -1,0 +1,34 @@
+updated_by: chrisl
+common_names:
+  - Matted Flax-lily
+classification:
+  - name: hemerocallidaceae
+    rank: family
+categories:
+  - epbc
+  - ffg
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+  - rare-threatened
+features:
+  - description: yellow
+    feature: anther
+  - description: blue
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: often-less-than-60-70cm-tall
+    feature: habit
+  - description: spreading
+    feature: habit
+  - description: v-or-y-shaped-in-cross-section
+    feature: leaf
+  - description: '6'
+    feature: number-of-petals
+  - description: '6'
+    feature: petals
+id:
+  ns: 53b398e7e35eb129840369ad
+  vba: '505084'

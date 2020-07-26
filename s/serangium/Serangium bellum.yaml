@@ -1,0 +1,21 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Coccinellidae
+    rank: Family
+  - name: Coleoptera
+    rank: Order
+  - name: Microweiseinae
+    rank: Subfamily
+  - name: Cucujoidea
+    rank: Superfamily
+  - name: Serangiini
+    rank: Tribe
+categories:
+  - beetle
+  - insect
+  - leaf-beetle
+id:
+  ns: 5d077847c347d52ac200006a

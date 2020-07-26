@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - Hoary Sunray
+synonyms:
+  - Leucochrysum albicans subsp. albicans var. albicans
+  - Leucochrysum albicans subsp. albicans var. buffaloensis
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: daisy
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: late-winter-early-autumn
+    feature: flowering-time
+  - description: grey
+    feature: leaf
+  - description: hairy
+    feature: leaf
+  - description: narrow
+    feature: leaf
+  - description: to-10cm
+    feature: leaf
+id:
+  ns: 53b398e8e35eb12984037112
+  vba: '504579'

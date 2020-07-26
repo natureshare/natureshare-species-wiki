@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Blue Riverdamsel
+classification:
+  - name: Insecta
+    rank: class
+  - name: Coenagrionidae
+    rank: family
+  - name: Odonata
+    rank: order
+  - name: Zygoptera
+    rank: suborder
+categories:
+  - damselfly
+  - dragonfly-and-damselfly
+  - insect
+id:
+  ns: 53b398ebe35eb12984037e63

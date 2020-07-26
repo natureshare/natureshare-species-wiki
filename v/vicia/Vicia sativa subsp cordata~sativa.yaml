@@ -1,0 +1,18 @@
+created_by: russell
+updated_by: chrisl
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - flora
+  - pea
+  - plant
+  - provisional-name
+  - weed
+features:
+  - description: pea
+    feature: flower
+  - description: shorter-than-corolla-tube
+    feature: sepal-teeth
+id:
+  ns: 5449bc38e35eb16e7a000010

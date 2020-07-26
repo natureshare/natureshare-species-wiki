@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Shredded Spleenwort
+classification:
+  - name: aspleniaceae
+    rank: family
+categories:
+  - ferns-and-allies
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: 2-pinnate-usually
+    feature: frond
+  - description: straight
+    feature: pinnule-lobe-edge
+id:
+  ns: 53b398e6e35eb129840363c6
+  vba: '503626'

@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - Angled Lobelia
+classification:
+  - name: campanulaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: pale-blue
+    feature: flower
+  - description: most-of-year
+    feature: flowering-time
+  - description: erect-herb
+    feature: habit
+  - description: narrow
+    feature: leaf
+  - description: soft
+    feature: leaf
+  - description: to-5cm
+    feature: leaf
+  - description: toothed-margin
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: obviously-2-types
+    feature: petals
+id:
+  ns: 53b398e9e35eb12984037167
+  vba: '502024'

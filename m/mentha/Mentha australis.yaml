@@ -1,0 +1,34 @@
+updated_by: chrisl
+common_names:
+  - River Mint
+classification:
+  - name: lamiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: 7-10-clustered-terminally
+    feature: flower
+  - description: tubular
+    feature: flower
+  - description: white-mauve
+    feature: flower
+  - description: late-summer-mid-spring
+    feature: flowering-time
+  - description: slender-trailing-herb
+    feature: habit
+  - description: lanceolate
+    feature: leaf
+  - description: paired
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-5cm
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+id:
+  ns: 53b398e9e35eb12984037272
+  vba: '502165'

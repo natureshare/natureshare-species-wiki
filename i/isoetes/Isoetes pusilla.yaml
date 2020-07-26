@@ -1,0 +1,27 @@
+updated_by: chrisl
+common_names:
+  - Small Quillwort
+classification:
+  - name: isoetaceae
+    rank: family
+categories:
+  - endemic
+  - ferns-and-allies
+  - ffg
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: 2-6cm
+    feature: leaf-length
+  - description: all-spherical
+    feature: megaspores
+  - description: submerged-in-water-usually
+    feature: plant
+  - description: grey-white
+    feature: sporangia
+  - description: not-shiny
+    feature: sporangia
+id:
+  ns: 53b398e8e35eb12984036f87
+  vba: '504538'

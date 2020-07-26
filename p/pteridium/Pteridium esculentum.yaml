@@ -1,0 +1,34 @@
+updated_by: chrisl
+common_names:
+  - Austral Bracken
+classification:
+  - name: dennstaedtiaceae
+    rank: family
+categories:
+  - ferns-and-allies
+  - flora
+  - plant
+features:
+  - description: 3-4-pinnate
+    feature: frond
+  - description: dark-green
+    feature: frond
+  - description: leathery
+    feature: frond
+  - description: rigid-stalk
+    feature: frond
+  - description: to-1.5m-long
+    feature: frond
+  - description: no-trunk
+    feature: habit
+  - description: single-frond
+    feature: habit
+  - description: spreading
+    feature: habit
+  - description: bands-along-frond-margins
+    feature: sori
+  - description: covered-by-smooth-membrane
+    feature: sori
+id:
+  ns: 53b398eae35eb1298403772b
+  vba: '502777'

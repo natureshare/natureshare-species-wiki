@@ -1,0 +1,16 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Pyralidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Epipaschiinae
+    rank: subfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5a9bba11ed2a896baf000ae9

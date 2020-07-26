@@ -1,0 +1,15 @@
+created_by: chrisl
+updated_by: chrisl
+classification:
+  - name: Noctuidae
+    rank: Family
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: Lepidoptera
+    rank: order
+categories:
+  - moth
+id:
+  ns: 5674fa7fed2a89d6d600026a

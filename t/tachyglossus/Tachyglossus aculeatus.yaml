@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Short-beaked Echidna
+classification:
+  - name: tachyglossidae
+    rank: family
+  - name: tachyglossus
+    rank: genus
+categories:
+  - animal
+  - fauna
+  - mammal
+  - monotreme
+features:
+  - description: short
+    feature: beak
+  - description: 'yes'
+    feature: spines
+id:
+  ns: 53b398e5e35eb129840360b8

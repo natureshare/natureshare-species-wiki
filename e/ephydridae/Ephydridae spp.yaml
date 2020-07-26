@@ -1,0 +1,18 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Brine Flies
+  - Shore Flies
+classification:
+  - name: insecta
+    rank: class
+  - name: Ephydridae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+  - insect
+  - provisional-name
+id:
+  ns: 582d847fed2a89de57000240

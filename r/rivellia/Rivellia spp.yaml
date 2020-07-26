@@ -1,0 +1,13 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: insecta
+    rank: Class
+  - name: Platystomatidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+id:
+  ns: 59fd68beed2a892d4000b0a2

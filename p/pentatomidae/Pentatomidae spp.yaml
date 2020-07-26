@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Stink Bug
+classification:
+  - name: Insecta
+    rank: class
+  - name: Pentatomidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+  - name: Heteroptera
+    rank: suborder
+  - name: Pentatomoidea
+    rank: superfamily
+categories:
+  - insect
+  - provisional-name
+  - true-bug
+id:
+  ns: 53b398ece35eb129840380e6

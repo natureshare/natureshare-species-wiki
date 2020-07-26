@@ -1,0 +1,25 @@
+updated_by: chrisl
+common_names:
+  - Star Cudweed
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: withered-at-flowering
+    feature: basal-rosette
+  - description: 3-6
+    feature: floral-leaves
+  - description: longest-1-4cm-beyond-flowerhead
+    feature: floral-leaves
+  - description: 3-7-florets-rarely-to-10
+    feature: flowerhead
+  - description: perrenial
+    feature: plant
+id:
+  ns: 53b398e7e35eb12984036c23
+  vba: '501465'

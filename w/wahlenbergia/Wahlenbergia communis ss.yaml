@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Tufted Bluebell
+classification:
+  - name: campanulaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: blue
+    feature: flower
+  - description: alternate
+    feature: lower-leaves
+  - description: usually-white-or-bluish-rarely-yellowish
+    feature: petal-underside
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398ebe35eb12984037d41
+  vba: '504123'

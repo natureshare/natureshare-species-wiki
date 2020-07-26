@@ -1,0 +1,45 @@
+updated_by: chrisl
+common_names:
+  - Curved Rice-flower
+classification:
+  - name: thymelaeaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - provisional-name
+features:
+  - description: cluster
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: tubular
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: mid-spring-mid-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: low-shrub
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: grey
+    feature: leaf
+  - description: grey-green
+    feature: leaf
+  - description: hairy
+    feature: leaf
+  - description: margins-inrolled
+    feature: leaf
+  - description: to-2cm
+    feature: leaf
+  - description: '4'
+    feature: number-of-petals
+  - description: '4'
+    feature: petals
+id:
+  ns: 53b398e9e35eb1298403754d
+  vba: '504832'

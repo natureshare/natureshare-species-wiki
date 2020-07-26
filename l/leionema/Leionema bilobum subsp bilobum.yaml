@@ -1,0 +1,24 @@
+updated_by: chrisl
+common_names:
+  - Truncate Leionema
+synonyms:
+  - Leionema bilobum subsp. 1 (Grampians)
+classification:
+  - name: rutaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: east-grampians
+    feature: distribution
+  - description: serrated
+    feature: leaf
+  - description: serrated-minutely
+    feature: leaf
+id:
+  ns: 53b398e8e35eb12984037075
+  vba: '505479'

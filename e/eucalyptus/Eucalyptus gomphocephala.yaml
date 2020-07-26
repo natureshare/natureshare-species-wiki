@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Tuart
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036bb7
+  vba: '505738'

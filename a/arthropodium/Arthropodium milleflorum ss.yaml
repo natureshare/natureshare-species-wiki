@@ -1,0 +1,49 @@
+updated_by: chrisl
+common_names:
+  - Pale Vanilla-lily
+classification:
+  - name: anthericaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: cream
+    feature: flower
+  - description: mauve
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: white
+    feature: flower
+  - description: late-spring-early-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: lily
+    feature: habit
+  - description: dark-green
+    feature: leaf
+  - description: slightly-fleshly
+    feature: leaf
+  - description: straplike
+    feature: leaf
+  - description: to-30cm
+    feature: leaf
+  - description: tufted
+    feature: leaf
+  - description: '3'
+    feature: number-of-petals
+  - description: '6'
+    feature: number-of-petals
+  - description: '6'
+    feature: petals-sepals
+id:
+  ns: 53b398e6e35eb129840363a5
+  vba: '505125'

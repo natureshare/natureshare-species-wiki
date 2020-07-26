@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Grey Parrot-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - provisional-name
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398e7e35eb129840369ff
+  vba: '501050'

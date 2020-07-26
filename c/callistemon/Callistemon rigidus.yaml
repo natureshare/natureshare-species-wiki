@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Stiff Bottlebrush
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: cluster
+    feature: flower
+id:
+  ns: 53b398e6e35eb12984036654
+  vba: '505397'

@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Cobra Greenhood
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398eae35eb12984037752
+  vba: '502798'

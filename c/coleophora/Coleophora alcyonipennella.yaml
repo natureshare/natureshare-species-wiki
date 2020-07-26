@@ -1,0 +1,17 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Whitetipped Clover Casebearer
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Coleophoridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Gelechioidea
+    rank: superfamily
+categories:
+  - moth
+id:
+  ns: 5a3c72f5ed2a89e23c000f34

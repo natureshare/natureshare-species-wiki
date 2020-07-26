@@ -1,0 +1,13 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Agaricomycetes
+    rank: Class
+  - name: Gomphaceae
+    rank: Family
+  - name: Gomphales
+    rank: Order
+categories:
+  - fungi
+id:
+  ns: 5b27768eed2a899498000404

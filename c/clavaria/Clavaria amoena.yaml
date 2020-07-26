@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Clavariaceae
+    rank: family
+  - name: Agaricales
+    rank: order
+categories:
+  - fungi
+  - fungimap
+id:
+  ns: 578211bced2a8927d6000004

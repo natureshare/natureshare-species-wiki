@@ -1,0 +1,27 @@
+updated_by: chrisl
+common_names:
+  - Rayless Daisy
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: green-yellow
+    feature: flower
+  - description: rayless
+    feature: flower
+  - description: to-12cm
+    feature: height
+  - description: entire-or-divided
+    feature: leaf
+  - description: upper-section-3-or-more-lobed
+    feature: leaf
+  - description: to-25mm
+    feature: leaf-length
+id:
+  ns: 53b398e6e35eb1298403656d
+  vba: '500470'

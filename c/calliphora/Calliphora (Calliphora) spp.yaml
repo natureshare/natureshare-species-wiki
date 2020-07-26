@@ -1,0 +1,17 @@
+updated_by: david_francis
+common_names:
+  - Blow flies
+classification:
+  - name: Insecta
+    rank: class
+  - name: Calliphoridae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - blowfly
+  - fly
+  - insect
+  - provisional-name
+id:
+  ns: 53b398eee35eb12984038b4b

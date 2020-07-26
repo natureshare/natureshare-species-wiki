@@ -1,0 +1,17 @@
+created_by: chrisl
+updated_by: chrisl
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Entolomataceae
+    rank: family
+  - name: Fungi
+    rank: kingdom
+  - name: Agaricales
+    rank: order
+  - name: Basidiomycota
+    rank: phylum
+categories:
+  - fungi
+id:
+  ns: 5b833e87ed2a890fa000019f

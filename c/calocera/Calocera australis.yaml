@@ -1,0 +1,12 @@
+updated_by: chrisl
+classification:
+  - name: Dacrymycetes
+    rank: class
+  - name: Dacrymycetaceae
+    rank: family
+  - name: Dacrymycetales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 53b398f3e35eb1298403a470

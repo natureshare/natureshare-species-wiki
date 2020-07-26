@@ -1,0 +1,31 @@
+updated_by: chrisl
+common_names:
+  - Blue Box
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - provisional-name
+features:
+  - description: rough-to-smaller-branches
+    feature: bark
+  - description: groups-of-7
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+  - description: 6-20m
+    feature: height
+  - description: green
+    feature: leaf-colour
+  - description: glossy
+    feature: leaf-surface
+  - description: 4-75cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036b83
+  vba: '501249'

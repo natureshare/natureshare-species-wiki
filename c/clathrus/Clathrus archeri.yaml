@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Devil's Fingers
+  - Devils Fingers
+synonyms:
+  - Anthurus archeri
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Phallaceae
+    rank: family
+  - name: Phallales
+    rank: order
+categories:
+  - fungi
+  - fungimap
+id:
+  ns: 53b398f3e35eb1298403a2cb

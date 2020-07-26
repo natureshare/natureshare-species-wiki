@@ -1,0 +1,42 @@
+updated_by: chrisl
+common_names:
+  - Sand Bird's-foot
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - weed
+features:
+  - description: pea
+    feature: flower
+  - description: orange-yellow
+    feature: flower-colour
+  - description: red
+    feature: flower-colour
+  - description: prostrate
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-25m
+    feature: height
+  - description: opposite
+    feature: leaf-arrangement
+  - description: 25-70mm
+    feature: leaf-length
+  - description: greater-than-20mm
+    feature: leaf-length
+  - description: less-than-100mm
+    feature: leaf-length
+  - description: 10-25mm
+    feature: leaf-width
+  - description: greater-than-10mm
+    feature: leaf-width
+  - description: less-than-25mm
+    feature: leaf-width
+id:
+  ns: 53b398e9e35eb129840373f1
+  vba: '502364'

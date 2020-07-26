@@ -1,0 +1,39 @@
+updated_by: chrisl
+common_names:
+  - Ribbed Bush-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+  - description: orange
+    feature: flower-colour
+  - description: medium-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-2m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 2-6mm
+    feature: leaf-length
+  - description: less-than-10mm
+    feature: leaf-length
+  - description: less-than-5mm
+    feature: leaf-length
+  - description: 1-3mm
+    feature: leaf-width
+  - description: up-to-3mm
+    feature: leaf-width
+id:
+  ns: 53b398eae35eb129840377b9
+  vba: '502841'

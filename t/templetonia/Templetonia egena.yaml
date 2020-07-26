@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Round Templetonia
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+  - description: leafless
+    feature: leaf
+id:
+  ns: 53b398ebe35eb12984037b6b
+  vba: '503340'

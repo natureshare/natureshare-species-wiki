@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Sand Sunray
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: about-10
+    feature: florets-per-capitulum
+id:
+  ns: 53b398eae35eb1298403786c
+  vba: '501653'

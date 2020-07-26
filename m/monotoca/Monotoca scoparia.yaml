@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Prickly Broom-heath
+classification:
+  - name: epacridaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: tubular
+    feature: flower
+  - description: white
+    feature: flower
+  - description: shrub
+    feature: habit
+  - description: prickly
+    feature: leaf
+id:
+  ns: 53b398e9e35eb129840372d5
+  vba: '502220'

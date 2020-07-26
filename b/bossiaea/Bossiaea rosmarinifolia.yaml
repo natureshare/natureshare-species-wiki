@@ -1,0 +1,55 @@
+updated_by: chrisl
+common_names:
+  - Grampians Bossiaea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+  - description: purplish-pink
+    feature: flower-colour
+  - description: white
+    feature: flower-colour
+  - description: herb
+    feature: habit
+  - description: scrambler
+    feature: habit
+  - description: alternate
+    feature: leaf-arrangement
+  - description: trifoliate
+    feature: leaf-type
+  - description: greater-than-15mm
+    feature: leafet-length
+  - description: 15-50mm
+    feature: leaflet-length
+  - description: less-than-50mm
+    feature: leaflet-length
+  - description: 1-6mm
+    feature: leaflet-width
+  - description: less-than-10mm
+    feature: leaflet-width
+  - description: '3'
+    feature: leaflets
+  - description: 15-30mm
+    feature: seedpod-length
+  - description: greater-than-15mm
+    feature: seedpod-length
+  - description: less-than-30mm
+    feature: seedpod-length
+  - description: 25-4mm
+    feature: seedpod-width
+  - description: up-to-4mm
+    feature: seedpod-width
+  - description: 3-to-7
+    feature: seeds
+id:
+  ns: 53b398e6e35eb1298403653b
+  vba: '500442'

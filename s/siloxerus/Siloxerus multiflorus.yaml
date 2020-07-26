@@ -1,0 +1,31 @@
+updated_by: chrisl
+common_names:
+  - Small Wrinklewort
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: white-hyaline
+    feature: bract
+  - description: cluster
+    feature: flower
+  - description: green
+    feature: flower
+  - description: white
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: green-midrib
+    feature: inner-bract
+  - description: callus-like
+    feature: leaf-tip
+id:
+  ns: 53b398eae35eb12984037a4f
+  vba: '502983'

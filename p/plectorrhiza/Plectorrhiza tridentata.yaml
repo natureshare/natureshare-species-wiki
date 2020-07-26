@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Tangle Orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: orchid
+    feature: flower
+  - description: epiphyte
+    feature: habit
+id:
+  ns: 53b398e9e35eb129840375b7
+  vba: '502574'

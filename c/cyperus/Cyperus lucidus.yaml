@@ -1,0 +1,41 @@
+updated_by: chrisl
+common_names:
+  - Leafy Flat-sedge
+classification:
+  - name: cyperaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+  - sedge
+features:
+  - description: conspicuous
+    feature: bract
+  - description: 30-150cm
+    feature: culm-height
+  - description: brown
+    feature: flower
+  - description: rigid-umbel
+    feature: flower
+  - description: mid-spring-summer
+    feature: flowering-time
+  - description: dark-grey-brown
+    feature: fruit
+  - description: nut
+    feature: fruit
+  - description: robust-tufted-herb
+    feature: habit
+  - description: dark-green
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: rough-margins
+    feature: leaf
+  - description: shiny
+    feature: leaf
+  - description: to-80cm
+    feature: leaf
+id:
+  ns: 53b398e7e35eb12984036935
+  vba: '500926'

@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Long-legged Bandwing
+classification:
+  - name: Insecta
+    rank: class
+  - name: Acrididae
+    rank: family
+  - name: Orthoptera
+    rank: order
+  - name: Acridinae
+    rank: subfamily
+  - name: Caelifera
+    rank: suborder
+  - name: Oedipodini
+    rank: tribe
+categories:
+  - grasshopper
+  - insect
+id:
+  ns: 53b398ece35eb12984038085

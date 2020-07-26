@@ -1,0 +1,33 @@
+updated_by: chrisl
+common_names:
+  - Brown Stringybark
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - provisional-name
+features:
+  - description: rough-throughout
+    feature: bark
+  - description: stringy
+    feature: bark
+  - description: groups-of-7-15
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+  - description: 2-25m
+    feature: height
+  - description: green
+    feature: leaf-colour
+  - description: glossy
+    feature: leaf-surface
+  - description: 25-5cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036b84
+  vba: '501250'

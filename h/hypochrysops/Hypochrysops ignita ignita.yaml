@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Dingy Jewel
+  - Fiery Jewel
+classification:
+  - name: Insecta
+    rank: class
+  - name: Lycaenidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Papilionoidea
+    rank: superfamily
+categories:
+  - butterfly
+  - ffg
+  - insect
+id:
+  ns: 53b398ece35eb12984038007

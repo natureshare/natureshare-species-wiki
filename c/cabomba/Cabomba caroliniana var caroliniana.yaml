@@ -1,0 +1,29 @@
+updated_by: chrisl
+common_names:
+  - Cabomba
+classification:
+  - name: cabombaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: cream
+    feature: flower-colour
+  - description: white
+    feature: flower-colour
+  - description: aquatic
+    feature: habitat
+  - description: opposite
+    feature: leaf-arrangement
+  - description: rhombic-to-elliptic
+    feature: leaf-shape
+  - description: finely-divided
+    feature: leaf-type
+  - description: mostly-submerged
+    feature: leaves
+id:
+  ns: 53b398e6e35eb129840365cd
+  vba: '504662'

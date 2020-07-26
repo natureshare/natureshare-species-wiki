@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Paper Wasp
+classification:
+  - name: Insecta
+    rank: class
+  - name: Vespidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+  - name: Polistinae
+    rank: subfamily
+  - name: Apocrita
+    rank: suborder
+  - name: Vespoidea
+    rank: superfamily
+categories:
+  - insect
+  - provisional-name
+  - wasp
+id:
+  ns: 53b398ece35eb12984038107

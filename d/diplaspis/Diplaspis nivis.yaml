@@ -1,0 +1,17 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Stiff Displaspis
+synonyms:
+  - Diplaspis hydrocotyle (now Tasmania only)
+classification:
+  - name: Equisetopsida
+    rank: class
+  - name: apiaceae
+    rank: family
+  - name: Apiales
+    rank: order
+categories:
+  - rare-victoria
+id:
+  ns: 588b1369ed2a89d10f000f8f

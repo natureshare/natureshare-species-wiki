@@ -1,0 +1,31 @@
+updated_by: chrisl
+common_names:
+  - Blue Skimmer
+classification:
+  - name: Insecta
+    rank: class
+  - name: Libellulidae
+    rank: family
+  - name: Odonata
+    rank: order
+  - name: Anisoptera
+    rank: suborder
+categories:
+  - dragonfly-and-damselfly
+  - dragonfly-proper
+  - insect
+features:
+  - description: black
+    feature: body
+  - description: blue
+    feature: body
+  - description: male-powder-blue
+    feature: body
+  - description: yellow
+    feature: body
+  - description: yellow
+    feature: female
+  - description: blue
+    feature: male
+id:
+  ns: 53b398ebe35eb12984037ea2

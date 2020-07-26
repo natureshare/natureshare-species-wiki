@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - Poison Lobelia
+classification:
+  - name: campanulaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: blue
+    feature: flower
+  - description: purple-mauve
+    feature: flower
+  - description: tinged-purple-or-blue
+    feature: flower
+  - description: white
+    feature: flower
+  - description: open-petalled
+    feature: flower-shape-type
+  - description: hairy
+    feature: flower-stalk
+  - description: white-cream
+    feature: main-flower-colour
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e9e35eb12984037174
+  vba: '502026'

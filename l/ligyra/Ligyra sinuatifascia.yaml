@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - 'Brown Ligyra Beefly '
+classification:
+  - name: insecta
+    rank: class
+  - name: Bombyliidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - bee-fly
+id:
+  ns: 5c386b633abbd68eb40005e9

@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Black's Goodenia
+classification:
+  - name: goodeniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: hairy
+    feature: leaf-underside
+  - description: white-hairy
+    feature: leaf-underside
+  - description: longer-than-leaves-or-equal
+    feature: stem-length
+id:
+  ns: 53b398e8e35eb12984036daf
+  vba: '501495'

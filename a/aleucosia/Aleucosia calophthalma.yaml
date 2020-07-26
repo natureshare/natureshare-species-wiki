@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: chrisl
+synonyms:
+  - Comptosia calophthalma
+classification:
+  - name: Insecta
+    rank: class
+  - name: Bombyliidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - bee-fly
+  - fly
+id:
+  ns: 56623ba7ed2a89b5f5000134

@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Buttonquail
+classification:
+  - name: aves
+    rank: class
+  - name: turnicidae
+    rank: family
+  - name: Charadriiformes
+    rank: order
+categories:
+  - bird
+id:
+  ns: 5824233bed2a89748000311a

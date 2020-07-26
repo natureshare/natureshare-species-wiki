@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: Mymaridae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+  - name: Chalcidoidea
+    rank: superfamily
+categories:
+  - provisional-name
+  - wasp
+id:
+  ns: 59264fe9ed2a893e6b0027d9

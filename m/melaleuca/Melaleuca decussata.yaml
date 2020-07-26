@@ -1,0 +1,31 @@
+updated_by: chrisl
+common_names:
+  - Totem-poles
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - native-and-weedy-stands-in-vic
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: pink
+    feature: flower-colour
+  - description: purple
+    feature: flower-colour
+  - description: large-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-3m
+    feature: height
+  - description: 4-14mm
+    feature: leaf-length
+  - description: 1-3mm
+    feature: leaf-width
+id:
+  ns: 53b398e9e35eb1298403724b
+  vba: '502146'

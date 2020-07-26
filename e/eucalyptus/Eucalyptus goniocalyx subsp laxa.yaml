@@ -1,0 +1,35 @@
+updated_by: chrisl
+common_names:
+  - Gum-barked Bundy
+synonyms:
+  - Eucalyptus aff. goniocalyx (Brisbane Ranges)
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: loose-and-flaky
+    feature: bark
+  - description: rough-to-smaller-branches
+    feature: bark
+  - description: groups-of-7
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+  - description: 7-16m
+    feature: height
+  - description: dark-green
+    feature: leaf-colour
+  - description: glossy
+    feature: leaf-surface
+  - description: 2-4cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036b6a

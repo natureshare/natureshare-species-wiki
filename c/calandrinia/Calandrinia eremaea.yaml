@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - Small Purslane
+classification:
+  - name: portulacaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: usually-leafless
+    feature: stem
+id:
+  ns: 53b398e6e35eb1298403663e
+  vba: '500554'

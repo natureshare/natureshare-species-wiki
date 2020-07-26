@@ -1,0 +1,21 @@
+updated_by: david_francis
+common_names:
+  - Elbow Orchid
+synonyms:
+  - Arthrochilus huntianus
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398ebe35eb12984037beb
+  vba: '500268'

@@ -1,0 +1,18 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Cinnamon Wattle
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - flora
+  - plant
+  - wattle
+features:
+  - description: yellow
+    feature: flower-colour
+id:
+  ns: 5435cfdae35eb15f21000045

@@ -1,0 +1,43 @@
+updated_by: chrisl
+common_names:
+  - Common Love-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+features:
+  - description: grass
+    feature: flower
+  - description: green
+    feature: flower
+  - description: grey
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: very-open-spike
+    feature: flower
+  - description: to-40cm
+    feature: flower-stalk
+  - description: late-spring-autumn
+    feature: flowering-time
+  - description: grass
+    feature: habit
+  - description: spreading-tuft
+    feature: habit
+  - description: bright-green
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+  - description: to-8cm
+    feature: leaf
+  - description: tufted
+    feature: leaf
+id:
+  ns: 53b398e7e35eb12984036b0f
+  vba: '501185'

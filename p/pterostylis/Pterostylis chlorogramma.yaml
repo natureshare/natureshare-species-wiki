@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Green-striped Greenhood
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - endemic
+  - epbc
+  - ffg
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398eae35eb12984037742
+  vba: '504728'

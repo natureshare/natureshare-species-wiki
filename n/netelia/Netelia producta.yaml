@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Orange Caterpillar-parasite Wasp
+classification:
+  - name: Insecta
+    rank: class
+  - name: Ichneumonidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - insect
+  - wasp
+id:
+  ns: 54ba3628ed2a897bfa000008

@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Double-spotted Blue
+  - Double-spotted Line-blue
+  - Two-spotted Line-blue
+classification:
+  - name: Insecta
+    rank: class
+  - name: Lycaenidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Papilionoidea
+    rank: superfamily
+categories:
+  - butterfly
+  - insect
+id:
+  ns: 53b398ece35eb1298403800d

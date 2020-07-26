@@ -1,0 +1,23 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Capua leucostacta
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Tortricidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Tortricinae
+    rank: Subfamily
+  - name: Tortricoidea
+    rank: Superfamily
+  - name: Archipini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+  - provisional-name
+id:
+  ns: 5c689cfe3abbd6f3ef0000bb

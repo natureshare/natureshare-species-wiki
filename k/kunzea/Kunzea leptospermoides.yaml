@@ -1,0 +1,36 @@
+updated_by: chrisl
+common_names:
+  - Yarra Burgan
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: massed
+    feature: flower
+  - description: white
+    feature: flower
+  - description: late-spring-early-summer
+    feature: flowering-time
+  - description: shrub
+    feature: habit
+  - description: dark-green
+    feature: leaf
+  - description: narrow
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-2.5cm
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e8e35eb12984037018
+  vba: '507040'

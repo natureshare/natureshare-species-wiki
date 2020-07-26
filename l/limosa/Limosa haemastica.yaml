@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Hudsonian Godwit
+classification:
+  - name: aves
+    rank: class
+  - name: scolopacidae
+    rank: family
+  - name: Charadriiformes
+    rank: order
+categories:
+  - rare-victoria
+  - vagrant
+id:
+  ns: 5a1dd57fed2a89928e00001e

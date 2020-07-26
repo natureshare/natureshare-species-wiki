@@ -1,0 +1,26 @@
+updated_by: chrisl
+common_names:
+  - Rough Tree-fern
+classification:
+  - name: cyatheaceae
+    rank: family
+categories:
+  - ferns-and-allies
+  - flora
+  - plant
+features:
+  - description: dark-green
+    feature: frond
+  - description: to-5m
+    feature: frond
+  - description: tripinnate
+    feature: frond
+  - description: conspicuous
+    feature: fruit-sori
+  - description: globular
+    feature: fruit-sori
+  - description: trunk
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036904
+  vba: '500895'

@@ -1,0 +1,38 @@
+updated_by: chrisl
+common_names:
+  - Eichler's Buttercup
+classification:
+  - name: ranunculaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: petalled
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: bisexual
+    feature: flowers
+  - description: divided
+    feature: leaf
+  - description: highly-dissected
+    feature: leaf
+  - description: linear-or-linear-lanceolate
+    feature: leaflets
+  - description: widely-spreading
+    feature: leaflets
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+  - description: appressed
+    feature: petiole-hairs
+  - description: '5'
+    feature: sepals
+id:
+  ns: 53b398eae35eb12984037819
+  vba: '502888'

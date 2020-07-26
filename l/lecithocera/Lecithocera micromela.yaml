@@ -1,0 +1,20 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Gelechia micromela
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Lecithoceridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Lecithocerinae
+    rank: Subfamily
+  - name: Gelechioidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5d79344bcad3eb2024000184

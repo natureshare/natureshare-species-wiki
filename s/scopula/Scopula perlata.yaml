@@ -1,0 +1,26 @@
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Sterrhinae
+    rank: Subfamily
+  - name: Geometroidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: cream
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: spots
+    feature: wing
+  - description: two-coloured
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f04

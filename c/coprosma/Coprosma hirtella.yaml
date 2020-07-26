@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Rough Coprosma
+classification:
+  - name: rubiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: orange-red
+    feature: fruit
+  - description: more-than-10mm
+    feature: leaf-width
+  - description: no-spines
+    feature: stem
+id:
+  ns: 53b398e7e35eb1298403683c
+  vba: '500817'

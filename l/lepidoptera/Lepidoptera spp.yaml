@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - Moth
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: Lepidoptera
+    rank: order
+categories:
+  - insect
+  - moth
+  - provisional-name
+id:
+  ns: 53b398ece35eb12984038117

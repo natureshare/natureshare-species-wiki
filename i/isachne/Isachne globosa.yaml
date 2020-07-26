@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Swamp Millet
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398e8e35eb12984036f81
+  vba: '501764'

@@ -1,0 +1,28 @@
+updated_by: chrisl
+common_names:
+  - Common Early Nancy
+classification:
+  - name: colchicaceae
+    rank: family
+categories:
+  - flora
+  - lily
+  - monocotyledon
+  - plant
+  - provisional-name
+features:
+  - description: petalled
+    feature: flower
+  - description: purple-ring
+    feature: flower
+  - description: white
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: '6'
+    feature: number-of-petals
+  - description: '6'
+    feature: petals
+id:
+  ns: 53b398ebe35eb12984037d7c
+  vba: '503581'

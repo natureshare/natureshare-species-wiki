@@ -1,0 +1,34 @@
+updated_by: chrisl
+common_names:
+  - Grampians Grey-gum
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: rough-on-lower-trunk
+    feature: bark
+  - description: smooth-throughout
+    feature: bark
+  - description: groups-of-7
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+  - description: 4-30m
+    feature: height
+  - description: green
+    feature: leaf-colour
+  - description: glossy
+    feature: leaf-surface
+  - description: 22-45cm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036b79
+  vba: '503704'

@@ -1,0 +1,40 @@
+updated_by: chrisl
+common_names:
+  - Swamp Goodenia
+classification:
+  - name: goodeniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: damp-areas-and-water-margins
+    feature: distribution
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: late-spring-early-autumn
+    feature: flowering-time
+  - description: 2-or-more-per-stem
+    feature: flowers
+  - description: herb
+    feature: habit
+  - description: suckering
+    feature: habit
+  - description: to-20cm-with-basal-rosette
+    feature: height
+  - description: linear-to-oblanceolate
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-10cm
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: absent
+    feature: stem-leaves
+id:
+  ns: 53b398e8e35eb12984036dba
+  vba: '501503'

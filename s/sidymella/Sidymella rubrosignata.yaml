@@ -1,0 +1,13 @@
+created_by: russell
+updated_by: chrisl
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Thomisidae
+    rank: family
+  - name: Araneae
+    rank: order
+categories:
+  - spider
+id:
+  ns: 550506e1ed2a8974d30004a3

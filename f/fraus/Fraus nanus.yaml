@@ -1,0 +1,17 @@
+updated_by: koolah
+common_names:
+  - Slender Fraus
+classification:
+  - name: Hepialoidea
+    rank: Superfamily
+  - name: Insecta
+    rank: class
+  - name: Hepialidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f0e35eb129840394e0

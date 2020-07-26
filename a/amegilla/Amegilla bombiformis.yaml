@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Golden-haired Mortar-bee
+classification:
+  - name: Insecta
+    rank: class
+  - name: Apidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - bee
+id:
+  ns: 58a2d32ded2a89cd0b000014

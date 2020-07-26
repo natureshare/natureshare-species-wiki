@@ -1,0 +1,64 @@
+updated_by: chrisl
+common_names:
+  - River Leafless Bossiaea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: ridges
+    feature: branches
+  - description: pea
+    feature: flower
+  - description: greenish-yellow
+    feature: flower-colour
+  - description: shrub
+    feature: habit
+  - description: tree
+    feature: habit
+  - description: to-8m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 30-120mm
+    feature: leaf-length
+  - description: greater-than-30mm
+    feature: leaf-length
+  - description: less-than-120mm
+    feature: leaf-length
+  - description: bipinnate
+    feature: leaf-type
+  - description: greater-than-4mm
+    feature: leafet-length
+  - description: 4-10mm
+    feature: leaflet-length
+  - description: less-than-10mm
+    feature: leaflet-length
+  - description: 1-4mm
+    feature: leaflet-width
+  - description: less-than-4mm
+    feature: leaflet-width
+  - description: 8-to-13-pairs
+    feature: leaflets
+  - description: 80-120mm
+    feature: seedpod-length
+  - description: greater-than-80mm
+    feature: seedpod-length
+  - description: less-than-120mm
+    feature: seedpod-length
+  - description: 15-25mm
+    feature: seedpod-width
+  - description: greater-than-15mm
+    feature: seedpod-width
+  - description: less-than-25mm
+    feature: seedpod-width
+  - description: 6-to-12
+    feature: seeds
+id:
+  ns: 53b398e6e35eb1298403653a
+  vba: '500441'

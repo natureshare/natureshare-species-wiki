@@ -1,0 +1,13 @@
+updated_by: chrisl
+common_names:
+  - Bristletail
+classification:
+  - name: Insecta
+    rank: class
+  - name: Archaeognatha
+    rank: order
+categories:
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb12984038099

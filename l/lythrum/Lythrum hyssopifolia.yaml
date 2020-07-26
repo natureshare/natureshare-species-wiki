@@ -1,0 +1,43 @@
+updated_by: chrisl
+common_names:
+  - Small Loosestrife
+classification:
+  - name: lythraceae
+    rank: family
+categories:
+  - annual-herb
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: mauve
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: single
+    feature: flower
+  - description: tiny
+    feature: flower
+  - description: spring-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: trailing
+    feature: habit
+  - description: prostrate-or-ascending-to-50cm
+    feature: height
+  - description: lanceolate
+    feature: leaf
+  - description: to-2.5cm
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: 1-4mm-long
+    feature: petal
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e9e35eb129840371e8
+  vba: '502092'

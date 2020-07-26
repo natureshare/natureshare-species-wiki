@@ -1,0 +1,42 @@
+updated_by: chrisl
+common_names:
+  - Small-leaved Clematis
+classification:
+  - name: ranunculaceae
+    rank: family
+categories:
+  - climber
+  - dicotyledon
+  - flora
+  - plant
+  - provisional-name
+features:
+  - description: white
+    feature: flower
+  - description: mid-spring-summer
+    feature: flowering-time
+  - description: bisexual
+    feature: flowers
+  - description: climber
+    feature: habit
+  - description: stalked
+    feature: leaf
+  - description: to-3cm
+    feature: leaf
+  - description: opposite
+    feature: leaf-arrangement
+  - description: entire
+    feature: leaf-margin
+  - description: dull-green
+    feature: leaf-surface
+  - description: trifoliate
+    feature: leaf-type
+  - description: '4'
+    feature: number-of-petals
+  - description: cream
+    feature: seed
+  - description: feather-like
+    feature: seed
+id:
+  ns: 53b398e7e35eb129840367fd
+  vba: '504312'

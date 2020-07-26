@@ -1,0 +1,20 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Pyralidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Phycitinae
+    rank: Subfamily
+  - name: Pyraloidea
+    rank: Superfamily
+  - name: Phycitini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 5c08a66d1779a4988a0000e0

@@ -1,0 +1,19 @@
+updated_by: david_francis
+common_names:
+  - Australian Magpie
+synonyms:
+  - Gymnorhina tibicen
+classification:
+  - name: artamidae
+    rank: family
+categories:
+  - animal
+  - bird
+  - fauna
+features:
+  - description: mottled-grey-back
+    feature: female
+  - description: white-back
+    feature: male
+id:
+  ns: 53b398e5e35eb12984035e89

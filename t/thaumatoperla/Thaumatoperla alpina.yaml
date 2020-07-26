@@ -1,0 +1,15 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Eustheniidae
+    rank: family
+  - name: Plecoptera
+    rank: order
+categories:
+  - epbc
+  - insect
+  - rare-threatened
+  - stonefly
+id:
+  ns: 53b398f1e35eb129840399fe

@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Orange Billy-buttons
+synonyms:
+  - Craspedia aurantia
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: orange
+    feature: flower
+id:
+  ns: 53b398e7e35eb12984036896
+  vba: '504642'

@@ -1,0 +1,38 @@
+updated_by: chrisl
+common_names:
+  - Waxy Yellow-gum
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: loose-and-flaky
+    feature: bark
+  - description: smooth-throughout
+    feature: bark
+  - description: groups-of-2
+    feature: buds
+  - description: groups-of-3
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+  - description: 10-25m
+    feature: height
+  - description: pruinose
+    feature: juvenile-leaf
+  - description: blue-green
+    feature: leaf-colour
+  - description: dull
+    feature: leaf-surface
+  - description: 1-3cm
+    feature: leaf-width
+  - description: pruinose
+    feature: new-branchlets
+id:
+  ns: 53b398e7e35eb12984036bc9
+  vba: '504456'

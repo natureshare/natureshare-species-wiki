@@ -1,0 +1,34 @@
+updated_by: koolah
+common_names:
+  - Variable Oxycanus
+classification:
+  - name: Hepialinae
+    rank: Subfamily
+  - name: Insecta
+    rank: class
+  - name: HEPIALIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: HEPIALOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: white
+    feature: line
+  - description: brown
+    feature: wing
+  - description: brown-and-cream-white
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: lined
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f23

@@ -1,0 +1,40 @@
+updated_by: chrisl
+common_names:
+  - Hairy Speedwell
+classification:
+  - name: veronicaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: blue
+    feature: flower
+  - description: mauve
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: lobed
+    feature: leaf
+  - description: serrated
+    feature: leaf
+  - description: rounded-or-subacute
+    feature: leaf-apex
+  - description: '4'
+    feature: number-of-petals
+  - description: '5'
+    feature: number-of-petals
+  - description: '4'
+    feature: petals
+  - description: '5'
+    feature: petals
+  - description: 1mm-to-2mm-long
+    feature: stem-hair
+id:
+  ns: 53b398ebe35eb12984037cde
+  vba: '503503'

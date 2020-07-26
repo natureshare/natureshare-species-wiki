@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Leafy Greenhood
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - epbc
+  - ffg
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - provisional-name
+  - rare-threatened
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398eae35eb12984037745
+  vba: '502790'

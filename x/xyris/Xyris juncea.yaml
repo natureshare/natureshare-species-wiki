@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Dwarf Yellow-eye
+classification:
+  - name: xyridaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+  - rare-threatened
+features:
+  - description: all-about-the-same-size
+    feature: bracts
+  - description: 3-5cm
+    feature: leaf-length
+  - description: 13-25cm
+    feature: stem-length
+id:
+  ns: 53b398ebe35eb12984037da8
+  vba: '503596'

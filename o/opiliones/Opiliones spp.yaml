@@ -1,0 +1,19 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Daddy Long-legs
+  - Harvestman
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Opiliones
+    rank: order
+categories:
+  - harvestman
+features:
+  - description: '2'
+    feature: eyes
+  - description: absent
+    feature: waist
+id:
+  ns: 54bef0bfed2a89fdd900000c

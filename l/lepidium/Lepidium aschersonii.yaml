@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Spiny Peppercress
+classification:
+  - name: brassicaceae
+    rank: family
+categories:
+  - dicotyledon
+  - epbc
+  - ffg
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: prickly
+    feature: plant
+  - description: spiny
+    feature: plant
+  - description: spine-tipped
+    feature: stem
+id:
+  ns: 53b398e8e35eb1298403708d
+  vba: '501897'

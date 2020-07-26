@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Curly Sedge
+classification:
+  - name: cyperaceae
+    rank: family
+categories:
+  - epbc
+  - ffg
+  - flora
+  - monocotyledon
+  - plant
+  - rare-threatened
+  - sedge
+id:
+  ns: 53b398e6e35eb129840366ff
+  vba: '500650'

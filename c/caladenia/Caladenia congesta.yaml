@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Black-tongue Hood-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e6e35eb129840365f4
+  vba: '500529'

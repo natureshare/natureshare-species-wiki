@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: chrisl
+synonyms:
+  - 'Sapromyza hirtiventris '
+classification:
+  - name: Insecta
+    rank: class
+  - name: Lauxaniidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+  - insect
+id:
+  ns: 54a8922ce35eb1c0c2000035

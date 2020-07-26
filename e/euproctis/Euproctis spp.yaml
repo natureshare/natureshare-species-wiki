@@ -1,0 +1,19 @@
+updated_by: koolah
+classification:
+  - name: Erebidae
+    rank: Family
+  - name: Lymantriinae
+    rank: Subfamily
+  - name: Nygmiini
+    rank: Tribe
+  - name: Insecta
+    rank: class
+  - name: lepidoptera
+    rank: order
+  - name: Noctuoidea
+    rank: superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f2e35eb12984039dda

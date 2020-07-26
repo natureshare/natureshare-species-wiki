@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Restharrow
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - flora
+  - pea
+  - plant
+  - provisional-name
+  - weed
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398e9e35eb129840373be

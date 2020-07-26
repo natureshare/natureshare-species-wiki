@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Vine Weevil
+classification:
+  - name: Insecta
+    rank: class
+  - name: Curculionidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - weevil
+id:
+  ns: 5a312314ed2a8962620011f6

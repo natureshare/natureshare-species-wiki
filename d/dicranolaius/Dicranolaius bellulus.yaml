@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Red and Blue Beetle
+classification:
+  - name: Insecta
+    rank: class
+  - name: Melyridae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - insect
+features:
+  - description: red
+    feature: body
+id:
+  ns: 53b398f3e35eb1298403a3bc

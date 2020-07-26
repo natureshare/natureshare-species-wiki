@@ -1,0 +1,21 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Spreading Panic-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - rare-threatened
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 547949bce35eb11d690000e7
+  vba: '507820'

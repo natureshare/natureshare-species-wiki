@@ -1,0 +1,28 @@
+updated_by: chrisl
+common_names:
+  - Small Elachanth
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: fringed
+    feature: bract
+  - description: red-tipped
+    feature: bract
+  - description: cluster
+    feature: flower
+  - description: white
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036aa8
+  vba: '501135'

@@ -1,0 +1,16 @@
+updated_by: david_francis
+common_names:
+  - Tobacco Slug Beetle
+classification:
+  - name: Insecta
+    rank: class
+  - name: Chrysomelidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - fauna-introduced
+  - insect
+id:
+  ns: 53b398f3e35eb1298403a3d7

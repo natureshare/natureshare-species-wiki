@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - provisional-name
+  - weed
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398e8e35eb1298403705f
+  vba: '508642'

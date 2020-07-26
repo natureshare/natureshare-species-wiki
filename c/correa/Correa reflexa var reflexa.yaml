@@ -1,0 +1,30 @@
+updated_by: chrisl
+common_names:
+  - Common Correa
+classification:
+  - name: rutaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cream
+    feature: flower
+  - description: green
+    feature: flower
+  - description: red
+    feature: flower
+  - description: red-with-green-tips
+    feature: flower
+  - description: tubular
+    feature: flower
+  - description: shrub
+    feature: habit
+  - description: hairy-underneath
+    feature: leaf
+  - description: opposite
+    feature: leaves
+id:
+  ns: 53b398e7e35eb1298403685d
+  vba: '504370'

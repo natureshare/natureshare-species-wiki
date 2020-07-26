@@ -1,0 +1,23 @@
+updated_by: koolah
+common_names:
+  - Bordered Browntail Moth
+synonyms:
+  - Urocoma limbalis
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Erebidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Lymantriinae
+    rank: Subfamily
+  - name: Noctuoidea
+    rank: Superfamily
+  - name: Nygmiini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f2e35eb12984039dd9

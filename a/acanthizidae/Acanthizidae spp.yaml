@@ -1,0 +1,13 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: aves
+    rank: class
+  - name: Acanthizidae
+    rank: family
+  - name: passeriformes
+    rank: order
+categories:
+  - bird
+id:
+  ns: 58be131fed2a893890002ddc

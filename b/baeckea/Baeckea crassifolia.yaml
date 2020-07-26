@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - Desert Baeckea
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: pale-violet
+    feature: flower-colour
+  - description: white
+    feature: flower-colour
+  - description: shrub
+    feature: habit
+  - description: small-shrub
+    feature: habit
+  - description: to-75cm
+    feature: height
+  - description: 1-5mm
+    feature: leaf-length
+  - description: to-1mm
+    feature: leaf-width
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e6e35eb1298403648b
+  vba: '500351'

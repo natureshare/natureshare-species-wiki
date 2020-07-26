@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Predacious Diving Beetle
+classification:
+  - name: Insecta
+    rank: class
+  - name: Dytiscidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+  - name: Adephaga
+    rank: suborder
+categories:
+  - beetle
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb1298403809e

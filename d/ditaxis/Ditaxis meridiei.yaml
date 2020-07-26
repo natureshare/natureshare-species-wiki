@@ -1,0 +1,14 @@
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Mantispidae
+    rank: Family
+  - name: Neuroptera
+    rank: Order
+categories:
+  - insect
+  - lacewing
+  - mantidfly
+id:
+  ns: 53b398f1e35eb1298403982d

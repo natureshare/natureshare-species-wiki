@@ -1,0 +1,28 @@
+updated_by: chrisl
+common_names:
+  - Necklace Fern
+classification:
+  - name: aspleniaceae
+    rank: family
+categories:
+  - ferns-and-allies
+  - flora
+  - plant
+features:
+  - description: light-green
+    feature: frond
+  - description: once-pinnate
+    feature: frond
+  - description: to-30cm
+    feature: frond
+  - description: in-rows
+    feature: fruit-sori
+  - description: trailing
+    feature: habit
+  - description: hairy
+    feature: root
+  - description: rhizome
+    feature: root
+id:
+  ns: 53b398e6e35eb129840363c9
+  vba: '500288'

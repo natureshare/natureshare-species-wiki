@@ -1,0 +1,20 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Shouldered Geometrid
+classification:
+  - name: Insecta
+    rank: class
+  - name: insecta
+    rank: class
+  - name: Geometridae
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: Ennominae
+    rank: subfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 54e020d0ed2a89d9900000d2

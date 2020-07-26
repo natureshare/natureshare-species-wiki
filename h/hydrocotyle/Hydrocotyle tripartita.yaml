@@ -1,0 +1,43 @@
+updated_by: chrisl
+common_names:
+  - Slender Pennywort
+classification:
+  - name: apiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - herb
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: purplish-red
+    feature: flower
+  - description: tiny
+    feature: flower
+  - description: 3-5mm-diameter
+    feature: flowerhead
+  - description: late-spring-early-autumn
+    feature: flowering-time
+  - description: 3-9
+    feature: flowers
+  - description: slender-trailing-herb
+    feature: habit
+  - description: deeply-divided-into-3
+    feature: leaf
+  - description: divided
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-1.4cm
+    feature: leaf
+  - description: oval
+    feature: leaflet-segment
+  - description: toothed
+    feature: leaflet-segment
+  - description: '3'
+    feature: leaflets
+id:
+  ns: 53b398e8e35eb12984036f29
+  vba: '501729'

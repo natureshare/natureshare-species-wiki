@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - Heath Tea-tree
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: pink
+    feature: flower-colour
+  - description: white
+    feature: flower-colour
+  - description: large-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-25m
+    feature: height
+  - description: 3-13mm
+    feature: leaf-length
+  - description: 1-4mm
+    feature: leaf-width
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e8e35eb129840370f8
+  vba: '501961'

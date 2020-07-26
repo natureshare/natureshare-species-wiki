@@ -1,0 +1,42 @@
+updated_by: chrisl
+common_names:
+  - Mt. Byron Bush-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - native-and-weedy-stands-in-vic
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+  - description: orange
+    feature: flower-colour
+  - description: large-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: 1-3m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 8-30mm
+    feature: leaf-length
+  - description: greater-than-5mm
+    feature: leaf-length
+  - description: less-than-30mm
+    feature: leaf-length
+  - description: 4-20mm
+    feature: leaf-width
+  - description: greater-than-4mm
+    feature: leaf-width
+  - description: less-than-20mm
+    feature: leaf-width
+id:
+  ns: 53b398eae35eb129840377d5
+  vba: '502863'

@@ -1,0 +1,19 @@
+updated_by: koolah
+common_names:
+  - Red Gum Ghost Moth
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Hepialidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Hepialoidea
+    rank: Superfamily
+  - name: Hepialinae
+    rank: subfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f0e35eb129840394d4

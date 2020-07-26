@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Boatman Fly
+classification:
+  - name: Insecta
+    rank: class
+  - name: Platystomatidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+  - insect
+id:
+  ns: 54fd266eed2a8904e8000182

@@ -1,0 +1,15 @@
+updated_by: chrisl
+common_names:
+  - Bigeyed Bug
+classification:
+  - name: Insecta
+    rank: class
+  - name: Geocoridae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - insect
+  - true-bug
+id:
+  ns: 53b398efe35eb12984039128

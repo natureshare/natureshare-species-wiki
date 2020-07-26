@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Creeping Flat-sedge
+classification:
+  - name: cyperaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+  - sedge
+features:
+  - description: 20-60cm
+    feature: culm-height
+id:
+  ns: 53b398e7e35eb12984036934
+  vba: '500925'

@@ -1,0 +1,24 @@
+updated_by: chrisl
+common_names:
+  - Horny Cone-bush
+classification:
+  - name: proteaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: yellow
+    feature: flower
+  - description: rounded-shrub
+    feature: habit
+  - description: small-shrub
+    feature: habit
+  - description: divided
+    feature: leaf
+  - description: prickly
+    feature: leaves
+id:
+  ns: 53b398e8e35eb12984036fa7
+  vba: '501790'

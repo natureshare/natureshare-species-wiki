@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Lemon-scented Tea-tree
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e8e35eb129840370fb
+  vba: '505853'

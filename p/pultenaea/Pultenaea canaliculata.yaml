@@ -1,0 +1,48 @@
+updated_by: chrisl
+common_names:
+  - Coast Bush-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+  - description: red
+    feature: flower-colour
+  - description: large-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-25m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: opposite
+    feature: leaf-arrangement
+  - description: 10-28mm
+    feature: leaf-length
+  - description: greater-than-10mm
+    feature: leaf-length
+  - description: less-than-50mm
+    feature: leaf-length
+  - description: prickly
+    feature: leaf-tip
+  - description: 1-3mm
+    feature: leaf-width
+  - description: up-to-3mm
+    feature: leaf-width
+  - description: 10-20mm
+    feature: seedpod-length
+  - description: greater-than-10mm
+    feature: seedpod-length
+  - description: less-than-20mm
+    feature: seedpod-length
+id:
+  ns: 53b398eae35eb129840377b7
+  vba: '502839'

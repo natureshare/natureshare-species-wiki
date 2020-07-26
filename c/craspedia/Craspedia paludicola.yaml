@@ -1,0 +1,27 @@
+updated_by: chrisl
+common_names:
+  - Swamp Billy-buttons
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: swampy-inundated-areas
+    feature: distribution
+  - description: yellow
+    feature: flower
+  - description: base-10mm-wide-often-tinged-red
+    feature: leaf
+  - description: more-than-15cm
+    feature: leaf-length
+  - description: to-20mm
+    feature: leaf-width
+  - description: yellow
+    feature: main-flower-colour
+id:
+  ns: 53b398e7e35eb1298403689f
+  vba: '504649'

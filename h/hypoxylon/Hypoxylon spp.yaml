@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Sordariomycetes
+    rank: class
+  - name: Xylariaceae
+    rank: family
+  - name: Xylariales
+    rank: order
+categories:
+  - fungi
+  - provisional-name
+id:
+  ns: 53b398f4e35eb1298403a978

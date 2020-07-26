@@ -1,0 +1,17 @@
+created_by: chrisl
+updated_by: chrisl
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Polyporaceae
+    rank: family
+  - name: Fungi
+    rank: kingdom
+  - name: Polyporales
+    rank: order
+  - name: Basidiomycota
+    rank: phylum
+categories:
+  - fungi
+id:
+  ns: 5b7e8598ed2a89a7f10078a2

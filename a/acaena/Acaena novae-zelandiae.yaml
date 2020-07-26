@@ -1,0 +1,42 @@
+updated_by: chrisl
+common_names:
+  - Bidgee-widgee
+classification:
+  - name: rosaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: cream
+    feature: flower
+  - description: purple
+    feature: flower
+  - description: red
+    feature: flower
+  - description: white
+    feature: flower
+  - description: spring-summer
+    feature: flowering-time
+  - description: purple
+    feature: fruit
+  - description: red
+    feature: fruit
+  - description: spiny
+    feature: fruit
+  - description: groundcover
+    feature: habit
+  - description: herb
+    feature: habit
+  - description: globular-cluster
+    feature: inflorescence
+  - description: divided
+    feature: leaf
+  - description: 7-11
+    feature: leaflets
+id:
+  ns: 53b398e5e35eb12984036230
+  vba: '500105'

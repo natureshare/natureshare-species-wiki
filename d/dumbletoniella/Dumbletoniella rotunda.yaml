@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Aleyrodidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - insect
+  - whitefly
+id:
+  ns: 53b398efe35eb12984038ec5

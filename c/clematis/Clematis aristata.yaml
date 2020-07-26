@@ -1,0 +1,67 @@
+updated_by: chrisl
+common_names:
+  - Mountain Clematis
+synonyms:
+  - Clematis aristata var. dennisae
+classification:
+  - name: ranunculaceae
+    rank: family
+categories:
+  - climber
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: petalled
+    feature: flower
+  - description: white
+    feature: flower
+  - description: cream
+    feature: flower-colour
+  - description: white
+    feature: flower-colour
+  - description: mid-late-spring
+    feature: flowering-time
+  - description: bisexual
+    feature: flowers
+  - description: unisexual
+    feature: flowers
+  - description: climber
+    feature: habit
+  - description: wet-forest
+    feature: habitat
+  - description: juvenile-white-streaked
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: opposite
+    feature: leaf-arrangement
+  - description: to-8cm
+    feature: leaf-length
+  - description: serrated
+    feature: leaf-margin
+  - description: toothed
+    feature: leaf-margin
+  - description: purple-underneath
+    feature: leaf-new
+  - description: silver-markings
+    feature: leaf-new
+  - description: dull
+    feature: leaf-surface
+  - description: 3-leaflets
+    feature: leaf-type
+  - description: divided
+    feature: leaf-type
+  - description: trifoliolate
+    feature: leaf-type
+  - description: '4'
+    feature: number-of-petals
+  - description: '4'
+    feature: petals
+  - description: cream
+    feature: seed
+  - description: fluffy
+    feature: seed
+id:
+  ns: 53b398e7e35eb129840367f6
+  vba: '500788'

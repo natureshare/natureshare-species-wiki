@@ -1,0 +1,41 @@
+updated_by: chrisl
+common_names:
+  - Cyril's Brown
+  - Forest Brown
+classification:
+  - name: Insecta
+    rank: class
+  - name: nymphalidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Papilionoidea
+    rank: superfamily
+categories:
+  - butterfly
+  - insect
+features:
+  - description: '4'
+    feature: spots
+  - description: 4-underside
+    feature: spots
+  - description: '6'
+    feature: spots
+  - description: 6-upperside
+    feature: spots
+  - description: black
+    feature: wing
+  - description: brown
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: orange
+    feature: wing
+  - description: three-coloured
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: yellow
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037de5

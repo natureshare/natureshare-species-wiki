@@ -1,0 +1,27 @@
+updated_by: banksiaman
+common_names:
+  - Dusky Scurf-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: pea
+    feature: flower
+  - description: trifoliolate
+    feature: leaf
+  - description: '3'
+    feature: leaflets
+  - description: glabrous
+    feature: ovary
+  - description: twice-as-long-as-calyx
+    feature: petals
+  - description: black-wrinkled
+    feature: seedpod
+id:
+  ns: 53b398e7e35eb129840368ec
+  vba: '502768'

@@ -1,0 +1,36 @@
+updated_by: chrisl
+common_names:
+  - Shrubby Fireweed
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: daisy
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: summer-mid-autumn
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: lanceolate
+    feature: leaf
+  - description: serrated
+    feature: leaf
+  - description: to-9cm
+    feature: leaf
+  - description: fluffy
+    feature: seed
+id:
+  ns: 53b398eae35eb12984037a02
+  vba: '503119'

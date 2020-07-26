@@ -1,0 +1,29 @@
+updated_by: chrisl
+common_names:
+  - Broad-leaf Rush
+classification:
+  - name: juncaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+  - rush
+features:
+  - description: cluster
+    feature: flower
+  - description: cream
+    feature: flower
+  - description: brown
+    feature: fruit
+  - description: cluster
+    feature: fruit
+  - description: rush
+    feature: habit
+  - description: tufted
+    feature: habit
+  - description: cluster
+    feature: seed
+id:
+  ns: 53b398e8e35eb12984036ff0
+  vba: '501833'

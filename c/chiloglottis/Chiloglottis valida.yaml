@@ -1,0 +1,37 @@
+updated_by: chrisl
+common_names:
+  - Common Bird-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+features:
+  - description: maroon
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: purple-red
+    feature: flower
+  - description: single
+    feature: flower
+  - description: mid-spring-mid-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: dark-green
+    feature: leaf
+  - description: one-basal-pair
+    feature: leaf
+  - description: ovate
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+  - description: to-10cm
+    feature: leaf
+id:
+  ns: 53b398e6e35eb129840367aa
+  vba: '504888'

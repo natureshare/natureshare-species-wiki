@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Common Hoverfly
+  - Yellow-shouldered Hoverfly
+classification:
+  - name: Insecta
+    rank: class
+  - name: Syrphidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - hoverfly
+id:
+  ns: 585f6ee0ed2a89748000affd

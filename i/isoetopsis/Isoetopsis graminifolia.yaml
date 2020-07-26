@@ -1,0 +1,29 @@
+updated_by: chrisl
+common_names:
+  - Grass Cushion
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cup-shaped
+    feature: flower
+  - description: white-to-golden
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: small-herb
+    feature: habit
+  - description: bright-green
+    feature: leaf-colour
+  - description: basal
+    feature: leaves
+  - description: erect
+    feature: leaves
+id:
+  ns: 53b398e8e35eb12984036f89
+  vba: '501768'

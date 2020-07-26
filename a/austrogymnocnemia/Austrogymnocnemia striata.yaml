@@ -1,0 +1,13 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Myrmeleontidae
+    rank: Family
+  - name: Neuroptera
+    rank: Order
+categories:
+  - insect
+id:
+  ns: 5cedb625e55e83334b000036

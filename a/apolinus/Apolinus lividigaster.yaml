@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Yellow-shouldered Ladybird
+classification:
+  - name: Insect
+    rank: class
+  - name: Coccinellidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - insect
+id:
+  ns: 59018653ed2a893d8c00086f

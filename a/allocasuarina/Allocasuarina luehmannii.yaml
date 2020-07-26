@@ -1,0 +1,41 @@
+updated_by: chrisl
+common_names:
+  - Buloke
+classification:
+  - name: casuarinaceae
+    rank: family
+categories:
+  - dicotyledon
+  - ffg
+  - flora
+  - plant
+features:
+  - description: furrowed
+    feature: bark
+  - description: ascending
+    feature: branchlets
+  - description: cluster
+    feature: flower-female
+  - description: red
+    feature: flower-female
+  - description: brown
+    feature: flower-male
+  - description: spike
+    feature: flower-male
+  - description: cone
+    feature: fruit
+  - description: cones-shortly-cylindric
+    feature: fruit
+  - description: valves-of-2-3-wheel-like-rows
+    feature: fruit
+  - description: woody
+    feature: fruit
+  - description: tree
+    feature: habit
+  - description: woodland
+    feature: habitat
+  - description: leaf-segments
+    feature: leaf
+id:
+  ns: 53b398e5e35eb129840362c9
+  vba: '500678'

@@ -1,0 +1,17 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Intertidal Tubeworm
+classification:
+  - name: Polychaeta
+    rank: class
+  - name: Serpulidae
+    rank: family
+  - name: Annelida
+    rank: phylum
+  - name: Subellida
+    rank: subclass
+categories:
+  - polychaete-worm
+id:
+  ns: 5abe10daed2a896baf008a16

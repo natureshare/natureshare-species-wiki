@@ -1,0 +1,15 @@
+updated_by: chrisl
+common_names:
+  - Horn Of Plenty
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Cantharellaceae
+    rank: family
+  - name: Cantharellales
+    rank: order
+categories:
+  - fungi
+  - fungimap
+id:
+  ns: 53b398f3e35eb1298403a305

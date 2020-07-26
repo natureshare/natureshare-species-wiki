@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Auger Beetle
+  - Powderpost Beetle
+classification:
+  - name: Insecta
+    rank: class
+  - name: Bostrichidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+  - name: Polyphaga
+    rank: suborder
+categories:
+  - beetle
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb129840380ac

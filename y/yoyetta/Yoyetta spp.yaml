@@ -1,0 +1,21 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Cicadidae
+    rank: Family
+  - name: Hemiptera
+    rank: Order
+  - name: Cicadettinae
+    rank: Subfamily
+  - name: Cicadoidea
+    rank: Superfamily
+  - name: Cicadettini
+    rank: Tribe
+  - name: Auchenorrhyncha
+    rank: suborder
+categories:
+  - insect
+id:
+  ns: 5c04baba618712037100002a

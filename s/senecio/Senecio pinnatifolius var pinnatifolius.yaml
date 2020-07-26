@@ -1,0 +1,31 @@
+updated_by: chrisl
+common_names:
+  - Rock Groundsel
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: petalled
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: low-shrub
+    feature: habit
+  - description: divided
+    feature: leaf
+  - description: many
+    feature: number-of-petals
+  - description: many
+    feature: petals
+  - description: fluffy
+    feature: seed
+id:
+  ns: 53b398eae35eb12984037a0f
+  vba: '505243'

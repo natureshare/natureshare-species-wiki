@@ -1,0 +1,43 @@
+updated_by: chrisl
+common_names:
+  - Trailing Goodenia
+classification:
+  - name: goodeniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - herb
+  - plant
+features:
+  - description: on-long-stalks
+    feature: flower
+  - description: regular
+    feature: flower
+  - description: single
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: mid-spring-summer
+    feature: flowering-time
+  - description: prostrate
+    feature: habit
+  - description: attached
+    feature: leaf
+  - description: dark-green-above
+    feature: leaf
+  - description: margin-coarsely-toothed
+    feature: leaf
+  - description: ovate-to-oblong
+    feature: leaf
+  - description: paler-underneath
+    feature: leaf
+  - description: to-8cm
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: small-and-fleshy
+    feature: stem-leaves
+id:
+  ns: 53b398e8e35eb12984036dbb
+  vba: '501504'

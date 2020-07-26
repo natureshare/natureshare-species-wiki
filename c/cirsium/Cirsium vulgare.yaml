@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Spear Thistle
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+  - thistle
+  - weed
+features:
+  - description: purple
+    feature: flower
+id:
+  ns: 53b398e7e35eb129840367e6
+  vba: '500782'

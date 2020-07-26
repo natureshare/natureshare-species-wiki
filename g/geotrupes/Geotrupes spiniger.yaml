@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Dor Beetle
+classification:
+  - name: Insecta
+    rank: class
+  - name: Geotrupidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - insect
+id:
+  ns: 54d05f2bed2a899aeb00054d

@@ -1,0 +1,21 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Purple Coral-pea (shrubby form)
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - native-and-weedy-stands-in-vic
+  - pea
+  - plant
+features:
+  - description: pea
+    feature: flower
+  - description: low-shrub
+    feature: habit
+id:
+  ns: 54a22d5ae35eb1915f000095
+  vba: '507618'

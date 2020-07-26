@@ -1,0 +1,31 @@
+updated_by: chrisl
+common_names:
+  - Small Scurf-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - ffg
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+  - description: trifoliolate
+    feature: leaf
+  - description: '3'
+    feature: leaflets
+  - description: hairy
+    feature: ovary
+  - description: slightly-exceeding-calyx
+    feature: petals
+  - description: hairy
+    feature: seedpod
+  - description: white
+    feature: seedpod
+id:
+  ns: 53b398e7e35eb129840368ee
+  vba: '502773'

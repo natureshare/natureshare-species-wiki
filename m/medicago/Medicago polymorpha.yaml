@@ -1,0 +1,56 @@
+updated_by: chrisl
+common_names:
+  - Burr Medic
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - weed
+features:
+  - description: ridged
+    feature: branches
+  - description: pea
+    feature: flower
+  - description: orange
+    feature: flower-colour
+  - description: pink
+    feature: flower-colour
+  - description: medium-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-15m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 25-10mm
+    feature: leaf-length
+  - description: less-than-10mm
+    feature: leaf-length
+  - description: less-than-5mm
+    feature: leaf-length
+  - description: prickly
+    feature: leaf-tip
+  - description: 15-8mm
+    feature: leaf-width
+  - description: less-than-8mm
+    feature: leaf-width
+  - description: 6-7mm
+    feature: seedpod-length
+  - description: greater-than-5mm
+    feature: seedpod-length
+  - description: less-than-10mm
+    feature: seedpod-length
+  - description: 4mm
+    feature: seedpod-width
+  - description: up-to-4mm
+    feature: seedpod-width
+  - description: '1'
+    feature: seeds
+id:
+  ns: 53b398e9e35eb1298403723e
+  vba: '502140'

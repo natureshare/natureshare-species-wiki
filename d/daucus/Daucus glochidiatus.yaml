@@ -1,0 +1,29 @@
+updated_by: chrisl
+common_names:
+  - Australian Carrot
+classification:
+  - name: apiaceae
+    rank: family
+categories:
+  - annual
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: terminal-umbel
+    feature: flower
+  - description: white-pink
+    feature: flower
+  - description: spring-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: basal
+    feature: leaf
+  - description: pinnate
+    feature: leaf
+  - description: to-7.5cm
+    feature: leaf
+id:
+  ns: 53b398e7e35eb12984036968
+  vba: '500989'

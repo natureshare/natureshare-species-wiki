@@ -1,0 +1,27 @@
+updated_by: chrisl
+common_names:
+  - Spreading Eutaxia
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: pale-yellow-no-red-veins
+    feature: flower
+  - description: pea
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: lanceolate-ovate-or-obovate
+    feature: leaf
+  - description: more-than-3mm
+    feature: leaf-length
+  - description: more-than-1mm
+    feature: leaf-width
+id:
+  ns: 53b398e7e35eb12984036c59
+  vba: '504488'

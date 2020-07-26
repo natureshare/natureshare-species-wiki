@@ -1,0 +1,27 @@
+updated_by: chrisl
+common_names:
+  - Rising Star Guinea-flower
+classification:
+  - name: dilleniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - provisional-name
+  - rare-threatened
+features:
+  - description: hairy
+    feature: branches
+  - description: low-shrub
+    feature: habit
+  - description: alternate
+    feature: leaf-arrangement
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e8e35eb12984036ebd
+  vba: '501670'

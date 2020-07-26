@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Mediterranean Loosestrife
+classification:
+  - name: lythraceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: tube-with-red-spots-at-base
+    feature: flower
+  - description: prostrate-or-ascending-to-50cm
+    feature: habit
+  - description: trailing
+    feature: habit
+  - description: 4-6mm-long
+    feature: petal
+id:
+  ns: 53b398e9e35eb129840371e9
+  vba: '502091'

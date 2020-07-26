@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Banded Skipper
+  - Orange Palm-dart
+  - Orange Palmdart
+classification:
+  - name: Insecta
+    rank: class
+  - name: Hesperiidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Hesperiinae
+    rank: subfamily
+  - name: Hesperioidea
+    rank: superfamily
+categories:
+  - butterfly
+  - fauna-introduced
+  - insect
+  - skippers-darts-and-allies
+id:
+  ns: 53b398ebe35eb12984037f90

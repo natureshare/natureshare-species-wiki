@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Honey Hood-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - provisional-name
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e6e35eb12984036630
+  vba: '500548'

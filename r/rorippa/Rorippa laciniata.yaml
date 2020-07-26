@@ -1,0 +1,28 @@
+updated_by: chrisl
+common_names:
+  - Jagged Bitter-cress
+classification:
+  - name: brassicaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: white
+    feature: flower
+  - description: '4'
+    feature: number-of-petals
+  - description: '4'
+    feature: petals
+  - description: more-than-point75mm-long
+    feature: seed
+  - description: slightly-winged
+    feature: seed
+  - description: in-1-row
+    feature: seeds
+  - description: '4'
+    feature: stamens
+id:
+  ns: 53b398eae35eb129840378b2
+  vba: '502946'

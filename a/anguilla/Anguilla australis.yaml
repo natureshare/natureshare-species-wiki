@@ -1,0 +1,13 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Southern Shortfin Eel
+classification:
+  - name: Anguillidae
+    rank: family
+  - name: Anguilliformes
+    rank: order
+categories:
+  - eel
+id:
+  ns: 5546af82ed2a891575000322

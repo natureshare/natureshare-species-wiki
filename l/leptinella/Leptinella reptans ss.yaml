@@ -1,0 +1,27 @@
+updated_by: chrisl
+common_names:
+  - Creeping Cotula
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: button-like
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: spring-summer
+    feature: flowering-time
+  - description: prostrate-herb
+    feature: habit
+  - description: to-10cm
+    feature: leaf
+  - description: tripinnate
+    feature: leaf
+id:
+  ns: 53b398e8e35eb129840370d0
+  vba: '503884'

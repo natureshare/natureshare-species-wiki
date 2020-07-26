@@ -1,0 +1,16 @@
+created_by: koolah
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Noctuidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Acronictinae-Amphipyrinae
+    rank: subfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 57d8c6b8ed2a89450f0014e9

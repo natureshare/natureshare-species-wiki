@@ -1,0 +1,12 @@
+updated_by: chrisl
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Auriculariaceae
+    rank: family
+  - name: Auriculariales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 53b398f3e35eb1298403a28d

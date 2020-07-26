@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Swamp Raspwort
+classification:
+  - name: haloragaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: divided
+    feature: leaf
+  - description: alternate
+    feature: leaves
+id:
+  ns: 53b398e8e35eb12984036e53
+  vba: '501580'

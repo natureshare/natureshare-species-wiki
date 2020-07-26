@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Common Eutaxia
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - provisional-name
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398e7e35eb12984036c58
+  vba: '501347'

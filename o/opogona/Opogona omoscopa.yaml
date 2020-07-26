@@ -1,0 +1,20 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Hieroxestis omoscopa
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Tineidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Hieroxestinae
+    rank: Subfamily
+  - name: Tineoidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5d71b770cad3eb4c55000123

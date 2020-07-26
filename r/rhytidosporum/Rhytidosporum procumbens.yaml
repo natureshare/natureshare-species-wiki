@@ -1,0 +1,32 @@
+updated_by: chrisl
+common_names:
+  - White Marianth
+classification:
+  - name: pittosporaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: petalled
+    feature: flower
+  - description: white
+    feature: flower
+  - description: green
+    feature: fruit
+  - description: red-brown
+    feature: fruit
+  - description: groundcover
+    feature: habit
+  - description: herb
+    feature: habit
+  - description: low-shrub
+    feature: habit
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398eae35eb1298403787b
+  vba: '500402'

@@ -1,0 +1,22 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Kowhai
+  - Lignum Vitae
+synonyms:
+  - Sophora howinsula
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - weed
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 546aaedfe35eb140c700009d
+  vba: '507407'

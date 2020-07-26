@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: insecta
+    rank: class
+  - name: Pteromalidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - gall-forming-wasp
+  - provisional-name
+id:
+  ns: 5874bc56ed2a89f464001959

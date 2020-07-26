@@ -1,0 +1,11 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Ray-finned Fishes
+classification:
+  - name: Actinopterygii
+    rank: class
+categories:
+  - fish
+id:
+  ns: 54d45562ed2a89cd200001db

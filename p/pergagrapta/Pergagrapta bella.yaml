@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Pergidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - insect
+  - sawfly
+id:
+  ns: 53b398f0e35eb12984039378

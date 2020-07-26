@@ -1,0 +1,14 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Jelly Tooth
+classification:
+  - name: Exidiaceae
+    rank: family
+  - name: Auriculariales
+    rank: order
+categories:
+  - fungi
+  - fungimap
+id:
+  ns: 545dbc45e35eb11974000027

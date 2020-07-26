@@ -1,0 +1,41 @@
+updated_by: chrisl
+common_names:
+  - Centella
+classification:
+  - name: apiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - herb
+  - plant
+features:
+  - description: tiny
+    feature: flower
+  - description: umbel
+    feature: flower
+  - description: white-pink
+    feature: flower
+  - description: long
+    feature: flower-stalk
+  - description: late-winter-early-autumn
+    feature: flowering-time
+  - description: flattened-sides
+    feature: fruit
+  - description: prominent-ribs
+    feature: fruit
+  - description: prostrate
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: heart-shaped
+    feature: leaf
+  - description: pale-green
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-4cm
+    feature: leaf
+id:
+  ns: 53b398e6e35eb1298403674d
+  vba: '500706'

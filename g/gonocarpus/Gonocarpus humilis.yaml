@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - Shade Raspwort
+classification:
+  - name: haloragaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: spreading
+    feature: stem-hair
+id:
+  ns: 53b398e8e35eb12984036da2
+  vba: '501484'

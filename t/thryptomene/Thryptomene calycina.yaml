@@ -1,0 +1,40 @@
+updated_by: chrisl
+common_names:
+  - Grampians Thryptomene
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: cluster
+    feature: flower
+  - description: pink
+    feature: flower-colour
+  - description: white
+    feature: flower-colour
+  - description: large-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: 1-3m
+    feature: height
+  - description: 5-14mm
+    feature: leaf-length
+  - description: 2-4mm
+    feature: leaf-width
+  - description: '10'
+    feature: number-of-petals
+  - description: '5'
+    feature: number-of-petals
+  - description: '10'
+    feature: petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398ebe35eb12984037bde
+  vba: '503395'

@@ -1,0 +1,35 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: Adelidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+categories:
+  - insect
+  - moth
+features:
+  - description: long
+    feature: antennae
+  - description: bulbous-and-mostly-yellow
+    feature: eyes
+  - description: surrounded-by-brown-hair
+    feature: eyes
+  - description: striped
+    feature: lower-legs
+  - description: yellow-spot
+    feature: rear-wing
+  - description: brown
+    feature: upper-legs
+  - description: brown
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: yellow
+    feature: wing
+id:
+  ns: 551e8e35ed2a89daf20001ae

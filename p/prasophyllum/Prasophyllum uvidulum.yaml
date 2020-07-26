@@ -1,0 +1,24 @@
+updated_by: chrisl
+common_names:
+  - Summer Leek-orchid
+synonyms:
+  - Prasophyllum sp. aff. frenchii B
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - endemic
+  - ffg
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: orchid
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398eae35eb129840376d4
+  vba: '505443'

@@ -1,0 +1,26 @@
+updated_by: chrisl
+common_names:
+  - Common Vetch
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - weed
+features:
+  - description: pea
+    feature: flower
+  - description: dark-brown
+    feature: pod
+  - description: not-torulose
+    feature: pod
+  - description: 4-6mm
+    feature: pod-width
+  - description: longer-than-corolla-tube
+    feature: sepal-teeth
+id:
+  ns: 53b398ebe35eb12984037cf8
+  vba: '505055'

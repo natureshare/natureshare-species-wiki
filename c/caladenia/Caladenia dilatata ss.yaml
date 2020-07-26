@@ -1,0 +1,38 @@
+updated_by: chrisl
+common_names:
+  - Green-comb Spider-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: green-yellow
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: late-winter-early-summer
+    feature: flowering-time
+  - description: cluster
+    feature: flowers
+  - description: herb
+    feature: habit
+  - description: green-with-maroon-tip
+    feature: labellum
+  - description: basal
+    feature: leaf
+  - description: hairy
+    feature: leaf
+  - description: long-oval
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+id:
+  ns: 53b398e6e35eb129840365fa
+  vba: '501019'

@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Black Carrion-fly
+classification:
+  - name: Diptera
+    rank: Order
+  - name: Insecta
+    rank: class
+  - name: Muscidae
+    rank: family
+categories:
+  - fly
+id:
+  ns: 588c6744ed2a89d10f00143a

@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Australian Hound's-tongue
+classification:
+  - name: boraginaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: absent
+    feature: bract
+  - description: basal-then-smaller-on-stem
+    feature: leaves
+id:
+  ns: 53b398e7e35eb1298403691e
+  vba: '500908'

@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Cut-leaf Burr-daisy
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: white
+    feature: flower
+  - description: divided
+    feature: leaf
+id:
+  ns: 53b398e6e35eb12984036683
+  vba: '500593'

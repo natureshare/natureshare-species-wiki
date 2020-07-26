@@ -1,0 +1,16 @@
+created_by: russell
+updated_by: chrisl
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Nemesiidae
+    rank: family
+  - name: Mygalomorphae
+    rank: infraorder
+  - name: Araneae
+    rank: order
+categories:
+  - provisional-name
+  - spider
+id:
+  ns: 55070379ed2a8974d300057b

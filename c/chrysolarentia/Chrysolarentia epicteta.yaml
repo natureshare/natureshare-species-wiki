@@ -1,0 +1,22 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Lorne Carpet
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Geometroidea
+    rank: Superfamily
+  - name: Larentiinae
+    rank: subfamily
+  - name: Xanthorhoini
+    rank: tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 5ad9b0daed2a899466005ea9

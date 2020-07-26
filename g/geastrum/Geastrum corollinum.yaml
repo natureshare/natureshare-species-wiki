@@ -1,0 +1,14 @@
+updated_by: chrisl
+common_names:
+  - Weathered Earthstar
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Geastraceae
+    rank: family
+  - name: Geastrales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 53b398f4e35eb1298403a549

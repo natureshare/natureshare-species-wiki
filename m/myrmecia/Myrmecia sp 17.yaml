@@ -1,0 +1,18 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Bullant
+classification:
+  - name: Insecta
+    rank: class
+  - name: Formicidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - animal
+  - ant
+  - fauna
+  - insect
+id:
+  ns: 55471107ed2a89c9bd00024b

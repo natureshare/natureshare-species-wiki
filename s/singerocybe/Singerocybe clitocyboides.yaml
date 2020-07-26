@@ -1,0 +1,18 @@
+updated_by: koolah
+synonyms:
+  - Clitocybe clitocyboides
+  - Clitocybe nothofaginea
+  - Singerella clitocyboides
+classification:
+  - name: Clitocybaceae
+    rank: Family
+  - name: Agaricomycetes
+    rank: class
+  - name: Agaricales
+    rank: order
+  - name: Tricholomatineae
+    rank: suborder
+categories:
+  - fungi
+id:
+  ns: 53b398f3e35eb1298403a4bd

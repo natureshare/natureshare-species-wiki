@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - False Parasol
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Agaricaceae
+    rank: family
+  - name: Agaricales
+    rank: order
+categories:
+  - fungi
+  - fungimap
+id:
+  ns: 57822388ed2a89050200007c

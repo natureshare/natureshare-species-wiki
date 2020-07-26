@@ -1,0 +1,11 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Ixodidae
+    rank: family
+categories:
+  - tick
+id:
+  ns: 542a30a7e35eb1dec10000c3

@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Brown-horned Treehopper
+classification:
+  - name: Insecta
+    rank: class
+  - name: Membracidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - insect
+  - treehopper
+id:
+  ns: 54b0b3fbed2a89eb4a00001d

@@ -1,0 +1,37 @@
+updated_by: chrisl
+common_names:
+  - Spreading Wattle
+classification:
+  - name: Fabaceae
+    rank: family
+  - name: Mimosoideae
+    rank: subfamily
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - wattle
+features:
+  - description: globular
+    feature: flower
+  - description: yellow
+    feature: flower-colour
+  - description: spring-summer
+    feature: flowering-time
+  - description: shrub
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: prickly
+    feature: leaf
+  - description: short
+    feature: leaf
+  - description: simple
+    feature: leaf
+  - description: unstalked
+    feature: leaf
+  - description: hard
+    feature: seedpod
+id:
+  ns: 53b398e5e35eb129840361be
+  vba: '500038'

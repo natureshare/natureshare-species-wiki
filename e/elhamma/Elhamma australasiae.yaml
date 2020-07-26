@@ -1,0 +1,24 @@
+updated_by: koolah
+classification:
+  - name: Hepialinae
+    rank: Subfamily
+  - name: Insecta
+    rank: class
+  - name: HEPIALIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: HEPIALOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: brown
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f29

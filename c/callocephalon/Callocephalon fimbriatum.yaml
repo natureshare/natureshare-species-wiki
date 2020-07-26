@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Gang-gang Cockatoo
+classification:
+  - name: cacatuidae
+    rank: family
+categories:
+  - animal
+  - bird
+  - cockatoo-and-corella
+  - fauna
+features:
+  - description: grey
+    feature: body
+  - description: red-head
+    feature: male
+id:
+  ns: 53b398e5e35eb12984035f85

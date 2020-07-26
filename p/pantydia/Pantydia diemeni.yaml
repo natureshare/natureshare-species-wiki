@@ -1,0 +1,21 @@
+updated_by: koolah
+common_names:
+  - Gap-lined Pantydia
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Erebidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Erebinae
+    rank: Subfamily
+  - name: Noctuoidea
+    rank: Superfamily
+  - name: Euclidiini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398ebe35eb12984037f56

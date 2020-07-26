@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Scaly Bark-beetle (genus)
+classification:
+  - name: Insecta
+    rank: class
+  - name: Trogossitidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+id:
+  ns: 5c0866251779a4866a0000fd

@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - Scaly-winged Barklice
+classification:
+  - name: Insecta
+    rank: class
+  - name: Lepidopsocidae
+    rank: family
+  - name: Psocoptera
+    rank: order
+categories:
+  - insect
+  - provisional-name
+  - psocid
+id:
+  ns: 53b398f1e35eb12984039a7b

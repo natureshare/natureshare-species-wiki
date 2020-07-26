@@ -1,0 +1,23 @@
+updated_by: petermoth
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Oecophoridae
+    rank: Family
+  - name: Heteroteucha
+    rank: Genus
+  - name: Lepidoptera
+    rank: Order
+  - name: Oecophorinae
+    rank: Subfamily
+  - name: Gelechioidea
+    rank: Superfamily
+  - name: Wingia-group
+    rank: Supertribe
+  - name: parvula
+    rank: species
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398f0e35eb1298403965e

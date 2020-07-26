@@ -1,0 +1,31 @@
+updated_by: chrisl
+common_names:
+  - Scarlet Bottlebrush
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - native-and-weedy-stands-in-vic
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: red
+    feature: flower-colour
+  - description: large-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-4m
+    feature: height
+  - description: 30-50mm
+    feature: leaf-length
+  - description: prickly
+    feature: leaf-tip
+  - description: 4-7mm
+    feature: leaf-width
+id:
+  ns: 53b398e6e35eb12984036655
+  vba: '500563'

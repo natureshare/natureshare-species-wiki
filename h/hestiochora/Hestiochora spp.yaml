@@ -1,0 +1,14 @@
+updated_by: david_francis
+classification:
+  - name: Insecta
+    rank: class
+  - name: ZYGAENIDAE
+    rank: family
+  - name: Lepidoptera
+    rank: order
+categories:
+  - insect
+  - moth
+  - provisional-name
+id:
+  ns: 53b398f2e35eb12984039f31

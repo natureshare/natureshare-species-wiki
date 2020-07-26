@@ -1,0 +1,24 @@
+updated_by: chrisl
+common_names:
+  - Cryptic Pink-fingers
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - rare-threatened
+features:
+  - description: orchid
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: white-pink
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e6e35eb1298403660e
+  vba: '505421'

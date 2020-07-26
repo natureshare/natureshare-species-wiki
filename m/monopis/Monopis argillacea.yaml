@@ -1,0 +1,16 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Tineidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Tineinae
+    rank: subfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5a485380ed2a89e23c003860

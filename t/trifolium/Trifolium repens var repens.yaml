@@ -1,0 +1,36 @@
+updated_by: chrisl
+common_names:
+  - White Clover
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - weed
+features:
+  - description: cluster
+    feature: flower
+  - description: pea
+    feature: flower
+  - description: orange
+    feature: flower-colour
+  - description: low-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: to-06m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 4-12mm
+    feature: leaf-length
+  - description: less-than-10mm
+    feature: leaf-length
+  - description: less-than-20mm
+    feature: leaf-length
+id:
+  ns: 53b398ebe35eb12984037c57
+  vba: '503435'

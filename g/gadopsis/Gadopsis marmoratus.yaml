@@ -1,0 +1,17 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - River Blackfish
+classification:
+  - name: Percichthyidae
+    rank: family
+  - name: Perciformes
+    rank: order
+categories:
+  - animal
+  - fauna
+  - ffg
+  - fish
+  - rare-threatened
+id:
+  ns: 554727afed2a89adc2000255

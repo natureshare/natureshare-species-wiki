@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Spider Assassin-bug
+classification:
+  - name: insecta
+    rank: Class
+  - name: Reduviidae
+    rank: family
+  - name: Hemiptera
+    rank: order
+categories:
+  - assassin-bug
+  - true-bug
+id:
+  ns: 59fe5b3eed2a89998f00013b

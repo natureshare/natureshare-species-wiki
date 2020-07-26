@@ -1,0 +1,16 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Lycidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+  - name: Polyphaga
+    rank: suborder
+categories:
+  - beetle
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb129840380a9

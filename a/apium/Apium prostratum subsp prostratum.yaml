@@ -1,0 +1,27 @@
+updated_by: chrisl
+common_names:
+  - Sea Celery
+classification:
+  - name: apiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - provisional-name
+features:
+  - description: 4-15-flowered
+    feature: flower
+  - description: white
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: prostrate
+    feature: habit
+  - description: 5-20cm
+    feature: leaf-length
+  - description: 1-3-pinnate
+    feature: leaves
+id:
+  ns: 53b398e6e35eb1298403636c
+  vba: '500247'

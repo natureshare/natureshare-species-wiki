@@ -1,0 +1,29 @@
+updated_by: chrisl
+common_names:
+  - Variable Billy-buttons
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: base-to-5mm-wide
+    feature: leaf
+  - description: to-13cm
+    feature: leaf-length
+  - description: to-13mm-rarely-to-20mm
+    feature: leaf-width
+  - description: fluffy
+    feature: seed
+id:
+  ns: 53b398e7e35eb129840368a4
+  vba: '504650'

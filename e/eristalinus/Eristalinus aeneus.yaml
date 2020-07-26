@@ -1,0 +1,20 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: insecta
+    rank: class
+  - name: Syrphidae
+    rank: family
+  - name: Diptera
+    rank: order
+  - name: Eristalinae
+    rank: subfamily
+categories:
+  - hoverfly
+features:
+  - description: black
+    feature: body
+  - description: dotted
+    feature: eyes
+id:
+  ns: 5869d023ed2a89748000c389

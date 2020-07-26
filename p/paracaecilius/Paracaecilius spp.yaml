@@ -1,0 +1,14 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Caeciliusidae
+    rank: family
+  - name: Psocoptera
+    rank: order
+categories:
+  - insect
+  - provisional-name
+  - psocid
+id:
+  ns: 53b398f1e35eb12984039a57

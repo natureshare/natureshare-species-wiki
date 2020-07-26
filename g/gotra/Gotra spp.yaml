@@ -1,0 +1,15 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Ichneumonidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - insect
+  - provisional-name
+  - wasp
+id:
+  ns: 54c611e7ed2a899aeb00000d

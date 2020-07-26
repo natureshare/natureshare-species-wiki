@@ -1,0 +1,15 @@
+updated_by: chrisl
+common_names:
+  - Common Brown Earwig
+classification:
+  - name: Insecta
+    rank: class
+  - name: Labiduridae
+    rank: family
+  - name: Dermaptera
+    rank: order
+categories:
+  - earwig
+  - insect
+id:
+  ns: 53b398eee35eb12984038b19

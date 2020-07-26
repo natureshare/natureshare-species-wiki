@@ -1,0 +1,77 @@
+updated_by: chrisl
+common_names:
+  - Common Golden-tip
+synonyms:
+  - Goodia lotifolia var. lotifolia
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+features:
+  - description: 9-14mm-long
+    feature: flower
+  - description: pea
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: pink
+    feature: flower-colour
+  - description: purple
+    feature: flower-colour
+  - description: spring-early-summer
+    feature: flowering-time
+  - description: climber
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: small-tree
+    feature: habit
+  - description: twiner
+    feature: habit
+  - description: to-3m
+    feature: height
+  - description: to-4m
+    feature: height
+  - description: bluish-green
+    feature: leaf
+  - description: clover-like
+    feature: leaf
+  - description: divided
+    feature: leaf
+  - description: paler-underneath
+    feature: leaf
+  - description: trifoliolate
+    feature: leaf
+  - description: alternate
+    feature: leaf-arrangement
+  - description: trifoliate
+    feature: leaf-type
+  - description: up-to-60mm
+    feature: leafet-length
+  - description: less-than-60mm
+    feature: leaflet-length
+  - description: to-60mm
+    feature: leaflet-length
+  - description: '3'
+    feature: leaflets
+  - description: 4-10cm
+    feature: raceme-length
+  - description: 25-50mm
+    feature: seedpod-length
+  - description: greater-than-25mm
+    feature: seedpod-length
+  - description: less-than-50mm
+    feature: seedpod-length
+  - description: 5-10mm
+    feature: seedpod-width
+  - description: greater-than-5mm
+    feature: seedpod-width
+  - description: less-than-10mm
+    feature: seedpod-width
+id:
+  ns: 53b398e8e35eb12984036dca
+  vba: '505076'

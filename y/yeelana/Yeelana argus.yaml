@@ -1,0 +1,21 @@
+updated_by: chrisl
+common_names:
+  - Argus Yeelana
+classification:
+  - name: Insecta
+    rank: class
+  - name: Pyrgomorphidae
+    rank: family
+  - name: Orthoptera
+    rank: order
+  - name: Pyrgomorphinae
+    rank: subfamily
+  - name: Caelifera
+    rank: suborder
+  - name: Monistriini
+    rank: tribe
+categories:
+  - grasshopper
+  - insect
+id:
+  ns: 53b398ece35eb12984038044

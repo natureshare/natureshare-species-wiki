@@ -1,0 +1,15 @@
+updated_by: chrisl
+common_names:
+  - Crust Porpidia Lichen
+classification:
+  - name: Lecanoromycetes
+    rank: class
+  - name: Porpidiaceae
+    rank: family
+  - name: Lecideales
+    rank: order
+categories:
+  - fungi
+  - lichen
+id:
+  ns: 53b398f4e35eb1298403a79a

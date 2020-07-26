@@ -1,0 +1,38 @@
+updated_by: koolah
+common_names:
+  - Margined Browntail Moth
+synonyms:
+  - Urocoma marginalis
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Erebidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Lymantriinae
+    rank: Subfamily
+  - name: Noctuoidea
+    rank: Superfamily
+  - name: Nygmiini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+features:
+  - description: brown
+    feature: head-hair
+  - description: black
+    feature: wing
+  - description: brown
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037f42

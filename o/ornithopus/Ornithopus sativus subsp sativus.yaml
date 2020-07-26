@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - French Serradella
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - flora
+  - pea
+  - plant
+  - weed
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398e9e35eb129840373f2

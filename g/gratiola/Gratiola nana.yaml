@@ -1,0 +1,27 @@
+updated_by: chrisl
+common_names:
+  - Matted Brooklime
+classification:
+  - name: veronicaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: pink
+    feature: flower
+  - description: tubular
+    feature: flower
+  - description: white
+    feature: flower
+  - description: yellow
+    feature: flower-tube
+  - description: herb
+    feature: habit
+  - description: prostrate
+    feature: habit
+id:
+  ns: 53b398e8e35eb12984036dd2
+  vba: '501522'

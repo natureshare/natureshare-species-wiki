@@ -1,0 +1,48 @@
+updated_by: chrisl
+common_names:
+  - Grass Triggerplant
+classification:
+  - name: stylidiaceae
+    rank: family
+  - name: stylidium
+    rank: genus
+  - name: asterales
+    rank: order
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: pale-pink
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: pink
+    feature: flower
+  - description: white
+    feature: flower
+  - description: 1-few
+    feature: flowering-stems
+  - description: 20-80cm
+    feature: flowering-stems
+  - description: herb
+    feature: habit
+  - description: glabrous
+    feature: leaf
+  - description: less-than-3mm-wide
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: serrated
+    feature: leaf
+  - description: serrated-minutely
+    feature: leaf
+  - description: '4'
+    feature: number-of-petals
+  - description: '4'
+    feature: petals
+  - description: glabrescent
+    feature: stem
+id:
+  ns: 53b398ebe35eb12984037b12
+  vba: '504971'

@@ -1,0 +1,23 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Cirphis costalis
+  - Leucania eboriosa
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Noctuidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Noctuinae
+    rank: Subfamily
+  - name: Noctuoidea
+    rank: Superfamily
+  - name: Hadenini
+    rank: Tribe
+categories:
+  - insect
+  - moth
+id:
+  ns: 5bb1e703ed2a899ab30002c1

@@ -1,0 +1,30 @@
+updated_by: chrisl
+common_names:
+  - Slender Rice-flower
+classification:
+  - name: thymelaeaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: cluster
+    feature: flower
+  - description: petalled
+    feature: flower
+  - description: tubular
+    feature: flower
+  - description: white
+    feature: flower
+  - description: low-shrub
+    feature: habit
+  - description: '4'
+    feature: number-of-petals
+  - description: '4'
+    feature: petals
+  - description: glabrous
+    feature: stem
+id:
+  ns: 53b398e9e35eb1298403755c
+  vba: '504819'

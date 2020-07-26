@@ -1,0 +1,42 @@
+updated_by: chrisl
+common_names:
+  - Swamp Isotome
+classification:
+  - name: campanulaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: petalled
+    feature: flower
+  - description: star-shaped
+    feature: flower
+  - description: white-blue
+    feature: flower
+  - description: mid-late-spring
+    feature: flowering-time
+  - description: groundcover
+    feature: habit
+  - description: herb
+    feature: habit
+  - description: trailing
+    feature: habit
+  - description: crowded-on-stem
+    feature: leaf
+  - description: margin-toothed
+    feature: leaf
+  - description: narrow
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-1cm
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+  - description: '5'
+    feature: petals
+id:
+  ns: 53b398e8e35eb12984036fb2
+  vba: '501793'

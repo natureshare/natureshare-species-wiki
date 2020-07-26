@@ -1,0 +1,55 @@
+updated_by: chrisl
+common_names:
+  - Otway Bush-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: glaucous
+    feature: branches
+  - description: pea
+    feature: flower
+  - description: orange
+    feature: flower-colour
+  - description: large-shrub
+    feature: habit
+  - description: shrub
+    feature: habit
+  - description: 2-4m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: 40-150mm
+    feature: leaf-length
+  - description: greater-than-40mm
+    feature: leaf-length
+  - description: less-than-150mm
+    feature: leaf-length
+  - description: 5-25mm
+    feature: leaf-width
+  - description: greater-than-5mm
+    feature: leaf-width
+  - description: less-than-30mm
+    feature: leaf-width
+  - description: 7-10mm
+    feature: seedpod-length
+  - description: greater-than-5mm
+    feature: seedpod-length
+  - description: less-than-10mm
+    feature: seedpod-length
+  - description: 5-6mm
+    feature: seedpod-width
+  - description: greater-than-5mm
+    feature: seedpod-width
+  - description: less-than-10mm
+    feature: seedpod-width
+id:
+  ns: 53b398eae35eb129840377db
+  vba: '502868'

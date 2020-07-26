@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Snipe Fly
+classification:
+  - name: Insecta
+    rank: class
+  - name: Rhagionidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+  - insect
+id:
+  ns: 54a773e2e35eb13c2c000013

@@ -1,0 +1,17 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Blue Flowerwasp
+synonyms:
+  - Scolia verticalis
+classification:
+  - name: insecta
+    rank: class
+  - name: Scoliidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - wasp
+id:
+  ns: 5a7d1dd7ed2a89def70011b5

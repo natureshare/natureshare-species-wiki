@@ -1,0 +1,36 @@
+updated_by: koolah
+common_names:
+  - Tobacco Looper
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Noctuidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Plusiinae
+    rank: Subfamily
+  - name: Noctuoidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: lumpy
+    feature: body
+  - description: tufts
+    feature: body
+  - description: black
+    feature: wing
+  - description: brown
+    feature: wing
+  - description: gold
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: multi-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398f2e35eb12984039d77

@@ -1,0 +1,24 @@
+updated_by: chrisl
+common_names:
+  - Coast Saltbush
+classification:
+  - name: chenopodiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: coastal
+    feature: distribution
+  - description: shrub
+    feature: habit
+  - description: to-180cm
+    feature: height
+  - description: grey
+    feature: leaf
+  - description: 15-80mm
+    feature: leaf-length
+id:
+  ns: 53b398e6e35eb12984036406
+  vba: '500316'

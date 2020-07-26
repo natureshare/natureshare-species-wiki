@@ -1,0 +1,16 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Franklin's Gull
+classification:
+  - name: laridae
+    rank: family
+categories:
+  - animal
+  - bird
+  - rare-threatened
+features:
+  - description: black
+    feature: head
+id:
+  ns: 55b6fca2ed2a89db810002a0

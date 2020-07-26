@@ -1,0 +1,13 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Agaricomycetes
+    rank: Class
+  - name: Tricholomataceae
+    rank: Family
+  - name: Agaricales
+    rank: Order
+categories:
+  - fungi
+id:
+  ns: 5b4135f6ed2a8903a0002208

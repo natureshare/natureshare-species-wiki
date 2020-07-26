@@ -1,0 +1,13 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Formicidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - ant
+  - insect
+id:
+  ns: 53b398f0e35eb12984039299

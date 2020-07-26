@@ -1,0 +1,41 @@
+updated_by: chrisl
+common_names:
+  - Slender Wallaby-grass
+synonyms:
+  - Austrodanthonia racemosa var. racemosa
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+features:
+  - description: compact-spike
+    feature: flower
+  - description: grass
+    feature: flower
+  - description: light-green
+    feature: flower
+  - description: 10-60cm
+    feature: flower-stalk
+  - description: spring-mid-summer
+    feature: flowering-time
+  - description: grass
+    feature: habit
+  - description: tuft-20cm-tall
+    feature: habit
+  - description: fine
+    feature: leaf
+  - description: light-green
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: stem-clasping
+    feature: leaf
+  - description: to-15cm
+    feature: leaf
+id:
+  ns: 53b398e6e35eb12984036440
+  vba: '500977'

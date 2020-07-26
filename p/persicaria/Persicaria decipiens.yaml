@@ -1,0 +1,31 @@
+updated_by: chrisl
+common_names:
+  - Slender Knotweed
+classification:
+  - name: polygonaceae
+    rank: family
+categories:
+  - aquatic
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: pink
+    feature: flower
+  - description: summer-mid-autumn
+    feature: flowering-time
+  - description: erect-spreading-herb
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: lanceolate
+    feature: leaf
+  - description: often-with-dark-blotch
+    feature: leaf
+  - description: to-15cm
+    feature: leaf
+  - description: '5'
+    feature: number-of-petals
+id:
+  ns: 53b398e9e35eb129840374b6
+  vba: '503919'

@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Port Campbell Guinea-flower
+classification:
+  - name: dilleniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: alternate
+    feature: leaf-arrangement
+id:
+  ns: 53b398e8e35eb12984036ed7
+  vba: '505441'

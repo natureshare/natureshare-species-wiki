@@ -1,0 +1,20 @@
+created_by: koolah
+updated_by: koolah
+common_names:
+  - Common Nearcha
+classification:
+  - name: Insecta
+    rank: class
+  - name: Geometridae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Oenochrominae
+    rank: subfamily
+categories:
+  - moth
+features:
+  - description: pectinate
+    feature: antennae
+id:
+  ns: 57eafb45ed2a89450f0079b2

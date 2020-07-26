@@ -1,0 +1,11 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Hymenoptera
+    rank: order
+categories:
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb129840380f3

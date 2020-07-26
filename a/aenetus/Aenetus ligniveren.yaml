@@ -1,0 +1,34 @@
+updated_by: koolah
+common_names:
+  - Splendid Ghost Moth
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Hepialidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Hepialinae
+    rank: Subfamily
+  - name: Hepialoidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: green-brown
+    feature: female
+  - description: green-white
+    feature: male
+  - description: brown
+    feature: wing
+  - description: green
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: white
+    feature: wing
+  - description: white
+    feature: wing-lines
+id:
+  ns: 53b398f0e35eb129840394d7

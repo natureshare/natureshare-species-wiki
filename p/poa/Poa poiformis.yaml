@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Coast Tussock-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - plant
+  - provisional-name
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398e9e35eb129840375eb
+  vba: '502605'

@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Thick Eyebright
+classification:
+  - name: orobanchaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - epbc
+  - ffg
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: pink
+    feature: flower
+id:
+  ns: 53b398e7e35eb12984036c45
+  vba: '504475'

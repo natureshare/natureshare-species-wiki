@@ -1,0 +1,58 @@
+updated_by: chrisl
+common_names:
+  - Common Dipogon
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - pea
+  - plant
+  - weed
+features:
+  - description: pea
+    feature: flower
+  - description: cream
+    feature: flower-colour
+  - description: white
+    feature: flower-colour
+  - description: shrub
+    feature: habit
+  - description: small-tree
+    feature: habit
+  - description: to-4m
+    feature: height
+  - description: alternate
+    feature: leaf-arrangement
+  - description: trifoliate
+    feature: leaf-type
+  - description: greater-than-10mm
+    feature: leafet-length
+  - description: 10-45mm
+    feature: leaflet-length
+  - description: less-than-50mm
+    feature: leaflet-length
+  - description: 4-13mm
+    feature: leaflet-width
+  - description: greater-than-4mm
+    feature: leaflet-width
+  - description: less-than-15mm
+    feature: leaflet-width
+  - description: '3'
+    feature: leaflets
+  - description: 40-60mm
+    feature: seedpod-length
+  - description: greater-than-40mm
+    feature: seedpod-length
+  - description: less-than-60mm
+    feature: seedpod-length
+  - description: 12mm
+    feature: seedpod-width
+  - description: up-to-12mm
+    feature: seedpod-width
+  - description: 4-to-10
+    feature: seeds
+id:
+  ns: 53b398e7e35eb12984036a22
+  vba: '501069'

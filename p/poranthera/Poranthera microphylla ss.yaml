@@ -1,0 +1,34 @@
+updated_by: chrisl
+common_names:
+  - Small Poranthera
+classification:
+  - name: euphorbiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: clustered
+    feature: flower
+  - description: regular
+    feature: flower
+  - description: tiny
+    feature: flower
+  - description: white
+    feature: flower
+  - description: late-winter-mid-autumn
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: greyish
+    feature: leaf
+  - description: oval
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-1cm
+    feature: leaf
+id:
+  ns: 53b398eae35eb1298403767e
+  vba: '507704'

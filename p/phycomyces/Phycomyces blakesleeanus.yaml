@@ -1,0 +1,15 @@
+created_by: chrisl
+updated_by: chrisl
+classification:
+  - name: Phycomycetaceae
+    rank: family
+  - name: Fungi
+    rank: kingdom
+  - name: Mucorales
+    rank: order
+  - name: Zygomycota
+    rank: phylum
+categories:
+  - fungi
+id:
+  ns: 56d17528ed2a89b54c0000a9

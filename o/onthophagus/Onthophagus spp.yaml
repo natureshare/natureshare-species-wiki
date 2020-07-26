@@ -1,0 +1,16 @@
+updated_by: david_francis
+common_names:
+  - Dung Beetles
+classification:
+  - name: Insecta
+    rank: class
+  - name: Scarabaeidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - insect
+  - provisional-name
+id:
+  ns: 53b398eee35eb1298403899e

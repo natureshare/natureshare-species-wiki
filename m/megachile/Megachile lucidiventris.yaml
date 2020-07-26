@@ -1,0 +1,13 @@
+created_by: david_francis
+updated_by: david_francis
+classification:
+  - name: insecta
+    rank: class
+  - name: Megachilidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+categories:
+  - bee
+id:
+  ns: 587f2a1ced2a892d4d000005

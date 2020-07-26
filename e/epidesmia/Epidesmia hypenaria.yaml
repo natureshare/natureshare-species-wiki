@@ -1,0 +1,27 @@
+updated_by: koolah
+common_names:
+  - Long Nose
+  - Long-nosed Epidesmia
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Geometridae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Oenochrominae
+    rank: Subfamily
+  - name: Geometroidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: brown
+    feature: wing
+  - description: spots
+    feature: wing
+  - description: triangular
+    feature: wings-held
+id:
+  ns: 53b398f2e35eb12984039d23

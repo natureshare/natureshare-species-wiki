@@ -1,0 +1,23 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Large Radiating Carpet
+classification:
+  - name: Insecta
+    rank: class
+  - name: insecta
+    rank: class
+  - name: geometridae
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: Larentiinae
+    rank: subfamily
+categories:
+  - insect
+  - moth
+features:
+  - description: alpine
+    feature: distribution
+id:
+  ns: 54e5f9c2ed2a89d990000516

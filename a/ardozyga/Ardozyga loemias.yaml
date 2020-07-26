@@ -1,0 +1,20 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Protolechia loemias
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Gelechiidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Protolechia-Group
+    rank: Subfamily
+  - name: Gelechioidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5d16f20fc347d59c40000074

@@ -1,0 +1,25 @@
+updated_by: chrisl
+common_names:
+  - Common Water-starwort
+classification:
+  - name: veronicaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: paired
+    feature: flower
+  - description: mat-forming
+    feature: habit
+  - description: aquatic
+    feature: habitat
+  - description: '0'
+    feature: number-of-petals
+  - description: absent
+    feature: petals
+id:
+  ns: 53b398e6e35eb12984036665
+  vba: '500574'

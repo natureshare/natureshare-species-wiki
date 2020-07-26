@@ -1,0 +1,12 @@
+updated_by: chrisl
+classification:
+  - name: Eurotiomycetes
+    rank: class
+  - name: Pyrenulaceae
+    rank: family
+  - name: Pyrenulales
+    rank: order
+categories:
+  - fungi
+id:
+  ns: 53b398f4e35eb1298403a7fa

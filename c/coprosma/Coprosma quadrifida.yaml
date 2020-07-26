@@ -1,0 +1,44 @@
+updated_by: chrisl
+common_names:
+  - Prickly Currant-bush
+classification:
+  - name: rubiaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: green
+    feature: flower
+  - description: inconspicuous
+    feature: flower
+  - description: spring-mid-summer
+    feature: flowering-time
+  - description: drupe
+    feature: fruit
+  - description: fleshy
+    feature: fruit
+  - description: mid-summer-early-autumn
+    feature: fruit
+  - description: red
+    feature: fruit
+  - description: shrub
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: dull
+    feature: leaf
+  - description: long-oval
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-1.5cm
+    feature: leaf
+  - description: less-than-5mm
+    feature: leaf-width
+  - description: spines
+    feature: stem
+id:
+  ns: 53b398e7e35eb12984036842
+  vba: '500822'

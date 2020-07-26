@@ -1,0 +1,53 @@
+updated_by: chrisl
+common_names:
+  - White Stringybark
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - tree
+features:
+  - description: glossy
+    feature: adult-leaf
+  - description: lanceolate
+    feature: adult-leaf
+  - description: to-10cm
+    feature: adult-leaf
+  - description: rough-fibrous-stringy
+    feature: bark
+  - description: thick
+    feature: bark
+  - description: 7-15
+    feature: buds
+  - description: on-flattened-stalks
+    feature: buds
+  - description: pointed
+    feature: buds
+  - description: cluster
+    feature: flower
+  - description: white-cream
+    feature: flower
+  - description: spring-mid-summer
+    feature: flowering-time
+  - description: hard
+    feature: fruit
+  - description: hemispherical
+    feature: fruit
+  - description: tree
+    feature: habit
+  - description: hairy
+    feature: juvenile-leaf
+  - description: oval
+    feature: juvenile-leaf
+  - description: wavy-edge
+    feature: juvenile-leaf
+  - description: alternate
+    feature: leaf
+  - description: stalked
+    feature: leaf
+id:
+  ns: 53b398e7e35eb12984036bb1
+  vba: '501281'

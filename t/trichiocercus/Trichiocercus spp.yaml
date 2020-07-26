@@ -1,0 +1,22 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: NOTODONTIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: THAUMETOPOEINAE
+    rank: subfamily
+  - name: Thaumetopoenae
+    rank: subfamily
+  - name: NOCTUOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+  - provisional-name
+id:
+  ns: 53b398ebe35eb12984037f5f

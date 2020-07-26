@@ -1,0 +1,25 @@
+updated_by: chrisl
+common_names:
+  - Grass Daisy
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: white
+    feature: flower
+  - description: to-30cm
+    feature: height
+  - description: basal-rosette
+    feature: leaf
+  - description: linear-to-obovate
+    feature: leaf
+  - description: 2-16cm
+    feature: leaf-length
+id:
+  ns: 53b398e6e35eb12984036563
+  vba: '500460'

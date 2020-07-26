@@ -1,0 +1,19 @@
+created_by: koolah
+updated_by: koolah
+synonyms:
+  - Agaricus hepatochrous
+  - Agaricus horizontalis
+  - Crepidotus subhaustellaris
+  - Melanotus hepatochrous
+  - Psilocybe horizontalis
+classification:
+  - name: Agaricomycetes
+    rank: Class
+  - name: Strophariaceae
+    rank: Family
+  - name: Agaricales
+    rank: Order
+categories:
+  - fungi
+id:
+  ns: 5b376b8bed2a89a993002d45

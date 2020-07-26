@@ -1,0 +1,16 @@
+updated_by: chrisl
+common_names:
+  - European Earwig
+classification:
+  - name: Insecta
+    rank: class
+  - name: Forficulidae
+    rank: family
+  - name: Dermaptera
+    rank: order
+categories:
+  - earwig
+  - fauna-introduced
+  - insect
+id:
+  ns: 53b398eee35eb12984038b15

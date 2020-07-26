@@ -1,0 +1,14 @@
+created_by: david_francis
+updated_by: chrisl
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Erythraeidae
+    rank: family
+  - name: Trombidiformes
+    rank: order
+categories:
+  - mite
+  - provisional-name
+id:
+  ns: 542bdfb1e35eb1dec1000147

@@ -1,0 +1,19 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Gold Tooth
+classification:
+  - name: Agaricomycetes
+    rank: class
+  - name: Bankeraceae
+    rank: family
+  - name: Fungi
+    rank: kingdom
+  - name: Telephorales
+    rank: order
+  - name: Basidiomycota
+    rank: phylum
+categories:
+  - fungi
+id:
+  ns: 5b332420ed2a89a993001b0a

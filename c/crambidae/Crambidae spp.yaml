@@ -1,0 +1,13 @@
+created_by: russell
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Crambidae
+    rank: family
+categories:
+  - insect
+  - moth
+  - provisional-name
+id:
+  ns: 546f3d39e35eb10983000019

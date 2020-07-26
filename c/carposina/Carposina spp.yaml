@@ -1,0 +1,16 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Carposinidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Copromorphoidea
+    rank: Superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 5cd170c63abbd6f8e2000030

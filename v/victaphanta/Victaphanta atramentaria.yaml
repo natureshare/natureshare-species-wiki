@@ -1,0 +1,20 @@
+created_by: chrisl
+updated_by: chrisl
+common_names:
+  - Gippsland Black Snail
+classification:
+  - name: Gastropoda
+    rank: class
+  - name: Rhytididae
+    rank: family
+  - name: Stylommatophora
+    rank: order
+  - name: Mollusca
+    rank: phylum
+  - name: Rhytidoidea
+    rank: superfamily
+categories:
+  - mollusc
+  - snail
+id:
+  ns: 5a153fafed2a8962be002ccd

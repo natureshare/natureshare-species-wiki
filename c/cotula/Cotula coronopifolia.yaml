@@ -1,0 +1,38 @@
+updated_by: chrisl
+common_names:
+  - Water Buttons
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: button-like
+    feature: flower
+  - description: cluster
+    feature: flower
+  - description: yellow
+    feature: flower
+  - description: spring-summer
+    feature: flowering-time
+  - description: herb
+    feature: habit
+  - description: alternate
+    feature: leaf
+  - description: long-oval
+    feature: leaf
+  - description: margin-toothed-or-lobed
+    feature: leaf
+  - description: stalked
+    feature: leaf
+  - description: to-2.5cm
+    feature: leaf
+  - description: succulent
+    feature: stem
+id:
+  ns: 53b398e7e35eb12984036891
+  vba: '500848'

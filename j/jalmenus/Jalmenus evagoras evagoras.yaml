@@ -1,0 +1,41 @@
+updated_by: chrisl
+common_names:
+  - Common Imperial Blue
+  - Imperial Hairstreak
+classification:
+  - name: Insecta
+    rank: class
+  - name: lycaenidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Papilionoidea
+    rank: superfamily
+categories:
+  - butterfly
+  - insect
+features:
+  - description: attendant-ants
+    feature: caterpillar
+  - description: acacia-mearnsii
+    feature: host
+  - description: acacia-melanoxylon
+    feature: host
+  - description: black
+    feature: wing
+  - description: blue
+    feature: wing
+  - description: cream
+    feature: wing
+  - description: four-coloured
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: orange
+    feature: wing
+  - description: white
+    feature: wing
+  - description: yellow
+    feature: wing
+id:
+  ns: 53b398ebe35eb12984037de2

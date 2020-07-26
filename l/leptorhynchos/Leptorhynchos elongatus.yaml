@@ -1,0 +1,22 @@
+updated_by: chrisl
+common_names:
+  - Lanky Buttons
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: margin-glabrous
+    feature: involucral-bracts
+  - description: hairs-on-upper-surface
+    feature: leaf
+  - description: 1-6mm
+    feature: leaf-width
+id:
+  ns: 53b398e8e35eb129840370e0
+  vba: '501941'

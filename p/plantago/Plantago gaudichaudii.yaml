@@ -1,0 +1,26 @@
+updated_by: chrisl
+common_names:
+  - Narrow Plantain
+classification:
+  - name: veronicaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: brown
+    feature: flower
+  - description: cluster
+    feature: flower
+  - description: herb
+    feature: habit
+  - description: if-present-some-more-than-1mm
+    feature: hairs
+  - description: hairy-or-glabrous
+    feature: leaf
+  - description: 15-times-width-or-more
+    feature: leaf-length
+id:
+  ns: 53b398e9e35eb129840375a2
+  vba: '502558'

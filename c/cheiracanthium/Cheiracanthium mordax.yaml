@@ -1,0 +1,14 @@
+updated_by: chrisl
+common_names:
+  - Biting Garden Sac Spider
+classification:
+  - name: Arachnida
+    rank: class
+  - name: Eutichuridae
+    rank: family
+  - name: Araneae
+    rank: order
+categories:
+  - spider
+id:
+  ns: 53b398f2e35eb12984039da2

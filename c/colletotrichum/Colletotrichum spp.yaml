@@ -1,0 +1,11 @@
+updated_by: chrisl
+classification:
+  - name: Sordariomycetes
+    rank: class
+  - name: Glomerellaceae
+    rank: family
+categories:
+  - fungi
+  - provisional-name
+id:
+  ns: 53b398f2e35eb1298403a04a

@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Garden Soldier-fly
+classification:
+  - name: Insecta
+    rank: class
+  - name: Stratiomyidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+  - insect
+id:
+  ns: 54646bb8e35eb194f5000088

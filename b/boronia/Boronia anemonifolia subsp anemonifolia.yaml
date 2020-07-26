@@ -1,0 +1,28 @@
+updated_by: chrisl
+common_names:
+  - Sticky Boronia
+classification:
+  - name: rutaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: white
+    feature: flower
+  - description: large-shrub
+    feature: habit
+  - description: to-3m
+    feature: habit
+  - description: 2-lobed
+    feature: leaf
+  - description: unpleasant-smell
+    feature: leaves
+  - description: '4'
+    feature: number-of-petals
+  - description: '4'
+    feature: petals
+id:
+  ns: 53b398e6e35eb1298403651a
+  vba: '505212'

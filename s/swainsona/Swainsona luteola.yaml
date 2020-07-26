@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Dwarf Darling-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - ffg
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398ebe35eb12984037b29

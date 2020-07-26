@@ -1,0 +1,47 @@
+updated_by: chrisl
+common_names:
+  - Amethyst Hairstreak
+  - Icilius Blue
+classification:
+  - name: Insecta
+    rank: class
+  - name: Lycaenidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Papilionoidea
+    rank: superfamily
+categories:
+  - butterfly
+  - ffg
+  - insect
+  - rare-threatened
+features:
+  - description: attendant-ants
+    feature: caterpillar
+  - description: brown
+    feature: caterpillar
+  - description: green
+    feature: caterpillar
+  - description: acacia-melanoxylon
+    feature: food-plant
+  - description: '1'
+    feature: spots
+  - description: 1-upperside
+    feature: spots
+  - description: '2'
+    feature: spots
+  - description: 2-underside
+    feature: spots
+  - description: black
+    feature: spots
+  - description: blue
+    feature: wing
+  - description: brown
+    feature: wing
+  - description: two-coloured
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ece35eb12984038009

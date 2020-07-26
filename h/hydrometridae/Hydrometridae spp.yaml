@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Water Measurer
+classification:
+  - name: Insecta
+    rank: class
+  - name: Hydrometridae
+    rank: family
+  - name: Gerromorpha
+    rank: infraorder
+  - name: Hemiptera
+    rank: order
+  - name: Heteroptera
+    rank: suborder
+categories:
+  - insect
+  - provisional-name
+  - true-bug
+id:
+  ns: 53b398ece35eb129840380ec

@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Otway Grey-gum
+classification:
+  - name: myrtaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: cluster
+    feature: flower
+  - description: tree
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036bcb
+  vba: '504557'

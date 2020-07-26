@@ -1,0 +1,15 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Tineodidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Alucitoidea
+    rank: Superfamily
+categories:
+  - moth
+id:
+  ns: 5a3757f4ed2a896262002519

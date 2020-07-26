@@ -1,0 +1,18 @@
+updated_by: david_francis
+common_names:
+  - Spitfire Sawflies
+classification:
+  - name: Insecta
+    rank: class
+  - name: Pergidae
+    rank: family
+  - name: Hymenoptera
+    rank: order
+  - name: Symphyta
+    rank: suborder
+categories:
+  - insect
+  - provisional-name
+  - sawfly
+id:
+  ns: 53b398ece35eb129840380f5

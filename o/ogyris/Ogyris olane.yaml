@@ -1,0 +1,34 @@
+updated_by: chrisl
+common_names:
+  - Broad-margined Azure
+  - Dull Purple Azure
+  - Mistletoe Blue
+classification:
+  - name: Insecta
+    rank: class
+  - name: Lycaenidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Papilionoidea
+    rank: superfamily
+categories:
+  - butterfly
+  - insect
+features:
+  - description: black
+    feature: wing
+  - description: blue
+    feature: wing
+  - description: brown
+    feature: wing
+  - description: four-coloured
+    feature: wing
+  - description: grey
+    feature: wing
+  - description: purple
+    feature: wing
+  - description: white
+    feature: wing
+id:
+  ns: 53b398ece35eb12984038018

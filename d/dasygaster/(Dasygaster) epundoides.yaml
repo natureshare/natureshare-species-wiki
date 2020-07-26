@@ -1,0 +1,21 @@
+created_by: koolah
+updated_by: koolah
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Noctuidae
+    rank: Family
+  - name: Lepidoptera
+    rank: Order
+  - name: Noctuinae
+    rank: Subfamily
+  - name: Noctuoidea
+    rank: Superfamily
+  - name: Hadenini
+    rank: Tribe
+categories:
+  - black
+  - moth
+  - provisional-name
+id:
+  ns: 5c2ea8d63abbd6b2130005f9

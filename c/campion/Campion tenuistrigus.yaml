@@ -1,0 +1,16 @@
+created_by: chrisl
+updated_by: chrisl
+synonyms:
+  - Mantispilla rubicunda
+classification:
+  - name: Insecta
+    rank: class
+  - name: Mantispidae
+    rank: family
+  - name: Neuroptera
+    rank: order
+categories:
+  - insect
+  - mantis-lacewing
+id:
+  ns: 54f688b7ed2a89097e00001c

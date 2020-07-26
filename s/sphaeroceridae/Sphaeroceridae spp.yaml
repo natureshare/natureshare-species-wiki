@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Small Dung Fly family
+classification:
+  - name: insecta
+    rank: class
+  - name: Sphaeroceridae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - dung-fly
+  - provisional-name
+id:
+  ns: 5a910ac4ed2a89ad3200029e

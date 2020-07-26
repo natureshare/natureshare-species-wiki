@@ -1,0 +1,19 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Currant Borer Moth
+classification:
+  - name: Insecta
+    rank: class
+  - name: insecta
+    rank: class
+  - name: Sesiidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+categories:
+  - fauna-introduced
+  - insect
+  - moth
+id:
+  ns: 5469b87ce35eb16eb9000014

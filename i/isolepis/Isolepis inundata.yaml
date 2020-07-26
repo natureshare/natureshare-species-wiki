@@ -1,0 +1,35 @@
+updated_by: chrisl
+common_names:
+  - Swamp Club-sedge
+classification:
+  - name: cyperaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - plant
+  - sedge
+features:
+  - description: cluster-of-3-12-spikelets
+    feature: flower
+  - description: dark-purplish-brown
+    feature: flower
+  - description: mid-spring-to-mid-autumn
+    feature: flowering-time
+  - description: glistening
+    feature: fruit
+  - description: nut
+    feature: fruit
+  - description: pale-yellow-red-brown
+    feature: fruit
+  - description: round
+    feature: fruit
+  - description: small
+    feature: fruit
+  - description: tuft-with-stiff-stems
+    feature: habit
+  - description: reduced
+    feature: leaf
+id:
+  ns: 53b398e8e35eb12984036f9a
+  vba: '501779'

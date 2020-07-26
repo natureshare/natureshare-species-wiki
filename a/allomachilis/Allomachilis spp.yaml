@@ -1,0 +1,14 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Meinertellidae
+    rank: family
+  - name: Archaeognatha
+    rank: order
+categories:
+  - bristletail
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb12984038158

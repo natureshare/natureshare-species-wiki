@@ -1,0 +1,29 @@
+updated_by: chrisl
+common_names:
+  - Yellow Waterlily
+classification:
+  - name: nymphaeaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+  - weed
+features:
+  - description: aquatic
+    feature: habitat
+  - description: orbicular
+    feature: leaf-shape
+  - description: brown-markings
+    feature: leaf-surface
+  - description: to-25cm
+    feature: leaf-width
+  - description: '25'
+    feature: number-of-petals
+  - description: '25'
+    feature: petals
+  - description: vertical
+    feature: rhizome
+id:
+  ns: 53b398e9e35eb1298403736e
+  vba: '504569'

@@ -1,0 +1,19 @@
+created_by: russell
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: insecta
+    rank: class
+  - name: COSMOPTERIGIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+categories:
+  - insect
+  - moth
+features:
+  - description: upturned
+    feature: palp
+id:
+  ns: 54b3ba3eed2a89e3fb000025

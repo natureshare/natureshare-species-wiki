@@ -1,0 +1,24 @@
+updated_by: chrisl
+common_names:
+  - Slender Goodenia
+classification:
+  - name: goodeniaceae
+    rank: family
+categories:
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: 2-or-more-per-stem
+    feature: flowers
+  - description: herb
+    feature: habit
+  - description: to-50cm-with-basal-rosette
+    feature: height
+  - description: linear-or-linear-lanceolate
+    feature: leaf
+  - description: absent-or-nearly-so
+    feature: stem-leaves
+id:
+  ns: 53b398e8e35eb12984036db4
+  vba: '501499'

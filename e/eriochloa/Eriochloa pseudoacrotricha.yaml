@@ -1,0 +1,20 @@
+updated_by: chrisl
+common_names:
+  - Early Spring-grass
+classification:
+  - name: poaceae
+    rank: family
+categories:
+  - flora
+  - grass
+  - monocotyledon
+  - native-and-weedy-stands-in-vic
+  - plant
+features:
+  - description: grass
+    feature: flower
+  - description: grass
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036b4f
+  vba: '501221'

@@ -1,0 +1,38 @@
+updated_by: chrisl
+common_names:
+  - Annual Cudweed
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - herb
+  - plant
+features:
+  - description: absent-or-not-persisting
+    feature: basal-rosette
+  - description: 4-10
+    feature: floral-leaves
+  - description: longest-2x-flowerhead-diameter
+    feature: floral-leaves
+  - description: cluster
+    feature: flower
+  - description: single-hemispherical-floret
+    feature: flowerhead
+  - description: mid-winter-early-summer
+    feature: flowering-time
+  - description: tuft
+    feature: habit
+  - description: cotton-white-underneath
+    feature: leaf
+  - description: linear
+    feature: leaf
+  - description: to-8cm
+    feature: leaf
+  - description: annual
+    feature: plant
+id:
+  ns: 53b398e7e35eb12984036c24
+  vba: '501471'

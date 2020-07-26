@@ -1,0 +1,17 @@
+updated_by: chrisl
+classification:
+  - name: Insecta
+    rank: class
+  - name: Insecta
+    rank: class
+  - name: HYPERTROPHIDAE
+    rank: family
+  - name: lepidoptera
+    rank: order
+  - name: GELECHIOIDEA
+    rank: superfamily
+categories:
+  - insect
+  - moth
+id:
+  ns: 53b398ebe35eb12984037eb3

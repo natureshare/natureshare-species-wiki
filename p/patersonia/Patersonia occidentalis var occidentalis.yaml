@@ -1,0 +1,35 @@
+updated_by: chrisl
+common_names:
+  - Long Purple-flag
+classification:
+  - name: iridaceae
+    rank: family
+categories:
+  - flora
+  - iris
+  - monocotyledon
+  - plant
+features:
+  - description: deep-purple
+    feature: flower
+  - description: terminal-cluster
+    feature: flower
+  - description: spring-mid-summer
+    feature: flowering-time
+  - description: tuft
+    feature: habit
+  - description: dull-green-to-blue-green
+    feature: leaf
+  - description: fleshy
+    feature: leaf
+  - description: narrow
+    feature: leaf
+  - description: stiff
+    feature: leaf
+  - description: to-20cm
+    feature: leaf
+  - description: '6'
+    feature: number-of-petals
+id:
+  ns: 53b398e9e35eb1298403748f
+  vba: '502437'

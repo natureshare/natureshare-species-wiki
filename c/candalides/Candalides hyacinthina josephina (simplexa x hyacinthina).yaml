@@ -1,0 +1,17 @@
+updated_by: chrisl
+common_names:
+  - Hybrid Dusky-blue
+classification:
+  - name: Insecta
+    rank: class
+  - name: Lycaenidae
+    rank: family
+  - name: Lepidoptera
+    rank: order
+  - name: Papilionoidea
+    rank: superfamily
+categories:
+  - butterfly
+  - insect
+id:
+  ns: 53b398ece35eb12984037fff

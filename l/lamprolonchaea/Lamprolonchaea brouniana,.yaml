@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: chrisl
+common_names:
+  - Metallic-green Tomato Fly
+classification:
+  - name: Insecta
+    rank: class
+  - name: Lonchaeidae
+    rank: family
+  - name: Diptera
+    rank: order
+categories:
+  - fly
+  - insect
+id:
+  ns: 5493a788e35eb184ad00002d

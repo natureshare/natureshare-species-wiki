@@ -1,0 +1,26 @@
+updated_by: chrisl
+common_names:
+  - Veined Helmet-orchid
+classification:
+  - name: orchidaceae
+    rank: family
+categories:
+  - flora
+  - monocotyledon
+  - orchid
+  - plant
+  - provisional-name
+features:
+  - description: maroon
+    feature: flower
+  - description: orchid
+    feature: flower
+  - description: red
+    feature: flower
+  - description: white-throat
+    feature: flower
+  - description: herb
+    feature: habit
+id:
+  ns: 53b398e7e35eb12984036874
+  vba: '500838'

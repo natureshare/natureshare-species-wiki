@@ -1,0 +1,18 @@
+updated_by: chrisl
+common_names:
+  - Lantern Fly
+classification:
+  - name: Insecta
+    rank: class
+  - name: Fulgoridae
+    rank: family
+  - name: Hemiptera
+    rank: order
+  - name: Auchenorrhyncha
+    rank: suborder
+categories:
+  - hopper
+  - insect
+  - provisional-name
+id:
+  ns: 53b398ece35eb129840380da

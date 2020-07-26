@@ -1,0 +1,16 @@
+created_by: russell
+updated_by: chrisl
+common_names:
+  - Common Passalid Beetle
+classification:
+  - name: insecta
+    rank: class
+  - name: Passalidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - insect
+id:
+  ns: 54a1459be35eb1f9f0000007

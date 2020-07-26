@@ -1,0 +1,27 @@
+updated_by: david_francis
+common_names:
+  - White Sunray
+synonyms:
+  - Leucochrysum albicans subsp. albicans var. tricolor
+  - Leucochrysum albicans var. tricolor
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - epbc
+  - ffg
+  - flora
+  - plant
+  - rare-threatened
+features:
+  - description: white
+    feature: flower
+  - description: grey
+    feature: leaf
+  - description: red-purple-pink-or-brown
+    feature: outer-bracts
+id:
+  ns: 53b398e8e35eb12984037114
+  vba: '504581'

@@ -1,0 +1,19 @@
+updated_by: chrisl
+common_names:
+  - Wombat Bush-pea
+classification:
+  - name: fabaceae
+    rank: family
+categories:
+  - dicotyledon
+  - endemic
+  - flora
+  - pea
+  - plant
+  - rare-threatened
+features:
+  - description: pea
+    feature: flower
+id:
+  ns: 53b398eae35eb129840377dd
+  vba: '504860'

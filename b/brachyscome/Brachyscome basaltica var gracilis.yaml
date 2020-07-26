@@ -1,0 +1,23 @@
+updated_by: chrisl
+common_names:
+  - Woodland Swamp-daisy
+classification:
+  - name: asteraceae
+    rank: family
+categories:
+  - daisy
+  - dicotyledon
+  - flora
+  - plant
+features:
+  - description: white
+    feature: flower
+  - description: to-60cm
+    feature: height
+  - description: linear
+    feature: leaf
+  - description: 2-9cm
+    feature: leaf-length
+id:
+  ns: 53b398e6e35eb12984036553
+  vba: '500450'

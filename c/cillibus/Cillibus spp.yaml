@@ -1,0 +1,16 @@
+created_by: david_francis
+updated_by: david_francis
+common_names:
+  - Pie-dish Beetle
+classification:
+  - name: Insecta
+    rank: Class
+  - name: Tenebrionidae
+    rank: family
+  - name: Coleoptera
+    rank: order
+categories:
+  - beetle
+  - provisional-name
+id:
+  ns: 5a87f3a2ed2a89def7003997

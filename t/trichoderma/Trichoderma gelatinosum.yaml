@@ -1,0 +1,19 @@
+created_by: chrisl
+updated_by: chrisl
+synonyms:
+  - Hypocrea gelatinosa
+classification:
+  - name: Sordariomycetes
+    rank: class
+  - name: Hypocreaceae
+    rank: family
+  - name: Fungi
+    rank: kingdom
+  - name: Hypocreales
+    rank: order
+  - name: Ascomycota
+    rank: phylum
+categories:
+  - fungi
+id:
+  ns: 5b833cbded2a89a7f1008b61
